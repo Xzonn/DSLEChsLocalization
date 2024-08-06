@@ -1,0 +1,261 @@
+[
+  {
+    "key": "MESPAK01_0004_0000",
+    "original": "^0は\nみをかためている！",
+    "translation": "^0\n身体僵硬！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0\n身体僵硬！\n\n^0的眼睛变硬了！"
+  },
+  {
+    "key": "MESPAK01_0004_0001",
+    "original": "^0は\nこんらんしている！",
+    "translation": "^0\n混乱了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0\n混乱了！\n\n^0\n很混乱！"
+  },
+  {
+    "key": "MESPAK01_0004_0002",
+    "original": "^0は\nねむっている！",
+    "translation": "^0睡着了！\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0睡着了！\n\n\n^0在睡觉！"
+  },
+  {
+    "key": "MESPAK01_0004_0003",
+    "original": "^0は\nわけがわからない！",
+    "translation": "^0\n莫名其妙！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0\n莫名其妙！"
+  },
+  {
+    "key": "MESPAK01_0004_0004",
+    "original": "^0たちは\nにげようとした・・・",
+    "translation": "^0他们\n想要逃跑……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0他们\n想要逃跑……\n\n^0们想要逃跑"
+  },
+  {
+    "key": "MESPAK01_0004_0005",
+    "original": "・・・",
+    "translation": "……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n……\n\n···"
+  },
+  {
+    "key": "MESPAK01_0004_0006",
+    "original": "・・・・・",
+    "translation": "……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n……\n\n·····"
+  },
+  {
+    "key": "MESPAK01_0004_0007",
+    "original": "・・・・・・・",
+    "translation": "……",
+    "stage": 0,
+    "context": "机翻辅助：\n\n……\n\n·······"
+  },
+  {
+    "key": "MESPAK01_0004_0008",
+    "original": "にげるのに\nしっぱいした！",
+    "translation": "逃跑却失败了！\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n逃跑却失败了！\n\n\n明明是假的，却失败了！"
+  },
+  {
+    "key": "MESPAK01_0004_0009",
+    "original": "にげるのに\nせいこうした！",
+    "translation": "逃跑\n成功了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n逃跑\n成功了！\n\n就是这样！"
+  },
+  {
+    "key": "MESPAK01_0004_0010",
+    "original": "たたかう",
+    "translation": "战斗",
+    "stage": 0,
+    "context": "机翻辅助：\n\n战斗\n\n抗争"
+  },
+  {
+    "key": "MESPAK01_0004_0011",
+    "original": "まもる",
+    "translation": "守护",
+    "stage": 0,
+    "context": "机翻辅助：\n\n守护\n\n保卫"
+  },
+  {
+    "key": "MESPAK01_0004_0012",
+    "original": "アイテム",
+    "translation": "道具",
+    "stage": 0,
+    "context": "机翻辅助：\n\n道具"
+  },
+  {
+    "key": "MESPAK01_0004_0013",
+    "original": "いどう",
+    "translation": "移动",
+    "stage": 0,
+    "context": "机翻辅助：\n\n移动"
+  },
+  {
+    "key": "MESPAK01_0004_0014",
+    "original": "おすすめ",
+    "translation": "推荐",
+    "stage": 0,
+    "context": "机翻辅助：\n\n推荐"
+  },
+  {
+    "key": "MESPAK01_0004_0015",
+    "original": "にげる",
+    "translation": "逃跑",
+    "stage": 0,
+    "context": "机翻辅助：\n\n逃跑\n\n降低"
+  },
+  {
+    "key": "MESPAK01_0004_0016",
+    "original": "こうたい",
+    "translation": "交替",
+    "stage": 0,
+    "context": "机翻辅助：\n\n交替\n\n光带"
+  },
+  {
+    "key": "MESPAK01_0004_0017",
+    "original": "^0は\nしびれてうごけない！",
+    "translation": "^0\n麻木得动不了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0\n麻木得动不了！\n\n^0\n麻木不动！"
+  },
+  {
+    "key": "MESPAK01_0004_0018",
+    "original": "^0は\nいうことをきかない！",
+    "translation": "^0\n不听话！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0\n不听话！"
+  },
+  {
+    "key": "MESPAK01_0004_0019",
+    "original": "たたかえるデジモンに\nこうたいしてください",
+    "translation": "请替换为战斗的数码兽。\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请替换为战斗的数码兽。\n\n\n请换成数码兽"
+  },
+  {
+    "key": "MESPAK01_0004_0020",
+    "original": "^0の\nつよさがもどった！",
+    "translation": "^0的坚强又回来了！\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0的坚强又回来了！\n\n\n^0的强度恢复了！"
+  },
+  {
+    "key": "MESPAK01_0004_0021",
+    "original": "^0の\nまもりがもどった！",
+    "translation": "^0的护身符回来了！\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0的护身符回来了！\n\n\n^0的防守又回来了！"
+  },
+  {
+    "key": "MESPAK01_0004_0022",
+    "original": "^0の\nすばやさがもどった！",
+    "translation": "^0的\n速度回来了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0的\n速度回来了！\n\n^0的速度恢复了！"
+  },
+  {
+    "key": "MESPAK01_0004_0023",
+    "original": "^0の\nしびれがきえた！",
+    "translation": "^0的\n麻木了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0的\n麻木了！\n\n^0的麻木消失了！"
+  },
+  {
+    "key": "MESPAK01_0004_0024",
+    "original": "^0は\nわれにかえった！",
+    "translation": "^0回过神来了！\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0回过神来了！\n\n\n^0变回我了！"
+  },
+  {
+    "key": "MESPAK01_0004_0025",
+    "original": "^0は\nめがさめた！",
+    "translation": "^0\n醒了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0\n醒了！\n\n^0醒了！"
+  },
+  {
+    "key": "MESPAK01_0004_0026",
+    "original": "^0の\nどくがきえさった！",
+    "translation": "^0的\n毒害了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0的\n毒害了！\n\n^0的毒消失了！"
+  },
+  {
+    "key": "MESPAK01_0004_0027",
+    "original": "^0は\nにげだした！",
+    "translation": "^0\n逃走了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0\n逃走了！\n\n^0\n露出来了！"
+  },
+  {
+    "key": "MESPAK01_0004_0028",
+    "original": "^0の\nカウンターがきれた！",
+    "translation": "^0的\n柜台断了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0的\n柜台断了！\n\n^0的柜台断了！"
+  },
+  {
+    "key": "MESPAK01_0004_0029",
+    "original": "あたらしいワザを　おぼえきれません\nおぼえているワザと　いれかえますか？",
+    "translation": "我记不住新技能\n能和还记得的技能互换吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n我记不住新技能\n能和还记得的技能互换吗？\n\n记不住新的圈套\n换成记得的圈套？"
+  },
+  {
+    "key": "MESPAK01_0004_0030",
+    "original": "はい　いれかえます",
+    "translation": "可以交换。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n可以交换。\n\n调换"
+  },
+  {
+    "key": "MESPAK01_0004_0031",
+    "original": "いいえ　いれかえません",
+    "translation": "不，换不了",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不，换不了\n\n不，不，不"
+  },
+  {
+    "key": "MESPAK01_0004_0032",
+    "original": "ワザのいれかえを　しゅうりょうしますか？",
+    "translation": "要结束技能的更换吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n要结束技能的更换吗？\n\n您要更换陷阱吗？"
+  },
+  {
+    "key": "MESPAK01_0004_0033",
+    "original": "はい　しゅうりょうします",
+    "translation": "结束了",
+    "stage": 0,
+    "context": "机翻辅助：\n\n结束了\n\n好的，结束"
+  },
+  {
+    "key": "MESPAK01_0004_0034",
+    "original": "いいえ　しゅうりょうしません",
+    "translation": "不，没有结束。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不，没有结束。\n\n不结束"
+  },
+  {
+    "key": "MESPAK01_0004_0035",
+    "original": "ギブアップ",
+    "translation": "交换",
+    "stage": 0,
+    "context": "机翻辅助：\n\n交换\n\n放弃"
+  },
+  {
+    "key": "MESPAK01_0004_0036",
+    "original": "^0は\nスタンしている！",
+    "translation": "^0\n站着！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0\n站着！\n\n^0很消沉！"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MESPAK01_0009_0000",
+    "original": "デジコンバート！！！",
+    "translation": "数码转换！！！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数码转换！！！"
+  },
+  {
+    "key": "MESPAK01_0009_0001",
+    "original": "^0進化！！！",
+    "translation": "^0进化！！！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0进化！！！"
+  },
+  {
+    "key": "MESPAK01_0009_0002",
+    "original": "^0退化！！！",
+    "translation": "^0退化！！！",
+    "stage": 0,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0009_0003",
+    "original": "^0デジモン",
+    "translation": "^0数码兽",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0数码兽"
+  },
+  {
+    "key": "MESPAK01_0009_0004",
+    "original": "^0誕生！",
+    "translation": "^0诞生！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0诞生！"
+  },
+  {
+    "key": "MESPAK01_0009_0005",
+    "original": "^0！！！",
+    "translation": "^0！！！",
+    "stage": 0,
+    "context": ""
+  }
+]

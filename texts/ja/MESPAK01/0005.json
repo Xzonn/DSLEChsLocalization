@@ -1,0 +1,261 @@
+[
+  {
+    "key": "MESPAK01_0005_0000",
+    "original": "クエストＰＣを　みますか？",
+    "translation": "クエストＰＣを　みますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0001",
+    "original": "はい　みます",
+    "translation": "はい　みます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0002",
+    "original": "いいえ　みません",
+    "translation": "いいえ　みません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0003",
+    "original": "クエストＰＣのスイッチを　きりますか？",
+    "translation": "クエストＰＣのスイッチを　きりますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0004",
+    "original": "はい　スイッチを　きります",
+    "translation": "はい　スイッチを　きります",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0005",
+    "original": "いいえ　スイッチを　きりません",
+    "translation": "いいえ　スイッチを　きりません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0006",
+    "original": "クエストを　うける",
+    "translation": "クエストを　うける",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0007",
+    "original": "ほうしゅうを　みる",
+    "translation": "ほうしゅうを　みる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0008",
+    "original": "じょうけんを　みる",
+    "translation": "じょうけんを　みる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0009",
+    "original": "メニューを　とじる",
+    "translation": "メニューを　とじる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0010",
+    "original": "このクエストを　うけるために　まえに\nうけたクエストを　やめていいですか？",
+    "translation": "このクエストを　うけるために　まえに\nうけたクエストを　やめていいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0011",
+    "original": "はい　やめて　このクエストを　うけます",
+    "translation": "はい　やめて　このクエストを　うけます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0012",
+    "original": "いいえ　このクエストは　うけません",
+    "translation": "いいえ　このクエストは　うけません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0013",
+    "original": "やめるクエストは　やりなおしになりますが\nそれでもうけますか？",
+    "translation": "やめるクエストは　やりなおしになりますが\nそれでもうけますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0014",
+    "original": "はい　それでも　うけます",
+    "translation": "はい　それでも　うけます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0015",
+    "original": "いいえ　やっぱり　やめます",
+    "translation": "いいえ　やっぱり　やめます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0016",
+    "original": "あたらしいクエストを　うけました",
+    "translation": "あたらしいクエストを　うけました",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0017",
+    "original": "あたらしいクエストを　うけました",
+    "translation": "あたらしいクエストを　うけました",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0018",
+    "original": "このクエストは　すでにうけてます\nクエストをやめますか？",
+    "translation": "このクエストは　すでにうけてます\nクエストをやめますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0019",
+    "original": "はい　やめます",
+    "translation": "はい　やめます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0020",
+    "original": "いいえ　やめません",
+    "translation": "いいえ　やめません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0021",
+    "original": "はじめから　やりなおすことに\nなりますが　それでも　やめますか？",
+    "translation": "はじめから　やりなおすことに\nなりますが　それでも　やめますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0022",
+    "original": "はい　それでも　やめます",
+    "translation": "はい　それでも　やめます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0023",
+    "original": "いいえ　やっぱり　やめません",
+    "translation": "いいえ　やっぱり　やめません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0024",
+    "original": "クエストを　やめました",
+    "translation": "クエストを　やめました",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0025",
+    "original": "このクエストは　すでに\nクリアずみです",
+    "translation": "このクエストは　すでに\nクリアずみです",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0026",
+    "original": "このクエストは　まだ\nうけることが　できません",
+    "translation": "このクエストは　まだ\nうけることが　できません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0027",
+    "original": "ｂｉｔ",
+    "translation": "ｂｉｔ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0028",
+    "original": "テイマーポイント",
+    "translation": "テイマーポイント",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0029",
+    "original": "しょうひアイテム",
+    "translation": "しょうひアイテム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0030",
+    "original": "ぶき",
+    "translation": "ぶき",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0031",
+    "original": "ぼうぐ",
+    "translation": "ぼうぐ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0032",
+    "original": "ファームグッズ",
+    "translation": "ファームグッズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0033",
+    "original": "デジプレート",
+    "translation": "デジプレート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0034",
+    "original": "バグプレート",
+    "translation": "バグプレート",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0035",
+    "original": "だいじなもの",
+    "translation": "だいじなもの",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0005_0036",
+    "original": "いらいデジモンが　おしごとちゅうで\nこのクエストは　うけれません",
+    "translation": "いらいデジモンが　おしごとちゅうで\nこのクエストは　うけれません",
+    "stage": 1,
+    "context": ""
+  }
+]

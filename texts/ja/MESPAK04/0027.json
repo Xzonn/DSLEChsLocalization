@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK04_0027_0000",
+    "original": "ぼうぎょりょく　＋１４３\nすばやさ　＋２００\nクリティカルりつ　＋２０％\nまひたいせい　＋８０％",
+    "translation": "ぼうぎょりょく　＋１４３\nすばやさ　＋２００\nクリティカルりつ　＋２０％\nまひたいせい　＋８０％",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0001",
+    "original": "ぼうぎょりょく　＋１３３\nすばやさ　＋２２０\nクリティカルりつ　＋２０％\nどくたいせい　＋８０％",
+    "translation": "ぼうぎょりょく　＋１３３\nすばやさ　＋２２０\nクリティカルりつ　＋２０％\nどくたいせい　＋８０％",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0002",
+    "original": "さいだいＨＰが４アップ",
+    "translation": "さいだいＨＰが４アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0003",
+    "original": "さいだいＨＰが８アップ",
+    "translation": "さいだいＨＰが８アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0004",
+    "original": "さいだいＨＰが１６アップ",
+    "translation": "さいだいＨＰが１６アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0005",
+    "original": "さいだいＭＰが４アップ",
+    "translation": "さいだいＭＰが４アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0006",
+    "original": "さいだいＭＰが８アップ",
+    "translation": "さいだいＭＰが８アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0007",
+    "original": "さいだいＭＰが１６アップ",
+    "translation": "さいだいＭＰが１６アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0008",
+    "original": "こうげきりょくが２アップ",
+    "translation": "こうげきりょくが２アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0009",
+    "original": "こうげきりょくが４アップ",
+    "translation": "こうげきりょくが４アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0010",
+    "original": "こうげきりょくが８アップ",
+    "translation": "こうげきりょくが８アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0011",
+    "original": "ぼうぎょりょくが２アップ",
+    "translation": "ぼうぎょりょくが２アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0012",
+    "original": "ぼうぎょりょくが４アップ",
+    "translation": "ぼうぎょりょくが４アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0013",
+    "original": "ぼうぎょりょくが８アップ",
+    "translation": "ぼうぎょりょくが８アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0014",
+    "original": "すばやさが２アップ",
+    "translation": "すばやさが２アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0015",
+    "original": "すばやさが４アップ",
+    "translation": "すばやさが４アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0016",
+    "original": "すばやさが８アップ",
+    "translation": "すばやさが８アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0017",
+    "original": "ゆうじょうが１アップ",
+    "translation": "ゆうじょうが１アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0018",
+    "original": "ゆうじょうが３アップ",
+    "translation": "ゆうじょうが３アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0019",
+    "original": "ゆうじょうが５アップ",
+    "translation": "ゆうじょうが５アップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0020",
+    "original": "もらえるＥＸＰが１２アップ　ゲンジュウデジモンは２４",
+    "translation": "もらえるＥＸＰが１２アップ　ゲンジュウデジモンは２４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0021",
+    "original": "もらえるＥＸＰが３０アップ　ゲンジュウデジモンは６０",
+    "translation": "もらえるＥＸＰが３０アップ　ゲンジュウデジモンは６０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0022",
+    "original": "もらえるＥＸＰが１２５アップ　ゲンジュウデジモンは２５０",
+    "translation": "もらえるＥＸＰが１２５アップ　ゲンジュウデジモンは２５０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0023",
+    "original": "もらえるＥＸＰが１２アップ　ケモノデジモンは２４",
+    "translation": "もらえるＥＸＰが１２アップ　ケモノデジモンは２４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0024",
+    "original": "もらえるＥＸＰが３０アップ　ケモノデジモンは６０",
+    "translation": "もらえるＥＸＰが３０アップ　ケモノデジモンは６０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0025",
+    "original": "もらえるＥＸＰが１２５アップ　ケモノデジモンは２５０",
+    "translation": "もらえるＥＸＰが１２５アップ　ケモノデジモンは２５０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0026",
+    "original": "もらえるＥＸＰが１２アップ　テンシデジモンは２４",
+    "translation": "もらえるＥＸＰが１２アップ　テンシデジモンは２４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0027",
+    "original": "もらえるＥＸＰが３０アップ　テンシデジモンは６０",
+    "translation": "もらえるＥＸＰが３０アップ　テンシデジモンは６０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0028",
+    "original": "もらえるＥＸＰが１２５アップ　テンシデジモンは２５０",
+    "translation": "もらえるＥＸＰが１２５アップ　テンシデジモンは２５０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0029",
+    "original": "もらえるＥＸＰが１２アップ　アクマデジモンは２４",
+    "translation": "もらえるＥＸＰが１２アップ　アクマデジモンは２４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0030",
+    "original": "もらえるＥＸＰが３０アップ　アクマデジモンは６０",
+    "translation": "もらえるＥＸＰが３０アップ　アクマデジモンは６０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0031",
+    "original": "もらえるＥＸＰが１２５アップ　アクマデジモンは２５０",
+    "translation": "もらえるＥＸＰが１２５アップ　アクマデジモンは２５０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0032",
+    "original": "もらえるＥＸＰが１２アップ　キカイデジモンは２４",
+    "translation": "もらえるＥＸＰが１２アップ　キカイデジモンは２４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0033",
+    "original": "もらえるＥＸＰが３０アップ　キカイデジモンは６０",
+    "translation": "もらえるＥＸＰが３０アップ　キカイデジモンは６０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0034",
+    "original": "もらえるＥＸＰが１２５アップ　キカイデジモンは２５０",
+    "translation": "もらえるＥＸＰが１２５アップ　キカイデジモンは２５０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0035",
+    "original": "もらえるＥＸＰが１２アップ　スイセイデジモンは２４",
+    "translation": "もらえるＥＸＰが１２アップ　スイセイデジモンは２４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0036",
+    "original": "もらえるＥＸＰが３０アップ　スイセイデジモンは６０",
+    "translation": "もらえるＥＸＰが３０アップ　スイセイデジモンは６０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0037",
+    "original": "もらえるＥＸＰが１２５アップ　スイセイデジモンは２５０",
+    "translation": "もらえるＥＸＰが１２５アップ　スイセイデジモンは２５０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0038",
+    "original": "もらえるＥＸＰが１２アップ　トリデジモンは２４",
+    "translation": "もらえるＥＸＰが１２アップ　トリデジモンは２４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0039",
+    "original": "もらえるＥＸＰが３０アップ　トリデジモンは６０",
+    "translation": "もらえるＥＸＰが３０アップ　トリデジモンは６０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0040",
+    "original": "もらえるＥＸＰが１２５アップ　トリデジモンは２５０",
+    "translation": "もらえるＥＸＰが１２５アップ　トリデジモンは２５０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0041",
+    "original": "もらえるＥＸＰが１２アップ　コンチュウデジモンは２４",
+    "translation": "もらえるＥＸＰが１２アップ　コンチュウデジモンは２４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0042",
+    "original": "もらえるＥＸＰが３０アップ　コンチュウデジモンは６０",
+    "translation": "もらえるＥＸＰが３０アップ　コンチュウデジモンは６０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0043",
+    "original": "もらえるＥＸＰが１２５アップ　コンチュウデジモンは２５０",
+    "translation": "もらえるＥＸＰが１２５アップ　コンチュウデジモンは２５０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0044",
+    "original": "もらえるＥＸＰが１２アップ　ショクブツデジモンは２４",
+    "translation": "もらえるＥＸＰが１２アップ　ショクブツデジモンは２４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0045",
+    "original": "もらえるＥＸＰが３０アップ　ショクブツデジモンは６０",
+    "translation": "もらえるＥＸＰが３０アップ　ショクブツデジモンは６０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0046",
+    "original": "もらえるＥＸＰが１２５アップ　ショクブツデジモンは２５０",
+    "translation": "もらえるＥＸＰが１２５アップ　ショクブツデジモンは２５０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0047",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0048",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0049",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK04_0021_0000",
+    "original": "せいしんを　むしばむ\nあくむの　チカラで\nこうげきする　★ねむり",
+    "translation": "侵蚀精神\n用噩梦的力量\n攻击睡眠",
+    "stage": 0,
+    "context": "机翻辅助：\n\n侵蚀精神\n用噩梦的力量\n攻击睡眠\n\n用恶毒的力量进行攻击"
+  },
+  {
+    "key": "MESPAK04_0021_0001",
+    "original": "セイなるヒカリの\nこうせんを　しせんの\nさきに　はなつ　★こんらん",
+    "translation": "性的光的\n视线的光线的\n先发夏混乱",
+    "stage": 0,
+    "context": "机翻辅助：\n\n性的光的\n视线的光线的\n先发夏混乱\n\n水仙花仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤仙鹤"
+  },
+  {
+    "key": "MESPAK04_0021_0002",
+    "original": "すなを　はきだして\nみうごきを\nとれなくしてしまう",
+    "translation": "把沙子吐出来，使其无法动弹\n\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n把沙子吐出来，使其无法动弹\n\n\n\n把帘子挑出来，弄得动弹不得"
+  },
+  {
+    "key": "MESPAK04_0021_0003",
+    "original": "ちでできた　しんくの\nムチをふるい　はげしく\nうちすえる　★ＨＰドレイン",
+    "translation": "用血做的水槽的\n挥动鞭子剧烈的\nHP滴漏",
+    "stage": 0,
+    "context": "机翻辅助：\n\n用血做的水槽的\n挥动鞭子剧烈的\nHP滴漏\n\n用地形成的新的鞭子\n\n激烈地支撑HP漏极"
+  },
+  {
+    "key": "MESPAK04_0021_0004",
+    "original": "セイなるチカラがこもった\nはなのくびかざりで\nステータスとＨＰをかいふく",
+    "translation": "充满了性的力量\n用鼻头装饰\n恢复状态和HP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n充满了性的力量\n用鼻头装饰\n恢复状态和HP\n\n用花的项链来恢复状态和HP"
+  },
+  {
+    "key": "MESPAK04_0021_0005",
+    "original": "セイなるヒカリをまとった\nパンチやキックで\nはげしい　さばきをくだす",
+    "translation": "带着性的光芒\n用拳打脚踢\n做出激烈的动作",
+    "stage": 0,
+    "context": "机翻辅助：\n\n带着性的光芒\n用拳打脚踢\n做出激烈的动作\n\n穿上银色的光\n用拳击和踢腿\n发出猛烈的攻击"
+  },
+  {
+    "key": "MESPAK04_0021_0006",
+    "original": "ホウタイを　なげつけ\nキツく　しばりあげる",
+    "translation": "扔出绷带，把它捆起来\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n扔出绷带，把它捆起来\n\n\n狠狠地揍了一顿"
+  },
+  {
+    "key": "MESPAK04_0021_0007",
+    "original": "体から　おうごんに\nかがやく　こうせんを\nはっしゃする　★デス",
+    "translation": "从身体发出黄金的光芒。\n\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n从身体发出黄金的光芒。\n\n\n\n从身体里放射出耀眼的光辉"
+  },
+  {
+    "key": "MESPAK04_0021_0008",
+    "original": "ふででかいた　ノロイの\nことばを　はなち　データを\nぶんかいさせる　★デス",
+    "translation": "诺罗伊的语言，使数据\n\n分开",
+    "stage": 0,
+    "context": "机翻辅助：\n\n诺罗伊的语言，使数据\n\n分开\n\n用毛笔写的咒语：释放语言，分解数据。"
+  },
+  {
+    "key": "MESPAK04_0021_0009",
+    "original": "おおきなおとを　だす\nハデなバクダンを　なげて\nバクハツさせる　★こてい",
+    "translation": "发出巨大的声音\n发出哈德的巴克丹\n让巴克哈兹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n发出巨大的声音\n发出哈德的巴克丹\n让巴克哈兹\n\n发出巨大的声音\n扔出华丽的炸弹\n引爆固定"
+  },
+  {
+    "key": "MESPAK04_0021_0010",
+    "original": "ちょうのうりょくで\nうみだした　しょうげきはで\nこうげきする　★こんらん",
+    "translation": "用超能力\n产生的冲击波\n攻击混乱",
+    "stage": 0,
+    "context": "机翻辅助：\n\n用超能力\n产生的冲击波\n攻击混乱\n\n用超能力的冲击波进行攻击"
+  },
+  {
+    "key": "MESPAK04_0021_0011",
+    "original": "こうねつの\nレーザービームを　はなち\nやきはらう",
+    "translation": "发射高温的激光光束，烧毁\n\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n发射高温的激光光束，烧毁\n\n\n\n燃烧激光束\n\n光热"
+  },
+  {
+    "key": "MESPAK04_0021_0012",
+    "original": "体に　まとった\nリュウのオーラを\nこうそくで　はなつ",
+    "translation": "裹在身上的龙的气场\n用高速释放\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n裹在身上的龙的气场\n用高速释放\n\n\n身体上的龙的气场"
+  },
+  {
+    "key": "MESPAK04_0021_0013",
+    "original": "やまねこの　しゅんびんな\nうごきから　くりだされる\nするどい　ツメのいちげき",
+    "translation": "猫的灵敏\n从蠕动中生出\n尖锐的一击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n猫的灵敏\n从蠕动中生出\n尖锐的一击\n\n从山猫的瞬间动作中发出的尖利爪的一击"
+  },
+  {
+    "key": "MESPAK04_0021_0014",
+    "original": "セイなるじょうかのチカラが\nこもった　おたけびで\nデータぶんかいさせる",
+    "translation": "\n通过充满性净化力的武斗\n分解数据",
+    "stage": 0,
+    "context": "机翻辅助：\n\n\n通过充满性净化力的武斗\n分解数据\n\n塞舌尔的力量\n\n使数据分解"
+  },
+  {
+    "key": "MESPAK04_0021_0015",
+    "original": "りょうかたから　ヒカリの\nミサイルを　はっしゃして\nこうげきする",
+    "translation": "从两侧发射光的\n导弹\n进行攻击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n从两侧发射光的\n导弹\n进行攻击\n\n从两边发射光的导弹进行攻击"
+  },
+  {
+    "key": "MESPAK04_0021_0016",
+    "original": "いじげんのアナをうみだして\nまもりにりようし　みかたの\nぼうぎょりょくを　あげる",
+    "translation": "从新时代的播音员中读出\n守护的样子\n提高防御力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n从新时代的播音员中读出\n守护的样子\n提高防御力\n\n创造出维次元的漏洞，利用它来保护自己，提高自己的防御力"
+  },
+  {
+    "key": "MESPAK04_0021_0017",
+    "original": "りょうての　しゅりけんを\nバネのように　のばして\nきりさく",
+    "translation": "像弹簧一样伸出双手的护臂，然后切下。\n\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n像弹簧一样伸出双手的护臂，然后切下。\n\n\n\n把双手的手杖像弹簧一样伸展开来"
+  },
+  {
+    "key": "MESPAK04_0021_0018",
+    "original": "ちからまかせに\nしゅういを　じならし\nしてしまう　★こてい",
+    "translation": "交给自己的力量\n让周围的人变成自己\n固定",
+    "stage": 0,
+    "context": "机翻辅助：\n\n交给自己的力量\n让周围的人变成自己\n固定\n\n任凭力量摆布，任凭力量摆弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄弄"
+  },
+  {
+    "key": "MESPAK04_0021_0019",
+    "original": "そのばしょでおきた　かこの\nせんとうデータをよびだす\n★こてい★こんらん",
+    "translation": "在那个地方发生的过去\n调出战斗数据\n固定混乱",
+    "stage": 0,
+    "context": "机翻辅助：\n\n在那个地方发生的过去\n调出战斗数据\n固定混乱\n\n这个地方是这个"
+  },
+  {
+    "key": "MESPAK04_0021_0020",
+    "original": "セイなるかがやきを　まとい\nきょだいなカタナをつきたて\nとつげきし　りょうだんする",
+    "translation": "性成加身披烤肉\n顶着巨大的刀\n突袭资料团",
+    "stage": 0,
+    "context": "机翻辅助：\n\n性成加身披烤肉\n顶着巨大的刀\n突袭资料团\n\n披着犀牛的光辉，戴着巨大的卡塔纳"
+  },
+  {
+    "key": "MESPAK04_0021_0021",
+    "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
+    "translation": "技能帮助未设定\nboss专用技能",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nboss专用技能\n\n老板的技能帮助"
+  },
+  {
+    "key": "MESPAK04_0021_0022",
+    "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
+    "translation": "技能帮助未设定\nboss专用技能",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nboss专用技能\n\n老板的技能帮助"
+  },
+  {
+    "key": "MESPAK04_0021_0023",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５９７＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza597_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza597_expl\n\nWAZA597_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0024",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５９８＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza599_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza599_expl\n\nWAZA598_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0025",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５９９＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza599_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza599_expl\n\nWAZA599_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0026",
+    "original": "きょうれつな　おんぱの\nたまの　しょうげきで\nこうげきする",
+    "translation": "强烈的声音\n偶尔的冲击\n攻击",
+    "stage": 0,
+    "context": "机翻辅助：\n\n强烈的声音\n偶尔的冲击\n攻击\n\n用强烈的声波的\n偶尔的冲击\n进行攻击"
+  },
+  {
+    "key": "MESPAK04_0021_0027",
+    "original": "きれあじばつぐんな\nメタルせいの　アームで\nきりつける　★まひ",
+    "translation": "用金属制的机械臂切割\n\n麻痹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n用金属制的机械臂切割\n\n麻痹\n\n用尖锐的\n金属制的臂\n刺痛麻痹"
+  },
+  {
+    "key": "MESPAK04_0021_0028",
+    "original": "キケンなヤミのチカラを\nこめたツメで\nきりさく　★どく",
+    "translation": "用含有危险的黑暗力量\n爪切切\n毒",
+    "stage": 0,
+    "context": "机翻辅助：\n\n用含有危险的黑暗力量\n爪切切\n毒\n\n用包含了恶心的yami的力量的tsume\n挖\n毒"
+  },
+  {
+    "key": "MESPAK04_0021_0029",
+    "original": "ヤミのノロイが　こめられた\nアンコクの　ブレスをはいて\nこうげきする　★まひ",
+    "translation": "穿上被注入了黑暗的诅咒的\n黑暗的呼吸线\n攻击麻痹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n穿上被注入了黑暗的诅咒的\n黑暗的呼吸线\n攻击麻痹\n\n穿着安可的手镯\n\n隐含了黑暗的诺罗伊麻痹"
+  },
+  {
+    "key": "MESPAK04_0021_0030",
+    "original": "つよく　もえさかる\nあおい　ホノオのたまを\nうちだして　こうげきする",
+    "translation": "弹出燃烧强烈的蓝色火焰球进行攻击\n\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n弹出燃烧强烈的蓝色火焰球进行攻击\n\n\n\n把蓝凤蝶的蛋打出来攻击"
+  },
+  {
+    "key": "MESPAK04_0021_0031",
+    "original": "するどい　トゲつきの\nてっきゅうを　たたきつけて\nこうげきする　★こんらん",
+    "translation": "用尖刺的铁球打\n攻击\n混乱",
+    "stage": 0,
+    "context": "机翻辅助：\n\n用尖刺的铁球打\n攻击\n混乱\n\n打上尖锐的刺\n铁球\n攻击混乱"
+  },
+  {
+    "key": "MESPAK04_0021_0032",
+    "original": "エモノのチカラをすいとる\nあかいムチで　うちすえる\n★ＭＰドレイン★まひ",
+    "translation": "吸取猎物的力量\n用红色鞭子鞭打\nMP漏雨麻痹",
+    "stage": 0,
+    "context": "机翻辅助：\n\n吸取猎物的力量\n用红色鞭子鞭打\nMP漏雨麻痹\n\n麻痹\n\nMP漏极吸吮色情的力量"
+  },
+  {
+    "key": "MESPAK04_0021_0033",
+    "original": "カゼのように　すばやく\nするどい　キックを\nあびせる",
+    "translation": "发出尖锐的踢法\n\n迅速地像寒蝉",
+    "stage": 0,
+    "context": "机翻辅助：\n\n发出尖锐的踢法\n\n迅速地像寒蝉\n\n像风一样迅速地踢出尖锐的脚"
+  },
+  {
+    "key": "MESPAK04_0021_0034",
+    "original": "しぜんの　しんぴのチカラで\nみかたの　ステータスと\nＨＰを　かいふく",
+    "translation": "用自然的真皮力量\n恢复看到的状态和\nHP",
+    "stage": 0,
+    "context": "机翻辅助：\n\n用自然的真皮力量\n恢复看到的状态和\nHP\n\n用自然的神秘力量\n恢复自己的身份和生命"
+  },
+  {
+    "key": "MESPAK04_0021_0035",
+    "original": "どくのきりを　しゅういに\nはっしゃして\nこうげきする　★どく",
+    "translation": "向周围发射毒雾\n攻击\n毒",
+    "stage": 0,
+    "context": "机翻辅助：\n\n向周围发射毒雾\n攻击\n毒\n\n毒打，毒打，毒打，毒打"
+  },
+  {
+    "key": "MESPAK04_0021_0036",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１０＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza610_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza610_expl\n\nWAZA610_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0037",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１１＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza611_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza611_expl\n\nWAZA611_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0038",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１２＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza612_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza612_expl\n\nWAZA612_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0039",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１３＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza613_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza613_expl\n\nWAZA613_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0040",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１４＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza614_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza614_expl\n\nWAZA614_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0041",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１５＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza615_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza615_expl\n\nWAZA615_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0042",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１６＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza16_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza16_expl\n\nWAZA616_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0043",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１７＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza617_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza617_expl\n\nWAZA617_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0044",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１８＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza618_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza618_expl\n\nWAZA618_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0045",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１９＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza619_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza619_expl\n\nWAZA619_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0046",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２０＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza620_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza620_expl\n\nWAZA620_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0047",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２１＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza621_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza621_expl\n\nWAZA621_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0048",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２２＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza622_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza622_expl\n\nWAZA622_ EXPL"
+  },
+  {
+    "key": "MESPAK04_0021_0049",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２３＿ＥＸＰＬ",
+    "translation": "技能帮助未设定\nwaza623_expl",
+    "stage": 0,
+    "context": "机翻辅助：\n\n技能帮助未设定\nwaza623_expl\n\nWAZA623_ EXPL"
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK01_0001_0000",
+    "original": "キミのなまえ",
+    "translation": "你的名字",
+    "stage": 0,
+    "context": "机翻辅助：\n\n你的名字"
+  },
+  {
+    "key": "MESPAK01_0001_0001",
+    "original": "ニックネーム",
+    "translation": "昵称",
+    "stage": 0,
+    "context": "机翻辅助：\n\n昵称\n\n外号"
+  },
+  {
+    "key": "MESPAK01_0001_0002",
+    "original": "ファーム島のなまえ",
+    "translation": "农场岛的名字",
+    "stage": 0,
+    "context": "机翻辅助：\n\n农场岛的名字"
+  },
+  {
+    "key": "MESPAK01_0001_0003",
+    "original": "ひみつのパスワード",
+    "translation": "秘密的密码",
+    "stage": 0,
+    "context": "机翻辅助：\n\n秘密的密码\n\n秘密密码"
+  },
+  {
+    "key": "MESPAK01_0001_0004",
+    "original": "ともだちコード",
+    "translation": "朋友代码",
+    "stage": 0,
+    "context": "机翻辅助：\n\n朋友代码"
+  },
+  {
+    "key": "MESPAK01_0001_0005",
+    "original": "ひみつのパスワードに　まちがいがあります\nもういちどにゅうりょくしてください",
+    "translation": "秘密密码有错误\n请再输入一次",
+    "stage": 0,
+    "context": "机翻辅助：\n\n秘密密码有错误\n请再输入一次\n\n秘密密码有错误。请再输入一次。"
+  },
+  {
+    "key": "MESPAK01_0001_0006",
+    "original": "そのともだちコードは　ただしくありません",
+    "translation": "那个朋友的代码是不正确的。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n那个朋友的代码是不正确的。\n\n那个朋友的代码不正确"
+  },
+  {
+    "key": "MESPAK01_0001_0007",
+    "original": "ともだちコードの　にゅうりょくを\nちゅうし　しますか？",
+    "translation": "\n要停止朋友代码的输入吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n\n要停止朋友代码的输入吗？\n\n朋友代码输入\n中？"
+  },
+  {
+    "key": "MESPAK01_0001_0008",
+    "original": "はい　ちゅうしします",
+    "translation": "停掉。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n停掉。\n\n排污中心"
+  },
+  {
+    "key": "MESPAK01_0001_0009",
+    "original": "いいえ　ちゅうししません",
+    "translation": "不，我不会停止。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不，我不会停止。\n\n不中心"
+  },
+  {
+    "key": "MESPAK01_0001_0010",
+    "original": "で　いいですか？",
+    "translation": "可以吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n可以吗？"
+  },
+  {
+    "key": "MESPAK01_0001_0011",
+    "original": "はい　いいです",
+    "translation": "好，好。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，好。\n\n好的"
+  },
+  {
+    "key": "MESPAK01_0001_0012",
+    "original": "いいえ　つけなおします",
+    "translation": "不，重新装。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不，重新装。\n\n不，我重新给你"
+  },
+  {
+    "key": "MESPAK01_0001_0013",
+    "original": "しゅじんこうのなまえは",
+    "translation": "主人公的名字",
+    "stage": 0,
+    "context": "机翻辅助：\n\n主人公的名字\n\n主人口的名字是"
+  },
+  {
+    "key": "MESPAK01_0001_0014",
+    "original": "ニックネームは",
+    "translation": "他的昵称是",
+    "stage": 0,
+    "context": "机翻辅助：\n\n他的昵称是\n\n昵称是"
+  },
+  {
+    "key": "MESPAK01_0001_0015",
+    "original": "ファーム島のなまえは",
+    "translation": "农场岛的名字是",
+    "stage": 0,
+    "context": "机翻辅助：\n\n农场岛的名字是"
+  },
+  {
+    "key": "MESPAK01_0001_0016",
+    "original": "ひみつのパスワードは",
+    "translation": "这个秘密密码",
+    "stage": 0,
+    "context": "机翻辅助：\n\n这个秘密密码\n\n秘密的密码是"
+  },
+  {
+    "key": "MESPAK01_0001_0017",
+    "original": "ともだちコードは",
+    "translation": "朋友代码",
+    "stage": 0,
+    "context": "机翻辅助：\n\n朋友代码\n\n朋友代码是"
+  },
+  {
+    "key": "MESPAK01_0001_0018",
+    "original": "はじめから",
+    "translation": "从头开始",
+    "stage": 0,
+    "context": "机翻辅助：\n\n从头开始\n\n从一开始"
+  },
+  {
+    "key": "MESPAK01_0001_0019",
+    "original": "つづきから",
+    "translation": "从后面开始",
+    "stage": 0,
+    "context": "机翻辅助：\n\n从后面开始\n\n从下一个开始"
+  },
+  {
+    "key": "MESPAK01_0001_0020",
+    "original": "Ｗｉ－Ｆｉせってい",
+    "translation": "Wi-Fi设置",
+    "stage": 0,
+    "context": "机翻辅助：\n\nWi-Fi设置"
+  },
+  {
+    "key": "MESPAK01_0001_0021",
+    "original": "もどる",
+    "translation": "返回",
+    "stage": 0,
+    "context": "机翻辅助：\n\n返回\n\n退席"
+  },
+  {
+    "key": "MESPAK01_0001_0022",
+    "original": "きをつけて！",
+    "translation": "小心！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n小心！\n\n小心点！"
+  },
+  {
+    "key": "MESPAK01_0001_0023",
+    "original": "あたらしくセーブデータを　つくると",
+    "translation": "当你建立新的存储数据时，",
+    "stage": 0,
+    "context": "机翻辅助：\n\n当你建立新的存储数据时，\n\n如果你做一个新的存档数据"
+  },
+  {
+    "key": "MESPAK01_0001_0024",
+    "original": "Ｗｉ－Ｆｉじょうほうも　きえるからね！",
+    "translation": "因为Wi-Fi信息也消失了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n因为Wi-Fi信息也消失了！\n\n因为Wi-Fi信息也能听到！"
+  },
+  {
+    "key": "MESPAK01_0001_0025",
+    "original": "ＰＵＳＨ　ＳＴＡＲＴ　ＢＵＴＴＯＮ",
+    "translation": "PUSH START BUTTON",
+    "stage": 0,
+    "context": "机翻辅助：\n\nPUSH START BUTTON"
+  },
+  {
+    "key": "MESPAK01_0001_0026",
+    "original": "キミは　おとこのこかな？\nおんなのこかな？",
+    "translation": "你是男生吗？\n是女孩子吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n你是男生吗？\n是女孩子吗？\n\n你是男人吗？\n是女人吗？"
+  },
+  {
+    "key": "MESPAK01_0001_0027",
+    "original": "キミは　^Pっていうなまえの\nおんなのこ　なの？",
+    "translation": "你是叫^P的\n女孩吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n你是叫^P的\n女孩吗？\n\n你的名字是“^P”\n是女的吗？"
+  },
+  {
+    "key": "MESPAK01_0001_0028",
+    "original": "はい　そうです",
+    "translation": "是的是的",
+    "stage": 0,
+    "context": "机翻辅助：\n\n是的是的\n\n是的"
+  },
+  {
+    "key": "MESPAK01_0001_0029",
+    "original": "いいえ　ちがいます",
+    "translation": "不，不是的",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不，不是的\n\n不，不是"
+  },
+  {
+    "key": "MESPAK01_0001_0030",
+    "original": "キミは　^Pっていうなまえの\nおとこのこ　なの？",
+    "translation": "你是叫^P的\n男孩吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n你是叫^P的\n男孩吗？\n\n你的名字是“^P”\n你是男人吗？"
+  },
+  {
+    "key": "MESPAK01_0001_0031",
+    "original": "シュウ",
+    "translation": "周",
+    "stage": 0,
+    "context": "机翻辅助：\n\n周\n\n草木"
+  },
+  {
+    "key": "MESPAK01_0001_0032",
+    "original": "キズナ",
+    "translation": "带子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n带子\n\n木纹"
+  },
+  {
+    "key": "MESPAK01_0001_0033",
+    "original": "^0は\n^1で　いいですか？",
+    "translation": "^0\n^1可以吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0\n^1可以吗？"
+  },
+  {
+    "key": "MESPAK01_0001_0034",
+    "original": "キミは　^0っていうなまえの\n^1　なの？",
+    "translation": "你是叫^0的\n^1吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n你是叫^0的\n^1吗？"
+  },
+  {
+    "key": "MESPAK01_0001_0035",
+    "original": "おとこのこ",
+    "translation": "男孩",
+    "stage": 0,
+    "context": "机翻辅助：\n\n男孩\n\n男孩儿"
+  },
+  {
+    "key": "MESPAK01_0001_0036",
+    "original": "おんなのこ",
+    "translation": "女孩子",
+    "stage": 0,
+    "context": "机翻辅助：\n\n女孩子\n\n女锯"
+  },
+  {
+    "key": "MESPAK01_0001_0037",
+    "original": "ともだちのなまえ",
+    "translation": "朋友的名字",
+    "stage": 0,
+    "context": "机翻辅助：\n\n朋友的名字"
+  },
+  {
+    "key": "MESPAK01_0001_0038",
+    "original": "７０３０７９９１",
+    "translation": "70307991",
+    "stage": 0,
+    "context": "机翻辅助：\n\n70307991"
+  },
+  {
+    "key": "MESPAK01_0001_0039",
+    "original": "０２６１９０２０",
+    "translation": "02619020",
+    "stage": 0,
+    "context": "机翻辅助：\n\n02619020"
+  },
+  {
+    "key": "MESPAK01_0001_0040",
+    "original": "８２６０７９９１",
+    "translation": "82607991",
+    "stage": 0,
+    "context": "机翻辅助：\n\n82607991"
+  },
+  {
+    "key": "MESPAK01_0001_0041",
+    "original": "１９９７０６２８",
+    "translation": "19970628",
+    "stage": 0,
+    "context": "机翻辅助：\n\n19970628"
+  },
+  {
+    "key": "MESPAK01_0001_0042",
+    "original": "２００６０６１５",
+    "translation": "20060615",
+    "stage": 0,
+    "context": "机翻辅助：\n\n20060615"
+  },
+  {
+    "key": "MESPAK01_0001_0043",
+    "original": "２００７０３２９",
+    "translation": "20070329",
+    "stage": 0,
+    "context": "机翻辅助：\n\n20070329"
+  },
+  {
+    "key": "MESPAK01_0001_0044",
+    "original": "９ＰＴ８４ｆｈ３",
+    "translation": "9pt84fh3",
+    "stage": 0,
+    "context": "机翻辅助：\n\n9pt84fh3\n\n9PT84fh3"
+  },
+  {
+    "key": "MESPAK01_0001_0045",
+    "original": "３Ｋ４ｕｒ８８Ｕ",
+    "translation": "3k4ur88u",
+    "stage": 0,
+    "context": "机翻辅助：\n\n3k4ur88u\n\n3K4ur88U"
+  },
+  {
+    "key": "MESPAK01_0001_0046",
+    "original": "ｏＵＢＢ１８ｍ４",
+    "translation": "oUBB18m4",
+    "stage": 0,
+    "context": "机翻辅助：\n\noUBB18m4"
+  },
+  {
+    "key": "MESPAK01_0001_0047",
+    "original": "４ＲＦＧＨＪＫ４",
+    "translation": "4 RFGHJK4",
+    "stage": 0,
+    "context": "机翻辅助：\n\n4 RFGHJK4\n\n4RFGHJK4"
+  },
+  {
+    "key": "MESPAK01_0001_0048",
+    "original": "ｈｙＵＫＨＩＵ９",
+    "translation": "hyUKHIU9",
+    "stage": 0,
+    "context": "机翻辅助：\n\nhyUKHIU9"
+  },
+  {
+    "key": "MESPAK01_0001_0049",
+    "original": "Ｄｏｉｊ４９２ｂ",
+    "translation": "Doij492b",
+    "stage": 0,
+    "context": "机翻辅助：\n\nDoij492b"
+  }
+]

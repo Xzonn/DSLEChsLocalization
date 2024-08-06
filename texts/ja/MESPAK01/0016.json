@@ -1,0 +1,212 @@
+[
+  {
+    "key": "MESPAK01_0016_0000",
+    "original": "ＨＰチップ",
+    "translation": "ＨＰチップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0001",
+    "original": "ＨＰコアチップ",
+    "translation": "ＨＰコアチップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0002",
+    "original": "ＭＰチップ",
+    "translation": "ＭＰチップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0003",
+    "original": "ＭＰコアチップ",
+    "translation": "ＭＰコアチップ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0004",
+    "original": "てつアレイ",
+    "translation": "てつアレイ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0005",
+    "original": "アタックパンチ",
+    "translation": "アタックパンチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0006",
+    "original": "ピコピコハンマー",
+    "translation": "ピコピコハンマー",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0007",
+    "original": "バリアシールド",
+    "translation": "バリアシールド",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0008",
+    "original": "スピードウォッチ",
+    "translation": "スピードウォッチ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0009",
+    "original": "スピードシューズ",
+    "translation": "スピードシューズ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0010",
+    "original": "なでなでグローブ",
+    "translation": "なでなでグローブ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0011",
+    "original": "フォトフレーム",
+    "translation": "フォトフレーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0012",
+    "original": "リュウカプセル",
+    "translation": "リュウカプセル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0013",
+    "original": "ゲンジュウサプリ",
+    "translation": "ゲンジュウサプリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0014",
+    "original": "アニマルカプセル",
+    "translation": "アニマルカプセル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0015",
+    "original": "ケモノサプリ",
+    "translation": "ケモノサプリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0016",
+    "original": "セイカプセル",
+    "translation": "セイカプセル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0017",
+    "original": "テンシサプリ",
+    "translation": "テンシサプリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0018",
+    "original": "ヤミカプセル",
+    "translation": "ヤミカプセル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0019",
+    "original": "アクマサプリ",
+    "translation": "アクマサプリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0020",
+    "original": "デンキカプセル",
+    "translation": "デンキカプセル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0021",
+    "original": "キカイサプリ",
+    "translation": "キカイサプリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0022",
+    "original": "ミズカプセル",
+    "translation": "ミズカプセル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0023",
+    "original": "スイセイサプリ",
+    "translation": "スイセイサプリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0024",
+    "original": "ソラカプセル",
+    "translation": "ソラカプセル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0025",
+    "original": "トリサプリ",
+    "translation": "トリサプリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0026",
+    "original": "ムシカプセル",
+    "translation": "ムシカプセル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0027",
+    "original": "コンチュウサプリ",
+    "translation": "コンチュウサプリ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0028",
+    "original": "クサカプセル",
+    "translation": "クサカプセル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0016_0029",
+    "original": "ショクブツサプリ",
+    "translation": "ショクブツサプリ",
+    "stage": 1,
+    "context": ""
+  }
+]

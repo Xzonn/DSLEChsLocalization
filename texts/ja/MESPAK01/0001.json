@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK01_0001_0000",
+    "original": "キミのなまえ",
+    "translation": "キミのなまえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0001",
+    "original": "ニックネーム",
+    "translation": "ニックネーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0002",
+    "original": "ファーム島のなまえ",
+    "translation": "ファーム島のなまえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0003",
+    "original": "ひみつのパスワード",
+    "translation": "ひみつのパスワード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0004",
+    "original": "ともだちコード",
+    "translation": "ともだちコード",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0005",
+    "original": "ひみつのパスワードに　まちがいがあります\nもういちどにゅうりょくしてください",
+    "translation": "ひみつのパスワードに　まちがいがあります\nもういちどにゅうりょくしてください",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0006",
+    "original": "そのともだちコードは　ただしくありません",
+    "translation": "そのともだちコードは　ただしくありません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0007",
+    "original": "ともだちコードの　にゅうりょくを\nちゅうし　しますか？",
+    "translation": "ともだちコードの　にゅうりょくを\nちゅうし　しますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0008",
+    "original": "はい　ちゅうしします",
+    "translation": "はい　ちゅうしします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0009",
+    "original": "いいえ　ちゅうししません",
+    "translation": "いいえ　ちゅうししません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0010",
+    "original": "で　いいですか？",
+    "translation": "で　いいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0011",
+    "original": "はい　いいです",
+    "translation": "はい　いいです",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0012",
+    "original": "いいえ　つけなおします",
+    "translation": "いいえ　つけなおします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0013",
+    "original": "しゅじんこうのなまえは",
+    "translation": "しゅじんこうのなまえは",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0014",
+    "original": "ニックネームは",
+    "translation": "ニックネームは",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0015",
+    "original": "ファーム島のなまえは",
+    "translation": "ファーム島のなまえは",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0016",
+    "original": "ひみつのパスワードは",
+    "translation": "ひみつのパスワードは",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0017",
+    "original": "ともだちコードは",
+    "translation": "ともだちコードは",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0018",
+    "original": "はじめから",
+    "translation": "はじめから",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0019",
+    "original": "つづきから",
+    "translation": "つづきから",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0020",
+    "original": "Ｗｉ－Ｆｉせってい",
+    "translation": "Ｗｉ－Ｆｉせってい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0021",
+    "original": "もどる",
+    "translation": "もどる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0022",
+    "original": "きをつけて！",
+    "translation": "きをつけて！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0023",
+    "original": "あたらしくセーブデータを　つくると",
+    "translation": "あたらしくセーブデータを　つくると",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0024",
+    "original": "Ｗｉ－Ｆｉじょうほうも　きえるからね！",
+    "translation": "Ｗｉ－Ｆｉじょうほうも　きえるからね！",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0025",
+    "original": "ＰＵＳＨ　ＳＴＡＲＴ　ＢＵＴＴＯＮ",
+    "translation": "ＰＵＳＨ　ＳＴＡＲＴ　ＢＵＴＴＯＮ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0026",
+    "original": "キミは　おとこのこかな？\nおんなのこかな？",
+    "translation": "キミは　おとこのこかな？\nおんなのこかな？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0027",
+    "original": "キミは　^Pっていうなまえの\nおんなのこ　なの？",
+    "translation": "キミは　^Pっていうなまえの\nおんなのこ　なの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0028",
+    "original": "はい　そうです",
+    "translation": "はい　そうです",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0029",
+    "original": "いいえ　ちがいます",
+    "translation": "いいえ　ちがいます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0030",
+    "original": "キミは　^Pっていうなまえの\nおとこのこ　なの？",
+    "translation": "キミは　^Pっていうなまえの\nおとこのこ　なの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0031",
+    "original": "シュウ",
+    "translation": "シュウ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0032",
+    "original": "キズナ",
+    "translation": "キズナ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0033",
+    "original": "^0は\n^1で　いいですか？",
+    "translation": "^0は\n^1で　いいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0034",
+    "original": "キミは　^0っていうなまえの\n^1　なの？",
+    "translation": "キミは　^0っていうなまえの\n^1　なの？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0035",
+    "original": "おとこのこ",
+    "translation": "おとこのこ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0036",
+    "original": "おんなのこ",
+    "translation": "おんなのこ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0037",
+    "original": "ともだちのなまえ",
+    "translation": "ともだちのなまえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0038",
+    "original": "７０３０７９９１",
+    "translation": "７０３０７９９１",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0039",
+    "original": "０２６１９０２０",
+    "translation": "０２６１９０２０",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0040",
+    "original": "８２６０７９９１",
+    "translation": "８２６０７９９１",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0041",
+    "original": "１９９７０６２８",
+    "translation": "１９９７０６２８",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0042",
+    "original": "２００６０６１５",
+    "translation": "２００６０６１５",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0043",
+    "original": "２００７０３２９",
+    "translation": "２００７０３２９",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0044",
+    "original": "９ＰＴ８４ｆｈ３",
+    "translation": "９ＰＴ８４ｆｈ３",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0045",
+    "original": "３Ｋ４ｕｒ８８Ｕ",
+    "translation": "３Ｋ４ｕｒ８８Ｕ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0046",
+    "original": "ｏＵＢＢ１８ｍ４",
+    "translation": "ｏＵＢＢ１８ｍ４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0047",
+    "original": "４ＲＦＧＨＪＫ４",
+    "translation": "４ＲＦＧＨＪＫ４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0048",
+    "original": "ｈｙＵＫＨＩＵ９",
+    "translation": "ｈｙＵＫＨＩＵ９",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0001_0049",
+    "original": "Ｄｏｉｊ４９２ｂ",
+    "translation": "Ｄｏｉｊ４９２ｂ",
+    "stage": 1,
+    "context": ""
+  }
+]

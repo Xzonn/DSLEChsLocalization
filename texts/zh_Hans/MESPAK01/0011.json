@@ -1,0 +1,429 @@
+[
+  {
+    "key": "MESPAK01_0011_0000",
+    "original": "マッチングする　デジモンを　えらんで　ください\nメニューで　じぶんのずかんを　かくにん　できます",
+    "translation": "选择你要匹配的数码兽。\n你可以在菜单中找到你的图鉴。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n选择你要匹配的数码兽。\n你可以在菜单中找到你的图鉴。\n\n请选择匹配的数码兽\n可以在菜单上确认自己的错误"
+  },
+  {
+    "key": "MESPAK01_0011_0001",
+    "original": "^0さんの　ファーム島です\nいきたいファーム島を　えらんで　ください",
+    "translation": "^0的农场岛。请选择你想去的农场岛。\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n^0的农场岛。请选择你想去的农场岛。\n\n\n这是^0的农场岛"
+  },
+  {
+    "key": "MESPAK01_0011_0002",
+    "original": "マッチングデジモンを\nしゅうりょうしますか？",
+    "translation": "匹配数码兽\n结束吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n匹配数码兽\n结束吗？\n\n匹配数码兽\n结束？"
+  },
+  {
+    "key": "MESPAK01_0011_0003",
+    "original": "^1と　^2を\nマッチングさせます　よろしいですか？",
+    "translation": "让^1和^2\n配对可以吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n让^1和^2\n配对可以吗？\n\n让^1和^2匹配好吗？"
+  },
+  {
+    "key": "MESPAK01_0011_0004",
+    "original": "マッチングデジモンを\nしゅうりょうしますか？",
+    "translation": "匹配数码兽\n结束吗？",
+    "stage": 0,
+    "context": "机翻辅助：\n\n匹配数码兽\n结束吗？\n\n匹配数码兽\n结束？"
+  },
+  {
+    "key": "MESPAK01_0011_0005",
+    "original": "はい　いいです",
+    "translation": "好，好。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n好，好。\n\n好的"
+  },
+  {
+    "key": "MESPAK01_0011_0006",
+    "original": "はい　しゅうりょうします",
+    "translation": "结束了",
+    "stage": 0,
+    "context": "机翻辅助：\n\n结束了\n\n好的，结束"
+  },
+  {
+    "key": "MESPAK01_0011_0007",
+    "original": "はい　しゅうりょうします",
+    "translation": "结束了",
+    "stage": 0,
+    "context": "机翻辅助：\n\n结束了\n\n好的，结束"
+  },
+  {
+    "key": "MESPAK01_0011_0008",
+    "original": "いいえ　しゅうりょうしません",
+    "translation": "不，没有结束。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不，没有结束。\n\n不结束"
+  },
+  {
+    "key": "MESPAK01_0011_0009",
+    "original": "いいえ　えらびなおします",
+    "translation": "不，我们重新选择。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不，我们重新选择。\n\n不，我会重新做的"
+  },
+  {
+    "key": "MESPAK01_0011_0010",
+    "original": "いいえ　しゅうりょうしません",
+    "translation": "不，没有结束。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不，没有结束。\n\n不结束"
+  },
+  {
+    "key": "MESPAK01_0011_0011",
+    "original": "こうげきりょく",
+    "translation": "攻击力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n攻击力\n\n冲击力"
+  },
+  {
+    "key": "MESPAK01_0011_0012",
+    "original": "ぼうぎょりょく",
+    "translation": "防御力",
+    "stage": 0,
+    "context": "机翻辅助：\n\n防御力"
+  },
+  {
+    "key": "MESPAK01_0011_0013",
+    "original": "すばやさ",
+    "translation": "速度",
+    "stage": 0,
+    "context": "机翻辅助：\n\n速度\n\n快速"
+  },
+  {
+    "key": "MESPAK01_0011_0014",
+    "original": "さいのう",
+    "translation": "才能",
+    "stage": 0,
+    "context": "机翻辅助：\n\n才能\n\n细度"
+  },
+  {
+    "key": "MESPAK01_0011_0015",
+    "original": "さいだいレベル",
+    "translation": "最大水平",
+    "stage": 0,
+    "context": "机翻辅助：\n\n最大水平\n\n最大电平"
+  },
+  {
+    "key": "MESPAK01_0011_0016",
+    "original": "ゆうじょう",
+    "translation": "友情",
+    "stage": 0,
+    "context": "机翻辅助：\n\n友情\n\n熔化"
+  },
+  {
+    "key": "MESPAK01_0011_0017",
+    "original": "とくせい",
+    "translation": "特性",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特性"
+  },
+  {
+    "key": "MESPAK01_0011_0018",
+    "original": "せいかく",
+    "translation": "性格",
+    "stage": 0,
+    "context": "机翻辅助：\n\n性格\n\n正核"
+  },
+  {
+    "key": "MESPAK01_0011_0019",
+    "original": "タイプ",
+    "translation": "类型",
+    "stage": 0,
+    "context": "机翻辅助：\n\n类型"
+  },
+  {
+    "key": "MESPAK01_0011_0020",
+    "original": "とくいぞくせい",
+    "translation": "特殊属性",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特殊属性"
+  },
+  {
+    "key": "MESPAK01_0011_0021",
+    "original": "にがてぞくせい",
+    "translation": "不耐属性",
+    "stage": 0,
+    "context": "机翻辅助：\n\n不耐属性\n\n二次属性"
+  },
+  {
+    "key": "MESPAK01_0011_0022",
+    "original": "レベル",
+    "translation": "水平",
+    "stage": 0,
+    "context": "机翻辅助：\n\n水平"
+  },
+  {
+    "key": "MESPAK01_0011_0023",
+    "original": "せだい",
+    "translation": "一代",
+    "stage": 0,
+    "context": "机翻辅助：\n\n一代\n\n世代"
+  },
+  {
+    "key": "MESPAK01_0011_0024",
+    "original": "しゅるい",
+    "translation": "种类",
+    "stage": 0,
+    "context": "机翻辅助：\n\n种类"
+  },
+  {
+    "key": "MESPAK01_0011_0025",
+    "original": "しゅもく",
+    "translation": "项目",
+    "stage": 0,
+    "context": "机翻辅助：\n\n项目\n\n主目"
+  },
+  {
+    "key": "MESPAK01_0011_0026",
+    "original": "とくぎ",
+    "translation": "特长",
+    "stage": 0,
+    "context": "机翻辅助：\n\n特长\n\n钉头"
+  },
+  {
+    "key": "MESPAK01_0011_0027",
+    "original": "けいけんち",
+    "translation": "经验地",
+    "stage": 0,
+    "context": "机翻辅助：\n\n经验地\n\n经验值"
+  },
+  {
+    "key": "MESPAK01_0011_0028",
+    "original": "つぎのレベルまで",
+    "translation": "到下一级为止",
+    "stage": 0,
+    "context": "机翻辅助：\n\n到下一级为止\n\n到下一个水平"
+  },
+  {
+    "key": "MESPAK01_0011_0029",
+    "original": "ＥＸＰ",
+    "translation": "EXP",
+    "stage": 0,
+    "context": "机翻辅助：\n\nEXP"
+  },
+  {
+    "key": "MESPAK01_0011_0030",
+    "original": "メニューを　とじる",
+    "translation": "合上菜单",
+    "stage": 0,
+    "context": "机翻辅助：\n\n合上菜单\n\n关闭菜单"
+  },
+  {
+    "key": "MESPAK01_0011_0031",
+    "original": "メニュー",
+    "translation": "选单",
+    "stage": 0,
+    "context": "机翻辅助：\n\n选单"
+  },
+  {
+    "key": "MESPAK01_0011_0032",
+    "original": "じぶんの　デジタマずかんを　みる",
+    "translation": "看自己的数码图鉴",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看自己的数码图鉴\n\n看自己的数码相机"
+  },
+  {
+    "key": "MESPAK01_0011_0033",
+    "original": "じぶんの　デジモンリストを　みる",
+    "translation": "看看自己的数码宝贝列表",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看看自己的数码宝贝列表\n\n查看自己的数码兽列表"
+  },
+  {
+    "key": "MESPAK01_0011_0034",
+    "original": "マッチングを　する",
+    "translation": "进行匹配",
+    "stage": 0,
+    "context": "机翻辅助：\n\n进行匹配\n\n匹配"
+  },
+  {
+    "key": "MESPAK01_0011_0035",
+    "original": "かけいずを　みる",
+    "translation": "看家规",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看家规\n\n看假名"
+  },
+  {
+    "key": "MESPAK01_0011_0036",
+    "original": "つよさを　みる",
+    "translation": "看到强度",
+    "stage": 0,
+    "context": "机翻辅助：\n\n看到强度\n\n看强度"
+  },
+  {
+    "key": "MESPAK01_0011_0037",
+    "original": "リストのソートせんたく",
+    "translation": "列表的排序选择",
+    "stage": 0,
+    "context": "机翻辅助：\n\n列表的排序选择\n\n排序列表"
+  },
+  {
+    "key": "MESPAK01_0011_0038",
+    "original": "グループで　リストをソートする",
+    "translation": "按组对列表进行排序",
+    "stage": 0,
+    "context": "机翻辅助：\n\n按组对列表进行排序\n\n按组对列表排序"
+  },
+  {
+    "key": "MESPAK01_0011_0039",
+    "original": "レベルで　リストをソートする",
+    "translation": "按等级对列表进行排序",
+    "stage": 0,
+    "context": "机翻辅助：\n\n按等级对列表进行排序\n\n按级别对列表排序"
+  },
+  {
+    "key": "MESPAK01_0011_0040",
+    "original": "しゅるいで　リストをソートする",
+    "translation": "按种类对列表进行排序",
+    "stage": 0,
+    "context": "机翻辅助：\n\n按种类对列表进行排序\n\n按类别对列表排序"
+  },
+  {
+    "key": "MESPAK01_0011_0041",
+    "original": "なまえで　リストをソートする",
+    "translation": "按名字排列列表",
+    "stage": 0,
+    "context": "机翻辅助：\n\n按名字排列列表\n\n按名称对列表排序"
+  },
+  {
+    "key": "MESPAK01_0011_0042",
+    "original": "げんざいのデジモン",
+    "translation": "现在的数码兽",
+    "stage": 0,
+    "context": "机翻辅助：\n\n现在的数码兽\n\n现有的数码兽"
+  },
+  {
+    "key": "MESPAK01_0011_0043",
+    "original": "いっせだいまえのデジモン",
+    "translation": "前一个时代的数码兽",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前一个时代的数码兽\n\n现在的数码兽"
+  },
+  {
+    "key": "MESPAK01_0011_0044",
+    "original": "にせだいまえのデジモン",
+    "translation": "前代数码兽",
+    "stage": 0,
+    "context": "机翻辅助：\n\n前代数码兽\n\n假面具"
+  },
+  {
+    "key": "MESPAK01_0011_0045",
+    "original": "テイマー",
+    "translation": "定员",
+    "stage": 0,
+    "context": "机翻辅助：\n\n定员\n\n尾部"
+  },
+  {
+    "key": "MESPAK01_0011_0046",
+    "original": "デジタマは　マッチングできません",
+    "translation": "数字无法匹配。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数字无法匹配。\n\n数码相机不能匹配"
+  },
+  {
+    "key": "MESPAK01_0011_0047",
+    "original": "グループ",
+    "translation": "小组",
+    "stage": 0,
+    "context": "机翻辅助：\n\n小组\n\n组合"
+  },
+  {
+    "key": "MESPAK01_0011_0048",
+    "original": "セーブちゅうです\nでんげんを　きらないでください",
+    "translation": "保存中。请不要切断电源。\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n保存中。请不要切断电源。\n\n\n请不要使用电源"
+  },
+  {
+    "key": "MESPAK01_0011_0049",
+    "original": "セーブしました！",
+    "translation": "救了！",
+    "stage": 0,
+    "context": "机翻辅助：\n\n救了！\n\n保存成功！"
+  },
+  {
+    "key": "MESPAK01_0011_0050",
+    "original": "Ｗｉ－Ｆｉコネクションから　せつだんしています",
+    "translation": "切断了Wi-Fi连接。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n切断了Wi-Fi连接。\n\n从Wi-Fi连接中断"
+  },
+  {
+    "key": "MESPAK01_0011_0051",
+    "original": "Ｗｉ－Ｆｉコネクションから　せつだんしました",
+    "translation": "切断了Wi-Fi连接。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n切断了Wi-Fi连接。\n\n从Wi-Fi连接中断了"
+  },
+  {
+    "key": "MESPAK01_0011_0052",
+    "original": "デジモン",
+    "translation": "数码兽",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数码兽\n\n数码宝贝"
+  },
+  {
+    "key": "MESPAK01_0011_0053",
+    "original": "グッズ",
+    "translation": "周边",
+    "stage": 0,
+    "context": "机翻辅助：\n\n周边\n\n商品"
+  },
+  {
+    "key": "MESPAK01_0011_0054",
+    "original": "ちけいボード",
+    "translation": "地形板",
+    "stage": 0,
+    "context": "机翻辅助：\n\n地形板"
+  },
+  {
+    "key": "MESPAK01_0011_0055",
+    "original": "ＢＧＭボード",
+    "translation": "背景音乐",
+    "stage": 0,
+    "context": "机翻辅助：\n\n背景音乐\n\nBGM板"
+  },
+  {
+    "key": "MESPAK01_0011_0056",
+    "original": "おすすめ",
+    "translation": "推荐",
+    "stage": 0,
+    "context": "机翻辅助：\n\n推荐"
+  },
+  {
+    "key": "MESPAK01_0011_0057",
+    "original": "しゅぎょうにでている　デジモンは\nマッチングできません",
+    "translation": "修行的数码兽不能匹配\n",
+    "stage": 0,
+    "context": "机翻辅助：\n\n修行的数码兽不能匹配\n\n\n在证券上出现的数码兽\n不能匹配"
+  },
+  {
+    "key": "MESPAK01_0011_0058",
+    "original": "てもちのデジモンが　いっぱいです\nてもちのデジモンを　へらしてください",
+    "translation": "你手上有很多数码兽。\n请减少你手上的数码兽。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n你手上有很多数码兽。\n请减少你手上的数码兽。\n\n请把年糕的数码兽压扁"
+  },
+  {
+    "key": "MESPAK01_0011_0059",
+    "original": "しゅぎょうにきている　デジモンは\nマッチングできません",
+    "translation": "学习的数码兽\n无法匹配。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n学习的数码兽\n无法匹配。\n\n来创业的数码兽\n不能匹配"
+  },
+  {
+    "key": "MESPAK01_0011_0060",
+    "original": "マッチングする　デジモンを　えらんでください",
+    "translation": "请选择匹配的数码兽。",
+    "stage": 0,
+    "context": "机翻辅助：\n\n请选择匹配的数码兽。\n\n请选择匹配的数码兽"
+  }
+]

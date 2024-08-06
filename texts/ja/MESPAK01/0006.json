@@ -1,0 +1,555 @@
+[
+  {
+    "key": "MESPAK01_0006_0000",
+    "original": "デジレポートをしゅうりょうしますか？",
+    "translation": "デジレポートをしゅうりょうしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0001",
+    "original": "はい　しゅうりょうします",
+    "translation": "はい　しゅうりょうします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0002",
+    "original": "いいえ　しゅうりょうしません",
+    "translation": "いいえ　しゅうりょうしません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0003",
+    "original": "パーティ",
+    "translation": "パーティ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0004",
+    "original": "デジバンク",
+    "translation": "デジバンク",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0005",
+    "original": "たんけんたい",
+    "translation": "たんけんたい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0006",
+    "original": "すべてのデジモン",
+    "translation": "すべてのデジモン",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0007",
+    "original": "グループ",
+    "translation": "グループ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0008",
+    "original": "レベル",
+    "translation": "レベル",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0009",
+    "original": "しゅるい",
+    "translation": "しゅるい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0010",
+    "original": "なまえ",
+    "translation": "なまえ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0011",
+    "original": "リストのソートせんたく",
+    "translation": "リストのソートせんたく",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0012",
+    "original": "グループで　リストをソートする",
+    "translation": "グループで　リストをソートする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0013",
+    "original": "レベルで　リストをソートする",
+    "translation": "レベルで　リストをソートする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0014",
+    "original": "しゅるいで　リストをソートする",
+    "translation": "しゅるいで　リストをソートする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0015",
+    "original": "なまえで　リストをソートする",
+    "translation": "なまえで　リストをソートする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0016",
+    "original": "メニューを　とじる",
+    "translation": "メニューを　とじる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0017",
+    "original": "デジモンを　いどうする",
+    "translation": "デジモンを　いどうする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0018",
+    "original": "デジモンの　じょうほうをみる",
+    "translation": "デジモンの　じょうほうをみる",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0019",
+    "original": "スキャンデータに　へんかんする",
+    "translation": "スキャンデータに　へんかんする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0020",
+    "original": "データを　しょうきょする",
+    "translation": "データを　しょうきょする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0021",
+    "original": "しゅぎょうを　ちゅうしする",
+    "translation": "しゅぎょうを　ちゅうしする",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0022",
+    "original": "しゅぎょうに　いっているデジモンは\nいどうできません",
+    "translation": "しゅぎょうに　いっているデジモンは\nいどうできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0023",
+    "original": "パーティにいる　さいごの１体は\nいどうできません",
+    "translation": "パーティにいる　さいごの１体は\nいどうできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0024",
+    "original": "おねがいクエストちゅうのデジモンは\nいどうできません",
+    "translation": "おねがいクエストちゅうのデジモンは\nいどうできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0025",
+    "original": "おしごとちゅうのデジモンは\nいどうできません",
+    "translation": "おしごとちゅうのデジモンは\nいどうできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0026",
+    "original": "デジタマは　パーティに\nいどうできません",
+    "translation": "デジタマは　パーティに\nいどうできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0027",
+    "original": "デジタマは　たんけんたいに\nいどうできません",
+    "translation": "デジタマは　たんけんたいに\nいどうできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0028",
+    "original": "すでに　デジバンクにいます",
+    "translation": "すでに　デジバンクにいます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0029",
+    "original": "おなじファーム島には\nいどうできません",
+    "translation": "おなじファーム島には\nいどうできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0030",
+    "original": "しゅぎょうにいっているデジモンとは\nいれかえられません",
+    "translation": "しゅぎょうにいっているデジモンとは\nいれかえられません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0031",
+    "original": "すでに　パーティにいます",
+    "translation": "すでに　パーティにいます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0032",
+    "original": "パーティのデジモンと\nデジタマは　いれかえられません",
+    "translation": "パーティのデジモンと\nデジタマは　いれかえられません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0033",
+    "original": "おなじファーム島には\nいどうできません",
+    "translation": "おなじファーム島には\nいどうできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0034",
+    "original": "しゅぎょうにきている　デジモンは\nパーティに　いどうできません",
+    "translation": "しゅぎょうにきている　デジモンは\nパーティに　いどうできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0035",
+    "original": "おねがいクエストちゅうのデジモンとは\nいれかえられません",
+    "translation": "おねがいクエストちゅうのデジモンとは\nいれかえられません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0036",
+    "original": "おしごとちゅうのデジモンとは\nいれかえられません",
+    "translation": "おしごとちゅうのデジモンとは\nいれかえられません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0037",
+    "original": "すでに　たんけんたいにいます",
+    "translation": "すでに　たんけんたいにいます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0038",
+    "original": "しゅぎょうにきているデジモンは\nパーティに　いどうできません",
+    "translation": "しゅぎょうにきているデジモンは\nパーティに　いどうできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0039",
+    "original": "たんけんたいの　デジモンと\nデジタマは　いれかえられません",
+    "translation": "たんけんたいの　デジモンと\nデジタマは　いれかえられません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0040",
+    "original": "デジモンを　いどうしますか？",
+    "translation": "デジモンを　いどうしますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0041",
+    "original": "はい　いどうします",
+    "translation": "はい　いどうします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0042",
+    "original": "いいえ　いどうしません",
+    "translation": "いいえ　いどうしません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0043",
+    "original": "パーティデジモンの　そうびが\nはずれますが　よろしいですか？",
+    "translation": "パーティデジモンの　そうびが\nはずれますが　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0044",
+    "original": "はい　いいです",
+    "translation": "はい　いいです",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0045",
+    "original": "いいえ　よくありません",
+    "translation": "いいえ　よくありません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0046",
+    "original": "デジモンを　いどうさせました",
+    "translation": "デジモンを　いどうさせました",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0047",
+    "original": "デジモンの　いどうをやめますか？",
+    "translation": "デジモンの　いどうをやめますか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0048",
+    "original": "はい　やめます",
+    "translation": "はい　やめます",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0049",
+    "original": "いいえ　やめません",
+    "translation": "いいえ　やめません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0050",
+    "original": "すべてのファーム",
+    "translation": "すべてのファーム",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0051",
+    "original": "デジタマを　しょうきょしますか？\n「^0」",
+    "translation": "デジタマを　しょうきょしますか？\n「^0」",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0052",
+    "original": "はい　しょうきょします",
+    "translation": "はい　しょうきょします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0053",
+    "original": "いいえ　しょうきょしません",
+    "translation": "いいえ　しょうきょしません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0054",
+    "original": "デジタマが　いなくなってしまいますが\nよろしいでしょうか？",
+    "translation": "デジタマが　いなくなってしまいますが\nよろしいでしょうか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0055",
+    "original": "デジタマが　いなくなります！\nほんとうに　よろしいですか？",
+    "translation": "デジタマが　いなくなります！\nほんとうに　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0056",
+    "original": "デジタマを　しょうきょしました\n「^0」",
+    "translation": "デジタマを　しょうきょしました\n「^0」",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0057",
+    "original": "おねがいクエストちゅうのデジモンは\nスキャンデータに　へんかんできません",
+    "translation": "おねがいクエストちゅうのデジモンは\nスキャンデータに　へんかんできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0058",
+    "original": "おしごとちゅうのデジモンは\nスキャンデータに　へんかんできません",
+    "translation": "おしごとちゅうのデジモンは\nスキャンデータに　へんかんできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0059",
+    "original": "パーティにいるデジモンは\nスキャンデータに　へんかんできません",
+    "translation": "パーティにいるデジモンは\nスキャンデータに　へんかんできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0060",
+    "original": "スキャンデータに　へんかんしますか？\n「^0」",
+    "translation": "スキャンデータに　へんかんしますか？\n「^0」",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0061",
+    "original": "はい　へんかんします",
+    "translation": "はい　へんかんします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0062",
+    "original": "いいえ　へんかんしません",
+    "translation": "いいえ　へんかんしません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0063",
+    "original": "デジモンが　いなくなってしまいますが\nよろしいでしょうか？",
+    "translation": "デジモンが　いなくなってしまいますが\nよろしいでしょうか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0064",
+    "original": "デジモンが　いなくなります！\nほんとうに　よろしいですか？",
+    "translation": "デジモンが　いなくなります！\nほんとうに　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0065",
+    "original": "デジモンを　スキャンデータにへんかんしました\n「^0」",
+    "translation": "デジモンを　スキャンデータにへんかんしました\n「^0」",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0066",
+    "original": "しゅぎょうを　ちゅうししても\nよろしいですか？",
+    "translation": "しゅぎょうを　ちゅうししても\nよろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0067",
+    "original": "ともだちのデジモンが\nかえってしまっても　よろしいですか？",
+    "translation": "ともだちのデジモンが\nかえってしまっても　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0068",
+    "original": "おたがいの　いくせいけっかが\nリセットされますが　よろしいですか？",
+    "translation": "おたがいの　いくせいけっかが\nリセットされますが　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0069",
+    "original": "しゅぎょうをちゅうししました！\nともだちのデジモンは　かえっていきました",
+    "translation": "しゅぎょうをちゅうししました！\nともだちのデジモンは　かえっていきました",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0070",
+    "original": "デジタマは　マッチングできません",
+    "translation": "デジタマは　マッチングできません",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0071",
+    "original": "「^0」と　「^1」を\nマッチングさせます　よろしいですか？",
+    "translation": "「^0」と　「^1」を\nマッチングさせます　よろしいですか？",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0072",
+    "original": "はい　いいです",
+    "translation": "はい　いいです",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0073",
+    "original": "いいえ　えらびなおします",
+    "translation": "いいえ　えらびなおします",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0074",
+    "original": "１日でもらえるＥＸＰ",
+    "translation": "１日でもらえるＥＸＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0075",
+    "original": "バトルしだい",
+    "translation": "バトルしだい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0076",
+    "original": "^0ＥＸＰ",
+    "translation": "^0ＥＸＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0077",
+    "original": "たんけんけっかしだい",
+    "translation": "たんけんけっかしだい",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0078",
+    "original": "なし",
+    "translation": "なし",
+    "stage": 1,
+    "context": ""
+  }
+]

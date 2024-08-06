@@ -1,0 +1,212 @@
+[
+  {
+    "key": "MESPAK01_0016_0000",
+    "original": "ＨＰチップ",
+    "translation": "惠普芯片",
+    "stage": 0,
+    "context": "机翻辅助：\n\n惠普芯片\n\nHP芯片"
+  },
+  {
+    "key": "MESPAK01_0016_0001",
+    "original": "ＨＰコアチップ",
+    "translation": "惠普核心芯片",
+    "stage": 0,
+    "context": "机翻辅助：\n\n惠普核心芯片"
+  },
+  {
+    "key": "MESPAK01_0016_0002",
+    "original": "ＭＰチップ",
+    "translation": "MP芯片",
+    "stage": 0,
+    "context": "机翻辅助：\n\nMP芯片"
+  },
+  {
+    "key": "MESPAK01_0016_0003",
+    "original": "ＭＰコアチップ",
+    "translation": "MP核心芯片",
+    "stage": 0,
+    "context": "机翻辅助：\n\nMP核心芯片\n\n多芯芯片"
+  },
+  {
+    "key": "MESPAK01_0016_0004",
+    "original": "てつアレイ",
+    "translation": "铁阵列",
+    "stage": 0,
+    "context": "机翻辅助：\n\n铁阵列"
+  },
+  {
+    "key": "MESPAK01_0016_0005",
+    "original": "アタックパンチ",
+    "translation": "攻击拳",
+    "stage": 0,
+    "context": "机翻辅助：\n\n攻击拳\n\n冲击冲头"
+  },
+  {
+    "key": "MESPAK01_0016_0006",
+    "original": "ピコピコハンマー",
+    "translation": "皮可皮锤",
+    "stage": 0,
+    "context": "机翻辅助：\n\n皮可皮锤\n\n微微锤"
+  },
+  {
+    "key": "MESPAK01_0016_0007",
+    "original": "バリアシールド",
+    "translation": "屏障盾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n屏障盾\n\n屏蔽"
+  },
+  {
+    "key": "MESPAK01_0016_0008",
+    "original": "スピードウォッチ",
+    "translation": "速度表",
+    "stage": 0,
+    "context": "机翻辅助：\n\n速度表"
+  },
+  {
+    "key": "MESPAK01_0016_0009",
+    "original": "スピードシューズ",
+    "translation": "速度鞋",
+    "stage": 0,
+    "context": "机翻辅助：\n\n速度鞋\n\n快鞋"
+  },
+  {
+    "key": "MESPAK01_0016_0010",
+    "original": "なでなでグローブ",
+    "translation": "抚摩手套",
+    "stage": 0,
+    "context": "机翻辅助：\n\n抚摩手套"
+  },
+  {
+    "key": "MESPAK01_0016_0011",
+    "original": "フォトフレーム",
+    "translation": "相框",
+    "stage": 0,
+    "context": "机翻辅助：\n\n相框"
+  },
+  {
+    "key": "MESPAK01_0016_0012",
+    "original": "リュウカプセル",
+    "translation": "龙胶囊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n龙胶囊\n\n柳条胶囊"
+  },
+  {
+    "key": "MESPAK01_0016_0013",
+    "original": "ゲンジュウサプリ",
+    "translation": "加重补剂",
+    "stage": 0,
+    "context": "机翻辅助：\n\n加重补剂\n\n龙胆补充剂"
+  },
+  {
+    "key": "MESPAK01_0016_0014",
+    "original": "アニマルカプセル",
+    "translation": "动物胶囊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n动物胶囊"
+  },
+  {
+    "key": "MESPAK01_0016_0015",
+    "original": "ケモノサプリ",
+    "translation": "兽类补品",
+    "stage": 0,
+    "context": "机翻辅助：\n\n兽类补品\n\n动物补充剂"
+  },
+  {
+    "key": "MESPAK01_0016_0016",
+    "original": "セイカプセル",
+    "translation": "性胶囊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n性胶囊\n\n塞胶囊"
+  },
+  {
+    "key": "MESPAK01_0016_0017",
+    "original": "テンシサプリ",
+    "translation": "天使补品",
+    "stage": 0,
+    "context": "机翻辅助：\n\n天使补品\n\n天冬酰胺"
+  },
+  {
+    "key": "MESPAK01_0016_0018",
+    "original": "ヤミカプセル",
+    "translation": "黑暗胶囊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n黑暗胶囊\n\n暗胶囊"
+  },
+  {
+    "key": "MESPAK01_0016_0019",
+    "original": "アクマサプリ",
+    "translation": "阿克马萨普利",
+    "stage": 0,
+    "context": "机翻辅助：\n\n阿克马萨普利\n\n阿克玛补品"
+  },
+  {
+    "key": "MESPAK01_0016_0020",
+    "original": "デンキカプセル",
+    "translation": "电胶囊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电胶囊\n\n登基胶囊"
+  },
+  {
+    "key": "MESPAK01_0016_0021",
+    "original": "キカイサプリ",
+    "translation": "机械补剂",
+    "stage": 0,
+    "context": "机翻辅助：\n\n机械补剂\n\n猕猴桃"
+  },
+  {
+    "key": "MESPAK01_0016_0022",
+    "original": "ミズカプセル",
+    "translation": "水胶囊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n水胶囊\n\n蚯蚓胶囊"
+  },
+  {
+    "key": "MESPAK01_0016_0023",
+    "original": "スイセイサプリ",
+    "translation": "水生补剂",
+    "stage": 0,
+    "context": "机翻辅助：\n\n水生补剂\n\n水仙花"
+  },
+  {
+    "key": "MESPAK01_0016_0024",
+    "original": "ソラカプセル",
+    "translation": "空胶囊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n空胶囊\n\n索拉胶囊"
+  },
+  {
+    "key": "MESPAK01_0016_0025",
+    "original": "トリサプリ",
+    "translation": "三叶草",
+    "stage": 0,
+    "context": "机翻辅助：\n\n三叶草\n\n三补充"
+  },
+  {
+    "key": "MESPAK01_0016_0026",
+    "original": "ムシカプセル",
+    "translation": "虫胶囊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n虫胶囊\n\n虫囊"
+  },
+  {
+    "key": "MESPAK01_0016_0027",
+    "original": "コンチュウサプリ",
+    "translation": "昆虫补剂",
+    "stage": 0,
+    "context": "机翻辅助：\n\n昆虫补剂\n\n孔丘萨普利"
+  },
+  {
+    "key": "MESPAK01_0016_0028",
+    "original": "クサカプセル",
+    "translation": "草胶囊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n草胶囊"
+  },
+  {
+    "key": "MESPAK01_0016_0029",
+    "original": "ショクブツサプリ",
+    "translation": "植物补剂",
+    "stage": 0,
+    "context": "机翻辅助：\n\n植物补剂\n\n铲运机"
+  }
+]

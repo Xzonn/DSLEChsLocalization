@@ -1,0 +1,555 @@
+[
+  {
+    "key": "MESPAK01_0003_0000",
+    "original": "デジポート",
+    "translation": "数码端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数码端口\n\n数字端口"
+  },
+  {
+    "key": "MESPAK01_0003_0001",
+    "original": "マザボたいりく",
+    "translation": "母大陆",
+    "stage": 0,
+    "context": "机翻辅助：\n\n母大陆\n\n马扎波大陆"
+  },
+  {
+    "key": "MESPAK01_0003_0002",
+    "original": "グラボたいりく",
+    "translation": "格拉博大陆",
+    "stage": 0,
+    "context": "机翻辅助：\n\n格拉博大陆\n\n抓斗"
+  },
+  {
+    "key": "MESPAK01_0003_0003",
+    "original": "ヘリテージみさき",
+    "translation": "美国传统港湾",
+    "stage": 0,
+    "context": "机翻辅助：\n\n美国传统港湾\n\n测斜器"
+  },
+  {
+    "key": "MESPAK01_0003_0004",
+    "original": "パッチプレーリー",
+    "translation": "补丁草原",
+    "stage": 0,
+    "context": "机翻辅助：\n\n补丁草原\n\n修补程序"
+  },
+  {
+    "key": "MESPAK01_0003_0005",
+    "original": "パケットコースト",
+    "translation": "分组海岸",
+    "stage": 0,
+    "context": "机翻辅助：\n\n分组海岸\n\n分组编码"
+  },
+  {
+    "key": "MESPAK01_0003_0006",
+    "original": "ログインマウンテン",
+    "translation": "登录山",
+    "stage": 0,
+    "context": "机翻辅助：\n\n登录山"
+  },
+  {
+    "key": "MESPAK01_0003_0007",
+    "original": "チップフォレスト",
+    "translation": "芯片森林",
+    "stage": 0,
+    "context": "机翻辅助：\n\n芯片森林"
+  },
+  {
+    "key": "MESPAK01_0003_0008",
+    "original": "ラベルフォレスト",
+    "translation": "标签森林",
+    "stage": 0,
+    "context": "机翻辅助：\n\n标签森林"
+  },
+  {
+    "key": "MESPAK01_0003_0009",
+    "original": "ループぬま",
+    "translation": "环形沼泽",
+    "stage": 0,
+    "context": "机翻辅助：\n\n环形沼泽\n\n环形涂层"
+  },
+  {
+    "key": "MESPAK01_0003_0010",
+    "original": "マグネこうざん",
+    "translation": "马格纳高山",
+    "stage": 0,
+    "context": "机翻辅助：\n\n马格纳高山\n\n磁石矿渣"
+  },
+  {
+    "key": "MESPAK01_0003_0011",
+    "original": "パレットアマゾン",
+    "translation": "调色板亚马逊",
+    "stage": 0,
+    "context": "机翻辅助：\n\n调色板亚马逊"
+  },
+  {
+    "key": "MESPAK01_0003_0012",
+    "original": "レジスタジャングル",
+    "translation": "寄存器丛林",
+    "stage": 0,
+    "context": "机翻辅助：\n\n寄存器丛林"
+  },
+  {
+    "key": "MESPAK01_0003_0013",
+    "original": "リミットバレー",
+    "translation": "极限谷",
+    "stage": 0,
+    "context": "机翻辅助：\n\n极限谷"
+  },
+  {
+    "key": "MESPAK01_0003_0014",
+    "original": "パレスラボラトリー",
+    "translation": "皇宫实验室",
+    "stage": 0,
+    "context": "机翻辅助：\n\n皇宫实验室\n\n巴勒斯实验室"
+  },
+  {
+    "key": "MESPAK01_0003_0015",
+    "original": "ピクセルさばく",
+    "translation": "像素沙漠",
+    "stage": 0,
+    "context": "机翻辅助：\n\n像素沙漠\n\n像素处理"
+  },
+  {
+    "key": "MESPAK01_0003_0016",
+    "original": "シャドウヘル",
+    "translation": "沙道赫尔",
+    "stage": 0,
+    "context": "机翻辅助：\n\n沙道赫尔\n\n阴影赫尔"
+  },
+  {
+    "key": "MESPAK01_0003_0017",
+    "original": "タスクキャニオン",
+    "translation": "任务峡谷",
+    "stage": 0,
+    "context": "机翻辅助：\n\n任务峡谷"
+  },
+  {
+    "key": "MESPAK01_0003_0018",
+    "original": "スリラーいせき",
+    "translation": "惊险遗址",
+    "stage": 0,
+    "context": "机翻辅助：\n\n惊险遗址\n\n斜绿泥石"
+  },
+  {
+    "key": "MESPAK01_0003_0019",
+    "original": "アクセスひょうが",
+    "translation": "访问评价",
+    "stage": 0,
+    "context": "机翻辅助：\n\n访问评价\n\n存取表"
+  },
+  {
+    "key": "MESPAK01_0003_0020",
+    "original": "プロキシアイランド",
+    "translation": "比邻岛",
+    "stage": 0,
+    "context": "机翻辅助：\n\n比邻岛\n\n代理岛"
+  },
+  {
+    "key": "MESPAK01_0003_0021",
+    "original": "グラボセントラル",
+    "translation": "格拉博中心",
+    "stage": 0,
+    "context": "机翻辅助：\n\n格拉博中心\n\n格拉沃中央"
+  },
+  {
+    "key": "MESPAK01_0003_0022",
+    "original": "ウィザードテンプル",
+    "translation": "圣女圣殿",
+    "stage": 0,
+    "context": "机翻辅助：\n\n圣女圣殿\n\n向导模板"
+  },
+  {
+    "key": "MESPAK01_0003_0023",
+    "original": "アングラトンネル",
+    "translation": "安格拉隧道",
+    "stage": 0,
+    "context": "机翻辅助：\n\n安格拉隧道\n\n地下隧道"
+  },
+  {
+    "key": "MESPAK01_0003_0024",
+    "original": "リスクファクトリー",
+    "translation": "风险工厂",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风险工厂"
+  },
+  {
+    "key": "MESPAK01_0003_0025",
+    "original": "クロンこうざん",
+    "translation": "克隆山",
+    "stage": 0,
+    "context": "机翻辅助：\n\n克隆山\n\n克隆酶"
+  },
+  {
+    "key": "MESPAK01_0003_0026",
+    "original": "クラスデザート",
+    "translation": "class甜点",
+    "stage": 0,
+    "context": "机翻辅助：\n\nclass甜点\n\n班级甜点"
+  },
+  {
+    "key": "MESPAK01_0003_0027",
+    "original": "ノースマリン",
+    "translation": "北马林",
+    "stage": 0,
+    "context": "机翻辅助：\n\n北马林"
+  },
+  {
+    "key": "MESPAK01_0003_0028",
+    "original": "ノースケイブ",
+    "translation": "无警卫",
+    "stage": 0,
+    "context": "机翻辅助：\n\n无警卫\n\n北凯布"
+  },
+  {
+    "key": "MESPAK01_0003_0029",
+    "original": "サウスケイブ",
+    "translation": "左卫部",
+    "stage": 0,
+    "context": "机翻辅助：\n\n左卫部\n\n南凯夫"
+  },
+  {
+    "key": "MESPAK01_0003_0030",
+    "original": "グラボケイブ",
+    "translation": "格拉博警署",
+    "stage": 0,
+    "context": "机翻辅助：\n\n格拉博警署\n\n抓斗"
+  },
+  {
+    "key": "MESPAK01_0003_0031",
+    "original": "グラボマリン",
+    "translation": "石墨马林",
+    "stage": 0,
+    "context": "机翻辅助：\n\n石墨马林\n\n格列波马林"
+  },
+  {
+    "key": "MESPAK01_0003_0032",
+    "original": "リスクケイブ",
+    "translation": "风险警",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风险警\n\n风险凯夫"
+  },
+  {
+    "key": "MESPAK01_0003_0033",
+    "original": "エントランスルーム",
+    "translation": "入口室",
+    "stage": 0,
+    "context": "机翻辅助：\n\n入口室"
+  },
+  {
+    "key": "MESPAK01_0003_0034",
+    "original": "プライベートルーム",
+    "translation": "私人房间",
+    "stage": 0,
+    "context": "机翻辅助：\n\n私人房间"
+  },
+  {
+    "key": "MESPAK01_0003_0035",
+    "original": "イグドラルーム",
+    "translation": "伊格德拉室",
+    "stage": 0,
+    "context": "机翻辅助：\n\n伊格德拉室\n\n点火室"
+  },
+  {
+    "key": "MESPAK01_0003_0036",
+    "original": "デジベースフロント",
+    "translation": "数码前线",
+    "stage": 0,
+    "context": "机翻辅助：\n\n数码前线\n\n数字基座前"
+  },
+  {
+    "key": "MESPAK01_0003_0037",
+    "original": "テイマータウン",
+    "translation": "泰默镇",
+    "stage": 0,
+    "context": "机翻辅助：\n\n泰默镇\n\n市区"
+  },
+  {
+    "key": "MESPAK01_0003_0038",
+    "original": "ユニオンルーム",
+    "translation": "联合房间",
+    "stage": 0,
+    "context": "机翻辅助：\n\n联合房间\n\n联轴箱"
+  },
+  {
+    "key": "MESPAK01_0003_0039",
+    "original": "イーストシティ",
+    "translation": "东城",
+    "stage": 0,
+    "context": "机翻辅助：\n\n东城\n\n东部城市"
+  },
+  {
+    "key": "MESPAK01_0003_0040",
+    "original": "イーストショップ",
+    "translation": "东店",
+    "stage": 0,
+    "context": "机翻辅助：\n\n东店\n\n东商店"
+  },
+  {
+    "key": "MESPAK01_0003_0041",
+    "original": "Ｅリーダールーム",
+    "translation": "电子阅读室",
+    "stage": 0,
+    "context": "机翻辅助：\n\n电子阅读室\n\nE领导室"
+  },
+  {
+    "key": "MESPAK01_0003_0042",
+    "original": "サウスシティ",
+    "translation": "南城",
+    "stage": 0,
+    "context": "机翻辅助：\n\n南城"
+  },
+  {
+    "key": "MESPAK01_0003_0043",
+    "original": "Ｓリーダールーム",
+    "translation": "S阅读室",
+    "stage": 0,
+    "context": "机翻辅助：\n\nS阅读室\n\nS领导室"
+  },
+  {
+    "key": "MESPAK01_0003_0044",
+    "original": "ウェストシティ",
+    "translation": "西城",
+    "stage": 0,
+    "context": "机翻辅助：\n\n西城\n\n西部城市"
+  },
+  {
+    "key": "MESPAK01_0003_0045",
+    "original": "Ｗリーダールーム",
+    "translation": "W领导室",
+    "stage": 0,
+    "context": "机翻辅助：\n\nW领导室"
+  },
+  {
+    "key": "MESPAK01_0003_0046",
+    "original": "ウェストショップ",
+    "translation": "西店",
+    "stage": 0,
+    "context": "机翻辅助：\n\n西店\n\n西商店"
+  },
+  {
+    "key": "MESPAK01_0003_0047",
+    "original": "ノースシティ",
+    "translation": "北城",
+    "stage": 0,
+    "context": "机翻辅助：\n\n北城"
+  },
+  {
+    "key": "MESPAK01_0003_0048",
+    "original": "Ｎリーダールーム",
+    "translation": "N阅读室",
+    "stage": 0,
+    "context": "机翻辅助：\n\nN阅读室\n\nN领导室"
+  },
+  {
+    "key": "MESPAK01_0003_0049",
+    "original": "セントラルショップ",
+    "translation": "中央商店",
+    "stage": 0,
+    "context": "机翻辅助：\n\n中央商店"
+  },
+  {
+    "key": "MESPAK01_0003_0050",
+    "original": "コロシアムロビー",
+    "translation": "大剧场大厅",
+    "stage": 0,
+    "context": "机翻辅助：\n\n大剧场大厅\n\n剧场大厅"
+  },
+  {
+    "key": "MESPAK01_0003_0051",
+    "original": "かんきゃくせき",
+    "translation": "观众席位",
+    "stage": 0,
+    "context": "机翻辅助：\n\n观众席位\n\n管座"
+  },
+  {
+    "key": "MESPAK01_0003_0052",
+    "original": "バトルステージ",
+    "translation": "战斗舞台",
+    "stage": 0,
+    "context": "机翻辅助：\n\n战斗舞台\n\n战斗阶段"
+  },
+  {
+    "key": "MESPAK01_0003_0053",
+    "original": "ベースポート",
+    "translation": "基本端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n基本端口"
+  },
+  {
+    "key": "MESPAK01_0003_0054",
+    "original": "ログインポート",
+    "translation": "登录端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n登录端口\n\n日志导入"
+  },
+  {
+    "key": "MESPAK01_0003_0055",
+    "original": "チップポート",
+    "translation": "芯片端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n芯片端口"
+  },
+  {
+    "key": "MESPAK01_0003_0056",
+    "original": "ラベルポート",
+    "translation": "标签端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n标签端口"
+  },
+  {
+    "key": "MESPAK01_0003_0057",
+    "original": "ループポート",
+    "translation": "循环端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n循环端口"
+  },
+  {
+    "key": "MESPAK01_0003_0058",
+    "original": "マグネポート",
+    "translation": "磁端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n磁端口"
+  },
+  {
+    "key": "MESPAK01_0003_0059",
+    "original": "パレットポート",
+    "translation": "调色板端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n调色板端口\n\n托盘端口"
+  },
+  {
+    "key": "MESPAK01_0003_0060",
+    "original": "テイマーポート",
+    "translation": "泰默港",
+    "stage": 0,
+    "context": "机翻辅助：\n\n泰默港\n\n尾端口"
+  },
+  {
+    "key": "MESPAK01_0003_0061",
+    "original": "レジスタポート",
+    "translation": "寄存器端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n寄存器端口"
+  },
+  {
+    "key": "MESPAK01_0003_0062",
+    "original": "リミットポート",
+    "translation": "极限端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n极限端口\n\n限位端口"
+  },
+  {
+    "key": "MESPAK01_0003_0063",
+    "original": "ピクセルポート",
+    "translation": "像素端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n像素端口"
+  },
+  {
+    "key": "MESPAK01_0003_0064",
+    "original": "シャドウポート",
+    "translation": "阴影端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n阴影端口"
+  },
+  {
+    "key": "MESPAK01_0003_0065",
+    "original": "タスクポートＮ",
+    "translation": "任务端口N",
+    "stage": 0,
+    "context": "机翻辅助：\n\n任务端口N"
+  },
+  {
+    "key": "MESPAK01_0003_0066",
+    "original": "タスクポートＳ",
+    "translation": "任务端口S",
+    "stage": 0,
+    "context": "机翻辅助：\n\n任务端口S"
+  },
+  {
+    "key": "MESPAK01_0003_0067",
+    "original": "スリラーポートＥ",
+    "translation": "惊悚港E",
+    "stage": 0,
+    "context": "机翻辅助：\n\n惊悚港E\n\n惊险端口E"
+  },
+  {
+    "key": "MESPAK01_0003_0068",
+    "original": "スリラーポートＷ",
+    "translation": "惊悚港W",
+    "stage": 0,
+    "context": "机翻辅助：\n\n惊悚港W\n\n惊险端口W"
+  },
+  {
+    "key": "MESPAK01_0003_0069",
+    "original": "アクセスポートＳ",
+    "translation": "接入端口S",
+    "stage": 0,
+    "context": "机翻辅助：\n\n接入端口S\n\n访问端口S"
+  },
+  {
+    "key": "MESPAK01_0003_0070",
+    "original": "アクセスポートＮ",
+    "translation": "接入端口N",
+    "stage": 0,
+    "context": "机翻辅助：\n\n接入端口N\n\n访问端口N"
+  },
+  {
+    "key": "MESPAK01_0003_0071",
+    "original": "プロキシポートＷ",
+    "translation": "代理端口W",
+    "stage": 0,
+    "context": "机翻辅助：\n\n代理端口W"
+  },
+  {
+    "key": "MESPAK01_0003_0072",
+    "original": "プロキシポートＥ",
+    "translation": "代理端口E",
+    "stage": 0,
+    "context": "机翻辅助：\n\n代理端口E"
+  },
+  {
+    "key": "MESPAK01_0003_0073",
+    "original": "アングラポート",
+    "translation": "安格拉波特",
+    "stage": 0,
+    "context": "机翻辅助：\n\n安格拉波特\n\n地下口"
+  },
+  {
+    "key": "MESPAK01_0003_0074",
+    "original": "ウィザードポート",
+    "translation": "威瑟德港",
+    "stage": 0,
+    "context": "机翻辅助：\n\n威瑟德港\n\n向导端口"
+  },
+  {
+    "key": "MESPAK01_0003_0075",
+    "original": "セントラルポート",
+    "translation": "中央港口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n中央港口\n\n中央端口"
+  },
+  {
+    "key": "MESPAK01_0003_0076",
+    "original": "リスクポート",
+    "translation": "风险端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n风险端口"
+  },
+  {
+    "key": "MESPAK01_0003_0077",
+    "original": "クロンポート",
+    "translation": "克朗波特",
+    "stage": 0,
+    "context": "机翻辅助：\n\n克朗波特\n\n克隆端口"
+  },
+  {
+    "key": "MESPAK01_0003_0078",
+    "original": "クラスポート",
+    "translation": "克拉斯端口",
+    "stage": 0,
+    "context": "机翻辅助：\n\n克拉斯端口\n\n类端口"
+  }
+]
