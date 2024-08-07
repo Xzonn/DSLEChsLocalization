@@ -2,72 +2,72 @@
   {
     "key": "MESPAK01_0006_0000",
     "original": "デジレポートをしゅうりょうしますか？",
-    "translation": "要结束数码报告吗？",
+    "translation": "要结束数字报告吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n要结束数码报告吗？\n\n您要完成数字报告吗？"
+    "context": "机翻辅助：\n\n要结束数字报告吗？\n\n要结束数码报告吗？\n\n您要完成数字报告吗？"
   },
   {
     "key": "MESPAK01_0006_0001",
     "original": "はい　しゅうりょうします",
-    "translation": "结束了",
+    "translation": "好的　我接受",
     "stage": 0,
-    "context": "机翻辅助：\n\n结束了\n\n好的，结束"
+    "context": "机翻辅助：\n\n好的　我接受\n\n好的，结束\n\n结束了"
   },
   {
     "key": "MESPAK01_0006_0002",
     "original": "いいえ　しゅうりょうしません",
-    "translation": "不，没有结束。",
+    "translation": "不　我不会辞职",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，没有结束。\n\n不结束"
+    "context": "机翻辅助：\n\n不　我不会辞职\n\n不，没有结束。\n\n不结束"
   },
   {
     "key": "MESPAK01_0006_0003",
     "original": "パーティ",
-    "translation": "派对",
+    "translation": "队伍",
     "stage": 0,
-    "context": "机翻辅助：\n\n派对\n\n联欢会"
+    "context": "机翻辅助：\n\n队伍\n\n派对\n\n联欢会"
   },
   {
     "key": "MESPAK01_0006_0004",
     "original": "デジバンク",
-    "translation": "数码银行",
+    "translation": "数字银行",
     "stage": 0,
-    "context": "机翻辅助：\n\n数码银行\n\n数字银行"
+    "context": "机翻辅助：\n\n数字银行\n\n数码银行"
   },
   {
     "key": "MESPAK01_0006_0005",
     "original": "たんけんたい",
-    "translation": "探险队",
+    "translation": "队员",
     "stage": 0,
-    "context": "机翻辅助：\n\n探险队\n\n单体"
+    "context": "机翻辅助：\n\n队员\n\n单体\n\n探险队"
   },
   {
     "key": "MESPAK01_0006_0006",
     "original": "すべてのデジモン",
-    "translation": "所有数码兽",
+    "translation": "所有数字怪兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n所有数码兽\n\n所有的数码兽"
+    "context": "机翻辅助：\n\n所有数字怪兽\n\n所有的数码兽\n\n所有数码兽"
   },
   {
     "key": "MESPAK01_0006_0007",
     "original": "グループ",
-    "translation": "小组",
+    "translation": "分组",
     "stage": 0,
-    "context": "机翻辅助：\n\n小组\n\n组合"
+    "context": "机翻辅助：\n\n分组\n\n小组\n\n组合"
   },
   {
     "key": "MESPAK01_0006_0008",
     "original": "レベル",
-    "translation": "水平",
+    "translation": "等级",
     "stage": 0,
-    "context": "机翻辅助：\n\n水平"
+    "context": "机翻辅助：\n\n等级\n\n水平"
   },
   {
     "key": "MESPAK01_0006_0009",
     "original": "しゅるい",
-    "translation": "种类",
+    "translation": "顺序",
     "stage": 0,
-    "context": "机翻辅助：\n\n种类"
+    "context": "机翻辅助：\n\n顺序\n\n种类"
   },
   {
     "key": "MESPAK01_0006_0010",
@@ -79,457 +79,457 @@
   {
     "key": "MESPAK01_0006_0011",
     "original": "リストのソートせんたく",
-    "translation": "列表的排序选择",
+    "translation": "名单排序",
     "stage": 0,
-    "context": "机翻辅助：\n\n列表的排序选择\n\n排序列表"
+    "context": "机翻辅助：\n\n名单排序\n\n列表的排序选择\n\n排序列表"
   },
   {
     "key": "MESPAK01_0006_0012",
     "original": "グループで　リストをソートする",
-    "translation": "按组对列表进行排序",
+    "translation": "以分组排序名单",
     "stage": 0,
-    "context": "机翻辅助：\n\n按组对列表进行排序\n\n按组对列表排序"
+    "context": "机翻辅助：\n\n以分组排序名单\n\n按组对列表进行排序\n\n按组对列表排序"
   },
   {
     "key": "MESPAK01_0006_0013",
     "original": "レベルで　リストをソートする",
-    "translation": "按等级对列表进行排序",
+    "translation": "以等级排序名单",
     "stage": 0,
-    "context": "机翻辅助：\n\n按等级对列表进行排序\n\n按级别对列表排序"
+    "context": "机翻辅助：\n\n以等级排序名单\n\n按等级对列表进行排序\n\n按级别对列表排序"
   },
   {
     "key": "MESPAK01_0006_0014",
     "original": "しゅるいで　リストをソートする",
-    "translation": "按种类对列表进行排序",
+    "translation": "以顺序排序名单",
     "stage": 0,
-    "context": "机翻辅助：\n\n按种类对列表进行排序\n\n按类别对列表排序"
+    "context": "机翻辅助：\n\n以顺序排序名单\n\n按类别对列表排序\n\n按种类对列表进行排序"
   },
   {
     "key": "MESPAK01_0006_0015",
     "original": "なまえで　リストをソートする",
-    "translation": "按名字排列列表",
+    "translation": "以名字排序名单",
     "stage": 0,
-    "context": "机翻辅助：\n\n按名字排列列表\n\n按名称对列表排序"
+    "context": "机翻辅助：\n\n以名字排序名单\n\n按名字排列列表\n\n按名称对列表排序"
   },
   {
     "key": "MESPAK01_0006_0016",
     "original": "メニューを　とじる",
-    "translation": "合上菜单",
+    "translation": "关掉选单。",
     "stage": 0,
-    "context": "机翻辅助：\n\n合上菜单\n\n关闭菜单"
+    "context": "机翻辅助：\n\n关掉选单。\n\n关闭菜单\n\n合上菜单"
   },
   {
     "key": "MESPAK01_0006_0017",
     "original": "デジモンを　いどうする",
-    "translation": "移动数码兽",
+    "translation": "移动数字怪兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n移动数码兽"
+    "context": "机翻辅助：\n\n移动数字怪兽\n\n移动数码兽"
   },
   {
     "key": "MESPAK01_0006_0018",
     "original": "デジモンの　じょうほうをみる",
-    "translation": "查看数码兽的信息",
+    "translation": "观看数字怪兽的资料",
     "stage": 0,
-    "context": "机翻辅助：\n\n查看数码兽的信息\n\n看数码兽的情报"
+    "context": "机翻辅助：\n\n观看数字怪兽的资料\n\n查看数码兽的信息\n\n看数码兽的情报"
   },
   {
     "key": "MESPAK01_0006_0019",
     "original": "スキャンデータに　へんかんする",
-    "translation": "转换成扫描数据",
+    "translation": "变更扫描资料",
     "stage": 0,
-    "context": "机翻辅助：\n\n转换成扫描数据\n\n转换为扫描数据"
+    "context": "机翻辅助：\n\n变更扫描资料\n\n转换成扫描数据\n\n转换为扫描数据"
   },
   {
     "key": "MESPAK01_0006_0020",
     "original": "データを　しょうきょする",
-    "translation": "删除数据",
+    "translation": "备份资料",
     "stage": 0,
-    "context": "机翻辅助：\n\n删除数据\n\n消去数据"
+    "context": "机翻辅助：\n\n备份资料\n\n删除数据\n\n消去数据"
   },
   {
     "key": "MESPAK01_0006_0021",
     "original": "しゅぎょうを　ちゅうしする",
-    "translation": "停止修行",
+    "translation": "储存资料",
     "stage": 0,
-    "context": "机翻辅助：\n\n停止修行\n\n停止工作"
+    "context": "机翻辅助：\n\n储存资料\n\n停止修行\n\n停止工作"
   },
   {
     "key": "MESPAK01_0006_0022",
     "original": "しゅぎょうに　いっているデジモンは\nいどうできません",
-    "translation": "修行的数码兽\n不能移动。",
+    "translation": "在进行任务的数字怪兽\n不能移动。",
     "stage": 0,
-    "context": "机翻辅助：\n\n修行的数码兽\n不能移动。\n\n在市场上的数码兽是无法移动的"
+    "context": "机翻辅助：\n\n在进行任务的数字怪兽\n不能移动。\n\n修行的数码兽\n不能移动。\n\n在市场上的数码兽是无法移动的"
   },
   {
     "key": "MESPAK01_0006_0023",
     "original": "パーティにいる　さいごの１体は\nいどうできません",
-    "translation": "派对上的最后一个不能移动\n",
+    "translation": "队伍里的最后一只\n不能移动。",
     "stage": 0,
-    "context": "机翻辅助：\n\n派对上的最后一个不能移动\n\n\n在派对上的最后一个人是无法移动的"
+    "context": "机翻辅助：\n\n队伍里的最后一只\n不能移动。\n\n在派对上的最后一个人是无法移动的\n\n\n派对上的最后一个不能移动"
   },
   {
     "key": "MESPAK01_0006_0024",
     "original": "おねがいクエストちゅうのデジモンは\nいどうできません",
-    "translation": "拜托了，任务中的数码兽不能移动。\n",
+    "translation": "拜托别人帮忙的任务中的数字怪兽\n不能移动。",
     "stage": 0,
-    "context": "机翻辅助：\n\n拜托了，任务中的数码兽不能移动。\n\n\n请求任务中的数码兽"
+    "context": "机翻辅助：\n\n拜托别人帮忙的任务中的数字怪兽\n不能移动。\n\n拜托了，任务中的数码兽不能移动。\n\n\n请求任务中的数码兽"
   },
   {
     "key": "MESPAK01_0006_0025",
     "original": "おしごとちゅうのデジモンは\nいどうできません",
-    "translation": "工作中的数码兽\n不能移动",
+    "translation": "正在工作的数字怪兽\n不能移动。",
     "stage": 0,
-    "context": "机翻辅助：\n\n工作中的数码兽\n不能移动\n\n您的数码兽\n不能移动"
+    "context": "机翻辅助：\n\n正在工作的数字怪兽\n不能移动。\n\n工作中的数码兽\n不能移动\n\n您的数码兽\n不能移动"
   },
   {
     "key": "MESPAK01_0006_0026",
     "original": "デジタマは　パーティに\nいどうできません",
-    "translation": "数码人不能参加派对。\n",
+    "translation": "数字蛋\n不能加入队伍。",
     "stage": 0,
-    "context": "机翻辅助：\n\n数码人不能参加派对。\n\n\n数码相机不能在派对上移动"
+    "context": "机翻辅助：\n\n数字蛋\n不能加入队伍。\n\n数码人不能参加派对。\n\n\n数码相机不能在派对上移动"
   },
   {
     "key": "MESPAK01_0006_0027",
     "original": "デジタマは　たんけんたいに\nいどうできません",
     "translation": "数码兽不能移动到探险队\n",
     "stage": 0,
-    "context": "机翻辅助：\n\n数码兽不能移动到探险队\n\n\n数码相机不能移动"
+    "context": "机翻辅助：\n\n数码兽不能移动到探险队\n\n\n数字蛋　无法加入　探险队\n\n\n数码相机不能移动"
   },
   {
     "key": "MESPAK01_0006_0028",
     "original": "すでに　デジバンクにいます",
-    "translation": "我们已经在数码银行了。",
+    "translation": "它已经在　数字银行里了",
     "stage": 0,
-    "context": "机翻辅助：\n\n我们已经在数码银行了。\n\n我已经在德吉班克了"
+    "context": "机翻辅助：\n\n它已经在　数字银行里了\n\n我们已经在数码银行了。\n\n我已经在德吉班克了"
   },
   {
     "key": "MESPAK01_0006_0029",
     "original": "おなじファーム島には\nいどうできません",
-    "translation": "你不能移动到同一个农场岛。\n",
+    "translation": "无法　加入同一座　数字岛\n",
     "stage": 0,
-    "context": "机翻辅助：\n\n你不能移动到同一个农场岛。\n\n\n同样的农场岛是无法移动的"
+    "context": "机翻辅助：\n\n无法　加入同一座　数字岛\n\n\n同样的农场岛是无法移动的\n\n\n你不能移动到同一个农场岛。"
   },
   {
     "key": "MESPAK01_0006_0030",
     "original": "しゅぎょうにいっているデジモンとは\nいれかえられません",
-    "translation": "你不能和你的数码兽交换。\n",
+    "translation": "无法　交换　在战斗中的　数字怪兽\n",
     "stage": 0,
-    "context": "机翻辅助：\n\n你不能和你的数码兽交换。\n\n\n不能和在市场上的数码兽交换"
+    "context": "机翻辅助：\n\n无法　交换　在战斗中的　数字怪兽\n\n\n你不能和你的数码兽交换。\n\n\n不能和在市场上的数码兽交换"
   },
   {
     "key": "MESPAK01_0006_0031",
     "original": "すでに　パーティにいます",
-    "translation": "我们已经在派对上了。",
+    "translation": "它已经在　队伍里了",
     "stage": 0,
-    "context": "机翻辅助：\n\n我们已经在派对上了。\n\n已经在派对上了"
+    "context": "机翻辅助：\n\n它已经在　队伍里了\n\n我们已经在派对上了。\n\n已经在派对上了"
   },
   {
     "key": "MESPAK01_0006_0032",
     "original": "パーティのデジモンと\nデジタマは　いれかえられません",
     "translation": "派对的数码宝贝和\n数码宝贝是无法改变的",
     "stage": 0,
-    "context": "机翻辅助：\n\n派对的数码宝贝和\n数码宝贝是无法改变的\n\n派对上的数码兽和数码兽是不能互换的"
+    "context": "机翻辅助：\n\n派对的数码宝贝和\n数码宝贝是无法改变的\n\n队伍的　数字怪兽　无法　交换　数字蛋\n\n\n派对上的数码兽和数码兽是不能互换的"
   },
   {
     "key": "MESPAK01_0006_0033",
     "original": "おなじファーム島には\nいどうできません",
-    "translation": "你不能移动到同一个农场岛。\n",
+    "translation": "无法　加入同一座　数字岛\n",
     "stage": 0,
-    "context": "机翻辅助：\n\n你不能移动到同一个农场岛。\n\n\n同样的农场岛是无法移动的"
+    "context": "机翻辅助：\n\n无法　加入同一座　数字岛\n\n\n同样的农场岛是无法移动的\n\n\n你不能移动到同一个农场岛。"
   },
   {
     "key": "MESPAK01_0006_0034",
     "original": "しゅぎょうにきている　デジモンは\nパーティに　いどうできません",
-    "translation": "来上课的数码兽不能移动到派对上\n",
+    "translation": "在战斗中的　数字怪兽　无法　加入　队伍\n",
     "stage": 0,
-    "context": "机翻辅助：\n\n来上课的数码兽不能移动到派对上\n\n\n来创业的数码兽不能在派对上"
+    "context": "机翻辅助：\n\n在战斗中的　数字怪兽　无法　加入　队伍\n\n\n来创业的数码兽不能在派对上\n\n\n来上课的数码兽不能移动到派对上"
   },
   {
     "key": "MESPAK01_0006_0035",
     "original": "おねがいクエストちゅうのデジモンとは\nいれかえられません",
     "translation": "与请求任务中的数码兽\n不能交换",
     "stage": 0,
-    "context": "机翻辅助：\n\n与请求任务中的数码兽\n不能交换\n\n拜托，你不能和任务中的数码兽互换。"
+    "context": "机翻辅助：\n\n与请求任务中的数码兽\n不能交换\n\n无法　交换　在任务中的　数字怪兽\n\n\n拜托，你不能和任务中的数码兽互换。"
   },
   {
     "key": "MESPAK01_0006_0036",
     "original": "おしごとちゅうのデジモンとは\nいれかえられません",
     "translation": "和工作中的数码门\n不能互换。",
     "stage": 0,
-    "context": "机翻辅助：\n\n和工作中的数码门\n不能互换。\n\n和您的数码兽是无法改变的"
+    "context": "机翻辅助：\n\n和工作中的数码门\n不能互换。\n\n无法　交换　在工作中　的数字怪兽\n\n\n和您的数码兽是无法改变的"
   },
   {
     "key": "MESPAK01_0006_0037",
     "original": "すでに　たんけんたいにいます",
-    "translation": "已经进入了探险队。",
+    "translation": "它已经在　探险队里了",
     "stage": 0,
-    "context": "机翻辅助：\n\n已经进入了探险队。\n\n已经在探查区"
+    "context": "机翻辅助：\n\n它已经在　探险队里了\n\n已经进入了探险队。\n\n已经在探查区"
   },
   {
     "key": "MESPAK01_0006_0038",
     "original": "しゅぎょうにきているデジモンは\nパーティに　いどうできません",
-    "translation": "来上课的数码兽不能移动到派对上\n",
+    "translation": "在战斗中的　数字怪兽　无法　加入　队伍\n",
     "stage": 0,
-    "context": "机翻辅助：\n\n来上课的数码兽不能移动到派对上\n\n\n来创业的数码兽不能在派对上"
+    "context": "机翻辅助：\n\n在战斗中的　数字怪兽　无法　加入　队伍\n\n\n来上课的数码兽不能移动到派对上\n\n\n来创业的数码兽不能在派对上"
   },
   {
     "key": "MESPAK01_0006_0039",
     "original": "たんけんたいの　デジモンと\nデジタマは　いれかえられません",
-    "translation": "探险数码兽和数码兽是不能互换的。\n",
+    "translation": "探险队的　数字怪兽　无法　交换　数字蛋\n",
     "stage": 0,
-    "context": "机翻辅助：\n\n探险数码兽和数码兽是不能互换的。\n\n\n数码宝贝和简单的数码宝贝是无法交换的"
+    "context": "机翻辅助：\n\n探险队的　数字怪兽　无法　交换　数字蛋\n\n\n数码宝贝和简单的数码宝贝是无法交换的\n\n\n探险数码兽和数码兽是不能互换的。"
   },
   {
     "key": "MESPAK01_0006_0040",
     "original": "デジモンを　いどうしますか？",
-    "translation": "移动数码兽吗？",
+    "translation": "要交换　数字怪兽吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n移动数码兽吗？\n\n数码兽怎么办？"
+    "context": "机翻辅助：\n\n要交换　数字怪兽吗？\n\n移动数码兽吗？\n\n数码兽怎么办？"
   },
   {
     "key": "MESPAK01_0006_0041",
     "original": "はい　いどうします",
-    "translation": "我走了。",
+    "translation": "是　要设定",
     "stage": 0,
-    "context": "机翻辅助：\n\n我走了。\n\n怎么办"
+    "context": "机翻辅助：\n\n是　要设定\n\n我走了。\n\n怎么办"
   },
   {
     "key": "MESPAK01_0006_0042",
     "original": "いいえ　いどうしません",
-    "translation": "不，我不移动。",
+    "translation": "否　不设定",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，我不移动。\n\n不动"
+    "context": "机翻辅助：\n\n否　不设定\n\n不动\n\n不，我不移动。"
   },
   {
     "key": "MESPAK01_0006_0043",
     "original": "パーティデジモンの　そうびが\nはずれますが　よろしいですか？",
     "translation": "聚会数码兽的装备\n会脱落，可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n聚会数码兽的装备\n会脱落，可以吗？\n\n派对数码兽的装备\n脱落可以吗？"
+    "context": "机翻辅助：\n\n聚会数码兽的装备\n会脱落，可以吗？\n\n派对数码兽的装备\n脱落可以吗？\n\n队伍数字怪兽的　装备会　消失　可以吗？"
   },
   {
     "key": "MESPAK01_0006_0044",
     "original": "はい　いいです",
-    "translation": "好，好。",
+    "translation": "是　可以",
     "stage": 0,
-    "context": "机翻辅助：\n\n好，好。\n\n好的"
+    "context": "机翻辅助：\n\n是　可以\n\n好的\n\n好，好。"
   },
   {
     "key": "MESPAK01_0006_0045",
     "original": "いいえ　よくありません",
-    "translation": "不，不好。",
+    "translation": "不行　不可以",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，不好。\n\n不，不好"
+    "context": "机翻辅助：\n\n不行　不可以\n\n不，不好。\n\n不，不好"
   },
   {
     "key": "MESPAK01_0006_0046",
     "original": "デジモンを　いどうさせました",
-    "translation": "移动数码兽。",
+    "translation": "数字怪兽　被交换了",
     "stage": 0,
-    "context": "机翻辅助：\n\n移动数码兽。\n\n我让数码兽怎么了"
+    "context": "机翻辅助：\n\n数字怪兽　被交换了\n\n我让数码兽怎么了\n\n移动数码兽。"
   },
   {
     "key": "MESPAK01_0006_0047",
     "original": "デジモンの　いどうをやめますか？",
-    "translation": "停止数码兽的移动吗？",
+    "translation": "要解除　数字怪兽的　交换吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n停止数码兽的移动吗？"
+    "context": "机翻辅助：\n\n要解除　数字怪兽的　交换吗？\n\n停止数码兽的移动吗？"
   },
   {
     "key": "MESPAK01_0006_0048",
     "original": "はい　やめます",
-    "translation": "我不干了",
+    "translation": "要　放弃",
     "stage": 0,
-    "context": "机翻辅助：\n\n我不干了\n\n好的我不干了"
+    "context": "机翻辅助：\n\n要　放弃\n\n好的我不干了\n\n我不干了"
   },
   {
     "key": "MESPAK01_0006_0049",
     "original": "いいえ　やめません",
-    "translation": "不，我不罢休",
+    "translation": "不要　不放弃",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，我不罢休\n\n不我不会放弃的"
+    "context": "机翻辅助：\n\n不要　不放弃\n\n不，我不罢休\n\n不我不会放弃的"
   },
   {
     "key": "MESPAK01_0006_0050",
     "original": "すべてのファーム",
-    "translation": "所有的农场",
+    "translation": "要解除　所有的　交换吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n所有的农场\n\n所有农场"
+    "context": "机翻辅助：\n\n要解除　所有的　交换吗？\n\n所有农场\n\n所有的农场"
   },
   {
     "key": "MESPAK01_0006_0051",
     "original": "デジタマを　しょうきょしますか？\n「^0」",
-    "translation": "你要消除数码相机吗？\n“^0”",
+    "translation": "要　储存　数字蛋吗？\n“^0”",
     "stage": 0,
-    "context": "机翻辅助：\n\n你要消除数码相机吗？\n“^0”\n\n您要删除数码相机吗？\n“^0”"
+    "context": "机翻辅助：\n\n要　储存　数字蛋吗？\n“^0”\n\n您要删除数码相机吗？\n“^0”\n\n你要消除数码相机吗？\n“^0”"
   },
   {
     "key": "MESPAK01_0006_0052",
     "original": "はい　しょうきょします",
-    "translation": "会被淘汰的",
+    "translation": "是　我要储存",
     "stage": 0,
-    "context": "机翻辅助：\n\n会被淘汰的\n\n配准"
+    "context": "机翻辅助：\n\n是　我要储存\n\n会被淘汰的\n\n配准"
   },
   {
     "key": "MESPAK01_0006_0053",
     "original": "いいえ　しょうきょしません",
-    "translation": "不，不排除",
+    "translation": "不是　我不想储存",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，不排除\n\n不允许"
+    "context": "机翻辅助：\n\n不是　我不想储存\n\n不允许\n\n不，不排除"
   },
   {
     "key": "MESPAK01_0006_0054",
     "original": "デジタマが　いなくなってしまいますが\nよろしいでしょうか？",
-    "translation": "这样一来玉就不见了\n可以吗？",
+    "translation": "数码相机不见了\n可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n这样一来玉就不见了\n可以吗？\n\n数码相机不见了\n可以吗？"
+    "context": "机翻辅助：\n\n数码相机不见了\n可以吗？\n\n这样一来玉就不见了\n可以吗？\n\n数字蛋　会消失　可以吗？"
   },
   {
     "key": "MESPAK01_0006_0055",
     "original": "デジタマが　いなくなります！\nほんとうに　よろしいですか？",
-    "translation": "数码宝贝不见了！\n真的可以吗？",
+    "translation": "数字蛋　会消失！\n真的　可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n数码宝贝不见了！\n真的可以吗？\n\n数码相机不见了！\n真的可以吗？"
+    "context": "机翻辅助：\n\n数字蛋　会消失！\n真的　可以吗？\n\n数码宝贝不见了！\n真的可以吗？\n\n数码相机不见了！\n真的可以吗？"
   },
   {
     "key": "MESPAK01_0006_0056",
     "original": "デジタマを　しょうきょしました\n「^0」",
-    "translation": "消除了数码宝贝\n“^0”",
+    "translation": "数字蛋　被储存了\n“^0”",
     "stage": 0,
-    "context": "机翻辅助：\n\n消除了数码宝贝\n“^0”\n\n“^0”"
+    "context": "机翻辅助：\n\n数字蛋　被储存了\n“^0”\n\n消除了数码宝贝\n“^0”\n\n“^0”"
   },
   {
     "key": "MESPAK01_0006_0057",
     "original": "おねがいクエストちゅうのデジモンは\nスキャンデータに　へんかんできません",
-    "translation": "请求任务中的数码兽\n不会转换成扫描数据",
+    "translation": "扫描资料\n无法转换成任务中的数字宝贝",
     "stage": 0,
-    "context": "机翻辅助：\n\n请求任务中的数码兽\n不会转换成扫描数据\n\n请求任务中的数码兽不能转换为\n扫描数据"
+    "context": "机翻辅助：\n\n扫描资料\n无法转换成任务中的数字宝贝\n\n请求任务中的数码兽\n不会转换成扫描数据\n\n请求任务中的数码兽不能转换为\n扫描数据"
   },
   {
     "key": "MESPAK01_0006_0058",
     "original": "おしごとちゅうのデジモンは\nスキャンデータに　へんかんできません",
-    "translation": "工作中的数码兽\n不会转换成扫描数据",
+    "translation": "工作中的数字宝贝\n无法转换成扫描资料",
     "stage": 0,
-    "context": "机翻辅助：\n\n工作中的数码兽\n不会转换成扫描数据\n\n您的数码兽不能转换为\n扫描数据"
+    "context": "机翻辅助：\n\n工作中的数字宝贝\n无法转换成扫描资料\n\n您的数码兽不能转换为\n扫描数据\n\n工作中的数码兽\n不会转换成扫描数据"
   },
   {
     "key": "MESPAK01_0006_0059",
     "original": "パーティにいるデジモンは\nスキャンデータに　へんかんできません",
-    "translation": "派对上的数码兽\n不会转换成扫描数据",
+    "translation": "队伍中的数字宝贝\n无法转换成扫描资料",
     "stage": 0,
-    "context": "机翻辅助：\n\n派对上的数码兽\n不会转换成扫描数据\n\n在派对上的数码兽不能转换为\n扫描数据"
+    "context": "机翻辅助：\n\n队伍中的数字宝贝\n无法转换成扫描资料\n\n派对上的数码兽\n不会转换成扫描数据\n\n在派对上的数码兽不能转换为\n扫描数据"
   },
   {
     "key": "MESPAK01_0006_0060",
     "original": "スキャンデータに　へんかんしますか？\n「^0」",
-    "translation": "要转换成扫描数据吗？\n“^0”",
+    "translation": "要转换扫描资料吗？\n“^0”",
     "stage": 0,
-    "context": "机翻辅助：\n\n要转换成扫描数据吗？\n“^0”\n\n转换为扫描数据吗？\n“^0”"
+    "context": "机翻辅助：\n\n要转换扫描资料吗？\n“^0”\n\n要转换成扫描数据吗？\n“^0”\n\n转换为扫描数据吗？\n“^0”"
   },
   {
     "key": "MESPAK01_0006_0061",
     "original": "はい　へんかんします",
-    "translation": "特此奉还。",
+    "translation": "要",
     "stage": 0,
-    "context": "机翻辅助：\n\n特此奉还。\n\n是变换"
+    "context": "机翻辅助：\n\n要\n\n特此奉还。\n\n是变换"
   },
   {
     "key": "MESPAK01_0006_0062",
     "original": "いいえ　へんかんしません",
-    "translation": "不，不归还。",
+    "translation": "不要",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，不归还。\n\n不转换"
+    "context": "机翻辅助：\n\n不要\n\n不，不归还。\n\n不转换"
   },
   {
     "key": "MESPAK01_0006_0063",
     "original": "デジモンが　いなくなってしまいますが\nよろしいでしょうか？",
-    "translation": "数码兽不见了\n可以吗？",
+    "translation": "数字宝贝会消失不见\n可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n数码兽不见了\n可以吗？"
+    "context": "机翻辅助：\n\n数字宝贝会消失不见\n可以吗？\n\n数码兽不见了\n可以吗？"
   },
   {
     "key": "MESPAK01_0006_0064",
     "original": "デジモンが　いなくなります！\nほんとうに　よろしいですか？",
-    "translation": "数码兽不见了！\n真的可以吗？",
+    "translation": "数字宝贝会消失不见！\n真的可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n数码兽不见了！\n真的可以吗？"
+    "context": "机翻辅助：\n\n数字宝贝会消失不见！\n真的可以吗？\n\n数码兽不见了！\n真的可以吗？"
   },
   {
     "key": "MESPAK01_0006_0065",
     "original": "デジモンを　スキャンデータにへんかんしました\n「^0」",
-    "translation": "把数码兽转换成扫描数据\n“^0”",
+    "translation": "数字宝贝转换成扫描资料了\n“^0”",
     "stage": 0,
-    "context": "机翻辅助：\n\n把数码兽转换成扫描数据\n“^0”\n\n把数码兽转换成扫描数据。^0"
+    "context": "机翻辅助：\n\n数字宝贝转换成扫描资料了\n“^0”\n\n把数码兽转换成扫描数据\n“^0”\n\n把数码兽转换成扫描数据。^0"
   },
   {
     "key": "MESPAK01_0006_0066",
     "original": "しゅぎょうを　ちゅうししても\nよろしいですか？",
-    "translation": "可以停止修行吗？\n",
+    "translation": "要结束工作\n可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n可以停止修行吗？\n\n\n可以为您效劳吗？"
+    "context": "机翻辅助：\n\n要结束工作\n可以吗？\n\n可以为您效劳吗？\n\n\n可以停止修行吗？"
   },
   {
     "key": "MESPAK01_0006_0067",
     "original": "ともだちのデジモンが\nかえってしまっても　よろしいですか？",
-    "translation": "朋友的数码兽\n回去也可以吗？",
+    "translation": "朋友的数字宝贝\n要回去可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n朋友的数码兽\n回去也可以吗？\n\n朋友的数码兽可以回去吗？"
+    "context": "机翻辅助：\n\n朋友的数字宝贝\n要回去可以吗？\n\n朋友的数码兽\n回去也可以吗？\n\n朋友的数码兽可以回去吗？"
   },
   {
     "key": "MESPAK01_0006_0068",
     "original": "おたがいの　いくせいけっかが\nリセットされますが　よろしいですか？",
-    "translation": "互相的培养结果\n被重置可以吗？",
+    "translation": "彼此的习性数值\n会重置可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n互相的培养结果\n被重置可以吗？\n\n您的位置：知道爆料馆＞生活＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身？"
+    "context": "机翻辅助：\n\n彼此的习性数值\n会重置可以吗？\n\n互相的培养结果\n被重置可以吗？\n\n您的位置：知道爆料馆＞生活＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身＞美容/塑身？"
   },
   {
     "key": "MESPAK01_0006_0069",
     "original": "しゅぎょうをちゅうししました！\nともだちのデジモンは　かえっていきました",
-    "translation": "我认输了！\n朋友的数码兽回来了",
+    "translation": "工作结束了！\n朋友的数字宝贝回去了",
     "stage": 0,
-    "context": "机翻辅助：\n\n我认输了！\n朋友的数码兽回来了\n\n停止修行了！我朋友的数码兽回去了。"
+    "context": "机翻辅助：\n\n工作结束了！\n朋友的数字宝贝回去了\n\n我认输了！\n朋友的数码兽回来了\n\n停止修行了！我朋友的数码兽回去了。"
   },
   {
     "key": "MESPAK01_0006_0070",
     "original": "デジタマは　マッチングできません",
-    "translation": "数字无法匹配。",
+    "translation": "无法配对数字蛋",
     "stage": 0,
-    "context": "机翻辅助：\n\n数字无法匹配。\n\n数码相机不能匹配"
+    "context": "机翻辅助：\n\n无法配对数字蛋\n\n数码相机不能匹配\n\n数字无法匹配。"
   },
   {
     "key": "MESPAK01_0006_0071",
     "original": "「^0」と　「^1」を\nマッチングさせます　よろしいですか？",
-    "translation": "\n匹配“^0”和“^1”可以吗？",
+    "translation": "“^0”和“^1”\n要配对可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n\n匹配“^0”和“^1”可以吗？\n\n“^0”和“^1”\n可以匹配吗？"
+    "context": "机翻辅助：\n\n“^0”和“^1”\n要配对可以吗？\n\n\n匹配“^0”和“^1”可以吗？\n\n“^0”和“^1”\n可以匹配吗？"
   },
   {
     "key": "MESPAK01_0006_0072",
     "original": "はい　いいです",
-    "translation": "好，好。",
+    "translation": "是　可以",
     "stage": 0,
-    "context": "机翻辅助：\n\n好，好。\n\n好的"
+    "context": "机翻辅助：\n\n是　可以\n\n好的\n\n好，好。"
   },
   {
     "key": "MESPAK01_0006_0073",
     "original": "いいえ　えらびなおします",
-    "translation": "不，我们重新选择。",
+    "translation": "不　我要重新选择",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，我们重新选择。\n\n不，我会重新做的"
+    "context": "机翻辅助：\n\n不　我要重新选择\n\n不，我会重新做的\n\n不，我们重新选择。"
   },
   {
     "key": "MESPAK01_0006_0074",
     "original": "１日でもらえるＥＸＰ",
-    "translation": "一天就能拿到的EXP",
+    "translation": "1天能获得的EXP",
     "stage": 0,
-    "context": "机翻辅助：\n\n一天就能拿到的EXP\n\n一天能拿到的EXP"
+    "context": "机翻辅助：\n\n1天能获得的EXP\n\n一天就能拿到的EXP\n\n一天能拿到的EXP"
   },
   {
     "key": "MESPAK01_0006_0075",
     "original": "バトルしだい",
-    "translation": "取决于战斗",
+    "translation": "依照战斗结果",
     "stage": 0,
-    "context": "机翻辅助：\n\n取决于战斗\n\n战斗阶段"
+    "context": "机翻辅助：\n\n依照战斗结果\n\n取决于战斗\n\n战斗阶段"
   },
   {
     "key": "MESPAK01_0006_0076",
@@ -541,9 +541,9 @@
   {
     "key": "MESPAK01_0006_0077",
     "original": "たんけんけっかしだい",
-    "translation": "取决于探险结果",
+    "translation": "依照探索结果",
     "stage": 0,
-    "context": "机翻辅助：\n\n取决于探险结果\n\n单检验结果"
+    "context": "机翻辅助：\n\n依照探索结果\n\n单检验结果\n\n取决于探险结果"
   },
   {
     "key": "MESPAK01_0006_0078",

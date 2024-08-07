@@ -10,7 +10,26 @@ from helper import CHAR_TABLE_PATH, DIR_IMPORT_ROOT, DIR_FONT, DIR_UNPACKED_FILE
 from nftr import NFTR, CGLPTile, CWDHInfo
 
 
-def draw_char_0(draw: ImageDraw.ImageDraw, font: ImageFont.FreeTypeFont, char: str) -> None:
+def draw_char_0(bitmap: Image.Image, font: ImageFont.FreeTypeFont, char: str) -> None:
+  draw = ImageDraw.Draw(bitmap)
+  draw.text(
+    (1, 12),
+    char,
+    0x55,
+    font,
+    "ls",
+  )
+  draw.text(
+    (0, 11),
+    char,
+    0xAA,
+    font,
+    "ls",
+  )
+
+
+def draw_char_4(bitmap: Image.Image, font: ImageFont.FreeTypeFont, char: str) -> None:
+  draw = ImageDraw.Draw(bitmap)
   draw.text(
     (1, 13),
     char,
@@ -27,24 +46,8 @@ def draw_char_0(draw: ImageDraw.ImageDraw, font: ImageFont.FreeTypeFont, char: s
   )
 
 
-def draw_char_4(draw: ImageDraw.ImageDraw, font: ImageFont.FreeTypeFont, char: str) -> None:
-  draw.text(
-    (1, 13),
-    char,
-    0x55,
-    font,
-    "ls",
-  )
-  draw.text(
-    (0, 12),
-    char,
-    0xAA,
-    font,
-    "ls",
-  )
-
-
-def draw_char_5(draw: ImageDraw.ImageDraw, font: ImageFont.FreeTypeFont, char: str) -> None:
+def draw_char_5(bitmap: Image.Image, font: ImageFont.FreeTypeFont, char: str) -> None:
+  draw = ImageDraw.Draw(bitmap)
   draw.text(
     (0, 10),
     char,
@@ -54,7 +57,8 @@ def draw_char_5(draw: ImageDraw.ImageDraw, font: ImageFont.FreeTypeFont, char: s
   )
 
 
-def draw_char_6(draw: ImageDraw.ImageDraw, font: ImageFont.FreeTypeFont, char: str) -> None:
+def draw_char_6(bitmap: Image.Image, font: ImageFont.FreeTypeFont, char: str) -> None:
+  draw = ImageDraw.Draw(bitmap)
   draw.text(
     (0, 13),
     char,
@@ -65,7 +69,9 @@ def draw_char_6(draw: ImageDraw.ImageDraw, font: ImageFont.FreeTypeFont, char: s
     stroke_fill=0xcc,
   )
 
-def draw_char_7(draw: ImageDraw.ImageDraw, font: ImageFont.FreeTypeFont, char: str) -> None:
+
+def draw_char_7(bitmap: Image.Image, font: ImageFont.FreeTypeFont, char: str) -> None:
+  draw = ImageDraw.Draw(bitmap)
   draw.text(
     (0, 13),
     char,
@@ -130,8 +136,9 @@ for file_name in os.listdir(f"{DIR_UNPACKED_FILES}/{DIR_FONT}"):
   config = FONT_CONFIG[font_index]
 
   font = ImageFont.truetype(config["font"], config["size"])
-  draw_char: Callable[[ImageDraw.ImageDraw, ImageFont.FreeTypeFont, str], None] = config["draw"]
+  draw_char: Callable[[Image.Image, ImageFont.FreeTypeFont, str], None] = config["draw"]
   char_width: int = config["width"]
+  char_length: int = config.get("length", char_width)
 
   new_char_map = {}
   for code in sorted(nftr.char_map.keys()):
@@ -148,15 +155,14 @@ for file_name in os.listdir(f"{DIR_UNPACKED_FILES}/{DIR_FONT}"):
     new_char_map[code] = struct.unpack(">H", shift_jis.encode("cp932"))[0]
 
     bitmap = Image.new("L", (tile.width, tile.height), 0xff)
-    draw = ImageDraw.Draw(bitmap)
-    draw_char(draw, font, chs)
+    draw_char(bitmap, font, chs)
     new_tile = CGLPTile(tile.width, tile.height, tile.depth, tile.get_bytes(bitmap))
     if code < len(nftr.cglp.tiles):
       nftr.cglp.tiles[code] = new_tile
-      nftr.cwdh.info[code] = CWDHInfo(0, char_width, char_width)
+      nftr.cwdh.info[code] = CWDHInfo(0, char_width, char_length)
     else:
       nftr.cglp.tiles.append(new_tile)
-      nftr.cwdh.info.append(CWDHInfo(0, char_width, char_width))
+      nftr.cwdh.info.append(CWDHInfo(0, char_width, char_length))
 
     code += 1
 

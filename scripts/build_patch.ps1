@@ -15,5 +15,8 @@ python scripts\convert_json_to_messages.py
 python scripts\create_font.py
 python scripts\repack_pak.py
 
-Compress-Archive -Path "out/data/" -Destination "patch-ds.zip" -Force
+dotnet script scripts/edit_arm9.csx
+dotnet script scripts/edit_banner.csx
+
+Compress-Archive -Path "out/data/","out/arm9.bin","out/banner.bin" -Destination "patch-ds.zip" -Force
 Move-Item -Path "patch-ds.zip" -Destination "out/patch-ds.xzp" -Force

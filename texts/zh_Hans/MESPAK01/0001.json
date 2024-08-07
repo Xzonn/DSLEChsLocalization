@@ -16,9 +16,9 @@
   {
     "key": "MESPAK01_0001_0002",
     "original": "ファーム島のなまえ",
-    "translation": "农场岛的名字",
+    "translation": "法姆岛的名字",
     "stage": 0,
-    "context": "机翻辅助：\n\n农场岛的名字"
+    "context": "机翻辅助：\n\n法姆岛的名字\n\n农场岛的名字"
   },
   {
     "key": "MESPAK01_0001_0003",
@@ -30,100 +30,100 @@
   {
     "key": "MESPAK01_0001_0004",
     "original": "ともだちコード",
-    "translation": "朋友代码",
+    "translation": "朋友密码",
     "stage": 0,
-    "context": "机翻辅助：\n\n朋友代码"
+    "context": "机翻辅助：\n\n朋友密码\n\n朋友代码"
   },
   {
     "key": "MESPAK01_0001_0005",
     "original": "ひみつのパスワードに　まちがいがあります\nもういちどにゅうりょくしてください",
-    "translation": "秘密密码有错误\n请再输入一次",
+    "translation": "你输入的秘密密码　有误\n请再输入一次",
     "stage": 0,
-    "context": "机翻辅助：\n\n秘密密码有错误\n请再输入一次\n\n秘密密码有错误。请再输入一次。"
+    "context": "机翻辅助：\n\n你输入的秘密密码　有误\n请再输入一次\n\n秘密密码有错误\n请再输入一次\n\n秘密密码有错误。请再输入一次。"
   },
   {
     "key": "MESPAK01_0001_0006",
     "original": "そのともだちコードは　ただしくありません",
-    "translation": "那个朋友的代码是不正确的。",
+    "translation": "你输入的朋友密码　有误",
     "stage": 0,
-    "context": "机翻辅助：\n\n那个朋友的代码是不正确的。\n\n那个朋友的代码不正确"
+    "context": "机翻辅助：\n\n你输入的朋友密码　有误\n\n那个朋友的代码不正确\n\n那个朋友的代码是不正确的。"
   },
   {
     "key": "MESPAK01_0001_0007",
     "original": "ともだちコードの　にゅうりょくを\nちゅうし　しますか？",
     "translation": "\n要停止朋友代码的输入吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n\n要停止朋友代码的输入吗？\n\n朋友代码输入\n中？"
+    "context": "机翻辅助：\n\n\n要停止朋友代码的输入吗？\n\n朋友代码输入\n中？\n\n要　重新输入朋友密码吗？"
   },
   {
     "key": "MESPAK01_0001_0008",
     "original": "はい　ちゅうしします",
-    "translation": "停掉。",
+    "translation": "是　要",
     "stage": 0,
-    "context": "机翻辅助：\n\n停掉。\n\n排污中心"
+    "context": "机翻辅助：\n\n是　要\n\n停掉。\n\n排污中心"
   },
   {
     "key": "MESPAK01_0001_0009",
     "original": "いいえ　ちゅうししません",
-    "translation": "不，我不会停止。",
+    "translation": "否　不要",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，我不会停止。\n\n不中心"
+    "context": "机翻辅助：\n\n否　不要\n\n不，我不会停止。\n\n不中心"
   },
   {
     "key": "MESPAK01_0001_0010",
     "original": "で　いいですか？",
-    "translation": "可以吗？",
+    "translation": "要这样吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n可以吗？"
+    "context": "机翻辅助：\n\n要这样吗？\n\n可以吗？"
   },
   {
     "key": "MESPAK01_0001_0011",
     "original": "はい　いいです",
-    "translation": "好，好。",
+    "translation": "是　可以",
     "stage": 0,
-    "context": "机翻辅助：\n\n好，好。\n\n好的"
+    "context": "机翻辅助：\n\n是　可以\n\n好的\n\n好，好。"
   },
   {
     "key": "MESPAK01_0001_0012",
     "original": "いいえ　つけなおします",
-    "translation": "不，重新装。",
+    "translation": "否　要重新设定",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，重新装。\n\n不，我重新给你"
+    "context": "机翻辅助：\n\n否　要重新设定\n\n不，重新装。\n\n不，我重新给你"
   },
   {
     "key": "MESPAK01_0001_0013",
     "original": "しゅじんこうのなまえは",
-    "translation": "主人公的名字",
+    "translation": "主人的名字",
     "stage": 0,
-    "context": "机翻辅助：\n\n主人公的名字\n\n主人口的名字是"
+    "context": "机翻辅助：\n\n主人的名字\n\n主人公的名字\n\n主人口的名字是"
   },
   {
     "key": "MESPAK01_0001_0014",
     "original": "ニックネームは",
-    "translation": "他的昵称是",
+    "translation": "昵称",
     "stage": 0,
-    "context": "机翻辅助：\n\n他的昵称是\n\n昵称是"
+    "context": "机翻辅助：\n\n昵称\n\n昵称是\n\n他的昵称是"
   },
   {
     "key": "MESPAK01_0001_0015",
     "original": "ファーム島のなまえは",
-    "translation": "农场岛的名字是",
+    "translation": "法姆岛的名字",
     "stage": 0,
-    "context": "机翻辅助：\n\n农场岛的名字是"
+    "context": "机翻辅助：\n\n法姆岛的名字\n\n农场岛的名字是"
   },
   {
     "key": "MESPAK01_0001_0016",
     "original": "ひみつのパスワードは",
-    "translation": "这个秘密密码",
+    "translation": "秘密的密码",
     "stage": 0,
-    "context": "机翻辅助：\n\n这个秘密密码\n\n秘密的密码是"
+    "context": "机翻辅助：\n\n秘密的密码\n\n这个秘密密码\n\n秘密的密码是"
   },
   {
     "key": "MESPAK01_0001_0017",
     "original": "ともだちコードは",
-    "translation": "朋友代码",
+    "translation": "朋友密码",
     "stage": 0,
-    "context": "机翻辅助：\n\n朋友代码\n\n朋友代码是"
+    "context": "机翻辅助：\n\n朋友密码\n\n朋友代码\n\n朋友代码是"
   },
   {
     "key": "MESPAK01_0001_0018",
@@ -135,16 +135,16 @@
   {
     "key": "MESPAK01_0001_0019",
     "original": "つづきから",
-    "translation": "从后面开始",
+    "translation": "从继续开始",
     "stage": 0,
-    "context": "机翻辅助：\n\n从后面开始\n\n从下一个开始"
+    "context": "机翻辅助：\n\n从继续开始\n\n从后面开始\n\n从下一个开始"
   },
   {
     "key": "MESPAK01_0001_0020",
     "original": "Ｗｉ－Ｆｉせってい",
-    "translation": "Wi-Fi设置",
+    "translation": "Wi-Fi设定",
     "stage": 0,
-    "context": "机翻辅助：\n\nWi-Fi设置"
+    "context": "机翻辅助：\n\nWi-Fi设定\n\nWi-Fi设置"
   },
   {
     "key": "MESPAK01_0001_0021",
@@ -156,107 +156,107 @@
   {
     "key": "MESPAK01_0001_0022",
     "original": "きをつけて！",
-    "translation": "小心！",
+    "translation": "请小心！",
     "stage": 0,
-    "context": "机翻辅助：\n\n小心！\n\n小心点！"
+    "context": "机翻辅助：\n\n请小心！\n\n小心点！\n\n小心！"
   },
   {
     "key": "MESPAK01_0001_0023",
     "original": "あたらしくセーブデータを　つくると",
-    "translation": "当你建立新的存储数据时，",
+    "translation": "因为　重新设定存档的话",
     "stage": 0,
-    "context": "机翻辅助：\n\n当你建立新的存储数据时，\n\n如果你做一个新的存档数据"
+    "context": "机翻辅助：\n\n因为　重新设定存档的话\n\n当你建立新的存储数据时，\n\n如果你做一个新的存档数据"
   },
   {
     "key": "MESPAK01_0001_0024",
     "original": "Ｗｉ－Ｆｉじょうほうも　きえるからね！",
-    "translation": "因为Wi-Fi信息也消失了！",
+    "translation": "Wi-Fi资讯　也会消失！",
     "stage": 0,
-    "context": "机翻辅助：\n\n因为Wi-Fi信息也消失了！\n\n因为Wi-Fi信息也能听到！"
+    "context": "机翻辅助：\n\nWi-Fi资讯　也会消失！\n\n因为Wi-Fi信息也消失了！\n\n因为Wi-Fi信息也能听到！"
   },
   {
     "key": "MESPAK01_0001_0025",
     "original": "ＰＵＳＨ　ＳＴＡＲＴ　ＢＵＴＴＯＮ",
-    "translation": "PUSH START BUTTON",
+    "translation": "PUSH　START　BUTTON",
     "stage": 0,
-    "context": "机翻辅助：\n\nPUSH START BUTTON"
+    "context": "机翻辅助：\n\nPUSH　START　BUTTON\n\nPUSH START BUTTON"
   },
   {
     "key": "MESPAK01_0001_0026",
     "original": "キミは　おとこのこかな？\nおんなのこかな？",
-    "translation": "你是男生吗？\n是女孩子吗？",
-    "stage": 0,
-    "context": "机翻辅助：\n\n你是男生吗？\n是女孩子吗？\n\n你是男人吗？\n是女人吗？"
+    "translation": "你是男孩吗？\n还是女孩呢？",
+    "stage": 1,
+    "context": "机翻辅助：\n\n你是　男生吗？\n还是女生？\n\n你是男人吗？\n是女人吗？\n\n你是男生吗？\n是女孩子吗？"
   },
   {
     "key": "MESPAK01_0001_0027",
     "original": "キミは　^Pっていうなまえの\nおんなのこ　なの？",
-    "translation": "你是叫^P的\n女孩吗？",
+    "translation": "你　是叫^P的\n女生　吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n你是叫^P的\n女孩吗？\n\n你的名字是“^P”\n是女的吗？"
+    "context": "机翻辅助：\n\n你　是叫^P的\n女生　吗？\n\n你的名字是“^P”\n是女的吗？\n\n你是叫^P的\n女孩吗？"
   },
   {
     "key": "MESPAK01_0001_0028",
     "original": "はい　そうです",
-    "translation": "是的是的",
-    "stage": 0,
-    "context": "机翻辅助：\n\n是的是的\n\n是的"
+    "translation": "是的，没错",
+    "stage": 1,
+    "context": "机翻辅助：\n\n是　没错\n\n是的是的\n\n是的"
   },
   {
     "key": "MESPAK01_0001_0029",
     "original": "いいえ　ちがいます",
-    "translation": "不，不是的",
-    "stage": 0,
-    "context": "机翻辅助：\n\n不，不是的\n\n不，不是"
+    "translation": "不对，搞错了",
+    "stage": 1,
+    "context": "机翻辅助：\n\n否　不是\n\n不，不是的\n\n不，不是"
   },
   {
     "key": "MESPAK01_0001_0030",
     "original": "キミは　^Pっていうなまえの\nおとこのこ　なの？",
-    "translation": "你是叫^P的\n男孩吗？",
+    "translation": "你　是叫^P的\n男生　吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n你是叫^P的\n男孩吗？\n\n你的名字是“^P”\n你是男人吗？"
+    "context": "机翻辅助：\n\n你　是叫^P的\n男生　吗？\n\n你的名字是“^P”\n你是男人吗？\n\n你是叫^P的\n男孩吗？"
   },
   {
     "key": "MESPAK01_0001_0031",
     "original": "シュウ",
-    "translation": "周",
+    "translation": "修",
     "stage": 0,
-    "context": "机翻辅助：\n\n周\n\n草木"
+    "context": "机翻辅助：\n\n修\n\n草木\n\n周"
   },
   {
     "key": "MESPAK01_0001_0032",
     "original": "キズナ",
-    "translation": "带子",
-    "stage": 0,
-    "context": "机翻辅助：\n\n带子\n\n木纹"
+    "translation": "绊",
+    "stage": 1,
+    "context": "机翻辅助：\n\n羁绊\n\n带子\n\n木纹"
   },
   {
     "key": "MESPAK01_0001_0033",
     "original": "^0は\n^1で　いいですか？",
-    "translation": "^0\n^1可以吗？",
+    "translation": "^0\n是^1　吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n^0\n^1可以吗？"
+    "context": "机翻辅助：\n\n^0\n是^1　吗？\n\n^0\n^1可以吗？"
   },
   {
     "key": "MESPAK01_0001_0034",
     "original": "キミは　^0っていうなまえの\n^1　なの？",
-    "translation": "你是叫^0的\n^1吗？",
+    "translation": "你　是叫^0的\n^1　吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n你是叫^0的\n^1吗？"
+    "context": "机翻辅助：\n\n你　是叫^0的\n^1　吗？\n\n你是叫^0的\n^1吗？"
   },
   {
     "key": "MESPAK01_0001_0035",
     "original": "おとこのこ",
-    "translation": "男孩",
-    "stage": 0,
-    "context": "机翻辅助：\n\n男孩\n\n男孩儿"
+    "translation": "男孩子",
+    "stage": 1,
+    "context": "机翻辅助：\n\n男生\n\n男孩儿\n\n男孩"
   },
   {
     "key": "MESPAK01_0001_0036",
     "original": "おんなのこ",
-    "translation": "女孩子",
+    "translation": "女生",
     "stage": 0,
-    "context": "机翻辅助：\n\n女孩子\n\n女锯"
+    "context": "机翻辅助：\n\n女生\n\n女锯\n\n女孩子"
   },
   {
     "key": "MESPAK01_0001_0037",
@@ -310,16 +310,16 @@
   {
     "key": "MESPAK01_0001_0044",
     "original": "９ＰＴ８４ｆｈ３",
-    "translation": "9pt84fh3",
+    "translation": "9PT84fh3",
     "stage": 0,
-    "context": "机翻辅助：\n\n9pt84fh3\n\n9PT84fh3"
+    "context": "机翻辅助：\n\n9PT84fh3\n\n9pt84fh3"
   },
   {
     "key": "MESPAK01_0001_0045",
     "original": "３Ｋ４ｕｒ８８Ｕ",
-    "translation": "3k4ur88u",
+    "translation": "3K4ur88U",
     "stage": 0,
-    "context": "机翻辅助：\n\n3k4ur88u\n\n3K4ur88U"
+    "context": "机翻辅助：\n\n3K4ur88U\n\n3k4ur88u"
   },
   {
     "key": "MESPAK01_0001_0046",
@@ -331,16 +331,16 @@
   {
     "key": "MESPAK01_0001_0047",
     "original": "４ＲＦＧＨＪＫ４",
-    "translation": "4 RFGHJK4",
+    "translation": "4RFGHJK4",
     "stage": 0,
-    "context": "机翻辅助：\n\n4 RFGHJK4\n\n4RFGHJK4"
+    "context": "机翻辅助：\n\n4RFGHJK4\n\n4 RFGHJK4"
   },
   {
     "key": "MESPAK01_0001_0048",
     "original": "ｈｙＵＫＨＩＵ９",
-    "translation": "hyUKHIU9",
+    "translation": "hyUUKHIU9",
     "stage": 0,
-    "context": "机翻辅助：\n\nhyUKHIU9"
+    "context": "机翻辅助：\n\nhyUUKHIU9\n\nhyUKHIU9"
   },
   {
     "key": "MESPAK01_0001_0049",

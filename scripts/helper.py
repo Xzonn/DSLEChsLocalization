@@ -27,7 +27,11 @@ CHINESE_TO_JAPANESE = {
   "·": "・",
   "—": "ー",
   " ": "　",
+  "+": "＋",
   "-": "－",
+  "%": "％",
+  ".": "．",
+  ",": "，",
 }
 
 char_table_reversed: dict[str, str] = {}

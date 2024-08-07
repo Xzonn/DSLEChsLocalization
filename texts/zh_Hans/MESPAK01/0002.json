@@ -2,394 +2,394 @@
   {
     "key": "MESPAK01_0002_0000",
     "original": "アイテムをかう",
-    "translation": "购买物品",
+    "translation": "购买道具",
     "stage": 0,
-    "context": "机翻辅助：\n\n购买物品"
+    "context": "机翻辅助：\n\n购买道具\n\n购买物品"
   },
   {
     "key": "MESPAK01_0002_0001",
     "original": "そうびアイテムを　かう",
-    "translation": "购买装备",
+    "translation": "购买　特殊道具",
     "stage": 0,
-    "context": "机翻辅助：\n\n购买装备\n\n购买装备物品"
+    "context": "机翻辅助：\n\n购买　特殊道具\n\n购买装备\n\n购买装备物品"
   },
   {
     "key": "MESPAK01_0002_0002",
     "original": "しょうひアイテムを　かう",
-    "translation": "购买消费项目",
+    "translation": "购买　奖品",
     "stage": 0,
-    "context": "机翻辅助：\n\n购买消费项目\n\n买消费品"
+    "context": "机翻辅助：\n\n购买　奖品\n\n购买消费项目\n\n买消费品"
   },
   {
     "key": "MESPAK01_0002_0003",
     "original": "メニューを　とじる",
-    "translation": "合上菜单",
+    "translation": "关掉选单。",
     "stage": 0,
-    "context": "机翻辅助：\n\n合上菜单\n\n关闭菜单"
+    "context": "机翻辅助：\n\n关掉选单。\n\n关闭菜单\n\n合上菜单"
   },
   {
     "key": "MESPAK01_0002_0004",
     "original": "アイテムをうる",
-    "translation": "出售物品",
+    "translation": "道具栏里",
     "stage": 0,
-    "context": "机翻辅助：\n\n出售物品\n\n得到物品"
+    "context": "机翻辅助：\n\n道具栏里\n\n出售物品\n\n得到物品"
   },
   {
     "key": "MESPAK01_0002_0005",
     "original": "そうびアイテムを　うる",
-    "translation": "出售装备项目",
+    "translation": "使用特殊道具　　烦死了",
     "stage": 0,
-    "context": "机翻辅助：\n\n出售装备项目\n\n得到装备项目"
+    "context": "机翻辅助：\n\n使用特殊道具　　烦死了\n\n出售装备项目\n\n得到装备项目"
   },
   {
     "key": "MESPAK01_0002_0006",
     "original": "しょうひアイテムを　うる",
-    "translation": "出售消费项目",
+    "translation": "我想要道具。呜呜。",
     "stage": 0,
-    "context": "机翻辅助：\n\n出售消费项目\n\n得到消费品"
+    "context": "机翻辅助：\n\n我想要道具。呜呜。\n\n得到消费品\n\n出售消费项目"
   },
   {
     "key": "MESPAK01_0002_0007",
     "original": "ファームグッズを　うる",
-    "translation": "卖农场商品",
+    "translation": "植物性食品　好烦",
     "stage": 0,
-    "context": "机翻辅助：\n\n卖农场商品\n\n得到农场用品"
+    "context": "机翻辅助：\n\n植物性食品　好烦\n\n卖农场商品\n\n得到农场用品"
   },
   {
     "key": "MESPAK01_0002_0008",
     "original": "バグプレートを　うる",
-    "translation": "出售故障板",
+    "translation": "我将防虫板……呜哇。",
     "stage": 0,
-    "context": "机翻辅助：\n\n出售故障板\n\n得到bug板"
+    "context": "机翻辅助：\n\n我将防虫板……呜哇。\n\n得到bug板\n\n出售故障板"
   },
   {
     "key": "MESPAK01_0002_0009",
     "original": "ファーム島を\n３００００￡でかいますか？",
-    "translation": "\n30000奥林匹克农场岛？",
+    "translation": "要用\n30000￡买下法尔姆岛吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n\n30000奥林匹克农场岛？\n\n农场岛\n30000？"
+    "context": "机翻辅助：\n\n要用\n30000￡买下法尔姆岛吗？\n\n\n30000奥林匹克农场岛？\n\n农场岛\n30000？"
   },
   {
     "key": "MESPAK01_0002_0010",
     "original": "はい　かいます",
-    "translation": "我知道。",
+    "translation": "好的　我要上咯",
     "stage": 0,
-    "context": "机翻辅助：\n\n我知道。\n\n灰阶"
+    "context": "机翻辅助：\n\n好的　我要上咯\n\n我知道。\n\n灰阶"
   },
   {
     "key": "MESPAK01_0002_0011",
     "original": "いいえ　かいません",
-    "translation": "不不不",
+    "translation": "不　不会",
     "stage": 0,
-    "context": "机翻辅助：\n\n不不不\n\n不，不"
+    "context": "机翻辅助：\n\n不　不会\n\n不，不\n\n不不不"
   },
   {
     "key": "MESPAK01_0002_0012",
     "original": "ファーム島を　１つかいました\nファーム島に　なまえを　つけてください",
-    "translation": "用了一个农场岛。\n请给农场岛起个名字。",
+    "translation": "在农场岛　盖了1栋房子\n请替农场岛　取个名字",
     "stage": 0,
-    "context": "机翻辅助：\n\n用了一个农场岛。\n请给农场岛起个名字。\n\n使用了一个农场岛\n请给农场岛起个名字"
+    "context": "机翻辅助：\n\n在农场岛　盖了1栋房子\n请替农场岛　取个名字\n\n使用了一个农场岛\n请给农场岛起个名字\n\n用了一个农场岛。\n请给农场岛起个名字。"
   },
   {
     "key": "MESPAK01_0002_0013",
     "original": "ｂｉｔが　たりません",
-    "translation": "bit不够。",
+    "translation": "因为　我　不够",
     "stage": 0,
-    "context": "机翻辅助：\n\nbit不够。\n\n不够位"
+    "context": "机翻辅助：\n\n因为　我　不够\n\n不够位\n\nbit不够。"
   },
   {
     "key": "MESPAK01_0002_0014",
     "original": "ファーム島は４つ　もっているので\nこれ以上　かえません",
-    "translation": "\n因为我们有四个农场岛，我们不能再买了。",
+    "translation": "我有4个农场岛\n所以不能给你更多",
     "stage": 0,
-    "context": "机翻辅助：\n\n\n因为我们有四个农场岛，我们不能再买了。\n\n农场岛有4个\n再也不换了"
+    "context": "机翻辅助：\n\n我有4个农场岛\n所以不能给你更多\n\n农场岛有4个\n再也不换了\n\n\n因为我们有四个农场岛，我们不能再买了。"
   },
   {
     "key": "MESPAK01_0002_0015",
     "original": "ファーム島に　せっちするちけいボードは\n^0で　いいですか？",
     "translation": "农场岛上设置的地形板是\n^0可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n农场岛上设置的地形板是\n^0可以吗？\n\n靠近农场岛的地形板\n^0可以吗？"
+    "context": "机翻辅助：\n\n农场岛上设置的地形板是\n^0可以吗？\n\n靠近农场岛的地形板\n^0可以吗？\n\n在法姆岛　用^0　当冲浪板　可以吗？"
   },
   {
     "key": "MESPAK01_0002_0016",
     "original": "はい　いいです",
-    "translation": "好，好。",
+    "translation": "是　可以",
     "stage": 0,
-    "context": "机翻辅助：\n\n好，好。\n\n好的"
+    "context": "机翻辅助：\n\n是　可以\n\n好的\n\n好，好。"
   },
   {
     "key": "MESPAK01_0002_0017",
     "original": "いいえ　えらびなおします",
-    "translation": "不，我们重新选择。",
+    "translation": "不　我要重新选择",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，我们重新选择。\n\n不，我会重新做的"
+    "context": "机翻辅助：\n\n不　我要重新选择\n\n不，我们重新选择。\n\n不，我会重新做的"
   },
   {
     "key": "MESPAK01_0002_0018",
     "original": "^0を　せっちしました",
-    "translation": "设置了一个^0。",
+    "translation": "我　　把^0　　塞爆了",
     "stage": 0,
-    "context": "机翻辅助：\n\n设置了一个^0。\n\n我接了^0"
+    "context": "机翻辅助：\n\n我　　把^0　　塞爆了\n\n设置了一个^0。\n\n我接了^0"
   },
   {
     "key": "MESPAK01_0002_0019",
     "original": "ファーム島に　せっちするＢＧＭボードは\n^0で　いいですか？",
-    "translation": "农场岛上设置的背景音乐板是\n^0可以吗？",
+    "translation": "靠近农场岛的BGM板\n^0可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n农场岛上设置的背景音乐板是\n^0可以吗？\n\n靠近农场岛的BGM板\n^0可以吗？"
+    "context": "机翻辅助：\n\n靠近农场岛的BGM板\n^0可以吗？\n\n农场岛上设置的背景音乐板是\n^0可以吗？\n\n在法姆岛　用^0　当背景音乐　可以吗？"
   },
   {
     "key": "MESPAK01_0002_0020",
     "original": "ショップを　しゅうりょうしますか？",
-    "translation": "要关掉商店吗？",
+    "translation": "要　结束　商店吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n要关掉商店吗？\n\n你要去商店吗？"
+    "context": "机翻辅助：\n\n要　结束　商店吗？\n\n你要去商店吗？\n\n要关掉商店吗？"
   },
   {
     "key": "MESPAK01_0002_0021",
     "original": "はい　しゅうりょうします",
-    "translation": "结束了",
+    "translation": "好的　我接受",
     "stage": 0,
-    "context": "机翻辅助：\n\n结束了\n\n好的，结束"
+    "context": "机翻辅助：\n\n好的　我接受\n\n结束了\n\n好的，结束"
   },
   {
     "key": "MESPAK01_0002_0022",
     "original": "いいえ　しゅうりょうしません",
-    "translation": "不，没有结束。",
+    "translation": "不　我不会辞职",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，没有结束。\n\n不结束"
+    "context": "机翻辅助：\n\n不　我不会辞职\n\n不，没有结束。\n\n不结束"
   },
   {
     "key": "MESPAK01_0002_0023",
     "original": "こうもくを　えらんで　ください",
-    "translation": "请选择项目",
+    "translation": "请　　选择　　一个",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择项目\n\n请看一下这个项目"
+    "context": "机翻辅助：\n\n请　　选择　　一个\n\n请选择项目\n\n请看一下这个项目"
   },
   {
     "key": "MESPAK01_0002_0024",
     "original": "こうもくを　えらんで　ください",
-    "translation": "请选择项目",
+    "translation": "请　　选择　　一个",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择项目\n\n请看一下这个项目"
+    "context": "机翻辅助：\n\n请　　选择　　一个\n\n请选择项目\n\n请看一下这个项目"
   },
   {
     "key": "MESPAK01_0002_0025",
     "original": "こうもくを　えらんで　ください",
-    "translation": "请选择项目",
+    "translation": "请　　选择　　一个",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择项目\n\n请看一下这个项目"
+    "context": "机翻辅助：\n\n请　　选择　　一个\n\n请选择项目\n\n请看一下这个项目"
   },
   {
     "key": "MESPAK01_0002_0026",
     "original": "かいたい　そうびアイテムを　えらんで　ください",
-    "translation": "请选择要拆的装备。",
+    "translation": "请选择　装备道具",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择要拆的装备。\n\n请选择携带物品"
+    "context": "机翻辅助：\n\n请选择　装备道具\n\n请选择要拆的装备。\n\n请选择携带物品"
   },
   {
     "key": "MESPAK01_0002_0027",
     "original": "かいたい　しょうひアイテムを　えらんで　ください",
-    "translation": "请选择解体消费项目。",
+    "translation": "请选择　您　想要　的　道具",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择解体消费项目。\n\n请选择实体消费项目"
+    "context": "机翻辅助：\n\n请选择　您　想要　的　道具\n\n请选择解体消费项目。\n\n请选择实体消费项目"
   },
   {
     "key": "MESPAK01_0002_0028",
     "original": "かいたい　ファームグッズを　えらんで　ください",
-    "translation": "请选择解体农场的商品。",
+    "translation": "请　　选择　　您　　想要　　的　　周边商品",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择解体农场的商品。\n\n请看一下大型农场的商品"
+    "context": "机翻辅助：\n\n请　　选择　　您　　想要　　的　　周边商品\n\n请看一下大型农场的商品\n\n请选择解体农场的商品。"
   },
   {
     "key": "MESPAK01_0002_0029",
     "original": "かいたい　リペアリングツールを　えらんで　ください",
-    "translation": "请选择拆卸修复工具。",
+    "translation": "请　选择　修理工具",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择拆卸修复工具。\n\n请选择实体修复工具"
+    "context": "机翻辅助：\n\n请　选择　修理工具\n\n请选择拆卸修复工具。\n\n请选择实体修复工具"
   },
   {
     "key": "MESPAK01_0002_0030",
     "original": "うりたい　そうびアイテムを　えらんで　ください",
-    "translation": "请选择想卖的装备。",
+    "translation": "请　选择　装备道具",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择想卖的装备。\n\n请看一下卖方装备项目"
+    "context": "机翻辅助：\n\n请　选择　装备道具\n\n请看一下卖方装备项目\n\n请选择想卖的装备。"
   },
   {
     "key": "MESPAK01_0002_0031",
     "original": "うりたい　しょうひアイテムを　えらんで　ください",
-    "translation": "请选择想卖的商品。",
+    "translation": "请　选择　消耗道具",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择想卖的商品。\n\n请选择出售的消费品"
+    "context": "机翻辅助：\n\n请　选择　消耗道具\n\n请选择想卖的商品。\n\n请选择出售的消费品"
   },
   {
     "key": "MESPAK01_0002_0032",
     "original": "うりたい　ファームグッズを　えらんで　ください",
-    "translation": "请选择想卖的农场商品。",
+    "translation": "请　选择　家具",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择想卖的农场商品。\n\n请看卖的农场商品"
+    "context": "机翻辅助：\n\n请　选择　家具\n\n请看卖的农场商品\n\n请选择想卖的农场商品。"
   },
   {
     "key": "MESPAK01_0002_0033",
     "original": "うりたい　バグプレートを　えらんで　ください",
-    "translation": "请选择你想卖的bug板。",
+    "translation": "请　选择　虫板",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择你想卖的bug板。\n\n请看一下卖方的袋板"
+    "context": "机翻辅助：\n\n请　选择　虫板\n\n请看一下卖方的袋板\n\n请选择你想卖的bug板。"
   },
   {
     "key": "MESPAK01_0002_0034",
     "original": "をいくつ　かいますか？",
-    "translation": "买几个？",
+    "translation": "要　画　几块？",
     "stage": 0,
-    "context": "机翻辅助：\n\n买几个？\n\n有几个？"
+    "context": "机翻辅助：\n\n要　画　几块？\n\n买几个？\n\n有几个？"
   },
   {
     "key": "MESPAK01_0002_0035",
     "original": "ほかに　ごようは　ございますか？",
-    "translation": "还有别的事吗？",
+    "translation": "还有　其他　要求吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n还有别的事吗？"
+    "context": "机翻辅助：\n\n还有　其他　要求吗？\n\n还有别的事吗？"
   },
   {
     "key": "MESPAK01_0002_0036",
     "original": "^0を\n^1コかいますか？",
     "translation": "^0\n你会买^1吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n^0\n你会买^1吗？\n\n有^0的^1吗？"
+    "context": "机翻辅助：\n\n^0\n你会买^1吗？\n\n要　画　^0吗？^1\n\n\n有^0的^1吗？"
   },
   {
     "key": "MESPAK01_0002_0037",
     "original": "^0を^1コかいました",
-    "translation": "我写了^0。^1",
+    "translation": "要　画　^0^1",
     "stage": 0,
-    "context": "机翻辅助：\n\n我写了^0。^1\n\n我画了^0^1"
+    "context": "机翻辅助：\n\n要　画　^0^1\n\n我画了^0^1\n\n我写了^0。^1"
   },
   {
     "key": "MESPAK01_0002_0038",
     "original": "ｂｉｔがたりないので　かえません",
-    "translation": "bit不够，我不买。",
+    "translation": "因为　没有　比特　所以　不换",
     "stage": 0,
-    "context": "机翻辅助：\n\nbit不够，我不买。\n\n因为bit不够所以不换"
+    "context": "机翻辅助：\n\n因为　没有　比特　所以　不换\n\n因为bit不够所以不换\n\nbit不够，我不买。"
   },
   {
     "key": "MESPAK01_0002_0039",
     "original": "そのアイテムは　９９コもっているので\nこれ以上　かえません",
     "translation": "因为那个项目有99个\n再也不换了",
     "stage": 0,
-    "context": "机翻辅助：\n\n因为那个项目有99个\n再也不换了\n\n那个项目有99个，所以不能再买了。"
+    "context": "机翻辅助：\n\n因为那个项目有99个\n再也不换了\n\n那个道具　已经　有99块　所以　不换\n\n\n那个项目有99个，所以不能再买了。"
   },
   {
     "key": "MESPAK01_0002_0040",
     "original": "そのそうびは　９９コもっているので\nこれ以上　かえません",
     "translation": "因为那个装置有99个\n再也不换了",
     "stage": 0,
-    "context": "机翻辅助：\n\n因为那个装置有99个\n再也不换了\n\n那个装备我有99个，所以不能再买了。"
+    "context": "机翻辅助：\n\n因为那个装置有99个\n再也不换了\n\n那个装备　已经　有99块　所以　不换\n\n\n那个装备我有99个，所以不能再买了。"
   },
   {
     "key": "MESPAK01_0002_0041",
     "original": "そのファームグッズは　９コもっているので\nこれ以上　かえません",
     "translation": "因为那个农场商品有9个\n再也不换了",
     "stage": 0,
-    "context": "机翻辅助：\n\n因为那个农场商品有9个\n再也不换了\n\n那个农场商品有9个，所以不能再买了。"
+    "context": "机翻辅助：\n\n因为那个农场商品有9个\n再也不换了\n\n那个家具　已经　有9块　所以　不换\n\n\n那个农场商品有9个，所以不能再买了。"
   },
   {
     "key": "MESPAK01_0002_0042",
     "original": "そのリペアリングツールは\nすでにもっているので　かえません",
     "translation": "那个修复工具\n我已经有了，不能买了",
     "stage": 0,
-    "context": "机翻辅助：\n\n那个修复工具\n我已经有了，不能买了\n\n那个修复工具\n已经有了所以不换"
+    "context": "机翻辅助：\n\n那个修复工具\n我已经有了，不能买了\n\n那个修复工具\n已经有了所以不换\n\n那个修理工具　已经　有　所以　不换"
   },
   {
     "key": "MESPAK01_0002_0043",
     "original": "をいくつ　うりますか？",
-    "translation": "要卖几个？",
+    "translation": "要　买　几块？",
     "stage": 0,
-    "context": "机翻辅助：\n\n要卖几个？\n\n卖几个？"
+    "context": "机翻辅助：\n\n要　买　几块？\n\n要卖几个？\n\n卖几个？"
   },
   {
     "key": "MESPAK01_0002_0044",
     "original": "^0を\n^1コうりますか？",
     "translation": "^0\n^1卖吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n^0\n^1卖吗？"
+    "context": "机翻辅助：\n\n^0\n^1卖吗？\n\n要　画　^0吗？^1"
   },
   {
     "key": "MESPAK01_0002_0045",
     "original": "はい　うります",
-    "translation": "好卖",
+    "translation": "要　买",
     "stage": 0,
-    "context": "机翻辅助：\n\n好卖\n\n卖，出售"
+    "context": "机翻辅助：\n\n要　买\n\n好卖\n\n卖，出售"
   },
   {
     "key": "MESPAK01_0002_0046",
     "original": "いいえ　うりません",
-    "translation": "不，不卖",
+    "translation": "不　要　买",
     "stage": 0,
-    "context": "机翻辅助：\n\n不，不卖\n\n不，不"
+    "context": "机翻辅助：\n\n不　要　买\n\n不，不卖\n\n不，不"
   },
   {
     "key": "MESPAK01_0002_0047",
     "original": "^0を^1コうりました",
     "translation": "^0，^1。",
     "stage": 0,
-    "context": "机翻辅助：\n\n^0，^1。\n\n^0卖了^1"
+    "context": "机翻辅助：\n\n^0，^1。\n\n^0卖了^1\n\n要　画　^0^1"
   },
   {
     "key": "MESPAK01_0002_0048",
     "original": "のこりがないので　うるものがありません",
-    "translation": "因为没有剩余，所以没有东西可卖。",
+    "translation": "因为　没有　比特　所以　没有　要买的",
     "stage": 0,
-    "context": "机翻辅助：\n\n因为没有剩余，所以没有东西可卖。\n\n无余物"
+    "context": "机翻辅助：\n\n因为　没有　比特　所以　没有　要买的\n\n无余物\n\n因为没有剩余，所以没有东西可卖。"
   },
   {
     "key": "MESPAK01_0002_0049",
     "original": "さいしょに　せっちする　ちけいボードを\nえらんでください",
-    "translation": "请选择最先设置的地形板。\n",
+    "translation": "请　选择　要　当　初始　设定的　显示板\n",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择最先设置的地形板。\n\n\n请在最开始的时候画上接地的仪表板"
+    "context": "机翻辅助：\n\n请　选择　要　当　初始　设定的　显示板\n\n\n请在最开始的时候画上接地的仪表板\n\n\n请选择最先设置的地形板。"
   },
   {
     "key": "MESPAK01_0002_0050",
     "original": "さいしょに　せっちする　ＢＧＭボードを\nえらんでください",
     "translation": "请选择\n首先设置的背景音乐板",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择\n首先设置的背景音乐板\n\n请选出最接近的BGM板"
+    "context": "机翻辅助：\n\n请选择\n首先设置的背景音乐板\n\n请　选择　要　当　初始　设定的　BGM板\n\n\n请选出最接近的BGM板"
   },
   {
     "key": "MESPAK01_0002_0051",
     "original": "かいたい　ちけいボードを　えらんで　ください",
-    "translation": "请选择解体地形板。",
+    "translation": "要　买　显示板　请　选择",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择解体地形板。\n\n请画一张隔板"
+    "context": "机翻辅助：\n\n要　买　显示板　请　选择\n\n请画一张隔板\n\n请选择解体地形板。"
   },
   {
     "key": "MESPAK01_0002_0052",
     "original": "かいたい　ＢＧＭボードを　えらんで　ください",
-    "translation": "请选择要拆的背景音乐。",
+    "translation": "要　买　BGM板　请　选择",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择要拆的背景音乐。\n\n请看屏幕背景音乐板"
+    "context": "机翻辅助：\n\n要　买　BGM板　请　选择\n\n请选择要拆的背景音乐。\n\n请看屏幕背景音乐板"
   },
   {
     "key": "MESPAK01_0002_0053",
     "original": "こうもくを　えらんで　ください",
-    "translation": "请选择项目",
+    "translation": "请　　选择　　一个",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择项目\n\n请看一下这个项目"
+    "context": "机翻辅助：\n\n请　　选择　　一个\n\n请看一下这个项目\n\n请选择项目"
   },
   {
     "key": "MESPAK01_0002_0054",
     "original": "ちけいボードを　かう",
-    "translation": "买地形板",
+    "translation": "买一块告示板。",
     "stage": 0,
-    "context": "机翻辅助：\n\n买地形板\n\n加上地形板"
+    "context": "机翻辅助：\n\n买一块告示板。\n\n买地形板\n\n加上地形板"
   },
   {
     "key": "MESPAK01_0002_0055",
     "original": "ＢＧＭボードを　かう",
-    "translation": "买背景音乐板",
+    "translation": "按下背景音乐板。",
     "stage": 0,
-    "context": "机翻辅助：\n\n买背景音乐板\n\n用BGM板"
+    "context": "机翻辅助：\n\n按下背景音乐板。\n\n用BGM板\n\n买背景音乐板"
   },
   {
     "key": "MESPAK01_0002_0056",
@@ -471,93 +471,93 @@
   {
     "key": "MESPAK01_0002_0067",
     "original": "^0^1を\nかいますか？",
-    "translation": "^0\n你买^1吗？",
+    "translation": "^0要打^1吗？\n",
     "stage": 0,
-    "context": "机翻辅助：\n\n^0\n你买^1吗？\n\n你会画^0吗？^1"
+    "context": "机翻辅助：\n\n^0要打^1吗？\n\n\n^0\n你买^1吗？\n\n你会画^0吗？^1"
   },
   {
     "key": "MESPAK01_0002_0068",
     "original": "^0^1をかいました",
-    "translation": "我买了^0。^1",
+    "translation": "^0打^1",
     "stage": 0,
-    "context": "机翻辅助：\n\n我买了^0。^1\n\n我画了^0^1"
+    "context": "机翻辅助：\n\n^0打^1\n\n我画了^0^1\n\n我买了^0。^1"
   },
   {
     "key": "MESPAK01_0002_0069",
     "original": "このちけいボードは　レベルがＭＡＸなので\nこれ以上　かえません",
-    "translation": "这个地形板的等级是MAX，所以\n不能再买了。",
+    "translation": "这个字典程序的等级已经到达MAX了\n所以　无法继续",
     "stage": 0,
-    "context": "机翻辅助：\n\n这个地形板的等级是MAX，所以\n不能再买了。\n\n因为这个小型板的等级是MAX\n不能再换了"
+    "context": "机翻辅助：\n\n这个字典程序的等级已经到达MAX了\n所以　无法继续\n\n这个地形板的等级是MAX，所以\n不能再买了。\n\n因为这个小型板的等级是MAX\n不能再换了"
   },
   {
     "key": "MESPAK01_0002_0070",
     "original": "このＢＧＭボードは　レベルがＭＡＸなので\nこれ以上　かえません",
-    "translation": "因为这个BGM板的等级是MAX\n不能再换了",
+    "translation": "这个背景音乐板的等级已经MAX了\n所以　无法再往上",
     "stage": 0,
-    "context": "机翻辅助：\n\n因为这个BGM板的等级是MAX\n不能再换了\n\n这个背景音乐板的水平是MAX，所以我不能再买了。"
+    "context": "机翻辅助：\n\n这个背景音乐板的等级已经MAX了\n所以　无法再往上\n\n因为这个BGM板的等级是MAX\n不能再换了\n\n这个背景音乐板的水平是MAX，所以我不能再买了。"
   },
   {
     "key": "MESPAK01_0002_0071",
     "original": "アイテムをうる",
-    "translation": "出售物品",
+    "translation": "道具栏里",
     "stage": 0,
-    "context": "机翻辅助：\n\n出售物品\n\n得到物品"
+    "context": "机翻辅助：\n\n道具栏里\n\n出售物品\n\n得到物品"
   },
   {
     "key": "MESPAK01_0002_0072",
     "original": "アイテムをかう",
-    "translation": "购买物品",
+    "translation": "购买道具",
     "stage": 0,
-    "context": "机翻辅助：\n\n购买物品"
+    "context": "机翻辅助：\n\n购买道具\n\n购买物品"
   },
   {
     "key": "MESPAK01_0002_0073",
     "original": "ファームグッズをかう",
-    "translation": "购买农场用品",
+    "translation": "购买园艺用品",
     "stage": 0,
-    "context": "机翻辅助：\n\n购买农场用品\n\n买农场用品"
+    "context": "机翻辅助：\n\n购买园艺用品\n\n购买农场用品\n\n买农场用品"
   },
   {
     "key": "MESPAK01_0002_0074",
     "original": "ファーム島をかう",
-    "translation": "购买农场岛",
+    "translation": "航越法尔姆岛",
     "stage": 0,
-    "context": "机翻辅助：\n\n购买农场岛\n\n访问农场岛"
+    "context": "机翻辅助：\n\n航越法尔姆岛\n\n购买农场岛\n\n访问农场岛"
   },
   {
     "key": "MESPAK01_0002_0075",
     "original": "ファーム島をかいぞうする",
-    "translation": "改造农场岛",
+    "translation": "建造法姆岛",
     "stage": 0,
-    "context": "机翻辅助：\n\n改造农场岛\n\n建造农场岛"
+    "context": "机翻辅助：\n\n建造法姆岛\n\n改造农场岛\n\n建造农场岛"
   },
   {
     "key": "MESPAK01_0002_0076",
     "original": "リペアリングツールをかう",
-    "translation": "购买修复工具",
+    "translation": "购买修补工具",
     "stage": 0,
-    "context": "机翻辅助：\n\n购买修复工具\n\n使用修复工具"
+    "context": "机翻辅助：\n\n购买修补工具\n\n购买修复工具\n\n使用修复工具"
   },
   {
     "key": "MESPAK01_0002_0077",
     "original": "なにも　もっていません",
-    "translation": "我什么都没有。",
+    "translation": "我什么都没有",
     "stage": 0,
-    "context": "机翻辅助：\n\n我什么都没有。\n\n什么也没有"
+    "context": "机翻辅助：\n\n我什么都没有\n\n什么也没有\n\n我什么都没有。"
   },
   {
     "key": "MESPAK01_0002_0078",
     "original": "^0を\nかいました",
-    "translation": "写了^0。\n",
+    "translation": "我\n了^0。",
     "stage": 0,
-    "context": "机翻辅助：\n\n写了^0。\n\n\n画了^0"
+    "context": "机翻辅助：\n\n我\n了^0。\n\n写了^0。\n\n\n画了^0"
   },
   {
     "key": "MESPAK01_0002_0079",
     "original": "^0が\nだいじなものに　ついかされました",
-    "translation": "^0被追加了重要的东西\n",
+    "translation": "^0\n被重要的东西绊倒了",
     "stage": 0,
-    "context": "机翻辅助：\n\n^0被追加了重要的东西\n\n\n^0被重要的东西吸引住了"
+    "context": "机翻辅助：\n\n^0\n被重要的东西绊倒了\n\n^0被重要的东西吸引住了\n\n\n^0被追加了重要的东西"
   },
   {
     "key": "MESPAK01_0002_0080",
@@ -569,9 +569,9 @@
   {
     "key": "MESPAK01_0002_0081",
     "original": "さいだいＨＰ",
-    "translation": "最大HP",
+    "translation": "最强大HP",
     "stage": 0,
-    "context": "机翻辅助：\n\n最大HP"
+    "context": "机翻辅助：\n\n最强大HP\n\n最大HP"
   },
   {
     "key": "MESPAK01_0002_0082",
@@ -583,58 +583,58 @@
   {
     "key": "MESPAK01_0002_0083",
     "original": "こうげきりょく",
-    "translation": "攻击力",
+    "translation": "攻击力：",
     "stage": 0,
-    "context": "机翻辅助：\n\n攻击力\n\n冲击力"
+    "context": "机翻辅助：\n\n攻击力：\n\n冲击力\n\n攻击力"
   },
   {
     "key": "MESPAK01_0002_0084",
     "original": "ぼうぎょりょく",
-    "translation": "防御力",
+    "translation": "博奕",
     "stage": 0,
-    "context": "机翻辅助：\n\n防御力"
+    "context": "机翻辅助：\n\n博奕\n\n防御力"
   },
   {
     "key": "MESPAK01_0002_0085",
     "original": "すばやさ",
-    "translation": "速度",
+    "translation": "好快。",
     "stage": 0,
-    "context": "机翻辅助：\n\n速度\n\n快速"
+    "context": "机翻辅助：\n\n好快。\n\n快速\n\n速度"
   },
   {
     "key": "MESPAK01_0002_0086",
     "original": "ゲンジュウＥＸＰ",
-    "translation": "重度EXP",
+    "translation": "限界突破EXP",
     "stage": 0,
-    "context": "机翻辅助：\n\n重度EXP\n\n龙胆EXP"
+    "context": "机翻辅助：\n\n限界突破EXP\n\n龙胆EXP\n\n重度EXP"
   },
   {
     "key": "MESPAK01_0002_0087",
     "original": "ケモノＥＸＰ",
-    "translation": "野兽EXP",
+    "translation": "魔兽EXP",
     "stage": 0,
-    "context": "机翻辅助：\n\n野兽EXP\n\n怪物EXP"
+    "context": "机翻辅助：\n\n魔兽EXP\n\n怪物EXP\n\n野兽EXP"
   },
   {
     "key": "MESPAK01_0002_0088",
     "original": "テンシＥＸＰ",
-    "translation": "天使EXP",
+    "translation": "天邪鬼EXP",
     "stage": 0,
-    "context": "机翻辅助：\n\n天使EXP\n\n张力EXP"
+    "context": "机翻辅助：\n\n天邪鬼EXP\n\n天使EXP\n\n张力EXP"
   },
   {
     "key": "MESPAK01_0002_0089",
     "original": "アクマＥＸＰ",
-    "translation": "恶魔EXP",
+    "translation": "魔鬼EXP",
     "stage": 0,
-    "context": "机翻辅助：\n\n恶魔EXP\n\n阿克玛EXP"
+    "context": "机翻辅助：\n\n魔鬼EXP\n\n阿克玛EXP\n\n恶魔EXP"
   },
   {
     "key": "MESPAK01_0002_0090",
     "original": "スイセイＥＸＰ",
-    "translation": "水生EXP",
+    "translation": "翠星EXP",
     "stage": 0,
-    "context": "机翻辅助：\n\n水生EXP\n\n水星EXP"
+    "context": "机翻辅助：\n\n翠星EXP\n\n水星EXP\n\n水生EXP"
   },
   {
     "key": "MESPAK01_0002_0091",
@@ -646,30 +646,30 @@
   {
     "key": "MESPAK01_0002_0092",
     "original": "トリＥＸＰ",
-    "translation": "特里EXP",
+    "translation": "鸟E XP",
     "stage": 0,
-    "context": "机翻辅助：\n\n特里EXP\n\n三EXP"
+    "context": "机翻辅助：\n\n鸟E XP\n\n特里EXP\n\n三EXP"
   },
   {
     "key": "MESPAK01_0002_0093",
     "original": "コンチュウＥＸＰ",
-    "translation": "昆虫博览会",
+    "translation": "KONCHUUEXP",
     "stage": 0,
-    "context": "机翻辅助：\n\n昆虫博览会\n\n孔丘EXP"
+    "context": "机翻辅助：\n\nKONCHUUEXP\n\n孔丘EXP\n\n昆虫博览会"
   },
   {
     "key": "MESPAK01_0002_0094",
     "original": "ショクブツＥＸＰ",
-    "translation": "植物EXP",
+    "translation": "道具EXP",
     "stage": 0,
-    "context": "机翻辅助：\n\n植物EXP\n\n肖克布茨EXP"
+    "context": "机翻辅助：\n\n道具EXP\n\n植物EXP\n\n肖克布茨EXP"
   },
   {
     "key": "MESPAK01_0002_0095",
     "original": "ゆうじょう",
-    "translation": "友情",
+    "translation": "优香",
     "stage": 0,
-    "context": "机翻辅助：\n\n友情\n\n熔化"
+    "context": "机翻辅助：\n\n优香\n\n友情\n\n熔化"
   },
   {
     "key": "MESPAK01_0002_0096",
@@ -681,15 +681,15 @@
   {
     "key": "MESPAK01_0002_0097",
     "original": "ぶき　さくせい",
-    "translation": "武器制作",
+    "translation": "武曲星",
     "stage": 0,
-    "context": "机翻辅助：\n\n武器制作\n\n粗加工"
+    "context": "机翻辅助：\n\n武曲星\n\n粗加工\n\n武器制作"
   },
   {
     "key": "MESPAK01_0002_0098",
     "original": "ぼうぐ　さくせい",
-    "translation": "制作防具",
+    "translation": "报告　世界",
     "stage": 0,
-    "context": "机翻辅助：\n\n制作防具\n\n棒料加工"
+    "context": "机翻辅助：\n\n报告　世界\n\n制作防具\n\n棒料加工"
   }
 ]
