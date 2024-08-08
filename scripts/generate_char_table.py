@@ -1,7 +1,10 @@
 import json
 import os
 import struct
-from helper import CHINESE_TO_JAPANESE, DIR_JSON_ROOT, KANA_PATTERN, ZH_HANS_2_KANJI_PATH, CHAR_TABLE_PATH
+from helper import DIR_JSON_ROOT, CHAR_TABLE_PATH, get_used_characters
+
+import pypinyin
+from pypinyin import lazy_pinyin
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
@@ -24,33 +27,9 @@ def generate_cp932(used_kanjis: set[str]):
 def generate_char_table(json_root: str) -> dict[str, str]:
   char_table: dict[str, str] = {}
   shift_jis_characters = set()
-  with open(ZH_HANS_2_KANJI_PATH, "r", -1, "utf8") as reader:
-    _: dict[str, str] = json.load(reader)
-  zh_Hans_2_kanji = {k: v for k, v in _.items() if v.encode("cp932")[0] < 0xa0}
 
-  characters = set()
-  for root, dirs, files in os.walk(json_root):
-    for file_name in files:
-      if not file_name.endswith(".json"):
-        continue
-
-      with open(f"{root}/{file_name}", "r", -1, "utf8") as reader:
-        json_input: dict[str, dict] = json.load(reader)
-
-      for k, v in json_input.items():
-        if v.get("trash", False):
-          continue
-
-        content = v["content"].replace("\n", "")
-        if KANA_PATTERN.search(content):
-          continue
-
-        for k, v in CHINESE_TO_JAPANESE.items():
-          content = content.replace(k, v)
-        for char in content:
-          characters.add(char)
-
-  generator = generate_cp932(set(zh_Hans_2_kanji.values()))
+  characters = get_used_characters(json_root)
+  generator = generate_cp932(set())
 
   def insert_char(char: str):
     shift_jis_char = next(generator)
@@ -59,7 +38,7 @@ def generate_char_table(json_root: str) -> dict[str, str]:
     char_table[shift_jis_char] = char
     shift_jis_characters.add(shift_jis_char)
 
-  for char in sorted(characters):
+  for char in sorted(characters, key=lambda x: (lazy_pinyin(x, style=pypinyin.Style.TONE3), x)):
     if not 0x4e00 <= ord(char) <= 0x9fff:
       try:
         char.encode("cp932")
@@ -67,21 +46,6 @@ def generate_char_table(json_root: str) -> dict[str, str]:
         continue
       except UnicodeEncodeError:
         pass
-
-    try:
-      if char.encode("cp932")[0] < 0xa0:
-        if char in shift_jis_characters:
-          insert_char(char_table[char])
-        char_table[char] = char
-        shift_jis_characters.add(char)
-        continue
-    except UnicodeEncodeError:
-      pass
-
-    if char in zh_Hans_2_kanji and zh_Hans_2_kanji[char] not in shift_jis_characters:
-      char_table[zh_Hans_2_kanji[char]] = char
-      shift_jis_characters.add(zh_Hans_2_kanji[char])
-      continue
 
     insert_char(char)
 

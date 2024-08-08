@@ -2,79 +2,79 @@
   {
     "key": "MESPAK01_0011_0000",
     "original": "マッチングする　デジモンを　えらんで　ください\nメニューで　じぶんのずかんを　かくにん　できます",
-    "translation": "请选择　要配对的　数字怪兽\n在选单中　可以记录　自己的状态",
+    "translation": "请选择要配对的数字怪兽\n在选单中可以记录自己的状态",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择　要配对的　数字怪兽\n在选单中　可以记录　自己的状态\n\n请选择匹配的数码兽\n可以在菜单上确认自己的错误\n\n选择你要匹配的数码兽。\n你可以在菜单中找到你的图鉴。"
+    "context": "机翻辅助：\n\n请选择要配对的数字怪兽\n在选单中可以记录自己的状态\n\n请选择匹配的数码兽\n可以在菜单上确认自己的错误\n\n选择你要匹配的数码兽。\n你可以在菜单中找到你的图鉴。"
   },
   {
     "key": "MESPAK01_0011_0001",
     "original": "^0さんの　ファーム島です\nいきたいファーム島を　えらんで　ください",
-    "translation": "这里是　^0的　牧场岛\n请选择　想去的牧场岛",
+    "translation": "这里是^0的牧场岛\n请选择想去的牧场岛",
     "stage": 0,
-    "context": "机翻辅助：\n\n这里是　^0的　牧场岛\n请选择　想去的牧场岛\n\n这是^0的农场岛\n\n\n^0的农场岛。请选择你想去的农场岛。"
+    "context": "机翻辅助：\n\n这里是^0的牧场岛\n请选择想去的牧场岛\n\n这是^0的农场岛\n\n\n^0的农场岛。请选择你想去的农场岛。"
   },
   {
     "key": "MESPAK01_0011_0002",
     "original": "マッチングデジモンを\nしゅうりょうしますか？",
-    "translation": "请选择　要配对的　数字怪兽\n要结算吗？",
+    "translation": "请选择要配对的数字怪兽\n要结算吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择　要配对的　数字怪兽\n要结算吗？\n\n匹配数码兽\n结束吗？\n\n匹配数码兽\n结束？"
+    "context": "机翻辅助：\n\n请选择要配对的数字怪兽\n要结算吗？\n\n匹配数码兽\n结束吗？\n\n匹配数码兽\n结束？"
   },
   {
     "key": "MESPAK01_0011_0003",
     "original": "^1と　^2を\nマッチングさせます　よろしいですか？",
-    "translation": "要让^1　和^2\n配对吗？可以吗？",
+    "translation": "要让^1和^2\n配对吗？可以吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n要让^1　和^2\n配对吗？可以吗？\n\n让^1和^2\n配对可以吗？\n\n让^1和^2匹配好吗？"
+    "context": "机翻辅助：\n\n要让^1和^2\n配对吗？可以吗？\n\n让^1和^2\n配对可以吗？\n\n让^1和^2匹配好吗？"
   },
   {
     "key": "MESPAK01_0011_0004",
     "original": "マッチングデジモンを\nしゅうりょうしますか？",
-    "translation": "请选择　要配对的　数字怪兽\n要结算吗？",
+    "translation": "请选择要配对的数字怪兽\n要结算吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择　要配对的　数字怪兽\n要结算吗？\n\n匹配数码兽\n结束吗？\n\n匹配数码兽\n结束？"
+    "context": "机翻辅助：\n\n请选择要配对的数字怪兽\n要结算吗？\n\n匹配数码兽\n结束吗？\n\n匹配数码兽\n结束？"
   },
   {
     "key": "MESPAK01_0011_0005",
     "original": "はい　いいです",
-    "translation": "是　可以",
+    "translation": "是可以",
     "stage": 0,
-    "context": "机翻辅助：\n\n是　可以\n\n好的\n\n好，好。"
+    "context": "机翻辅助：\n\n是可以\n\n好的\n\n好，好。"
   },
   {
     "key": "MESPAK01_0011_0006",
     "original": "はい　しゅうりょうします",
-    "translation": "好的　我接受",
+    "translation": "好的我接受",
     "stage": 0,
-    "context": "机翻辅助：\n\n好的　我接受\n\n好的，结束\n\n结束了"
+    "context": "机翻辅助：\n\n好的我接受\n\n好的，结束\n\n结束了"
   },
   {
     "key": "MESPAK01_0011_0007",
     "original": "はい　しゅうりょうします",
-    "translation": "好的　我接受",
+    "translation": "好的我接受",
     "stage": 0,
-    "context": "机翻辅助：\n\n好的　我接受\n\n结束了\n\n好的，结束"
+    "context": "机翻辅助：\n\n好的我接受\n\n结束了\n\n好的，结束"
   },
   {
     "key": "MESPAK01_0011_0008",
     "original": "いいえ　しゅうりょうしません",
-    "translation": "不　我不会辞职",
+    "translation": "不我不会辞职",
     "stage": 0,
-    "context": "机翻辅助：\n\n不　我不会辞职\n\n不结束\n\n不，没有结束。"
+    "context": "机翻辅助：\n\n不我不会辞职\n\n不结束\n\n不，没有结束。"
   },
   {
     "key": "MESPAK01_0011_0009",
     "original": "いいえ　えらびなおします",
-    "translation": "不　我要重新选择",
+    "translation": "不我要重新选择",
     "stage": 0,
-    "context": "机翻辅助：\n\n不　我要重新选择\n\n不，我们重新选择。\n\n不，我会重新做的"
+    "context": "机翻辅助：\n\n不我要重新选择\n\n不，我们重新选择。\n\n不，我会重新做的"
   },
   {
     "key": "MESPAK01_0011_0010",
     "original": "いいえ　しゅうりょうしません",
-    "translation": "不　我不会辞职",
+    "translation": "不我不会辞职",
     "stage": 0,
-    "context": "机翻辅助：\n\n不　我不会辞职\n\n不，没有结束。\n\n不结束"
+    "context": "机翻辅助：\n\n不我不会辞职\n\n不，没有结束。\n\n不结束"
   },
   {
     "key": "MESPAK01_0011_0011",
@@ -226,37 +226,37 @@
   {
     "key": "MESPAK01_0011_0032",
     "original": "じぶんの　デジタマずかんを　みる",
-    "translation": "查看　自己的　数字蛋　状态",
+    "translation": "查看自己的数字蛋状态",
     "stage": 0,
-    "context": "机翻辅助：\n\n查看　自己的　数字蛋　状态\n\n看自己的数码图鉴\n\n看自己的数码相机"
+    "context": "机翻辅助：\n\n查看自己的数字蛋状态\n\n看自己的数码图鉴\n\n看自己的数码相机"
   },
   {
     "key": "MESPAK01_0011_0033",
     "original": "じぶんの　デジモンリストを　みる",
-    "translation": "查看　自己的　数字怪兽　清单",
+    "translation": "查看自己的数字怪兽清单",
     "stage": 0,
-    "context": "机翻辅助：\n\n查看　自己的　数字怪兽　清单\n\n查看自己的数码兽列表\n\n看看自己的数码宝贝列表"
+    "context": "机翻辅助：\n\n查看自己的数字怪兽清单\n\n查看自己的数码兽列表\n\n看看自己的数码宝贝列表"
   },
   {
     "key": "MESPAK01_0011_0034",
     "original": "マッチングを　する",
-    "translation": "进行　配对",
+    "translation": "进行配对",
     "stage": 0,
-    "context": "机翻辅助：\n\n进行　配对\n\n进行匹配\n\n匹配"
+    "context": "机翻辅助：\n\n进行配对\n\n进行匹配\n\n匹配"
   },
   {
     "key": "MESPAK01_0011_0035",
     "original": "かけいずを　みる",
-    "translation": "查看　排行榜",
+    "translation": "查看排行榜",
     "stage": 0,
-    "context": "机翻辅助：\n\n查看　排行榜\n\n看假名\n\n看家规"
+    "context": "机翻辅助：\n\n查看排行榜\n\n看假名\n\n看家规"
   },
   {
     "key": "MESPAK01_0011_0036",
     "original": "つよさを　みる",
-    "translation": "查看　强度",
+    "translation": "查看强度",
     "stage": 0,
-    "context": "机翻辅助：\n\n查看　强度\n\n看到强度\n\n看强度"
+    "context": "机翻辅助：\n\n查看强度\n\n看到强度\n\n看强度"
   },
   {
     "key": "MESPAK01_0011_0037",
@@ -296,23 +296,23 @@
   {
     "key": "MESPAK01_0011_0042",
     "original": "げんざいのデジモン",
-    "translation": "当前的　数字怪兽",
+    "translation": "当前的数字怪兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n当前的　数字怪兽\n\n现在的数码兽\n\n现有的数码兽"
+    "context": "机翻辅助：\n\n当前的数字怪兽\n\n现在的数码兽\n\n现有的数码兽"
   },
   {
     "key": "MESPAK01_0011_0043",
     "original": "いっせだいまえのデジモン",
-    "translation": "第一只　数字怪兽",
+    "translation": "第一只数字怪兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n第一只　数字怪兽\n\n前一个时代的数码兽\n\n现在的数码兽"
+    "context": "机翻辅助：\n\n第一只数字怪兽\n\n前一个时代的数码兽\n\n现在的数码兽"
   },
   {
     "key": "MESPAK01_0011_0044",
     "original": "にせだいまえのデジモン",
-    "translation": "第二只　数字怪兽",
+    "translation": "第二只数字怪兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n第二只　数字怪兽\n\n假面具\n\n前代数码兽"
+    "context": "机翻辅助：\n\n第二只数字怪兽\n\n假面具\n\n前代数码兽"
   },
   {
     "key": "MESPAK01_0011_0045",
@@ -338,30 +338,30 @@
   {
     "key": "MESPAK01_0011_0048",
     "original": "セーブちゅうです\nでんげんを　きらないでください",
-    "translation": "存档成功！\n",
+    "translation": "正在存档\n请勿按压电源",
     "stage": 0,
-    "context": "机翻辅助：\n\n存档成功！\n\n\n请不要使用电源\n\n\n保存中。请不要切断电源。"
+    "context": "机翻辅助：\n\n正在存档\n请勿按压电源\n\n请不要使用电源\n\n\n保存中。请不要切断电源。"
   },
   {
     "key": "MESPAK01_0011_0049",
     "original": "セーブしました！",
-    "translation": "存档失败。请按压电源重新插入卡片。",
+    "translation": "存档成功！",
     "stage": 0,
-    "context": "机翻辅助：\n\n存档失败。请按压电源重新插入卡片。\n\n救了！\n\n保存成功！"
+    "context": "机翻辅助：\n\n存档成功！\n\n救了！\n\n保存成功！"
   },
   {
     "key": "MESPAK01_0011_0050",
     "original": "Ｗｉ－Ｆｉコネクションから　せつだんしています",
-    "translation": "从Wi-Fi　连接中　登出",
+    "translation": "从Wi-Fi连接中登出",
     "stage": 0,
-    "context": "机翻辅助：\n\n从Wi-Fi　连接中　登出\n\n从Wi-Fi连接中断\n\n切断了Wi-Fi连接。"
+    "context": "机翻辅助：\n\n从Wi-Fi连接中登出\n\n从Wi-Fi连接中断\n\n切断了Wi-Fi连接。"
   },
   {
     "key": "MESPAK01_0011_0051",
     "original": "Ｗｉ－Ｆｉコネクションから　せつだんしました",
-    "translation": "从Wi-Fi　连接中　登出了",
+    "translation": "从Wi-Fi连接中登出了",
     "stage": 0,
-    "context": "机翻辅助：\n\n从Wi-Fi　连接中　登出了\n\n从Wi-Fi连接中断了\n\n切断了Wi-Fi连接。"
+    "context": "机翻辅助：\n\n从Wi-Fi连接中登出了\n\n从Wi-Fi连接中断了\n\n切断了Wi-Fi连接。"
   },
   {
     "key": "MESPAK01_0011_0052",
@@ -401,29 +401,29 @@
   {
     "key": "MESPAK01_0011_0057",
     "original": "しゅぎょうにでている　デジモンは\nマッチングできません",
-    "translation": "出现在　对战中的　数字怪兽\n无法配对",
+    "translation": "出现在对战中的数字怪兽\n无法配对",
     "stage": 0,
-    "context": "机翻辅助：\n\n出现在　对战中的　数字怪兽\n无法配对\n\n修行的数码兽不能匹配\n\n\n在证券上出现的数码兽\n不能匹配"
+    "context": "机翻辅助：\n\n出现在对战中的数字怪兽\n无法配对\n\n修行的数码兽不能匹配\n\n\n在证券上出现的数码兽\n不能匹配"
   },
   {
     "key": "MESPAK01_0011_0058",
     "original": "てもちのデジモンが　いっぱいです\nてもちのデジモンを　へらしてください",
-    "translation": "持有的　数字怪兽　已满\n请删除　持有的数字怪兽",
+    "translation": "持有的数字怪兽已满\n请删除持有的数字怪兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n持有的　数字怪兽　已满\n请删除　持有的数字怪兽\n\n你手上有很多数码兽。\n请减少你手上的数码兽。\n\n请把年糕的数码兽压扁"
+    "context": "机翻辅助：\n\n持有的数字怪兽已满\n请删除持有的数字怪兽\n\n你手上有很多数码兽。\n请减少你手上的数码兽。\n\n请把年糕的数码兽压扁"
   },
   {
     "key": "MESPAK01_0011_0059",
     "original": "しゅぎょうにきている　デジモンは\nマッチングできません",
-    "translation": "出现在　对战中的　数字怪兽\n无法配对",
+    "translation": "出现在对战中的数字怪兽\n无法配对",
     "stage": 0,
-    "context": "机翻辅助：\n\n出现在　对战中的　数字怪兽\n无法配对\n\n学习的数码兽\n无法匹配。\n\n来创业的数码兽\n不能匹配"
+    "context": "机翻辅助：\n\n出现在对战中的数字怪兽\n无法配对\n\n学习的数码兽\n无法匹配。\n\n来创业的数码兽\n不能匹配"
   },
   {
     "key": "MESPAK01_0011_0060",
     "original": "マッチングする　デジモンを　えらんでください",
-    "translation": "请选择　要配对的　数字宝贝。",
+    "translation": "请选择要配对的数字宝贝。",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择　要配对的　数字宝贝。\n\n请选择匹配的数码兽。\n\n请选择匹配的数码兽"
+    "context": "机翻辅助：\n\n请选择要配对的数字宝贝。\n\n请选择匹配的数码兽。\n\n请选择匹配的数码兽"
   }
 ]

@@ -256,96 +256,96 @@
     "original": "ゴマモンツリー",
     "translation": "哥玛兽树",
     "stage": 1,
-    "context": "机翻辅助：\n\n帕鲁蒙树\n\n芝麻树\n\n戈马蒙树"
+    "context": "机翻辅助：\n\n多尔蒙树\n\n芝麻树\n\n戈马蒙树"
   },
   {
     "key": "MESPAK00_0000_0037",
     "original": "パルモンツリー",
     "translation": "巴鲁兽树",
     "stage": 1,
-    "context": "机翻辅助：\n\n拉拉蒙树\n\n棕榈树\n\n帕蒙树"
+    "context": "机翻辅助：\n\n帕鲁蒙树\n\n棕榈树\n\n帕蒙树"
   },
   {
     "key": "MESPAK00_0000_0038",
     "original": "ララモンツリー",
     "translation": "拉拉兽树",
     "stage": 1,
-    "context": "机翻辅助：\n\n希露菲蒙树\n\n拉蒙树\n\n啦啦树"
+    "context": "机翻辅助：\n\n拉拉蒙树\n\n拉蒙树\n\n啦啦树"
   },
   {
     "key": "MESPAK00_0000_0039",
     "original": "シルフィーモンツリー",
     "translation": "西尔芙兽树",
     "stage": 1,
-    "context": "机翻辅助：\n\n正在存档请勿按压电源\n\n西尔菲蒙树"
+    "context": "机翻辅助：\n\n希露菲蒙树\n\n西尔菲蒙树"
   },
   {
     "key": "MESPAK00_0000_0040",
     "original": "セーブちゅうです\nでんげんを　きらないでください",
     "translation": "正在保存。\n请不要关闭电源。",
     "stage": 1,
-    "context": "机翻辅助：\n\n存档成功！\n\n\n请不要使用电源\n\n\n保存中。请不要切断电源。"
+    "context": "机翻辅助：\n\n正在存档\n请勿按压电源\n\n请不要使用电源\n\n\n保存中。请不要切断电源。"
   },
   {
     "key": "MESPAK00_0000_0041",
     "original": "セーブしました！",
     "translation": "保存完毕！",
     "stage": 1,
-    "context": "机翻辅助：\n\n存档失败。请按压电源重新插入卡片。\n\n救了！\n\n保存成功！"
+    "context": "机翻辅助：\n\n存档成功！\n\n救了！\n\n保存成功！"
   },
   {
     "key": "MESPAK00_0000_0042",
     "original": "セーブにしっぱいしました。\nでんげんをきって\nカードをさしこみなおしてください。",
     "translation": "保存失败。\n请关闭电源，\n重新插入卡带。",
     "stage": 1,
-    "context": "机翻辅助：\n\n保存失败。\n请打开电源\n重新插入卡片。\n\n？\n\n\n\n救球失败了。请关掉电源，重新插入卡片。"
+    "context": "机翻辅助：\n\n存档失败。\n请按压电源\n重新插入卡片。\n\n保存失败。\n请打开电源\n重新插入卡片。\n\n救球失败了。请关掉电源，重新插入卡片。"
   },
   {
     "key": "MESPAK00_0000_0043",
     "original": "？",
-    "translation": "？？",
+    "translation": "？",
     "stage": 0,
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0044",
     "original": "？？",
-    "translation": "？？？",
+    "translation": "？？",
     "stage": 0,
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0045",
     "original": "？？？",
-    "translation": "？？？？",
+    "translation": "？？？",
     "stage": 0,
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0046",
     "original": "？？？？",
-    "translation": "？？？？？",
+    "translation": "？？？？",
     "stage": 0,
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0047",
     "original": "？？？？？",
-    "translation": "？？？？？？",
+    "translation": "？？？？？",
     "stage": 0,
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0048",
     "original": "？？？？？？",
-    "translation": "？？？？？？？",
+    "translation": "？？？？？？",
     "stage": 0,
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0049",
     "original": "？？？？？？？",
-    "translation": "？？？？？？？？",
+    "translation": "？？？？？？？",
     "stage": 0,
     "context": ""
   },
@@ -359,14 +359,14 @@
   {
     "key": "MESPAK00_0000_0051",
     "original": "？？？？？？？？？",
-    "translation": "？？？？？？？？？？",
+    "translation": "？？？？？？？？？",
     "stage": 0,
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0052",
     "original": "？？？？？？？？？？",
-    "translation": "？？？？？？？？？？？",
+    "translation": "？？？？？？？？？？",
     "stage": 0,
     "context": ""
   },
@@ -450,7 +450,7 @@
   {
     "key": "MESPAK00_0000_0064",
     "original": "？？？",
-    "translation": "？？？？",
+    "translation": "？？？",
     "stage": 0,
     "context": ""
   },
@@ -1500,7 +1500,7 @@
   {
     "key": "MESPAK00_0000_0214",
     "original": "ＤＫティラノモン",
-    "translation": "DK巨龙兽",
+    "translation": "黑暗巨龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\nDK霸王怪兽\n\nDK霸王兽\n\nDK暴龙兽"
   },
@@ -2179,7 +2179,7 @@
   {
     "key": "MESPAK00_0000_0311",
     "original": "シャッコウモン",
-    "translation": "土偶兽树",
+    "translation": "土偶兽",
     "stage": 1,
     "context": "机翻辅助：\n\n沙克兽\n\n沙克蒙\n\n学校门"
   },
@@ -2237,7 +2237,7 @@
     "original": "ＨＥカブテリモン",
     "translation": "力神比多兽",
     "stage": 1,
-    "context": "机翻辅助：\n\n终章　弹着橡胶子弹的我\n\nHE卡布特利蒙\n\n河甲虫"
+    "context": "机翻辅助：\n\n终章弹着橡胶子弹的我\n\nHE卡布特利蒙\n\n河甲虫"
   },
   {
     "key": "MESPAK00_0000_0320",
@@ -2564,7 +2564,7 @@
   {
     "key": "MESPAK00_0000_0366",
     "original": "ＢＷグレイモン",
-    "translation": "黑战斗暴龙兽",
+    "translation": "黑暗战斗暴龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\nBW格雷蒙\n\n格雷蒙"
   },
@@ -2697,9 +2697,9 @@
   {
     "key": "MESPAK00_0000_0385",
     "original": "アルゴモンＭＧ",
-    "translation": "阿耳戈兽 MG",
+    "translation": "阿耳戈兽MG",
     "stage": 1,
-    "context": "机翻辅助：\n\n亚鲁戈　MG\n\n阿尔戈蒙MG\n\nargomon MG"
+    "context": "机翻辅助：\n\n亚鲁戈MG\n\n阿尔戈蒙MG\n\nargomon MG"
   },
   {
     "key": "MESPAK00_0000_0386",
@@ -3033,42 +3033,42 @@
   {
     "key": "MESPAK00_0000_0433",
     "original": "ギガデヴァスト",
-    "translation": "吉加德瓦斯特",
+    "translation": "千兆毁灭者",
     "stage": 1,
     "context": "机翻辅助：\n\nGiga Devastate。\n\n吉加德瓦斯特"
   },
   {
     "key": "MESPAK00_0000_0434",
     "original": "テラデヴァスト",
-    "translation": "泰德瓦斯特",
+    "translation": "万亿毁灭者",
     "stage": 1,
     "context": "机翻辅助：\n\nTera Devastate\n\n泰拉德瓦斯特\n\n泰德瓦斯特"
   },
   {
     "key": "MESPAK00_0000_0435",
     "original": "ＥＸイレイザーα",
-    "translation": "EX激光α",
+    "translation": "EX消除者α",
     "stage": 1,
     "context": "机翻辅助：\n\nEX ILIASER α\n\nEX激光α\n\nEX擦除器α"
   },
   {
     "key": "MESPAK00_0000_0436",
     "original": "ＥＸイレイザーβ",
-    "translation": "β激进剂",
+    "translation": "EX消除者β",
     "stage": 1,
-    "context": "机翻辅助：\n\nEX　轻松小精灵β\n\nβ激进剂\n\nEX擦除器β"
+    "context": "机翻辅助：\n\nEX轻松小精灵β\n\nβ激进剂\n\nEX擦除器β"
   },
   {
     "key": "MESPAK00_0000_0437",
     "original": "ＥＸイレイザーγ",
-    "translation": "EX激光γ",
+    "translation": "EX消除者γ",
     "stage": 1,
     "context": "机翻辅助：\n\nEX依莱沙γ\n\nEX激光γ\n\nEX擦除器γ"
   },
   {
     "key": "MESPAK00_0000_0438",
     "original": "ＥＸイレイザーΩ",
-    "translation": "EX擦除器Ω",
+    "translation": "EX消除者Ω",
     "stage": 1,
     "context": "机翻辅助：\n\nEX ILIASER ω\n\nEX擦除器Ω\n\nexイレイザーω-"
   },
@@ -3082,7 +3082,7 @@
   {
     "key": "MESPAK00_0000_0440",
     "original": "シフトイレイザー",
-    "translation": "换挡杆和扫把",
+    "translation": "变化消除者",
     "stage": 1,
     "context": "机翻辅助：\n\n【替档消除】\n\n换挡杆和扫把\n\n移位器"
   },
@@ -3097,7 +3097,7 @@
     "key": "MESPAK00_0000_0442",
     "original": "シュウ",
     "translation": "修",
-    "stage": 1,
+    "stage": 0,
     "context": "机翻辅助：\n\n修\n\n周\n\n草木"
   },
   {
@@ -3110,7 +3110,7 @@
   {
     "key": "MESPAK00_0000_0444",
     "original": "ヒロユキ",
-    "translation": "广雪",
+    "translation": "弘幸",
     "stage": 1,
     "context": "机翻辅助：\n\n阿浩\n\n广雪\n\n丝瓜"
   },
@@ -3131,7 +3131,7 @@
   {
     "key": "MESPAK00_0000_0447",
     "original": "タクト",
-    "translation": "指挥棒",
+    "translation": "拓人",
     "stage": 1,
     "context": "机翻辅助：\n\n塔克特\n\n节拍\n\n指挥棒"
   },
@@ -3145,98 +3145,98 @@
   {
     "key": "MESPAK00_0000_0449",
     "original": "ドース",
-    "translation": "多思",
+    "translation": "德斯",
     "stage": 1,
     "context": "机翻辅助：\n\n德斯。\n\n多斯\n\n多思"
   },
   {
     "key": "MESPAK00_0000_0450",
     "original": "トレース",
-    "translation": "溯源",
+    "translation": "德蕾丝",
     "stage": 1,
     "context": "机翻辅助：\n\n模仿\n\n溯源\n\n跟踪"
   },
   {
     "key": "MESPAK00_0000_0451",
     "original": "カーネル",
-    "translation": "内核",
+    "translation": "卡内尔",
     "stage": 1,
     "context": "机翻辅助：\n\n卡涅尔\n\n内核"
   },
   {
     "key": "MESPAK00_0000_0452",
     "original": "イレイザー",
-    "translation": "雷泽尔",
+    "translation": "消除者",
     "stage": 1,
     "context": "机翻辅助：\n\n伊蕾莎\n\n雷泽尔\n\n消声器"
   },
   {
     "key": "MESPAK00_0000_0453",
     "original": "シフトイレイザー",
-    "translation": "换挡杆和扫把",
+    "translation": "变化消除者",
     "stage": 1,
     "context": "机翻辅助：\n\n【替档消除】\n\n移位器\n\n换挡杆和扫把"
   },
   {
     "key": "MESPAK00_0000_0454",
     "original": "ジェガル",
-    "translation": "杰格尔",
-    "stage": 0,
+    "translation": "杰卡尔",
+    "stage": 1,
     "context": "机翻辅助：\n\n杰格尔\n\n杰加尔"
   },
   {
     "key": "MESPAK00_0000_0455",
     "original": "フラール",
-    "translation": "呋喃",
+    "translation": "福拉尔",
     "stage": 1,
     "context": "机翻辅助：\n\n芙拉露\n\n呋喃\n\n糠醛"
   },
   {
     "key": "MESPAK00_0000_0456",
     "original": "エンテンデル",
-    "translation": "圆天",
+    "translation": "恩戴登",
     "stage": 1,
     "context": "机翻辅助：\n\n恩天邓不利夫\n\n圆天\n\nEntendel"
   },
   {
     "key": "MESPAK00_0000_0457",
     "original": "アラケル",
-    "translation": "阿拉克尔",
+    "translation": "艾拉凯",
     "stage": 1,
     "context": "机翻辅助：\n\n亚拉克尔\n\n阿拉克尔"
   },
   {
     "key": "MESPAK00_0000_0458",
     "original": "ルモル",
-    "translation": "勒莫尔",
+    "translation": "陆摩尔",
     "stage": 1,
     "context": "机翻辅助：\n\n鲁摩尔\n\n勒莫尔"
   },
   {
     "key": "MESPAK00_0000_0459",
     "original": "ファシル",
-    "translation": "法希尔",
-    "stage": 0,
+    "translation": "法吉儿",
+    "stage": 1,
     "context": "机翻辅助：\n\n法希尔\n\n法西尔"
   },
   {
     "key": "MESPAK00_0000_0460",
     "original": "クレアール",
-    "translation": "克莱尔",
+    "translation": "克雷艾尔",
     "stage": 1,
     "context": "机翻辅助：\n\n克蕾儿\n\n克莱尔"
   },
   {
     "key": "MESPAK00_0000_0461",
     "original": "イデアル",
-    "translation": "理念",
+    "translation": "依黛儿",
     "stage": 1,
     "context": "机翻辅助：\n\n艾迪欧\n\n理念\n\n理想"
   },
   {
     "key": "MESPAK00_0000_0462",
     "original": "ビビール",
-    "translation": "啤酒",
+    "translation": "薇薇尔",
     "stage": 1,
     "context": "机翻辅助：\n\n碧碧露\n\n啤酒\n\n比吉尔"
   },
@@ -3250,7 +3250,7 @@
   {
     "key": "MESPAK00_0000_0464",
     "original": "ゆかたとうさん",
-    "translation": "浴衣父亲",
+    "translation": "浴衣爸爸",
     "stage": 1,
     "context": "机翻辅助：\n\n浴衣与叔叔\n\n地板糖\n\n浴衣父亲"
   },
@@ -3264,7 +3264,7 @@
   {
     "key": "MESPAK00_0000_0466",
     "original": "ゆかたむすめ",
-    "translation": "浴衣姑娘",
+    "translation": "浴衣女儿",
     "stage": 1,
     "context": "机翻辅助：\n\n和服少女\n\n浴衣姑娘"
   },
@@ -3278,84 +3278,84 @@
   {
     "key": "MESPAK00_0000_0468",
     "original": "カジュアにーさん",
-    "translation": "卡乔亚尼",
+    "translation": "便服哥哥",
     "stage": 1,
     "context": "机翻辅助：\n\n佳树哥哥\n\n卡乔亚尼\n\n卡珠亚二酸"
   },
   {
     "key": "MESPAK00_0000_0469",
     "original": "カジュアねーさん",
-    "translation": "卡乔亚娜",
+    "translation": "便服姐姐",
     "stage": 1,
     "context": "机翻辅助：\n\n佳由姐姐\n\n卡珠亚先生\n\n卡乔亚娜"
   },
   {
     "key": "MESPAK00_0000_0470",
     "original": "ゲレモン",
-    "translation": "格莱蒙",
+    "translation": "卑劣兽",
     "stage": 1,
     "context": "机翻辅助：\n\n格雷蒙\n\n格莱蒙"
   },
   {
     "key": "MESPAK00_0000_0471",
     "original": "スカモン",
-    "translation": "斯卡蒙",
+    "translation": "大便兽",
     "stage": 1,
     "context": "机翻辅助：\n\n史卡梦\n\n斯卡蒙"
   },
   {
     "key": "MESPAK00_0000_0472",
     "original": "マッシュモン",
-    "translation": "马什蒙",
+    "translation": "蘑菇兽",
     "stage": 1,
     "context": "机翻辅助：\n\n马修蒙\n\n马什蒙\n\n蘑菇"
   },
   {
     "key": "MESPAK00_0000_0473",
     "original": "ベジーモン",
-    "translation": "贝西蒙",
+    "translation": "野菜兽",
     "stage": 1,
     "context": "机翻辅助：\n\n生菜怪\n\n贝西蒙"
   },
   {
     "key": "MESPAK00_0000_0474",
     "original": "もとＧテイマー",
-    "translation": "G定员",
+    "translation": "原G级驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n前G驯兽师\n\n原G风味\n\nG定员"
   },
   {
     "key": "MESPAK00_0000_0475",
     "original": "もとＳテイマー",
-    "translation": "前S定员",
+    "translation": "原S级驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n前S耐性者\n\n前S定员\n\n原S风味"
   },
   {
     "key": "MESPAK00_0000_0476",
     "original": "もとＢテイマー",
-    "translation": "B定员",
+    "translation": "原B级驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n前B级驯兽师\n\n原B风味\n\nB定员"
   },
   {
     "key": "MESPAK00_0000_0477",
     "original": "もとＧテイマー",
-    "translation": "G定员",
+    "translation": "原G级驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n前G驯兽师\n\nG定员\n\n原G风味"
   },
   {
     "key": "MESPAK00_0000_0478",
     "original": "もとＳテイマー",
-    "translation": "前S定员",
+    "translation": "原S级驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n前S耐性者\n\n前S定员\n\n原S风味"
   },
   {
     "key": "MESPAK00_0000_0479",
     "original": "もとＢテイマー",
-    "translation": "B定员",
+    "translation": "原B级驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n前B级驯兽师\n\n原B风味\n\nB定员"
   },
@@ -3369,183 +3369,183 @@
   {
     "key": "MESPAK00_0000_0481",
     "original": "おねえのヌメモン",
-    "translation": "姐姐的女鬼",
+    "translation": "姐姐的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n姐姐的滑滑液\n\n姐姐的女鬼\n\n姐姐的努梅蒙"
   },
   {
     "key": "MESPAK00_0000_0482",
     "original": "へたれのヌメモン",
-    "translation": "低垂的努梅门",
+    "translation": "懦弱的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n懦弱的滑瓢\n\n小恶魔\n\n低垂的努梅门"
   },
   {
     "key": "MESPAK00_0000_0483",
     "original": "まもりのヌメモン",
-    "translation": "护身符",
+    "translation": "看守的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n守护的湿滑怪\n\n护身符\n\n守护的努梅蒙"
   },
   {
     "key": "MESPAK00_0000_0484",
     "original": "ゆるめのヌメモン",
-    "translation": "松垮的滑头",
+    "translation": "放松的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n略湿的滑溜溜\n\n放松的努梅蒙\n\n松垮的滑头"
   },
   {
     "key": "MESPAK00_0000_0485",
     "original": "まいごのヌメモン",
-    "translation": "米戈的努梅门",
+    "translation": "迷路的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n迷路的滑瓢\n\n魔芋\n\n米戈的努梅门"
   },
   {
     "key": "MESPAK00_0000_0486",
     "original": "いかりのヌメモン",
-    "translation": "愤怒的努梅门",
+    "translation": "愤怒的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n怒气的滑瓢\n\n愤怒的努梅门\n\n锚的努梅蒙"
   },
   {
     "key": "MESPAK00_0000_0487",
     "original": "あにきのヌメモン",
-    "translation": "哥哥努梅蒙",
+    "translation": "大哥的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n大哥的滑瓢\n\n哥哥努梅蒙\n\n阿西的努梅蒙"
   },
   {
     "key": "MESPAK00_0000_0488",
     "original": "ゆとりのヌメモン",
-    "translation": "宽松的滑头",
+    "translation": "从容的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n宽松世代的滑瓢\n\n宽松的滑头\n\n宽松的努梅蒙"
   },
   {
     "key": "MESPAK00_0000_0489",
     "original": "けついのヌメモン",
-    "translation": "决意的滑头",
+    "translation": "决意的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n好辣的滑滑泥。\n\n决意的滑头\n\n鹿晗兽"
   },
   {
     "key": "MESPAK00_0000_0490",
     "original": "ぐちぐちテイマー",
-    "translation": "爱抱怨的人",
+    "translation": "满腹牢骚的驯兽兽",
     "stage": 1,
     "context": "机翻辅助：\n\n唠唠叨叨驯兽师\n\n出口端\n\n爱抱怨的人"
   },
   {
     "key": "MESPAK00_0000_0491",
     "original": "ねちねちテイマー",
-    "translation": "恋恋不舍的人",
+    "translation": "纠缠不休的驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n唠唠叨叨的驯兽师\n\n恋恋不舍的人\n\n粘地定时器"
   },
   {
     "key": "MESPAK00_0000_0492",
     "original": "ひそひそテイマー",
-    "translation": "悄悄话",
+    "translation": "窃窃私语的驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n悄悄驯兽师\n\n砷化异构体\n\n悄悄话"
   },
   {
     "key": "MESPAK00_0000_0493",
     "original": "こそこそテイマー",
-    "translation": "偷偷摸摸的",
-    "stage": 1,
+    "translation": "偷偷摸摸的驯兽师",
+    "stage": 0,
     "context": "机翻辅助：\n\n偷偷摸摸的驯兽师\n\n偷偷摸摸的"
   },
   {
     "key": "MESPAK00_0000_0494",
     "original": "そわそわテイマー",
-    "translation": "心神不定的人",
+    "translation": "心神不定的驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n坐立难安驯兽师\n\n心神不定的人"
   },
   {
     "key": "MESPAK00_0000_0495",
     "original": "ヌメモンテイマー",
-    "translation": "蒙德默",
+    "translation": "鼻涕兽驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n湿润驯兽师\n\n蒙德默\n\n努梅蒙泰默"
   },
   {
     "key": "MESPAK00_0000_0496",
     "original": "のほほんテイマー",
-    "translation": "保龄球器",
+    "translation": "吊儿郎当的驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n悠哉的驯兽师\n\n自然风味\n\n保龄球器"
   },
   {
     "key": "MESPAK00_0000_0497",
     "original": "ぼんやりテイマー",
-    "translation": "迷迷糊糊的",
+    "translation": "迷迷糊糊的驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n茫然的训兽师\n\n朦胧的气氛\n\n迷迷糊糊的"
   },
   {
     "key": "MESPAK00_0000_0498",
     "original": "おきらくテイマー",
-    "translation": "请放心",
+    "translation": "乐天派的驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n轻松训兽师\n\n好色风味\n\n请放心"
   },
   {
     "key": "MESPAK00_0000_0499",
     "original": "ぐったりテイマー",
-    "translation": "筋疲力尽的人",
-    "stage": 1,
+    "translation": "筋疲力尽的驯兽师",
+    "stage": 0,
     "context": "机翻辅助：\n\n筋疲力尽的驯兽师\n\n筋疲力尽的人\n\n筋疲力尽的感觉"
   },
   {
     "key": "MESPAK00_0000_0500",
     "original": "もっさりテイマー",
-    "translation": "拖泥带水",
+    "translation": "呆头呆脑的驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n土里土气的驯兽师\n\n木排风味\n\n拖泥带水"
   },
   {
     "key": "MESPAK00_0000_0501",
     "original": "つんつんテイマー",
-    "translation": "咕嘟咕嘟的。",
+    "translation": "摆架子的驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n戳戳驯兽师\n\n吸潮器\n\n咕嘟咕嘟的。"
   },
   {
     "key": "MESPAK00_0000_0502",
     "original": "いらいらテイマー",
-    "translation": "焦虑者",
+    "translation": "焦躁不安的驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n暴躁驯兽师\n\n焦急的气氛\n\n焦虑者"
   },
   {
     "key": "MESPAK00_0000_0503",
     "original": "ぎすぎすテイマー",
-    "translation": "尖酸的定时器",
+    "translation": "冷漠无情的驯兽师",
     "stage": 1,
     "context": "机翻辅助：\n\n冷淡的驯兽师\n\n尖酸的定时器\n\n假锥度"
   },
   {
     "key": "MESPAK00_0000_0504",
     "original": "ガードテイマー",
-    "translation": "保护器",
-    "stage": 1,
+    "translation": "守卫驯兽师",
+    "stage": 0,
     "context": "机翻辅助：\n\n守卫驯兽师\n\n保护定时器\n\n保护器"
   },
   {
     "key": "MESPAK00_0000_0505",
     "original": "ガードテイマー",
-    "translation": "保护器",
-    "stage": 1,
+    "translation": "守卫驯兽师",
+    "stage": 0,
     "context": "机翻辅助：\n\n守卫驯兽师\n\n保护器\n\n保护定时器"
   },
   {
     "key": "MESPAK00_0000_0506",
     "original": "レフリー",
-    "translation": "雷福瑞",
-    "stage": 1,
+    "translation": "裁判",
+    "stage": 0,
     "context": "机翻辅助：\n\n裁判\n\n雷福瑞\n\n反光"
   },
   {
@@ -3565,49 +3565,49 @@
   {
     "key": "MESPAK00_0000_0509",
     "original": "１ごうヌメモン",
-    "translation": "1号努梅门",
+    "translation": "1号鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n1滑瓢之孙\n\n1合努美蒙\n\n1号努梅门"
   },
   {
     "key": "MESPAK00_0000_0510",
     "original": "２ごうヌメモン",
-    "translation": "2号努梅门",
+    "translation": "2号鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n2滑瓢\n\n2合努梅蒙\n\n2号努梅门"
   },
   {
     "key": "MESPAK00_0000_0511",
     "original": "３ごうヌメモン",
-    "translation": "3号努梅门",
+    "translation": "3号鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n3滑瓢\n\n3号努梅门\n\n3合努梅蒙"
   },
   {
     "key": "MESPAK00_0000_0512",
     "original": "さいごのゲレモン",
-    "translation": "最后的柠檬",
+    "translation": "最后的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n最后的歌伦布\n\n最后的柠檬\n\n最后的盖雷蒙"
   },
   {
     "key": "MESPAK00_0000_0513",
     "original": "しぶといヌメモン",
-    "translation": "顽强的努梅门",
+    "translation": "顽强的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n顽强的滑瓢\n\n顽强的努梅门\n\n顽强的努梅蒙"
   },
   {
     "key": "MESPAK00_0000_0514",
     "original": "ねちこいヌメモン",
-    "translation": "尼奇克努梅门",
+    "translation": "执拗的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n阴险的滑瓢\n\n尼奇克努梅门\n\n粘粘蛋白"
   },
   {
     "key": "MESPAK00_0000_0515",
     "original": "こずるいヌメモン",
-    "translation": "狡猾的滑稽门",
+    "translation": "狡猾的鼻涕兽",
     "stage": 1,
     "context": "机翻辅助：\n\n狡猾的滑瓢\n\n狡猾的滑稽门\n\n小豆蔻"
   },
@@ -3621,15 +3621,15 @@
   {
     "key": "MESPAK00_0000_0517",
     "original": "グレア",
-    "translation": "格雷",
+    "translation": "格雷亚",
     "stage": 1,
     "context": "机翻辅助：\n\n葛拉亚\n\n格雷\n\n灰色"
   },
   {
     "key": "MESPAK00_0000_0518",
     "original": "ガードテイマー",
-    "translation": "保护器",
-    "stage": 1,
+    "translation": "守卫驯兽师",
+    "stage": 0,
     "context": "机翻辅助：\n\n守卫驯兽师\n\n保护定时器\n\n保护器"
   },
   {
@@ -4405,7 +4405,7 @@
   {
     "key": "MESPAK00_0000_0629",
     "original": "ドットファルコモン",
-    "translation": "多法科门",
+    "translation": "点阵猎鹰兽",
     "stage": 1,
     "context": "机翻辅助：\n\nDottifarlocmon\n\n点法共端\n\n多法科门"
   },
@@ -4433,7 +4433,7 @@
   {
     "key": "MESPAK00_0000_0633",
     "original": "ドットアグモン",
-    "translation": "阿格门",
+    "translation": "点阵亚古兽",
     "stage": 1,
     "context": "机翻辅助：\n\n多特亚古蒙\n\n点聚合\n\n阿格门"
   },
@@ -4692,7 +4692,7 @@
   {
     "key": "MESPAK00_0000_0670",
     "original": "ダークティラノモン",
-    "translation": "黑暗霸王龙",
+    "translation": "黑暗巨龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\n黑暗暴龙怪兽\n\n暗蒂拉诺蒙\n\n黑暗霸王龙"
   },
@@ -4867,7 +4867,7 @@
   {
     "key": "MESPAK00_0000_0695",
     "original": "ストライクドラモン",
-    "translation": "好球龙",
+    "translation": "强袭龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\n强袭魔物\n\n好球德拉蒙\n\n好球龙"
   },
@@ -4979,14 +4979,14 @@
   {
     "key": "MESPAK00_0000_0711",
     "original": "ワーガルルモン（くろ）",
-    "translation": "沃加尔门（克罗）",
+    "translation": "狼人加鲁鲁兽（黑）",
     "stage": 1,
     "context": "机翻辅助：\n\n瓦尔古尔伦蒙（黑）。\n\n沃加尔门（克罗）\n\n瓦加尔兽"
   },
   {
     "key": "MESPAK00_0000_0712",
     "original": "ワーガルルモン（あお）",
-    "translation": "瓦加尔门（蓝色）",
+    "translation": "狼人加鲁鲁兽（蓝）",
     "stage": 1,
     "context": "机翻辅助：\n\n瓦加尔鲁蒙（青色）\n\n瓦加尔门（蓝色）\n\n瓦加尔兽"
   },
@@ -5028,7 +5028,7 @@
   {
     "key": "MESPAK00_0000_0718",
     "original": "アトラーカブテリモン（あか）",
-    "translation": "阿特拉独角仙（红）",
+    "translation": "超比多兽（红）",
     "stage": 1,
     "context": "机翻辅助：\n\n阿特拉·冠者·蒂蒙（红）\n\n阿特拉独角仙（红）\n\n阿特拉卡布特利蒙（红）"
   },
@@ -5042,7 +5042,7 @@
   {
     "key": "MESPAK00_0000_0720",
     "original": "ホーリーエンジェモン",
-    "translation": "霍利天使",
+    "translation": "神圣天使兽",
     "stage": 1,
     "context": "机翻辅助：\n\n神圣安洁门\n\n霍利天使兽\n\n霍利天使"
   },
@@ -5154,7 +5154,7 @@
   {
     "key": "MESPAK00_0000_0736",
     "original": "スーパースターモン",
-    "translation": "超级巨星",
+    "translation": "巨星兽",
     "stage": 1,
     "context": "机翻辅助：\n\n超级明星怪兽\n\n超级巨星\n\n超级星兽"
   },
@@ -5231,9 +5231,9 @@
   {
     "key": "MESPAK00_0000_0747",
     "original": "ルーチェモン　フォールダウンモード",
-    "translation": "路奇门坠落模式",
+    "translation": "光明兽 堕落形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n露杰蒙　坠落模式\n\n路奇门坠落模式\n\n卢切蒙衰减模式"
+    "context": "机翻辅助：\n\n露杰蒙坠落模式\n\n路奇门坠落模式\n\n卢切蒙衰减模式"
   },
   {
     "key": "MESPAK00_0000_0748",
@@ -5252,14 +5252,14 @@
   {
     "key": "MESPAK00_0000_0750",
     "original": "メタルティラノモン",
-    "translation": "金属霸王龙",
+    "translation": "金属巨龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\n金属暴鲨怪\n\n金属霸王兽\n\n金属霸王龙"
   },
   {
     "key": "MESPAK00_0000_0751",
     "original": "エクスティラノモン",
-    "translation": "埃及之门",
+    "translation": "EX巨龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\n艾克斯帝拉诺蒙。\n\n外激元\n\n埃及之门"
   },
@@ -5273,7 +5273,7 @@
   {
     "key": "MESPAK00_0000_0753",
     "original": "エアロブイドラモン",
-    "translation": "埃尔罗布德拉兽",
+    "translation": "飞行V龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\nAero Hydraemon\n\n气动浮标\n\n埃尔罗布德拉兽"
   },
@@ -5364,14 +5364,14 @@
   {
     "key": "MESPAK00_0000_0766",
     "original": "アルゴモン　アルティメット",
-    "translation": "阿尔戈门",
+    "translation": "阿耳戈兽 究极",
     "stage": 1,
-    "context": "机翻辅助：\n\n亚鲁戈　　亚鲁提米斯特\n\n阿尔戈蒙阿尔蒂梅特\n\n阿尔戈门"
+    "context": "机翻辅助：\n\n亚鲁戈亚鲁提米斯特\n\n阿尔戈蒙阿尔蒂梅特\n\n阿尔戈门"
   },
   {
     "key": "MESPAK00_0000_0767",
     "original": "シャッコウモン",
-    "translation": "土偶兽树",
+    "translation": "土偶兽",
     "stage": 1,
     "context": "机翻辅助：\n\n沙克兽\n\n学校门\n\n沙克蒙"
   },
@@ -5399,7 +5399,7 @@
   {
     "key": "MESPAK00_0000_0771",
     "original": "マスターティラノモン",
-    "translation": "霸王龙",
+    "translation": "大师巨龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\n霸王暴龙\n\n霸王龙\n\n主提拉诺蒙"
   },
@@ -5427,7 +5427,7 @@
   {
     "key": "MESPAK00_0000_0775",
     "original": "ヘラクルカブテリモン",
-    "translation": "大力神",
+    "translation": "力神比多兽",
     "stage": 1,
     "context": "机翻辅助：\n\n赫拉克勒斯加伯尔特蒙\n\n黑面甲虫\n\n大力神"
   },
@@ -5441,7 +5441,7 @@
   {
     "key": "MESPAK00_0000_0777",
     "original": "マリンエンジェモン",
-    "translation": "海洋天使",
+    "translation": "海天使兽",
     "stage": 1,
     "context": "机翻辅助：\n\n海洋天使怪兽\n\n海洋天使\n\n海洋天使兽"
   },
@@ -5511,16 +5511,16 @@
   {
     "key": "MESPAK00_0000_0787",
     "original": "ヴェノムヴァンデモン",
-    "translation": "文诺姆万迪门",
+    "translation": "怨毒吸血魔兽",
     "stage": 1,
     "context": "机翻辅助：\n\n Venom vendom\n\n凡德蒙\n\n文诺姆万迪门"
   },
   {
     "key": "MESPAK00_0000_0788",
     "original": "インペリアルドラモン　ドラゴンモード",
-    "translation": "龙之龙模式",
+    "translation": "帝皇龙甲兽 龙形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n帝龙　龙形\n\n龙之龙模式\n\n帝国拉蒙龙模式"
+    "context": "机翻辅助：\n\n帝龙龙形\n\n龙之龙模式\n\n帝国拉蒙龙模式"
   },
   {
     "key": "MESPAK00_0000_0789",
@@ -5553,14 +5553,14 @@
   {
     "key": "MESPAK00_0000_0793",
     "original": "ケルビモン（ぜん）",
-    "translation": "凯尔比兽（前）",
+    "translation": "智天使兽（善）",
     "stage": 1,
     "context": "机翻辅助：\n\n凯尔比兽（全）\n\n凯尔比兽（前）\n\n凯尔维蒙"
   },
   {
     "key": "MESPAK00_0000_0794",
     "original": "ケルビモン（あく）",
-    "translation": "凯鲁比兽（阿克）",
+    "translation": "智天使兽（恶）",
     "stage": 1,
     "context": "机翻辅助：\n\n凯尔比蒙（暗）\n\n凯鲁比兽（阿克）\n\n凯尔维蒙"
   },
@@ -5672,7 +5672,7 @@
   {
     "key": "MESPAK00_0000_0810",
     "original": "スラッシュエンジェモン",
-    "translation": "闪电天使",
+    "translation": "斩天使兽",
     "stage": 1,
     "context": "机翻辅助：\n\n斩击天使兽\n\n闪电天使\n\n斜线天使兽"
   },
@@ -5700,7 +5700,7 @@
   {
     "key": "MESPAK00_0000_0814",
     "original": "バンチョーレオモン",
-    "translation": "班卓雷奥蒙",
+    "translation": "番长狮子兽",
     "stage": 1,
     "context": "机翻辅助：\n\n翼狮兽\n\n班卓里奥蒙\n\n班卓雷奥蒙"
   },
@@ -5728,7 +5728,7 @@
   {
     "key": "MESPAK00_0000_0818",
     "original": "メタルシードラモン",
-    "translation": "金属种子龙",
+    "translation": "金属海龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\n金属种子兽\n\n金属种子拉蒙\n\n金属种子龙"
   },
@@ -5756,14 +5756,14 @@
   {
     "key": "MESPAK00_0000_0822",
     "original": "ブラックウォーグレイモン",
-    "translation": "黑寡妇兽",
+    "translation": "黑暗战斗暴龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\n黑战灰兽\n\n黑寡妇兽\n\n黑沃格雷蒙"
   },
   {
     "key": "MESPAK00_0000_0823",
     "original": "グランクワガーモン",
-    "translation": "大蜘蛛兽",
+    "translation": "雄伟古加兽",
     "stage": 1,
     "context": "机翻辅助：\n\n古兰极霸兽\n\n大蜘蛛兽\n\n格兰克瓦格蒙"
   },
@@ -5812,14 +5812,14 @@
   {
     "key": "MESPAK00_0000_0830",
     "original": "シャイングレイモン",
-    "translation": "沙恩格雷蒙",
+    "translation": "闪光暴龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\n光之幻兽\n\n夏恩格雷蒙\n\n沙恩格雷蒙"
   },
   {
     "key": "MESPAK00_0000_0831",
     "original": "ミラージュガオガモン",
-    "translation": "镜花水月",
+    "translation": "幻影加奥加兽",
     "stage": 1,
     "context": "机翻辅助：\n\n幻影咆哮兽\n\n米拉朱加奥加蒙\n\n镜花水月"
   },
@@ -5840,9 +5840,9 @@
   {
     "key": "MESPAK00_0000_0834",
     "original": "クロノモン　ホーリーモード",
-    "translation": "黑龙兽",
+    "translation": "柯罗诺兽 神圣形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n克罗诺兽　圣形态\n\n计时蒙霍利模式\n\n黑龙兽"
+    "context": "机翻辅助：\n\n克罗诺兽圣形态\n\n计时蒙霍利模式\n\n黑龙兽"
   },
   {
     "key": "MESPAK00_0000_0835",
@@ -5875,23 +5875,23 @@
   {
     "key": "MESPAK00_0000_0839",
     "original": "ドットシャイングレイモン",
-    "translation": "点沙格雷蒙",
+    "translation": "点阵闪光暴龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\n点状光之幻兽\n\n点舍因格雷蒙\n\n点沙格雷蒙"
   },
   {
     "key": "MESPAK00_0000_0840",
     "original": "ドットミラージュガオガモン",
-    "translation": "点状后视镜",
+    "translation": "点阵幻影加奥加兽",
     "stage": 1,
     "context": "机翻辅助：\n\n点状幻影咆哮兽\n\n多特米拉朱加奥加蒙\n\n点状后视镜"
   },
   {
     "key": "MESPAK00_0000_0841",
     "original": "アルゴモン　メガ",
-    "translation": "戈尔蒙目",
+    "translation": "阿耳戈兽 百万",
     "stage": 1,
-    "context": "机翻辅助：\n\n阿尔戈兽　超\n\n戈尔蒙目\n\n阿尔戈蒙米茄"
+    "context": "机翻辅助：\n\n阿尔戈兽超\n\n戈尔蒙目\n\n阿尔戈蒙米茄"
   },
   {
     "key": "MESPAK00_0000_0842",
@@ -5938,77 +5938,77 @@
   {
     "key": "MESPAK00_0000_0848",
     "original": "エンシェントイリスモン",
-    "translation": "恩森和利斯蒙",
+    "translation": "古代彩虹兽",
     "stage": 1,
     "context": "机翻辅助：\n\n古代冥王兽\n\n恩森和利斯蒙\n\n恩辛特伊利斯蒙"
   },
   {
     "key": "MESPAK00_0000_0849",
     "original": "エンシェントガルルモン",
-    "translation": "恩森和加尔蒙",
+    "translation": "古代加鲁鲁兽",
     "stage": 1,
     "context": "机翻辅助：\n\n古代爆王兽\n\n恩西恩特加尔蒙\n\n恩森和加尔蒙"
   },
   {
     "key": "MESPAK00_0000_0850",
     "original": "エンシェントメガテリウモン",
-    "translation": "米伽特利乌门",
+    "translation": "古代大懒兽",
     "stage": 1,
     "context": "机翻辅助：\n\n古代超载兽\n\n恩申特梅加特里蒙\n\n米伽特利乌门"
   },
   {
     "key": "MESPAK00_0000_0851",
     "original": "エンシェントグレイモン",
-    "translation": "恩森与格雷蒙",
+    "translation": "古代暴龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\n古代灰兽\n\n恩森与格雷蒙\n\n恩西恩特格雷蒙"
   },
   {
     "key": "MESPAK00_0000_0852",
     "original": "エンシェントマーメイモン",
-    "translation": "燕仙与玛瑙",
+    "translation": "古代人鱼兽",
     "stage": 1,
     "context": "机翻辅助：\n\n古代海妖兽\n\n恩辛特玛梅蒙\n\n燕仙与玛瑙"
   },
   {
     "key": "MESPAK00_0000_0853",
     "original": "エンシェントワイズモン",
-    "translation": "恩森特威斯门",
+    "translation": "古代贤者兽",
     "stage": 1,
     "context": "机翻辅助：\n\n古代智慧兽\n\n恩申特怀斯蒙\n\n恩森特威斯门"
   },
   {
     "key": "MESPAK00_0000_0854",
     "original": "エンシェントスフィンクモン",
-    "translation": "燕雀兽",
-    "stage": 1,
+    "translation": "古代斯芬克斯兽",
+    "stage": 0,
     "context": "机翻辅助：\n\n古代斯芬克斯兽\n\n恩什顿斯芬克蒙\n\n燕雀兽"
   },
   {
     "key": "MESPAK00_0000_0855",
     "original": "エンシェントトロイアモン",
-    "translation": "安森特罗亚蒙",
+    "translation": "古代木马兽",
     "stage": 1,
     "context": "机翻辅助：\n\n古代特洛伊亚兽\n\n安森特罗亚蒙\n\n恩申托洛伊阿蒙"
   },
   {
     "key": "MESPAK00_0000_0856",
     "original": "エンシェントビートモン",
-    "translation": "安森托比托蒙",
+    "translation": "古代甲虫兽",
     "stage": 1,
     "context": "机翻辅助：\n\n古代幻蝶兽\n\n天使甜菜兽\n\n安森托比托蒙"
   },
   {
     "key": "MESPAK00_0000_0857",
     "original": "エンシェントボルケーモン",
-    "translation": "恩森和博尔卡蒙",
-    "stage": 1,
+    "translation": "古代火山兽",
+    "stage": 0,
     "context": "机翻辅助：\n\n古代火山兽\n\n恩森和博尔卡蒙\n\n恩申特伏尔凯蒙"
   },
   {
     "key": "MESPAK00_0000_0858",
     "original": "アルフォースブイドラモン",
-    "translation": "阿福斯布德拉蒙",
+    "translation": "究极V龙兽",
     "stage": 1,
     "context": "机翻辅助：\n\n阿尔佛斯双头兽\n\n阿尔福斯布伊德拉蒙\n\n阿福斯布德拉蒙"
   },
@@ -6029,7 +6029,7 @@
   {
     "key": "MESPAK00_0000_0861",
     "original": "タイガーヴェスパモン",
-    "translation": "老虎韦斯帕蒙",
+    "translation": "虎蜂兽",
     "stage": 1,
     "context": "机翻辅助：\n\n虎威斯帕兽\n\n老虎韦斯帕蒙\n\n老虎维斯帕蒙"
   },
@@ -6064,23 +6064,23 @@
   {
     "key": "MESPAK00_0000_0866",
     "original": "インペリアルドラモン　ファイターモード",
-    "translation": "帝王兽战士模式",
+    "translation": "帝皇龙甲兽 战士形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n帝国龙兽　斗士形态\n\n帝国拉蒙战士模式\n\n帝王兽战士模式"
+    "context": "机翻辅助：\n\n帝国龙兽斗士形态\n\n帝国拉蒙战士模式\n\n帝王兽战士模式"
   },
   {
     "key": "MESPAK00_0000_0867",
     "original": "インペリアルドラモン　パラディンモード",
-    "translation": "他帝国模式",
+    "translation": "帝皇龙甲兽 圣骑士形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n帝国龙兽　圣骑士形态\n\n他帝国模式\n\n帝国拉蒙帕拉丁模式"
+    "context": "机翻辅助：\n\n帝国龙兽圣骑士形态\n\n他帝国模式\n\n帝国拉蒙帕拉丁模式"
   },
   {
     "key": "MESPAK00_0000_0868",
     "original": "デュークモン　クリムゾンモード",
-    "translation": "杜克蒙克里姆森模式",
+    "translation": "公爵兽 深红形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n帝狮兽　深红形态\n\n杜克蒙克里姆森模式\n\n杜克蒙克里姆松模式"
+    "context": "机翻辅助：\n\n帝狮兽深红形态\n\n杜克蒙克里姆森模式\n\n杜克蒙克里姆松模式"
   },
   {
     "key": "MESPAK00_0000_0869",
@@ -6092,7 +6092,7 @@
   {
     "key": "MESPAK00_0000_0870",
     "original": "べリアルヴァンデモン",
-    "translation": "贝利尔文德蒙",
+    "translation": "贝利亚吸血魔兽",
     "stage": 1,
     "context": "机翻辅助：\n\n彼列破坏兽\n\n贝利尔文德蒙\n\n贝里亚范德蒙"
   },
@@ -6106,14 +6106,14 @@
   {
     "key": "MESPAK00_0000_0872",
     "original": "ズィードミレニアモン",
-    "translation": "千禧年门",
+    "translation": "最终千年兽",
     "stage": 1,
     "context": "机翻辅助：\n\n兹德密雷尼亚兽\n\n千禧年门\n\n祖多米利亚蒙"
   },
   {
     "key": "MESPAK00_0000_0873",
     "original": "カオスデュークモン",
-    "translation": "混沌杜克门",
+    "translation": "混沌公爵兽",
     "stage": 1,
     "context": "机翻辅助：\n\n混沌帝狮兽\n\n混沌杜克门\n\n混沌杜克蒙"
   },
@@ -6127,7 +6127,7 @@
   {
     "key": "MESPAK00_0000_0875",
     "original": "ムーン＝ミレニアモン",
-    "translation": "穆恩-米利尼亚门",
+    "translation": "月之千年兽",
     "stage": 1,
     "context": "机翻辅助：\n\n月·米蕾妮雅兽\n\n月亮=米勒尼娅兽\n\n穆恩-米利尼亚门"
   },
@@ -6141,44 +6141,44 @@
   {
     "key": "MESPAK00_0000_0877",
     "original": "シャイングレイモン　バーストモード",
-    "translation": "沙恩格雷蒙暴",
+    "translation": "闪光暴龙兽 爆裂形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n光之幻兽　爆发模式\n\n夏恩格雷蒙突发模式\n\n沙恩格雷蒙暴"
+    "context": "机翻辅助：\n\n光之幻兽爆发模式\n\n夏恩格雷蒙突发模式\n\n沙恩格雷蒙暴"
   },
   {
     "key": "MESPAK00_0000_0878",
     "original": "シャイングレイモン　ルインモード",
-    "translation": "员工格雷蒙恩模式",
+    "translation": "闪光暴龙兽 毁灭形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n光之幻兽　轮回模式\n\n夏恩格雷门恩模式\n\n员工格雷蒙恩模式"
+    "context": "机翻辅助：\n\n光之幻兽轮回模式\n\n夏恩格雷门恩模式\n\n员工格雷蒙恩模式"
   },
   {
     "key": "MESPAK00_0000_0879",
     "original": "ミラージュガオガモン　バーストモード　",
-    "translation": "幻影御加兽猝发模式　",
+    "translation": "幻影加奥加兽 爆裂形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n幻影咆哮兽　爆发模式　\n\n幻影御加兽猝发模式　\n\n镜像加蒙突发模式"
+    "context": "机翻辅助：\n\n幻影咆哮兽爆发模式　\n\n幻影御加兽猝发模式　\n\n镜像加蒙突发模式"
   },
   {
     "key": "MESPAK00_0000_0880",
     "original": "レイヴモン　バーストモード",
-    "translation": "狂欢兽爆发模式",
+    "translation": "渡鸦兽 爆裂形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n亡魂兽　爆发模式\n\n狂欢兽爆发模式\n\n雷夫蒙突发模式"
+    "context": "机翻辅助：\n\n亡魂兽爆发模式\n\n狂欢兽爆发模式\n\n雷夫蒙突发模式"
   },
   {
     "key": "MESPAK00_0000_0881",
     "original": "ベルゼブモン　ブラストモード",
-    "translation": "贝尔西部门喷砂模式",
+    "translation": "别西卜兽 疾风形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n别西兽　爆裂模式\n\n贝尔西部门喷砂模式\n\n贝尔塞布蒙布拉斯模式"
+    "context": "机翻辅助：\n\n别西兽爆裂模式\n\n贝尔西部门喷砂模式\n\n贝尔塞布蒙布拉斯模式"
   },
   {
     "key": "MESPAK00_0000_0882",
     "original": "ロゼモン　バーストモード",
-    "translation": "罗塞蒙暴",
+    "translation": "蔷薇兽 爆裂形态",
     "stage": 1,
-    "context": "机翻辅助：\n\n蔷薇兽　爆发模式\n\n洛塞蒙突发模式\n\n罗塞蒙暴"
+    "context": "机翻辅助：\n\n蔷薇兽爆发模式\n\n洛塞蒙突发模式\n\n罗塞蒙暴"
   },
   {
     "key": "MESPAK00_0000_0883",
@@ -6225,42 +6225,42 @@
   {
     "key": "MESPAK00_0000_0889",
     "original": "ギガデヴァスト",
-    "translation": "吉加德瓦斯特",
+    "translation": "千兆毁灭者",
     "stage": 1,
     "context": "机翻辅助：\n\nGiga Devastate。\n\n吉加德瓦斯特"
   },
   {
     "key": "MESPAK00_0000_0890",
     "original": "テラデヴァスト",
-    "translation": "泰德瓦斯特",
+    "translation": "万亿毁灭者",
     "stage": 1,
     "context": "机翻辅助：\n\nTera Devastate\n\n泰拉德瓦斯特\n\n泰德瓦斯特"
   },
   {
     "key": "MESPAK00_0000_0891",
     "original": "ＥＸイレイザーα",
-    "translation": "EX激光α",
+    "translation": "EX消除者α",
     "stage": 1,
     "context": "机翻辅助：\n\nEX ILIASER α\n\nEX擦除器α\n\nEX激光α"
   },
   {
     "key": "MESPAK00_0000_0892",
     "original": "ＥＸイレイザーβ",
-    "translation": "β激进剂",
+    "translation": "EX消除者β",
     "stage": 1,
-    "context": "机翻辅助：\n\nEX　轻松小精灵β\n\nβ激进剂\n\nEX擦除器β"
+    "context": "机翻辅助：\n\nEX轻松小精灵β\n\nβ激进剂\n\nEX擦除器β"
   },
   {
     "key": "MESPAK00_0000_0893",
     "original": "ＥＸイレイザーγ",
-    "translation": "EX激光γ",
+    "translation": "EX消除者γ",
     "stage": 1,
     "context": "机翻辅助：\n\nEX依莱沙γ\n\nEX擦除器γ\n\nEX激光γ"
   },
   {
     "key": "MESPAK00_0000_0894",
     "original": "ＥＸイレイザーΩ",
-    "translation": "EX擦除器Ω",
+    "translation": "EX消除者Ω",
     "stage": 1,
     "context": "机翻辅助：\n\nEX ILIASER ω\n\nEX擦除器Ω\n\nexイレイザーω-"
   },
@@ -6274,21 +6274,21 @@
   {
     "key": "MESPAK00_0000_0896",
     "original": "シフトイレイザー",
-    "translation": "换挡杆和扫把",
+    "translation": "变化消除者",
     "stage": 1,
     "context": "机翻辅助：\n\n【替档消除】\n\n换挡杆和扫把\n\n移位器"
   },
   {
     "key": "MESPAK00_0000_0897",
     "original": "どくよぼう",
-    "translation": "毒的预防",
+    "translation": "毒预防",
     "stage": 1,
     "context": "机翻辅助：\n\n毒液弹\n\n毒的预防\n\n毒细胞"
   },
   {
     "key": "MESPAK00_0000_0898",
     "original": "どくガード",
-    "translation": "毒护",
+    "translation": "毒防护",
     "stage": 1,
     "context": "机翻辅助：\n\n毒液防御\n\n毒保护\n\n毒护"
   },
@@ -6302,14 +6302,14 @@
   {
     "key": "MESPAK00_0000_0900",
     "original": "こんらんよぼう",
-    "translation": "预防混乱",
+    "translation": "混乱预防",
     "stage": 1,
     "context": "机翻辅助：\n\n混沌弹\n\n混响预防\n\n预防混乱"
   },
   {
     "key": "MESPAK00_0000_0901",
     "original": "こんらんガード",
-    "translation": "混乱后卫",
+    "translation": "混乱防护",
     "stage": 1,
     "context": "机翻辅助：\n\n混沌防御\n\n混乱后卫\n\n防干扰装置"
   },
@@ -6323,14 +6323,14 @@
   {
     "key": "MESPAK00_0000_0903",
     "original": "デスよぼう",
-    "translation": "预防。",
+    "translation": "死亡预防",
     "stage": 1,
     "context": "机翻辅助：\n\n死亡弹\n\n预防。\n\n死亡预防"
   },
   {
     "key": "MESPAK00_0000_0904",
     "original": "デスガード",
-    "translation": "死亡保护",
+    "translation": "死亡防护",
     "stage": 1,
     "context": "机翻辅助：\n\n死亡防御\n\n死亡保护"
   },
@@ -6372,7 +6372,7 @@
   {
     "key": "MESPAK00_0000_0910",
     "original": "ねむりガード",
-    "translation": "睡眠保护",
+    "translation": "睡眠防护",
     "stage": 1,
     "context": "机翻辅助：\n\n睡眠防御\n\n睡眠保护\n\n防睡帽"
   },
@@ -6407,14 +6407,14 @@
   {
     "key": "MESPAK00_0000_0915",
     "original": "ハイスナイパー",
-    "translation": "高狙击手",
+    "translation": "高级狙击手",
     "stage": 1,
     "context": "机翻辅助：\n\nHighsniper\n\n高狙击手"
   },
   {
     "key": "MESPAK00_0000_0916",
     "original": "しんがん",
-    "translation": "真心话",
+    "translation": "心之眼",
     "stage": 1,
     "context": "机翻辅助：\n\n新干线。\n\n真心话\n\n真岩"
   },
@@ -6428,77 +6428,77 @@
   {
     "key": "MESPAK00_0000_0918",
     "original": "こうそくかいひ",
-    "translation": "避免被拘留",
+    "translation": "高速回避",
     "stage": 1,
     "context": "机翻辅助：\n\n宪法纪念日\n\n快速恢复比\n\n避免被拘留"
   },
   {
     "key": "MESPAK00_0000_0919",
     "original": "みかわしのまい",
-    "translation": "交换之物",
+    "translation": "对视之舞",
     "stage": 1,
     "context": "机翻辅助：\n\n美和的每一天\n\n表观表\n\n交换之物"
   },
   {
     "key": "MESPAK00_0000_0920",
     "original": "クリティカル",
-    "translation": "批判性",
+    "translation": "暴击",
     "stage": 1,
     "context": "机翻辅助：\n\n会心一击\n\n批判性\n\n关键"
   },
   {
     "key": "MESPAK00_0000_0921",
     "original": "ハイクリティカル",
-    "translation": "批判性思维",
+    "translation": "高级暴击",
     "stage": 1,
     "context": "机翻辅助：\n\n会心一击\n\n高临界\n\n批判性思维"
   },
   {
     "key": "MESPAK00_0000_0922",
     "original": "アサシンのうで",
-    "translation": "麻将脑",
+    "translation": "刺客手腕",
     "stage": 1,
     "context": "机翻辅助：\n\n刺客的袖子\n\n麻将脑\n\n牵牛花"
   },
   {
     "key": "MESPAK00_0000_0923",
     "original": "にげあし",
-    "translation": "逃命",
+    "translation": "逃跑",
     "stage": 1,
     "context": "机翻辅助：\n\n逃避\n\n双爪\n\n逃命"
   },
   {
     "key": "MESPAK00_0000_0924",
     "original": "ちょうにげあし",
-    "translation": "蝴蝶逃命",
+    "translation": "超逃跑",
     "stage": 1,
     "context": "机翻辅助：\n\n超好笑的。\n\n双爪\n\n蝴蝶逃命"
   },
   {
     "key": "MESPAK00_0000_0925",
     "original": "にげるがかち",
-    "translation": "逃就是赢",
+    "translation": "走为上策",
     "stage": 1,
     "context": "机翻辅助：\n\n虽然想逃，但门却打不开。\n\n驼峰\n\n逃就是赢"
   },
   {
     "key": "MESPAK00_0000_0926",
     "original": "おかねずき",
-    "translation": "金钟",
+    "translation": "贪财",
     "stage": 1,
     "context": "机翻辅助：\n\n钱形幸次\n\n金属铸件\n\n金钟"
   },
   {
     "key": "MESPAK00_0000_0927",
     "original": "かねもち",
-    "translation": "有钱人",
+    "translation": "富翁",
     "stage": 1,
     "context": "机翻辅助：\n\n金钱守卫\n\n有钱人\n\n扁担"
   },
   {
     "key": "MESPAK00_0000_0928",
     "original": "おおがねもち",
-    "translation": "有钱人",
+    "translation": "大富翁",
     "stage": 1,
     "context": "机翻辅助：\n\n大和抚子\n\n有钱人\n\n大型年糕"
   },
@@ -6519,14 +6519,14 @@
   {
     "key": "MESPAK00_0000_0931",
     "original": "７ふくじん",
-    "translation": "七副人",
+    "translation": "七福神",
     "stage": 1,
-    "context": "机翻辅助：\n\n7　夫妇\n\n七副人\n\n七个人"
+    "context": "机翻辅助：\n\n7夫妇\n\n七副人\n\n七个人"
   },
   {
     "key": "MESPAK00_0000_0932",
     "original": "アイテムずき",
-    "translation": "单品图",
+    "translation": "爱物",
     "stage": 1,
     "context": "机翻辅助：\n\n道具宅\n\n单品图\n\n项目图"
   },
@@ -6540,8 +6540,8 @@
   {
     "key": "MESPAK00_0000_0934",
     "original": "アイテムマスター",
-    "translation": "单品大师",
-    "stage": 1,
+    "translation": "道具大师",
+    "stage": 0,
     "context": "机翻辅助：\n\n道具大师\n\n单品大师\n\n项目主控"
   },
   {
@@ -6561,8 +6561,8 @@
   {
     "key": "MESPAK00_0000_0937",
     "original": "スキルユーザー",
-    "translation": "技能用户",
-    "stage": 1,
+    "translation": "技能使用者",
+    "stage": 0,
     "context": "机翻辅助：\n\n技能使用者\n\n技能用户"
   },
   {
@@ -6575,14 +6575,14 @@
   {
     "key": "MESPAK00_0000_0939",
     "original": "スタンバリア",
-    "translation": "斯坦巴里亚",
+    "translation": "站立屏障",
     "stage": 1,
     "context": "机翻辅助：\n\n史坦伯利障壁\n\n斯坦巴里亚\n\n标准势垒"
   },
   {
     "key": "MESPAK00_0000_0940",
     "original": "Ｄエンテレケイア",
-    "translation": "D娱乐公司",
+    "translation": "D完全现实",
     "stage": 1,
     "context": "机翻辅助：\n\nDentelequia\n\nD娱乐公司\n\nD恩特雷凯亚"
   },
@@ -6596,28 +6596,28 @@
   {
     "key": "MESPAK00_0000_0942",
     "original": "いやしのて",
-    "translation": "医治之手",
+    "translation": "治愈之手",
     "stage": 1,
     "context": "机翻辅助：\n\n疗愈\n\n医治之手\n\n讨厌的人"
   },
   {
     "key": "MESPAK00_0000_0943",
     "original": "いやしのはどう",
-    "translation": "治疗的方法",
+    "translation": "治愈波动",
     "stage": 1,
     "context": "机翻辅助：\n\n不晓得有没有治疗效果。\n\n治的怎么样\n\n治疗的方法"
   },
   {
     "key": "MESPAK00_0000_0944",
     "original": "むしめがね",
-    "translation": "防虫眼镜",
+    "translation": "放大镜",
     "stage": 1,
     "context": "机翻辅助：\n\n虫笼\n\n防虫眼镜\n\n防虫板"
   },
   {
     "key": "MESPAK00_0000_0945",
     "original": "デジモンはかせ",
-    "translation": "数码博士",
+    "translation": "数码宝贝博士",
     "stage": 1,
     "context": "机翻辅助：\n\n是戴奇蒙。\n\n数码宝贝\n\n数码博士"
   },
@@ -6729,43 +6729,43 @@
   {
     "key": "MESPAK00_0000_0961",
     "original": "すばやさＵＰ１",
-    "translation": "速度UP1",
-    "stage": 1,
+    "translation": "敏捷UP1",
+    "stage": 0,
     "context": "机翻辅助：\n\n敏捷UP1\n\n速度UP1"
   },
   {
     "key": "MESPAK00_0000_0962",
     "original": "すばやさＵＰ２",
-    "translation": "速度UP2",
-    "stage": 0,
+    "translation": "敏捷UP2",
+    "stage": 1,
     "context": "机翻辅助：\n\n速度UP2"
   },
   {
     "key": "MESPAK00_0000_0963",
     "original": "すばやさＵＰ３",
-    "translation": "速度UP3",
-    "stage": 1,
+    "translation": "敏捷UP3",
+    "stage": 0,
     "context": "机翻辅助：\n\n敏捷UP3\n\n速度UP3"
   },
   {
     "key": "MESPAK00_0000_0964",
     "original": "すばやさＵＰ４",
-    "translation": "速度UP4",
-    "stage": 1,
+    "translation": "敏捷UP4",
+    "stage": 0,
     "context": "机翻辅助：\n\n敏捷UP4\n\n速度UP4"
   },
   {
     "key": "MESPAK00_0000_0965",
     "original": "すばやさＵＰ５",
-    "translation": "速度UP5",
-    "stage": 1,
+    "translation": "敏捷UP5",
+    "stage": 0,
     "context": "机翻辅助：\n\n敏捷UP5\n\n速度UP5"
   },
   {
     "key": "MESPAK00_0000_0966",
     "original": "すばやさＵＰ６",
-    "translation": "速度UP6",
-    "stage": 0,
+    "translation": "敏捷UP6",
+    "stage": 1,
     "context": "机翻辅助：\n\n速度UP6"
   },
   {
@@ -6773,7 +6773,7 @@
     "original": "こうげきＵＰ７",
     "translation": "攻击UP7",
     "stage": 1,
-    "context": "机翻辅助：\n\nGU　UP7\n\n攻击UP7"
+    "context": "机翻辅助：\n\nGUUP7\n\n攻击UP7"
   },
   {
     "key": "MESPAK00_0000_0968",
@@ -6785,14 +6785,14 @@
   {
     "key": "MESPAK00_0000_0969",
     "original": "たいあたり",
-    "translation": "泰国一带",
+    "translation": "撞击",
     "stage": 1,
     "context": "机翻辅助：\n\n靶子\n\n泰国一带\n\n对边"
   },
   {
     "key": "MESPAK00_0000_0970",
     "original": "さんのアワ",
-    "translation": "先生的谷子",
+    "translation": "酸性泡泡",
     "stage": 1,
     "context": "机翻辅助：\n\n的艾瓦……\n\n酸小米\n\n先生的谷子"
   },
@@ -6813,15 +6813,15 @@
   {
     "key": "MESPAK00_0000_0973",
     "original": "みだれアイスアロー",
-    "translation": "杂乱无章",
+    "translation": "连续冰箭",
     "stage": 1,
     "context": "机翻辅助：\n\n乱箭冰雹\n\n杂乱无章\n\n雪崩冰淇淋"
   },
   {
     "key": "MESPAK00_0000_0974",
     "original": "リトルブリザード",
-    "translation": "小暴风雪",
-    "stage": 0,
+    "translation": "小小暴风雪",
+    "stage": 1,
     "context": "机翻辅助：\n\n小暴风雪"
   },
   {
@@ -6834,63 +6834,63 @@
   {
     "key": "MESPAK00_0000_0976",
     "original": "グレートブリザード",
-    "translation": "暴风雪",
+    "translation": "大暴风雪",
     "stage": 1,
     "context": "机翻辅助：\n\n“Great Blizzard”\n\n暴风雪\n\n大暴风雪"
   },
   {
     "key": "MESPAK00_0000_0977",
     "original": "ティアーバブル",
-    "translation": "塑料泡沫",
+    "translation": "泪珠泡沫",
     "stage": 1,
     "context": "机翻辅助：\n\n堤亚勃勒\n\n塑料泡沫\n\n顶部气泡"
   },
   {
     "key": "MESPAK00_0000_0978",
     "original": "みだれさんのアワ",
-    "translation": "杂乱无章的谷子",
+    "translation": "连续酸性泡泡",
     "stage": 1,
     "context": "机翻辅助：\n\n乱桥老师的艾瓦\n\n鲜小米\n\n杂乱无章的谷子"
   },
   {
     "key": "MESPAK00_0000_0979",
     "original": "なないろのアワ",
-    "translation": "七色的谷子",
+    "translation": "七彩泡泡",
     "stage": 1,
     "context": "机翻辅助：\n\n七色的花粉\n\n熟成的小米\n\n七色的谷子"
   },
   {
     "key": "MESPAK00_0000_0980",
     "original": "ハイドロウォーター",
-    "translation": "水",
+    "translation": "水压",
     "stage": 1,
     "context": "机翻辅助：\n\n海德洛水\n\n液压水\n\n水"
   },
   {
     "key": "MESPAK00_0000_0981",
     "original": "メガトンハイドロ",
-    "translation": "百万吨水",
+    "translation": "百万吨水压",
     "stage": 1,
     "context": "机翻辅助：\n\n百万吨水压。\n\n百万吨水"
   },
   {
     "key": "MESPAK00_0000_0982",
     "original": "ギガトンハイドロ",
-    "translation": "吉加顿水",
+    "translation": "千兆吨水压",
     "stage": 1,
     "context": "机翻辅助：\n\n兆吨水矛\n\n千吨水\n\n吉加顿水"
   },
   {
     "key": "MESPAK00_0000_0983",
     "original": "ダブルウェーブ",
-    "translation": "双波浪",
+    "translation": "双重波浪",
     "stage": 1,
     "context": "机翻辅助：\n\n大波浪\n\n双波浪\n\n双波"
   },
   {
     "key": "MESPAK00_0000_0984",
     "original": "トリプルウェーブ",
-    "translation": "三波",
+    "translation": "三重波浪",
     "stage": 1,
     "context": "机翻辅助：\n\n三连击\n\n三波\n\n三次波"
   },
@@ -6904,36 +6904,36 @@
   {
     "key": "MESPAK00_0000_0986",
     "original": "かまいたち",
-    "translation": "混蛋们",
+    "translation": "旋风刀",
     "stage": 1,
     "context": "机翻辅助：\n\n镰鼬\n\n混蛋们\n\n管家"
   },
   {
     "key": "MESPAK00_0000_0987",
     "original": "かさねかまいたち",
-    "translation": "层层叠叠",
+    "translation": "重叠旋风刀",
     "stage": 1,
     "context": "机翻辅助：\n\n多重镰鼬\n\n层层叠叠\n\n多管闲事"
   },
   {
     "key": "MESPAK00_0000_0988",
     "original": "ソニックボイス",
-    "translation": "索尼克之音",
+    "translation": "音速之音",
     "stage": 1,
     "context": "机翻辅助：\n\n超音波\n\n索尼克之音\n\n音响"
   },
   {
     "key": "MESPAK00_0000_0989",
     "original": "ハイソニックボイス",
-    "translation": "高音调",
+    "translation": "音速之高音",
     "stage": 1,
     "context": "机翻辅助：\n\n超音波\n\n高音\n\n高音调"
   },
   {
     "key": "MESPAK00_0000_0990",
     "original": "プチトルネード",
-    "translation": "小龙卷风",
-    "stage": 1,
+    "translation": "小型龙卷风",
+    "stage": 0,
     "context": "机翻辅助：\n\n小型龙卷风\n\n小龙卷风\n\n小屈氏体"
   },
   {
@@ -6946,43 +6946,43 @@
   {
     "key": "MESPAK00_0000_0992",
     "original": "ハイパートルネード",
-    "translation": "公寓公寓",
+    "translation": "高级龙卷风",
     "stage": 1,
     "context": "机翻辅助：\n\n超级龙卷风\n\n超隧道\n\n公寓公寓"
   },
   {
     "key": "MESPAK00_0000_0993",
     "original": "エアカッター",
-    "translation": "空气切割机",
+    "translation": "空气弯刀",
     "stage": 1,
     "context": "机翻辅助：\n\n空气斩\n\n空气切割机\n\n气动切割器"
   },
   {
     "key": "MESPAK00_0000_0994",
     "original": "クレセントカッター",
-    "translation": "新月切割机",
+    "translation": "新月弯刀",
     "stage": 1,
     "context": "机翻辅助：\n\n新月斩\n\n新月切割机\n\n切边机"
   },
   {
     "key": "MESPAK00_0000_0995",
     "original": "ダブルクレセント",
-    "translation": "双新月",
+    "translation": "双重新月弯刀",
     "stage": 1,
     "context": "机翻辅助：\n\n双重新月斩\n\n双克莱森\n\n双新月"
   },
   {
     "key": "MESPAK00_0000_0996",
     "original": "ウインドクロー",
-    "translation": "风衣",
-    "stage": 1,
+    "translation": "疾风爪",
+    "stage": 0,
     "context": "机翻辅助：\n\n疾风爪\n\n风衣\n\n风挡"
   },
   {
     "key": "MESPAK00_0000_0997",
     "original": "スパイラルクロー",
-    "translation": "螺旋克罗克",
-    "stage": 1,
+    "translation": "螺旋爪",
+    "stage": 0,
     "context": "机翻辅助：\n\n螺旋爪\n\n螺旋轴\n\n螺旋克罗克"
   },
   {
@@ -7009,8 +7009,8 @@
   {
     "key": "MESPAK00_0000_1001",
     "original": "プチフレイム",
-    "translation": "小火焰",
-    "stage": 1,
+    "translation": "小型火焰",
+    "stage": 0,
     "context": "机翻辅助：\n\n小型火焰\n\n小火焰"
   },
   {
@@ -8194,7 +8194,7 @@
     "original": "ＥＸＴ・ジハード",
     "translation": "​",
     "stage": 1,
-    "context": "机翻辅助：\n\nEX·圣战\n\nEXT·吉哈德\n\n​"
+    "context": "机翻辅助：\n\nEX·圣战\n\nEXT·吉哈德\n\n？"
   },
   {
     "key": "MESPAK00_0000_1171",
@@ -8738,7 +8738,7 @@
   {
     "key": "MESPAK00_0000_1248",
     "original": "ナイトレイド",
-    "translation": "夜间突袭",
+    "translation": "夜魔飞袭",
     "stage": 1,
     "context": "机翻辅助：\n\nNight Raid\n\n夜袭\n\n夜间突袭"
   },
@@ -9307,7 +9307,7 @@
     "original": "ヒート・バイパー",
     "translation": "热毒蛇",
     "stage": 1,
-    "context": "机翻辅助：\n\nHeat　Viper\n\n热毒蛇\n\n散热片"
+    "context": "机翻辅助：\n\nHeatViper\n\n热毒蛇\n\n散热片"
   },
   {
     "key": "MESPAK00_0000_1330",
@@ -9412,7 +9412,7 @@
     "original": "ラブリーアタック",
     "translation": "爱情攻击",
     "stage": 1,
-    "context": "机翻辅助：\n\nLovely　Attack\n\n爱情攻击"
+    "context": "机翻辅助：\n\nLovelyAttack\n\n爱情攻击"
   },
   {
     "key": "MESPAK00_0000_1345",
@@ -9874,7 +9874,7 @@
     "original": "ナイトファイアー",
     "translation": "夜火",
     "stage": 1,
-    "context": "机翻辅助：\n\nNIGHT　FIRE\n\n夜间火焰\n\n夜火"
+    "context": "机翻辅助：\n\nNIGHTFIRE\n\n夜间火焰\n\n夜火"
   },
   {
     "key": "MESPAK00_0000_1411",
@@ -10210,7 +10210,7 @@
     "original": "みきはがしのふぶき",
     "translation": "刮下来的大风",
     "stage": 1,
-    "context": "机翻辅助：\n\n美希　羽岛富吹\n\n刮下来的大风\n\n未加工的包袱皮"
+    "context": "机翻辅助：\n\n美希羽岛富吹\n\n刮下来的大风\n\n未加工的包袱皮"
   },
   {
     "key": "MESPAK00_0000_1459",
@@ -10952,7 +10952,7 @@
     "original": "ヒート・バイパー",
     "translation": "热毒蛇",
     "stage": 1,
-    "context": "机翻辅助：\n\nHeat　Viper\n\n散热片\n\n热毒蛇"
+    "context": "机翻辅助：\n\nHeatViper\n\n散热片\n\n热毒蛇"
   },
   {
     "key": "MESPAK00_0000_1565",
@@ -12261,7 +12261,7 @@
     "original": "７ヘブンズアロー",
     "translation": "七赫文士阿罗",
     "stage": 1,
-    "context": "机翻辅助：\n\n7　天上的弓箭\n\n7黑文斯芦荟\n\n七赫文士阿罗"
+    "context": "机翻辅助：\n\n7天上的弓箭\n\n7黑文斯芦荟\n\n七赫文士阿罗"
   },
   {
     "key": "MESPAK00_0000_1752",
@@ -12408,7 +12408,7 @@
     "original": "４セイントブロー",
     "translation": "4圣吹法",
     "stage": 1,
-    "context": "机翻辅助：\n\n4　圣拳\n\n4圣吹法\n\n4圣吹"
+    "context": "机翻辅助：\n\n4圣拳\n\n4圣吹法\n\n4圣吹"
   },
   {
     "key": "MESPAK00_0000_1773",
@@ -13724,7 +13724,7 @@
     "original": "パイルドラモン　α",
     "translation": "机甲龙兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\nPileldramon　α\n\n派尔德拉蒙α\n\n白龙兽"
+    "context": "机翻辅助：\n\nPileldramonα\n\n派尔德拉蒙α\n\n白龙兽"
   },
   {
     "key": "MESPAK00_0000_1961",
@@ -13738,14 +13738,14 @@
     "original": "ディノビーモン　α",
     "translation": "恐蜂兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\n恐暴龙　α\n\n迪诺比蒙\n\n迪诺比蒙α"
+    "context": "机翻辅助：\n\n恐暴龙α\n\n迪诺比蒙\n\n迪诺比蒙α"
   },
   {
     "key": "MESPAK00_0000_1963",
     "original": "ディノビーモン　β",
     "translation": "恐蜂兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n恐贝梦　β\n\nβ迪诺维蒙\n\n迪诺比蒙β"
+    "context": "机翻辅助：\n\n恐贝梦β\n\nβ迪诺维蒙\n\n迪诺比蒙β"
   },
   {
     "key": "MESPAK00_0000_1964",
@@ -13794,14 +13794,14 @@
     "original": "キメラモン　α",
     "translation": "奇美拉兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\n合成兽　α\n\n嵌合体α\n\n嵌合蛋白α"
+    "context": "机翻辅助：\n\n合成兽α\n\n嵌合体α\n\n嵌合蛋白α"
   },
   {
     "key": "MESPAK00_0000_1971",
     "original": "キメラモン　β",
     "translation": "奇美拉兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n奇美拉垄断　β\n\n嵌合体β\n\n嵌合蛋白β"
+    "context": "机翻辅助：\n\n奇美拉垄断β\n\n嵌合体β\n\n嵌合蛋白β"
   },
   {
     "key": "MESPAK00_0000_1972",
@@ -13932,16 +13932,16 @@
   {
     "key": "MESPAK00_0000_1990",
     "original": "シャッコウモン　α",
-    "translation": "土偶兽树　α",
+    "translation": "土偶兽　α",
     "stage": 1,
     "context": "机翻辅助：\n\n犀之王α\n\n沙克蒙α\n\n反光门α"
   },
   {
     "key": "MESPAK00_0000_1991",
     "original": "シャッコウモン　β",
-    "translation": "土偶兽树　β",
+    "translation": "土偶兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n笑子　β\n\nβ感光门\n\n沙克蒙β"
+    "context": "机翻辅助：\n\n笑子β\n\nβ感光门\n\n沙克蒙β"
   },
   {
     "key": "MESPAK00_0000_1992",
@@ -13997,7 +13997,7 @@
     "original": "ＨＥカブテリモン",
     "translation": "力神比多兽",
     "stage": 1,
-    "context": "机翻辅助：\n\n终章　弹着橡胶子弹的我\n\nHE卡布特利蒙\n\n河甲虫"
+    "context": "机翻辅助：\n\n终章弹着橡胶子弹的我\n\nHE卡布特利蒙\n\n河甲虫"
   },
   {
     "key": "MESPAK00_0000_2000",
@@ -14431,7 +14431,7 @@
     "original": "Ａトロイアモン　β",
     "translation": "古代木马兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\nA特洛伊亚蒙　β\n\nA特洛伊蒙β\n\nβ -羟色胺"
+    "context": "机翻辅助：\n\nA特洛伊亚蒙β\n\nA特洛伊蒙β\n\nβ -羟色胺"
   },
   {
     "key": "MESPAK00_0000_2062",
@@ -14515,14 +14515,14 @@
     "original": "オメガモン　α",
     "translation": "奥米加兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\nΩ　α\n\n欧米伽门α\n\nωα"
+    "context": "机翻辅助：\n\nΩα\n\n欧米伽门α\n\nωα"
   },
   {
     "key": "MESPAK00_0000_2074",
     "original": "オメガモン　β",
     "translation": "奥米加兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\nΩ　β\n\nβ -欧米伽门\n\nω－β"
+    "context": "机翻辅助：\n\nΩβ\n\nβ -欧米伽门\n\nω－β"
   },
   {
     "key": "MESPAK00_0000_2075",
@@ -14564,7 +14564,7 @@
     "original": "アーマゲモン　β",
     "translation": "灭世魔兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n装甲守护者　β\n\n杏仁β\n\nβ拱形门"
+    "context": "机翻辅助：\n\n装甲守护者β\n\n杏仁β\n\nβ拱形门"
   },
   {
     "key": "MESPAK00_0000_2081",
@@ -14648,7 +14648,7 @@
     "original": "ＭガオガモンＢＭ　β",
     "translation": "幻影加奥加兽BM　β",
     "stage": 1,
-    "context": "机翻辅助：\n\nMGAOMON　β\n\nM伽门BM β\n\n百万加蒙BMβ"
+    "context": "机翻辅助：\n\nMGAOMONβ\n\nM伽门BM β\n\n百万加蒙BMβ"
   },
   {
     "key": "MESPAK00_0000_2093",
@@ -14662,14 +14662,14 @@
     "original": "ベルゼブモンＢＭ　α",
     "translation": "别西卜兽BM　α",
     "stage": 1,
-    "context": "机翻辅助：\n\n别西卜　BM　α\n\n贝尔西门BM α\n\n贝尔塞布蒙BMα"
+    "context": "机翻辅助：\n\n别西卜BMα\n\n贝尔西门BM α\n\n贝尔塞布蒙BMα"
   },
   {
     "key": "MESPAK00_0000_2095",
     "original": "ベルゼブモンＢＭ　β",
     "translation": "别西卜兽BM　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n别西卜　BM　β\n\n贝尔塞布蒙BMβ\n\n贝尔西门BM β"
+    "context": "机翻辅助：\n\n别西卜BMβ\n\n贝尔塞布蒙BMβ\n\n贝尔西门BM β"
   },
   {
     "key": "MESPAK00_0000_2096",
@@ -14690,21 +14690,21 @@
     "original": "カオスモン　β",
     "translation": "混沌兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\nChaos怪兽　β\n\n脸素β\n\n高斯蒙β"
+    "context": "机翻辅助：\n\nChaos怪兽β\n\n脸素β\n\n高斯蒙β"
   },
   {
     "key": "MESPAK00_0000_2099",
     "original": "チンロンモン　α",
     "translation": "青龙兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\n秦龙门　α\n\n镇论门α\n\n丁酮α"
+    "context": "机翻辅助：\n\n秦龙门α\n\n镇论门α\n\n丁酮α"
   },
   {
     "key": "MESPAK00_0000_2100",
     "original": "チンロンモン　β",
     "translation": "青龙兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n秦珑梦　β\n\nβ磷脂酶\n\n丁酮β"
+    "context": "机翻辅助：\n\n秦珑梦β\n\nβ磷脂酶\n\n丁酮β"
   },
   {
     "key": "MESPAK00_0000_2101",
@@ -14725,14 +14725,14 @@
     "original": "シェンウーモン　α",
     "translation": "玄武兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\n神兽　α\n\n紫云门\n\n辛乌蒙α"
+    "context": "机翻辅助：\n\n神兽α\n\n紫云门\n\n辛乌蒙α"
   },
   {
     "key": "MESPAK00_0000_2104",
     "original": "シェンウーモン　β",
     "translation": "玄武兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n神兽　β\n\nβ氰胺\n\n舍恩乌蒙β"
+    "context": "机翻辅助：\n\n神兽β\n\nβ氰胺\n\n舍恩乌蒙β"
   },
   {
     "key": "MESPAK00_0000_2105",
@@ -14900,14 +14900,14 @@
     "original": "パイルドラモンＷ１",
     "translation": "白龙兽W1",
     "stage": 1,
-    "context": "机翻辅助：\n\nPile DRIVERMON　W1\n\n白龙兽W1\n\n派尔德拉蒙W1"
+    "context": "机翻辅助：\n\nPile DRIVERMONW1\n\n白龙兽W1\n\n派尔德拉蒙W1"
   },
   {
     "key": "MESPAK00_0000_2129",
     "original": "パイルドラモンＷ２",
     "translation": "白龙兽W2",
     "stage": 1,
-    "context": "机翻辅助：\n\nPileldramon　W2\n\n白龙兽W2\n\n派尔德拉蒙W2"
+    "context": "机翻辅助：\n\nPileldramonW2\n\n白龙兽W2\n\n派尔德拉蒙W2"
   },
   {
     "key": "MESPAK00_0000_2130",
@@ -15495,7 +15495,7 @@
     "original": "パイルドラモン　α",
     "translation": "机甲龙兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\nPileldramon　α\n\n派尔德拉蒙α\n\n白龙兽"
+    "context": "机翻辅助：\n\nPileldramonα\n\n派尔德拉蒙α\n\n白龙兽"
   },
   {
     "key": "MESPAK00_0000_2214",
@@ -15509,14 +15509,14 @@
     "original": "ディノビーモン　α",
     "translation": "恐蜂兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\n恐暴龙　α\n\n迪诺比蒙α\n\n迪诺比蒙"
+    "context": "机翻辅助：\n\n恐暴龙α\n\n迪诺比蒙α\n\n迪诺比蒙"
   },
   {
     "key": "MESPAK00_0000_2216",
     "original": "ディノビーモン　β",
     "translation": "恐蜂兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n恐贝梦　β\n\nβ迪诺维蒙\n\n迪诺比蒙β"
+    "context": "机翻辅助：\n\n恐贝梦β\n\nβ迪诺维蒙\n\n迪诺比蒙β"
   },
   {
     "key": "MESPAK00_0000_2217",
@@ -15565,14 +15565,14 @@
     "original": "キメラモン　α",
     "translation": "奇美拉兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\n合成兽　α\n\n嵌合体α\n\n嵌合蛋白α"
+    "context": "机翻辅助：\n\n合成兽α\n\n嵌合体α\n\n嵌合蛋白α"
   },
   {
     "key": "MESPAK00_0000_2224",
     "original": "キメラモン　β",
     "translation": "奇美拉兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n奇美拉垄断　β\n\n嵌合体β\n\n嵌合蛋白β"
+    "context": "机翻辅助：\n\n奇美拉垄断β\n\n嵌合体β\n\n嵌合蛋白β"
   },
   {
     "key": "MESPAK00_0000_2225",
@@ -15712,7 +15712,7 @@
     "original": "シャッコウモン　β",
     "translation": "土偶兽树　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n笑子　β\n\n沙克蒙β\n\nβ感光门"
+    "context": "机翻辅助：\n\n笑子β\n\n沙克蒙β\n\nβ感光门"
   },
   {
     "key": "MESPAK00_0000_2245",
@@ -15768,7 +15768,7 @@
     "original": "ＨＥカブテリモン",
     "translation": "力神比多兽",
     "stage": 1,
-    "context": "机翻辅助：\n\n终章　弹着橡胶子弹的我\n\n河甲虫\n\nHE卡布特利蒙"
+    "context": "机翻辅助：\n\n终章弹着橡胶子弹的我\n\n河甲虫\n\nHE卡布特利蒙"
   },
   {
     "key": "MESPAK00_0000_2253",
@@ -16202,7 +16202,7 @@
     "original": "Ａトロイアモン　β",
     "translation": "古代木马兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\nA特洛伊亚蒙　β\n\nA特洛伊蒙β\n\nβ -羟色胺"
+    "context": "机翻辅助：\n\nA特洛伊亚蒙β\n\nA特洛伊蒙β\n\nβ -羟色胺"
   },
   {
     "key": "MESPAK00_0000_2315",
@@ -16286,14 +16286,14 @@
     "original": "オメガモン　α",
     "translation": "奥米加兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\nΩ　α\n\n欧米伽门α\n\nωα"
+    "context": "机翻辅助：\n\nΩα\n\n欧米伽门α\n\nωα"
   },
   {
     "key": "MESPAK00_0000_2327",
     "original": "オメガモン　β",
     "translation": "奥米加兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\nΩ　β\n\nβ -欧米伽门\n\nω－β"
+    "context": "机翻辅助：\n\nΩβ\n\nβ -欧米伽门\n\nω－β"
   },
   {
     "key": "MESPAK00_0000_2328",
@@ -16335,7 +16335,7 @@
     "original": "アーマゲモン　β",
     "translation": "灭世魔兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n装甲守护者　β\n\n杏仁β\n\nβ拱形门"
+    "context": "机翻辅助：\n\n装甲守护者β\n\n杏仁β\n\nβ拱形门"
   },
   {
     "key": "MESPAK00_0000_2334",
@@ -16419,7 +16419,7 @@
     "original": "ＭガオガモンＢＭ　β",
     "translation": "幻影加奥加兽BM　β",
     "stage": 1,
-    "context": "机翻辅助：\n\nMGAOMON　β\n\n百万加蒙BMβ\n\nM伽门BM β"
+    "context": "机翻辅助：\n\nMGAOMONβ\n\n百万加蒙BMβ\n\nM伽门BM β"
   },
   {
     "key": "MESPAK00_0000_2346",
@@ -16433,14 +16433,14 @@
     "original": "ベルゼブモンＢＭ　α",
     "translation": "别西卜兽BM　α",
     "stage": 1,
-    "context": "机翻辅助：\n\n别西卜　BM　α\n\n贝尔塞布蒙BMα\n\n贝尔西门BM α"
+    "context": "机翻辅助：\n\n别西卜BMα\n\n贝尔塞布蒙BMα\n\n贝尔西门BM α"
   },
   {
     "key": "MESPAK00_0000_2348",
     "original": "ベルゼブモンＢＭ　β",
     "translation": "别西卜兽BM　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n别西卜　BM　β\n\n贝尔西门BM β\n\n贝尔塞布蒙BMβ"
+    "context": "机翻辅助：\n\n别西卜BMβ\n\n贝尔西门BM β\n\n贝尔塞布蒙BMβ"
   },
   {
     "key": "MESPAK00_0000_2349",
@@ -16461,21 +16461,21 @@
     "original": "カオスモン　β",
     "translation": "混沌兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\nChaos怪兽　β\n\n脸素β\n\n高斯蒙β"
+    "context": "机翻辅助：\n\nChaos怪兽β\n\n脸素β\n\n高斯蒙β"
   },
   {
     "key": "MESPAK00_0000_2352",
     "original": "チンロンモン　α",
     "translation": "青龙兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\n秦龙门　α\n\n镇论门α\n\n丁酮α"
+    "context": "机翻辅助：\n\n秦龙门α\n\n镇论门α\n\n丁酮α"
   },
   {
     "key": "MESPAK00_0000_2353",
     "original": "チンロンモン　β",
     "translation": "青龙兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n秦珑梦　β\n\nβ磷脂酶\n\n丁酮β"
+    "context": "机翻辅助：\n\n秦珑梦β\n\nβ磷脂酶\n\n丁酮β"
   },
   {
     "key": "MESPAK00_0000_2354",
@@ -16496,14 +16496,14 @@
     "original": "シェンウーモン　α",
     "translation": "玄武兽　α",
     "stage": 1,
-    "context": "机翻辅助：\n\n神兽　α\n\n紫云门\n\n辛乌蒙α"
+    "context": "机翻辅助：\n\n神兽α\n\n紫云门\n\n辛乌蒙α"
   },
   {
     "key": "MESPAK00_0000_2357",
     "original": "シェンウーモン　β",
     "translation": "玄武兽　β",
     "stage": 1,
-    "context": "机翻辅助：\n\n神兽　β\n\n舍恩乌蒙β\n\nβ氰胺"
+    "context": "机翻辅助：\n\n神兽β\n\n舍恩乌蒙β\n\nβ氰胺"
   },
   {
     "key": "MESPAK00_0000_2358",
@@ -16515,7 +16515,7 @@
   {
     "key": "MESPAK00_0000_2359",
     "original": "きせきのＤＭ",
-    "translation": "奇迹般的DM",
+    "translation": "奇迹的DM",
     "stage": 1,
     "context": "机翻辅助：\n\n秘密的DM\n\n奇迹般的DM\n\n常规DM"
   },
@@ -16529,29 +16529,29 @@
   {
     "key": "MESPAK00_0000_2361",
     "original": "ゆうきのＤＭ１",
-    "translation": "勇敢的DM1",
+    "translation": "勇气的DM1",
     "stage": 1,
     "context": "机翻辅助：\n\n优希的DM1\n\n勇敢的DM1\n\n有机DM1"
   },
   {
     "key": "MESPAK00_0000_2362",
     "original": "ゆうきのＤＭ２",
-    "translation": "有机DM2",
+    "translation": "勇气的DM2",
     "stage": 1,
     "context": "机翻辅助：\n\n优希的DM2\n\n有机DM2"
   },
   {
     "key": "MESPAK00_0000_2363",
     "original": "やさしさのＤＭ",
-    "translation": "善意的DM",
-    "stage": 1,
+    "translation": "温柔的DM",
+    "stage": 0,
     "context": "机翻辅助：\n\n温柔的DM\n\n善意的DM\n\n温柔DM"
   },
   {
     "key": "MESPAK00_0000_2364",
     "original": "じゅんしんのＤＭ",
-    "translation": "纯粹的DM",
-    "stage": 1,
+    "translation": "纯真的DM",
+    "stage": 0,
     "context": "机翻辅助：\n\n纯真的DM\n\n纯心DM\n\n纯粹的DM"
   },
   {
@@ -16571,7 +16571,7 @@
   {
     "key": "MESPAK00_0000_2367",
     "original": "こおりのＳＰＴ",
-    "translation": "冰SPT",
+    "translation": "冰之SPT",
     "stage": 1,
     "context": "机翻辅助：\n\n冰结的SPT\n\n本店的SPT\n\n冰SPT"
   },
@@ -16585,21 +16585,21 @@
   {
     "key": "MESPAK00_0000_2369",
     "original": "みずのＳＰＴ",
-    "translation": "水的SPT",
-    "stage": 0,
+    "translation": "水之SPT",
+    "stage": 1,
     "context": "机翻辅助：\n\n水的SPT"
   },
   {
     "key": "MESPAK00_0000_2370",
     "original": "はがねのＳＰＴ",
-    "translation": "片断SPT",
+    "translation": "钢之SPT",
     "stage": 1,
     "context": "机翻辅助：\n\n钢铁的SPT\n\n钢的SPT\n\n片断SPT"
   },
   {
     "key": "MESPAK00_0000_2371",
     "original": "やみのＳＰＴ",
-    "translation": "黑暗的SPT",
+    "translation": "暗之SPT",
     "stage": 1,
     "context": "机翻辅助：\n\n暗夜的SPT\n\n黑暗的SPT"
   },
@@ -16613,42 +16613,42 @@
   {
     "key": "MESPAK00_0000_2373",
     "original": "かみなりのＳＰＴ",
-    "translation": "雷声SPT",
+    "translation": "雷之SPT",
     "stage": 1,
     "context": "机翻辅助：\n\n雷电的SPT\n\n雷声SPT\n\n咬合的SPT"
   },
   {
     "key": "MESPAK00_0000_2374",
     "original": "つちのＳＰＴ",
-    "translation": "土SPT",
-    "stage": 1,
+    "translation": "土之SPT",
+    "stage": 0,
     "context": "机翻辅助：\n\n土之SPT\n\n土的SPT\n\n土SPT"
   },
   {
     "key": "MESPAK00_0000_2375",
     "original": "シャッコウモンＷ１",
-    "translation": "学校门W1",
+    "translation": "土偶兽W1",
     "stage": 1,
     "context": "机翻辅助：\n\n犀之王W1\n\n沙克蒙W1\n\n学校门W1"
   },
   {
     "key": "MESPAK00_0000_2376",
     "original": "シャッコウモンＷ２",
-    "translation": "校园门W2",
+    "translation": "土偶兽W2",
     "stage": 1,
     "context": "机翻辅助：\n\n杓嘴鹬W2\n\n校园门W2\n\n沙克蒙W2"
   },
   {
     "key": "MESPAK00_0000_2377",
     "original": "ルーチェモンＦＭＷ１",
-    "translation": "鲁奇蒙FMW1",
+    "translation": "光明兽FMW1",
     "stage": 1,
     "context": "机翻辅助：\n\nLuchemon FMW1\n\n鲁奇蒙FMW1\n\n卢切蒙FMW1"
   },
   {
     "key": "MESPAK00_0000_2378",
     "original": "ルーチェモンＦＭＷ２",
-    "translation": "鲁奇蒙FMW2",
+    "translation": "光明兽FMW2",
     "stage": 1,
     "context": "机翻辅助：\n\nFMW2露契蒙\n\n鲁奇蒙FMW2\n\n卢切蒙FMW2"
   },
@@ -16671,117 +16671,117 @@
     "original": "パイルドラモンＷ１",
     "translation": "白龙兽W1",
     "stage": 1,
-    "context": "机翻辅助：\n\nPile DRIVERMON　W1\n\n白龙兽W1\n\n派尔德拉蒙W1"
+    "context": "机翻辅助：\n\nPile DRIVERMONW1\n\n白龙兽W1\n\n派尔德拉蒙W1"
   },
   {
     "key": "MESPAK00_0000_2382",
     "original": "パイルドラモンＷ２",
     "translation": "白龙兽W2",
     "stage": 1,
-    "context": "机翻辅助：\n\nPileldramon　W2\n\n白龙兽W2\n\n派尔德拉蒙W2"
+    "context": "机翻辅助：\n\nPileldramonW2\n\n白龙兽W2\n\n派尔德拉蒙W2"
   },
   {
     "key": "MESPAK00_0000_2383",
     "original": "シルフィーモンＷ１",
-    "translation": "希尔菲蒙W1",
+    "translation": "西尔芙兽W1",
     "stage": 1,
     "context": "机翻辅助：\n\n希露菲蒙W1\n\n希尔菲蒙W1\n\n西尔菲蒙W1"
   },
   {
     "key": "MESPAK00_0000_2384",
     "original": "シルフィーモンＷ２",
-    "translation": "希尔菲兽W2",
+    "translation": "西尔芙兽W2",
     "stage": 1,
     "context": "机翻辅助：\n\n希露菲蒙W2\n\n西尔菲蒙W2\n\n希尔菲兽W2"
   },
   {
     "key": "MESPAK00_0000_2385",
     "original": "ピコデビモンＷ１",
-    "translation": "比克恶魔W1",
+    "translation": "小恶魔兽W1",
     "stage": 1,
     "context": "机翻辅助：\n\n皮可恶魔W1\n\n微微戴维蒙W1\n\n比克恶魔W1"
   },
   {
     "key": "MESPAK00_0000_2386",
     "original": "ピコデビモンＷ２",
-    "translation": "比克恶魔W2",
+    "translation": "小恶魔兽W2",
     "stage": 1,
     "context": "机翻辅助：\n\n皮可恶魔W2\n\n比克恶魔W2\n\n微微戴维蒙W2"
   },
   {
     "key": "MESPAK00_0000_2387",
     "original": "パタモンＷ１",
-    "translation": "巴塔蒙W1",
+    "translation": "巴达兽W1",
     "stage": 1,
     "context": "机翻辅助：\n\n帕塔门W1\n\n巴塔蒙W1\n\n帕塔蒙W1"
   },
   {
     "key": "MESPAK00_0000_2388",
     "original": "パタモンＷ２",
-    "translation": "巴塔蒙",
+    "translation": "巴达兽W2",
     "stage": 1,
     "context": "机翻辅助：\n\n拍拍蒙W2\n\n帕塔蒙W2\n\n巴塔蒙"
   },
   {
     "key": "MESPAK00_0000_2389",
     "original": "テントモンＷ",
-    "translation": "帐篷门",
+    "translation": "甲虫兽W",
     "stage": 1,
     "context": "机翻辅助：\n\n帐棚怪W\n\n帐篷兽W\n\n帐篷门"
   },
   {
     "key": "MESPAK00_0000_2390",
     "original": "テリアモンＷ",
-    "translation": "毛梗兽",
+    "translation": "梗犬兽W",
     "stage": 1,
     "context": "机翻辅助：\n\n领土王W\n\n特里阿蒙W\n\n毛梗兽"
   },
   {
     "key": "MESPAK00_0000_2391",
     "original": "ブイモンＷ",
-    "translation": "浮标W",
+    "translation": "V仔兽W",
     "stage": 1,
     "context": "机翻辅助：\n\n布伊蒙W\n\n浮标W"
   },
   {
     "key": "MESPAK00_0000_2392",
     "original": "ワームモンＷ",
-    "translation": "虫兽W",
+    "translation": "虫虫兽W",
     "stage": 1,
     "context": "机翻辅助：\n\n沃姆虫M\n\n虫兽W\n\n蠕虫兽W"
   },
   {
     "key": "MESPAK00_0000_2393",
     "original": "プロットモンＷ",
-    "translation": "情节门W",
+    "translation": "小狗兽W",
     "stage": 1,
     "context": "机翻辅助：\n\n普罗特蒙W\n\n绘图兽W\n\n情节门W"
   },
   {
     "key": "MESPAK00_0000_2394",
     "original": "ピヨモンＷ",
-    "translation": "皮约门",
+    "translation": "比丘兽W",
     "stage": 1,
     "context": "机翻辅助：\n\n小棉W\n\n比约蒙W\n\n皮约门"
   },
   {
     "key": "MESPAK00_0000_2395",
     "original": "アポカリモンＷ１",
-    "translation": "天启兽W1",
+    "translation": "启示录兽W1",
     "stage": 1,
     "context": "机翻辅助：\n\n阿波刻里蒙W1\n\n天启兽W1\n\n阿波卡利蒙W1"
   },
   {
     "key": "MESPAK00_0000_2396",
     "original": "アポカリモンＷ２",
-    "translation": "天启兽W2",
+    "translation": "启示录兽W2",
     "stage": 1,
     "context": "机翻辅助：\n\n阿波刻里蒙W2\n\n天启兽W2\n\n阿波卡利蒙W2"
   },
   {
     "key": "MESPAK00_0000_2397",
     "original": "カオスモンＷ１",
-    "translation": "怪物W1",
+    "translation": "混沌兽W1",
     "stage": 1,
     "context": "机翻辅助：\n\n混沌怪兽W1\n\n怪物W1\n\n高斯蒙W1"
   },
@@ -16795,98 +16795,98 @@
   {
     "key": "MESPAK00_0000_2399",
     "original": "オメガモンＷ１",
-    "translation": "欧米伽门",
+    "translation": "奥米加兽W1",
     "stage": 1,
     "context": "机翻辅助：\n\nΩ魔人W1\n\n欧米伽门\n\n欧米加蒙W1"
   },
   {
     "key": "MESPAK00_0000_2400",
     "original": "オメガモンＷ２",
-    "translation": "欧米茄兽",
+    "translation": "奥米加兽W2",
     "stage": 1,
     "context": "机翻辅助：\n\n欧米茄怪兽W2\n\n巨兽W2\n\n欧米茄兽"
   },
   {
     "key": "MESPAK00_0000_2401",
     "original": "スサノオモンＷ１",
-    "translation": "素戋呜尊W1",
+    "translation": "须佐之男兽W1",
     "stage": 1,
     "context": "机翻辅助：\n\n素盏呜尊W1\n\n苏萨诺奥蒙W1\n\n素戋呜尊W1"
   },
   {
     "key": "MESPAK00_0000_2402",
     "original": "スサノオモンＷ２",
-    "translation": "素戋呜尊W2",
+    "translation": "须佐之男兽W2",
     "stage": 1,
     "context": "机翻辅助：\n\n素盏呜尊W2\n\n素戋呜尊W2\n\n苏萨诺奥蒙W2"
   },
   {
     "key": "MESPAK00_0000_2403",
     "original": "アグモンＷ１",
-    "translation": "阿古兽W1",
+    "translation": "亚古兽W1",
     "stage": 1,
     "context": "机翻辅助：\n\n亚格蒙W1\n\n阿古兽W1\n\n阿格蒙W1"
   },
   {
     "key": "MESPAK00_0000_2404",
     "original": "アグモンＷ２",
-    "translation": "阿古兽W2",
+    "translation": "亚古兽W2",
     "stage": 1,
     "context": "机翻辅助：\n\n亚格蒙W2\n\n阿古兽W2\n\n阿格蒙W2"
   },
   {
     "key": "MESPAK00_0000_2405",
     "original": "ガブモンＷ１",
-    "translation": "贺文部门W1",
-    "stage": 1,
+    "translation": "加布兽W1",
+    "stage": 0,
     "context": "机翻辅助：\n\n加布兽W1\n\n加布蒙W1\n\n贺文部门W1"
   },
   {
     "key": "MESPAK00_0000_2406",
     "original": "ガブモンＷ２",
-    "translation": "贺文部门W2",
-    "stage": 1,
+    "translation": "加布兽W2",
+    "stage": 0,
     "context": "机翻辅助：\n\n加布兽W2\n\n加布蒙W2\n\n贺文部门W2"
   },
   {
     "key": "MESPAK00_0000_2407",
     "original": "ブラックアグモンＷ１",
-    "translation": "黑阿瓜兽W1",
+    "translation": "黑亚古兽W1",
     "stage": 1,
     "context": "机翻辅助：\n\n黑色球状物W1\n\n黑色阿古蒙W1\n\n黑阿瓜兽W1"
   },
   {
     "key": "MESPAK00_0000_2408",
     "original": "ブラックアグモンＷ２",
-    "translation": "黑阿瓜兽W2",
+    "translation": "黑亚古兽W2",
     "stage": 1,
     "context": "机翻辅助：\n\n黑色球状物W2\n\n黑阿古蒙W2\n\n黑阿瓜兽W2"
   },
   {
     "key": "MESPAK00_0000_2409",
     "original": "ガオモンＷ",
-    "translation": "盖奥门W",
+    "translation": "加奥兽W",
     "stage": 1,
     "context": "机翻辅助：\n\n卡欧蒙W\n\n高斯W\n\n盖奥门W"
   },
   {
     "key": "MESPAK00_0000_2410",
     "original": "ピコデビモンＷ３",
-    "translation": "比克戴维蒙",
+    "translation": "小恶魔兽W3",
     "stage": 1,
     "context": "机翻辅助：\n\n皮可恶魔W3\n\n比克戴维蒙\n\n微微戴维蒙W3"
   },
   {
     "key": "MESPAK00_0000_2411",
     "original": "タネモンのグッズ",
-    "translation": "品种繁多的商品",
+    "translation": "种子兽的物品",
     "stage": 1,
     "context": "机翻辅助：\n\n塔寻的周边商品\n\n田纳蒙的商品\n\n品种繁多的商品"
   },
   {
     "key": "MESPAK00_0000_2412",
     "original": "アグモンべんとう",
-    "translation": "阿格门便当",
+    "translation": "亚古兽便当",
     "stage": 1,
     "context": "机翻辅助：\n\n亚古蒙便当\n\n阿格蒙便当\n\n阿格门便当"
   },
@@ -17231,7 +17231,7 @@
     "original": "マップピースＢ",
     "translation": "B地图",
     "stage": 1,
-    "context": "机翻辅助：\n\nMAP　PIECE　B\n\nB地图\n\n映射段B"
+    "context": "机翻辅助：\n\nMAPPIECEB\n\nB地图\n\n映射段B"
   },
   {
     "key": "MESPAK00_0000_2462",
@@ -17245,7 +17245,7 @@
     "original": "マップピースＤ",
     "translation": "D地图",
     "stage": 1,
-    "context": "机翻辅助：\n\nMAP　PIECE　D\n\n映射段D\n\nD地图"
+    "context": "机翻辅助：\n\nMAPPIECED\n\n映射段D\n\nD地图"
   },
   {
     "key": "MESPAK00_0000_2464",
@@ -18566,21 +18566,21 @@
   {
     "key": "MESPAK00_0000_2652",
     "original": "ほじょ",
-    "translation": "补助",
+    "translation": "辅助",
     "stage": 1,
     "context": "机翻辅助：\n\n掘。\n\n补助\n\n辅助"
   },
   {
     "key": "MESPAK00_0000_2653",
     "original": "かいふく",
-    "translation": "恢复",
+    "translation": "回复",
     "stage": 1,
     "context": "机翻辅助：\n\n康复\n\n恢复"
   },
   {
     "key": "MESPAK00_0000_2654",
     "original": "ゲンジュウのうた",
-    "translation": "重歌",
+    "translation": "幻兽之歌",
     "stage": 1,
     "context": "机翻辅助：\n\n源氏物语\n\n龙胆之歌\n\n重歌"
   },
@@ -18664,7 +18664,7 @@
   {
     "key": "MESPAK00_0000_2666",
     "original": "くらやみボード",
-    "translation": "黑暗板",
+    "translation": "暗黑板",
     "stage": 1,
     "context": "机翻辅助：\n\n暗影板\n\n暗板\n\n黑暗板"
   },

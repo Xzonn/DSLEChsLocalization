@@ -10,7 +10,6 @@ if (Test-Path -Path "temp\" -PathType "Container") {
 python scripts\unpack_pak.py
 python scripts\convert_messages_to_json.py
 python scripts\import_csv_to_json.py
-python scripts\generate_char_table.py
 python scripts\convert_json_to_messages.py
 python scripts\create_font.py
 python scripts\repack_pak.py

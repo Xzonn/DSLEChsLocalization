@@ -275,30 +275,30 @@
   {
     "key": "MESPAK01_0007_0039",
     "original": "えらんだ　そうびアイテム",
-    "translation": "已选择　装备道具",
+    "translation": "已选择装备道具",
     "stage": 0,
-    "context": "机翻辅助：\n\n已选择　装备道具\n\n所选的装备\n\n赠品"
+    "context": "机翻辅助：\n\n已选择装备道具\n\n所选的装备\n\n赠品"
   },
   {
     "key": "MESPAK01_0007_0040",
     "original": "えらんだ　しょうひアイテム",
-    "translation": "选择　　奖品道具",
+    "translation": "选择奖品道具",
     "stage": 0,
-    "context": "机翻辅助：\n\n选择　　奖品道具\n\n选择的消费项目\n\n优秀消费品"
+    "context": "机翻辅助：\n\n选择奖品道具\n\n选择的消费项目\n\n优秀消费品"
   },
   {
     "key": "MESPAK01_0007_0041",
     "original": "えらんだ　ファームグッズ",
-    "translation": "选择　FARM GOODS",
+    "translation": "选择FARM GOODS",
     "stage": 0,
-    "context": "机翻辅助：\n\n选择　FARM GOODS\n\n漂亮的农场商品\n\n选择的农场商品"
+    "context": "机翻辅助：\n\n选择FARM GOODS\n\n漂亮的农场商品\n\n选择的农场商品"
   },
   {
     "key": "MESPAK01_0007_0042",
     "original": "えらんだ　バグプレート",
-    "translation": "选择　巴格板",
+    "translation": "选择巴格板",
     "stage": 0,
-    "context": "机翻辅助：\n\n选择　巴格板\n\n龙骨板\n\n选择的bug板"
+    "context": "机翻辅助：\n\n选择巴格板\n\n龙骨板\n\n选择的bug板"
   },
   {
     "key": "MESPAK01_0007_0043",
@@ -317,30 +317,30 @@
   {
     "key": "MESPAK01_0007_0045",
     "original": "えらんだ　リペアリングツール",
-    "translation": "选择　修复工具",
+    "translation": "选择修复工具",
     "stage": 0,
-    "context": "机翻辅助：\n\n选择　修复工具\n\n延伸修复工具\n\n选择性修复工具"
+    "context": "机翻辅助：\n\n选择修复工具\n\n延伸修复工具\n\n选择性修复工具"
   },
   {
     "key": "MESPAK01_0007_0046",
     "original": "えらんだ　ファーム島",
-    "translation": "选择　　法姆岛",
+    "translation": "选择法姆岛",
     "stage": 0,
-    "context": "机翻辅助：\n\n选择　　法姆岛\n\n所选的农场岛\n\n农场岛"
+    "context": "机翻辅助：\n\n选择法姆岛\n\n所选的农场岛\n\n农场岛"
   },
   {
     "key": "MESPAK01_0007_0047",
     "original": "えらんだ　ワザ",
-    "translation": "选择的　招式",
+    "translation": "选择的招式",
     "stage": 0,
-    "context": "机翻辅助：\n\n选择的　招式\n\n选择的技巧\n\n凌乱的圈套"
+    "context": "机翻辅助：\n\n选择的招式\n\n选择的技巧\n\n凌乱的圈套"
   },
   {
     "key": "MESPAK01_0007_0048",
     "original": "えらんだ　デジプレート",
-    "translation": "选择　数位板",
+    "translation": "选择数位板",
     "stage": 0,
-    "context": "机翻辅助：\n\n选择　数位板\n\n所选的数码牌\n\n龙眼数字板"
+    "context": "机翻辅助：\n\n选择数位板\n\n所选的数码牌\n\n龙眼数字板"
   },
   {
     "key": "MESPAK01_0007_0049",
@@ -408,23 +408,23 @@
   {
     "key": "MESPAK01_0007_0058",
     "original": "みつけた　そうびアイテム",
-    "translation": "找到了　装扮道具",
+    "translation": "找到了装扮道具",
     "stage": 0,
-    "context": "机翻辅助：\n\n找到了　装扮道具\n\n找到的装备项目"
+    "context": "机翻辅助：\n\n找到了装扮道具\n\n找到的装备项目"
   },
   {
     "key": "MESPAK01_0007_0059",
     "original": "みつけた　しょうひアイテム",
-    "translation": "找到了　奖品道具",
+    "translation": "找到了奖品道具",
     "stage": 0,
-    "context": "机翻辅助：\n\n找到了　奖品道具\n\n找到的消费项目\n\n找到的消费品"
+    "context": "机翻辅助：\n\n找到了奖品道具\n\n找到的消费项目\n\n找到的消费品"
   },
   {
     "key": "MESPAK01_0007_0060",
     "original": "みつけた　バグプレート",
-    "translation": "找到了　Bug Plate",
+    "translation": "找到了Bug Plate",
     "stage": 0,
-    "context": "机翻辅助：\n\n找到了　Bug Plate\n\n找到的臭虫板\n\n发现的bug板"
+    "context": "机翻辅助：\n\n找到了Bug Plate\n\n找到的臭虫板\n\n发现的bug板"
   },
   {
     "key": "MESPAK01_0007_0061",
@@ -478,9 +478,9 @@
   {
     "key": "MESPAK01_0007_0068",
     "original": "かんせいど",
-    "translation": "完　结　章",
+    "translation": "完结章",
     "stage": 0,
-    "context": "机翻辅助：\n\n完　结　章\n\n完成制度\n\n灵敏度"
+    "context": "机翻辅助：\n\n完结章\n\n完成制度\n\n灵敏度"
   },
   {
     "key": "MESPAK01_0007_0069",
@@ -520,9 +520,9 @@
   {
     "key": "MESPAK01_0007_0074",
     "original": "おぼえようとするワザを　えらんでください\nしゅうりょうすると　リストのワザは　わすれてしまいます",
-    "translation": "请选择要记住的招式\n复习后　清单上的招式　就会被忘记",
+    "translation": "请选择要记住的招式\n复习后清单上的招式就会被忘记",
     "stage": 0,
-    "context": "机翻辅助：\n\n请选择要记住的招式\n复习后　清单上的招式　就会被忘记\n\n请选择你想要记住的技巧。\n结束后你就会忘记列表上的技巧。\n\n请看一下想要记住的陷阱\n如果你仔细看的话，列表上的陷阱就会忘记"
+    "context": "机翻辅助：\n\n请选择要记住的招式\n复习后清单上的招式就会被忘记\n\n请选择你想要记住的技巧。\n结束后你就会忘记列表上的技巧。\n\n请看一下想要记住的陷阱\n如果你仔细看的话，列表上的陷阱就会忘记"
   },
   {
     "key": "MESPAK01_0007_0075",
@@ -534,15 +534,15 @@
   {
     "key": "MESPAK01_0007_0076",
     "original": "ひょうじする　ものが　ありません",
-    "translation": "没有　可以　扮演　的东西",
+    "translation": "没有可以扮演的东西",
     "stage": 0,
-    "context": "机翻辅助：\n\n没有　可以　扮演　的东西\n\n无与伦比的\n\n没有任何东西可以显示。"
+    "context": "机翻辅助：\n\n没有可以扮演的东西\n\n无与伦比的\n\n没有任何东西可以显示。"
   },
   {
     "key": "MESPAK01_0007_0077",
     "original": "デジモンが　いません",
-    "translation": "没有　数位　宝贝",
+    "translation": "没有数位宝贝",
     "stage": 0,
-    "context": "机翻辅助：\n\n没有　数位　宝贝\n\n没有数码兽。\n\n没有数码兽"
+    "context": "机翻辅助：\n\n没有数位宝贝\n\n没有数码兽。\n\n没有数码兽"
   }
 ]

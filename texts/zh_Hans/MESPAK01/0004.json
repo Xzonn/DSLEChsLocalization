@@ -205,44 +205,44 @@
   {
     "key": "MESPAK01_0004_0029",
     "original": "あたらしいワザを　おぼえきれません\nおぼえているワザと　いれかえますか？",
-    "translation": "无法记住新的技能\n要将记住的技能　重置吗？",
+    "translation": "无法记住新的技能\n要将记住的技能重置吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n无法记住新的技能\n要将记住的技能　重置吗？\n\n我记不住新技能\n能和还记得的技能互换吗？\n\n记不住新的圈套\n换成记得的圈套？"
+    "context": "机翻辅助：\n\n无法记住新的技能\n要将记住的技能重置吗？\n\n我记不住新技能\n能和还记得的技能互换吗？\n\n记不住新的圈套\n换成记得的圈套？"
   },
   {
     "key": "MESPAK01_0004_0030",
     "original": "はい　いれかえます",
-    "translation": "要　重置",
+    "translation": "要重置",
     "stage": 0,
-    "context": "机翻辅助：\n\n要　重置\n\n可以交换。\n\n调换"
+    "context": "机翻辅助：\n\n要重置\n\n可以交换。\n\n调换"
   },
   {
     "key": "MESPAK01_0004_0031",
     "original": "いいえ　いれかえません",
-    "translation": "不要　不重置",
+    "translation": "不要不重置",
     "stage": 0,
-    "context": "机翻辅助：\n\n不要　不重置\n\n不，换不了\n\n不，不，不"
+    "context": "机翻辅助：\n\n不要不重置\n\n不，换不了\n\n不，不，不"
   },
   {
     "key": "MESPAK01_0004_0032",
     "original": "ワザのいれかえを　しゅうりょうしますか？",
-    "translation": "要重置技能　吗？",
+    "translation": "要重置技能吗？",
     "stage": 0,
-    "context": "机翻辅助：\n\n要重置技能　吗？\n\n要结束技能的更换吗？\n\n您要更换陷阱吗？"
+    "context": "机翻辅助：\n\n要重置技能吗？\n\n要结束技能的更换吗？\n\n您要更换陷阱吗？"
   },
   {
     "key": "MESPAK01_0004_0033",
     "original": "はい　しゅうりょうします",
-    "translation": "好的　我接受",
+    "translation": "好的我接受",
     "stage": 0,
-    "context": "机翻辅助：\n\n好的　我接受\n\n结束了\n\n好的，结束"
+    "context": "机翻辅助：\n\n好的我接受\n\n结束了\n\n好的，结束"
   },
   {
     "key": "MESPAK01_0004_0034",
     "original": "いいえ　しゅうりょうしません",
-    "translation": "不　我不会辞职",
+    "translation": "不我不会辞职",
     "stage": 0,
-    "context": "机翻辅助：\n\n不　我不会辞职\n\n不结束\n\n不，没有结束。"
+    "context": "机翻辅助：\n\n不我不会辞职\n\n不结束\n\n不，没有结束。"
   },
   {
     "key": "MESPAK01_0004_0035",

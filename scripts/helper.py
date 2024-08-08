@@ -1,6 +1,7 @@
 import csv
 import json
 from logging import warning
+import os
 import re
 
 DIR_ORIGINAL_FILES = "original_files"
@@ -13,8 +14,7 @@ DIR_CSV_ROOT = "texts"
 DIR_OUT = "out"
 DIR_XLSX_ROOT = "out/xlsx"
 
-ZH_HANS_2_KANJI_PATH = "files/zh_Hans_2_kanji.json"
-CHAR_TABLE_PATH = "out/char_table.json"
+CHAR_TABLE_PATH = "files/char_table.json"
 
 TRASH_PATTERN = re.compile(
   #r"^[0-9a-zA-Z０-９ａ-ｚＡ-Ｚ#\-/？~№－\?:＋％%\.．ⅠⅡ <>_＿;，。！：；\n\+]+$|１２３４５６７８９|０１２３４５６７８",
@@ -56,6 +56,32 @@ def load_csv(root: str, sheet_name: str) -> list[dict[str, str]]:
   return translation_list
 
 
+def get_used_characters(json_root: str) -> set[str]:
+  characters = set()
+  for root, dirs, files in os.walk(json_root):
+    for file_name in files:
+      if not file_name.endswith(".json"):
+        continue
+
+      with open(f"{root}/{file_name}", "r", -1, "utf8") as reader:
+        json_input: dict[str, dict] = json.load(reader)
+
+      for k, v in json_input.items():
+        if v.get("trash", False):
+          continue
+
+        content = v["content"].replace("\n", "")
+        if KANA_PATTERN.search(content):
+          continue
+
+        for k, v in CHINESE_TO_JAPANESE.items():
+          content = content.replace(k, v)
+        for char in content:
+          characters.add(char)
+
+  return characters
+
+
 def convert_zh_hans_to_shift_jis(zh_hans: str) -> str:
   global char_table_reversed
   if len(char_table_reversed) == 0:
@@ -63,6 +89,9 @@ def convert_zh_hans_to_shift_jis(zh_hans: str) -> str:
       char_table: dict[str, str] = json.load(reader)
       for k, v in char_table.items():
         char_table_reversed[v] = k
+
+  for k, v in CHINESE_TO_JAPANESE.items():
+    zh_hans = zh_hans.replace(k, v)
 
   output = []
   control = 0

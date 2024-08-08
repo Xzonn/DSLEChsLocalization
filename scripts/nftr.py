@@ -1,4 +1,5 @@
 from io import BufferedReader
+from math import ceil
 import struct
 
 from PIL import Image
@@ -164,7 +165,7 @@ class CGLP:
     tile_width, tile_height, tile_length, unk, depth, rotate_mode = struct.unpack("<2B2H2B", reader.read(0x08))
     self.tile_width: int = tile_width
     self.tile_height: int = tile_height
-    self.tile_length: int = tile_length
+    assert tile_length == ceil(tile_width * tile_height * depth / 8)
     self.unk: int = unk
     self.depth: int = depth
     self.rotate_mode: int = rotate_mode
@@ -178,13 +179,14 @@ class CGLP:
       body += tile.raw_bytes
     body += b"\0" * (-len(body) % 4)
 
+    tile_length = ceil(self.tile_width * self.tile_height * self.depth / 8)
     head = struct.pack(
       "<4sI2B2H2B",
       b"PLGC",
       0x10 + len(body),
       self.tile_width,
       self.tile_height,
-      self.tile_length,
+      tile_length,
       self.unk,
       self.depth,
       self.rotate_mode,
@@ -245,9 +247,10 @@ class CMAP:
 
     self.char_map: dict[int, int] = {}
     if self.type_section == 0:
-      first_char_code, = struct.unpack("<H", reader.read(0x02))
-      self.first_char_code: int = first_char_code
-      self.char_map[first_char_code] = [first_char_code]
+      offset, = struct.unpack("<H", reader.read(0x02))
+      for char_code in range(first_char_code, last_char_code + 1):
+        char_index = offset + char_code - first_char_code
+        self.char_map[char_index] = char_code
     elif self.type_section == 1:
       length = last_char_code - first_char_code + 1
       for i in range(length):
