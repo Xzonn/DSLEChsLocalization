@@ -15,6 +15,10 @@ DIR_OUT = "out"
 DIR_XLSX_ROOT = "out/xlsx"
 
 CHAR_TABLE_PATH = "files/char_table.json"
+ARM9_PATH = "original_files/arm9.bin"
+ARM9_DECOMPRESSED_PATH = "src/arm9.bin"
+ARM9_MODIFIED_PATH = "temp/nitro/arm9.bin"
+ARM9_OUT_PATH = "out/arm9.bin"
 
 TRASH_PATTERN = re.compile(
   #r"^[0-9a-zA-Z０-９ａ-ｚＡ-Ｚ#\-/？~№－\?:＋％%\.．ⅠⅡ <>_＿;，。！：；\n\+]+$|１２３４５６７８９|０１２３４５６７８",

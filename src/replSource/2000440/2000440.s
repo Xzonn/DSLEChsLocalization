@@ -1,0 +1,10 @@
+// ipfix
+arepl_02000440:
+  LDR R0, =0x02264164
+  LDR R1, [R0]
+  LDR R2, =0xE19FDA2D
+  CMP R1, R2
+  MOVEQ R1, #0x10
+  STREQB R1, [R0, #0x0B]
+  STREQB R1, [R0, #0xB7]
+  BX LR
