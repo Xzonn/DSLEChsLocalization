@@ -1,6 +1,7 @@
 import os
 import struct
 from helper import DIR_ORIGINAL_FILES, DIR_UNPACKED_FILES
+from decompress_lz import decompress_lz
 
 
 def unpack_pak(input_path: str, output_path: str):
@@ -12,15 +13,16 @@ def unpack_pak(input_path: str, output_path: str):
   file_count, version = struct.unpack("<I12s", reader.read(0x10))
   for i in range(file_count):
     start, size1, size2, flags = struct.unpack("<4I", reader.read(0x10))
-    if flags & 0x80000000 != 0x80000000:
-      print(f"Skipping {i:04d}.bin")
-      continue
-    assert size1 == size2
     pos = reader.tell()
     reader.seek(start)
-    with open(f"{output_folder}/{i:04d}.bin", "wb") as writer:
-      writer.write(reader.read(size1))
+    raw_bytes = reader.read(size2)
     reader.seek(pos)
+    if flags & 0x80000000 != 0x80000000:
+      raw_bytes = decompress_lz(raw_bytes, size1)
+    else:
+      assert size1 == size2
+    with open(f"{output_folder}/{i:04d}.bin", "wb") as writer:
+      writer.write(raw_bytes)
 
   reader.close()
 

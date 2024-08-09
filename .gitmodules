@@ -1,3 +1,6 @@
 [submodule "bin/NitroPacker"]
 	path = bin/NitroPacker
-	url = https://github.com/haroohie-club/NitroPacker
+	url = https://github.com/haroohie-club/NitroPacker.git
+[submodule "bin/ntrgfx-py"]
+	path = bin/ntrgfx-py
+	url = https://gitlab.com/Xzonn/ntrgfx-py.git
