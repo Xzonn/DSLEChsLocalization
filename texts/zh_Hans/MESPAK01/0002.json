@@ -583,23 +583,23 @@
   {
     "key": "MESPAK01_0002_0083",
     "original": "こうげきりょく",
-    "translation": "攻击力：",
+    "translation": "攻击力",
     "stage": 0,
-    "context": "机翻辅助：\n\n攻击力：\n\n冲击力\n\n攻击力"
+    "context": "机翻辅助：\n\n攻击力"
   },
   {
     "key": "MESPAK01_0002_0084",
     "original": "ぼうぎょりょく",
-    "translation": "博奕",
+    "translation": "防御力",
     "stage": 0,
-    "context": "机翻辅助：\n\n博奕\n\n防御力"
+    "context": "机翻辅助：\n\n防御力"
   },
   {
     "key": "MESPAK01_0002_0085",
     "original": "すばやさ",
-    "translation": "好快。",
+    "translation": "速度",
     "stage": 0,
-    "context": "机翻辅助：\n\n好快。\n\n快速\n\n速度"
+    "context": "机翻辅助：\n\n速度"
   },
   {
     "key": "MESPAK01_0002_0086",
@@ -667,9 +667,9 @@
   {
     "key": "MESPAK01_0002_0095",
     "original": "ゆうじょう",
-    "translation": "优香",
+    "translation": "友情",
     "stage": 0,
-    "context": "机翻辅助：\n\n优香\n\n友情\n\n熔化"
+    "context": "机翻辅助：\n\n友情"
   },
   {
     "key": "MESPAK01_0002_0096",

@@ -1,7 +1,6 @@
 import json
 import os
 import struct
-from typing import Any
 
 from helper import DIR_UNPACKED_FILES, DIR_MESSAGES, DIR_JSON_ROOT, TRASH_PATTERN
 
@@ -41,7 +40,7 @@ def convert_messages_to_json(input_root: str, output_root: str):
       new_path = f"{output_root}/{sheet_name}.json"
       os.makedirs(os.path.dirname(new_path), exist_ok=True)
       with open(new_path, "w", -1, "utf8") as writer:
-        writer.write(json.dumps(output, ensure_ascii=False, indent=2))
+        json.dump(output, writer, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":

@@ -107,9 +107,9 @@
   {
     "key": "MESPAK01_0007_0015",
     "original": "すべてのデジモン",
-    "translation": "所有数字怪兽",
+    "translation": "所有数码兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n所有数字怪兽\n\n所有数码兽\n\n所有的数码兽"
+    "context": "机翻辅助：\n\n所有数码兽\n\n所有的数码兽"
   },
   {
     "key": "MESPAK01_0007_0016",
@@ -163,9 +163,9 @@
   {
     "key": "MESPAK01_0007_0023",
     "original": "デジモン",
-    "translation": "数位宝贝",
+    "translation": "数码兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n数位宝贝\n\n数码宝贝\n\n数码兽"
+    "context": "机翻辅助：\n\n数码兽"
   },
   {
     "key": "MESPAK01_0007_0024",
@@ -338,9 +338,9 @@
   {
     "key": "MESPAK01_0007_0048",
     "original": "えらんだ　デジプレート",
-    "translation": "选择数位板",
+    "translation": "选择数码板",
     "stage": 0,
-    "context": "机翻辅助：\n\n选择数位板\n\n所选的数码牌\n\n龙眼数字板"
+    "context": "机翻辅助：\n\n选择数码板\n\n所选的数码牌\n\n龙眼数字板"
   },
   {
     "key": "MESPAK01_0007_0049",
@@ -366,30 +366,30 @@
   {
     "key": "MESPAK01_0007_0052",
     "original": "こうげきりょく",
-    "translation": "攻击力：",
+    "translation": "攻击力",
     "stage": 0,
-    "context": "机翻辅助：\n\n攻击力：\n\n攻击力\n\n冲击力"
+    "context": "机翻辅助：\n\n攻击力"
   },
   {
     "key": "MESPAK01_0007_0053",
     "original": "ぼうぎょりょく",
-    "translation": "博奕",
+    "translation": "防御力",
     "stage": 0,
-    "context": "机翻辅助：\n\n博奕\n\n防御力"
+    "context": "机翻辅助：\n\n防御力"
   },
   {
     "key": "MESPAK01_0007_0054",
     "original": "すばやさ",
-    "translation": "好快。",
+    "translation": "速度",
     "stage": 0,
-    "context": "机翻辅助：\n\n好快。\n\n速度\n\n快速"
+    "context": "机翻辅助：\n\n速度"
   },
   {
     "key": "MESPAK01_0007_0055",
     "original": "ゆうじょう",
-    "translation": "优香",
+    "translation": "友情",
     "stage": 0,
-    "context": "机翻辅助：\n\n优香\n\n友情\n\n熔化"
+    "context": "机翻辅助：\n\n友情"
   },
   {
     "key": "MESPAK01_0007_0056",
@@ -443,9 +443,9 @@
   {
     "key": "MESPAK01_0007_0063",
     "original": "デジモンのきずな",
-    "translation": "数位宝贝",
+    "translation": "数码兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n数位宝贝\n\n数码兽的纽带\n\n数码兽的羁绊"
+    "context": "机翻辅助：\n\n数码兽\n\n数码兽的纽带\n\n数码兽的羁绊"
   },
   {
     "key": "MESPAK01_0007_0064",
@@ -541,8 +541,8 @@
   {
     "key": "MESPAK01_0007_0077",
     "original": "デジモンが　いません",
-    "translation": "没有数位宝贝",
+    "translation": "没有数码兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n没有数位宝贝\n\n没有数码兽。\n\n没有数码兽"
+    "context": "机翻辅助：\n\n没有数码兽\n\n没有数码兽。"
   }
 ]

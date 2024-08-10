@@ -4,8 +4,6 @@ import struct
 
 from PIL import Image
 
-FONT_PATH = "temp/unpacked/data/FONT_NFTR/0004.bin"
-
 
 class FINF:
 
@@ -15,13 +13,14 @@ class FINF:
 
     assert magic == b"FNIF"
 
-    unk1, height, null_char_index, unk4, width, width_bis, encoding = struct.unpack("<2BH4B", reader.read(0x08))
+    unk1, height, null_char_index, default_start, default_width, default_length, encoding = struct.unpack(
+      "<2BH4B", reader.read(0x08))
     self.unk1: int = unk1
     self.height: int = height
     self.null_char_index: int = null_char_index
-    self.unk4: int = unk4
-    self.width: int = width
-    self.width_bis: int = width_bis
+    self.default_start: int = default_start
+    self.default_width: int = default_width
+    self.default_length: int = default_length
     self.encoding: int = encoding
 
     cglp_offset, cwdh_offset, cmap_offset = struct.unpack("<3I", reader.read(0x0C))
@@ -48,9 +47,9 @@ class FINF:
       self.unk1,
       self.height,
       self.null_char_index,
-      self.unk4,
-      self.width,
-      self.width_bis,
+      self.default_start,
+      self.default_width,
+      self.default_length,
       self.encoding,
       self.cglp_offset,
       self.cwdh_offset,
@@ -267,25 +266,33 @@ class CMAP:
 
   def get_bytes(self, char_map: dict[int, int]) -> bytes:
     sorted_keys = sorted(char_map.keys())
-    first_char_code = char_map[sorted_keys[0]]
-    last_char_code = char_map[sorted_keys[-1]]
-    type_section = 2
-    next_offset = 0
-
     body = bytearray()
-    body += struct.pack("<H", len(char_map))
-    for key in sorted_keys:
-      body += struct.pack("<2H", char_map[key], key)
+    if self.type_section == 0:
+      for char_index, char_code in self.char_map.items():
+        offset = char_index - char_code + self.first_char_code
+        body = struct.pack("<H", offset)
+    elif self.type_section == 1:
+      length = self.last_char_code - self.first_char_code + 1
+      char_code_to_index = {v: k for k, v in self.char_map.items()}
+      for i in range(length):
+        char_code = self.first_char_code + i
+        char_index = char_code_to_index.get(char_code, 0xffff)
+        body += struct.pack("<H", char_index)
+    elif self.type_section == 2:
+      body += struct.pack("<H", len(char_map))
+      for key in sorted_keys:
+        body += struct.pack("<2H", char_map[key], key)
+
     body += b"\0" * (-len(body) % 4)
 
     head = struct.pack(
       "<4sI2H2I",
       b"PAMC",
-      0x12 + len(body),
-      0x0000,
-      0xffff,
-      type_section,
-      next_offset,
+      0x14 + len(body),
+      self.first_char_code,
+      self.last_char_code,
+      self.type_section,
+      0,
     )
     return bytes(head + body)
 
@@ -323,17 +330,27 @@ class NFTR:
       next_offset = cmap.next_offset - 0x08
 
   def get_bytes(self) -> bytes:
-    cmap = self.cmaps[0].get_bytes(self.char_map)
-    self.cmaps = [cmap]
+    cmaps = [cmap.get_bytes(cmap.char_map) for cmap in self.cmaps]
     cwdh = self.cwdh.get_bytes()
     cglp = self.cglp.get_bytes()
 
     self.finf.cglp_offset = 0x18 + self.finf.block_size
     self.finf.cwdh_offset = self.finf.cglp_offset + len(cglp)
     self.finf.cmap_offset = self.finf.cwdh_offset + len(cwdh)
+    next_offset = self.finf.cmap_offset
+    for i, cmap in enumerate(cmaps[:-1]):
+      next_offset += len(cmap)
+      cmaps[i] = cmap[:0x10] + struct.pack("<I", next_offset) + cmap[0x14:]
+
     finf = self.finf.get_bytes()
 
-    body = finf + cglp + cwdh + cmap
+    body = finf + cglp + cwdh + b"".join(cmaps)
 
-    head = struct.pack("<4sHHIHH", b"RTFN", 0xfeff, self.unk1, 0x10 + len(body), 0x10, 0x04)
+    head = struct.pack("<4sHHIHH", b"RTFN", 0xfeff, self.unk1, 0x10 + len(body), 0x10, 0x03 + len(cmaps))
     return bytes(head + body)
+
+
+if __name__ == "__main__":
+  nftr = NFTR("temp/unpacked/data/FONT_NFTR/0004.bin")
+  with open("temp/unpacked/data/FONT_NFTR/0004_new.nftr", "wb") as writer:
+    writer.write(nftr.get_bytes())

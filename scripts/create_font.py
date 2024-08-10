@@ -7,12 +7,28 @@ from typing import Callable
 from PIL import Image, ImageDraw, ImageFont
 
 from helper import CHAR_TABLE_PATH, DIR_IMPORT_ROOT, DIR_FONT, DIR_JSON_ROOT, DIR_UNPACKED_FILES, get_used_characters
-from nftr import NFTR, CGLPTile, CWDHInfo
+from nftr import NFTR, CGLPTile
 
 
 def expand_font_0(old_font: NFTR) -> NFTR:
-  old_font.finf.width = 12
-  old_font.finf.width_bis = 12
+  old_font.finf.font_width = 12
+  old_font.cglp.depth = 1
+  old_font.cglp.tile_width = 12
+  for tile in old_font.cglp.tiles:
+    old_bitmap = tile.get_image()
+    new_bitmap = Image.new("L", (12, 16), 0xff)
+    for y in range(16):
+      for x in range(8):
+        if old_bitmap.getpixel((x, y)) == 0xaa:
+          new_bitmap.putpixel((x, y), 0x00)
+    tile.width = 12
+    tile.depth = 1
+    tile.raw_bytes = tile.get_bytes(new_bitmap)
+
+  return old_font
+
+
+def expand_font_3(old_font: NFTR) -> NFTR:
   old_font.finf.font_width = 12
   old_font.cglp.tile_width = 12
   for tile in old_font.cglp.tiles:
@@ -25,18 +41,26 @@ def expand_font_0(old_font: NFTR) -> NFTR:
   return old_font
 
 
+def convert_font_4(old_font: NFTR) -> NFTR:
+  old_font.cglp.depth = 1
+  for tile in old_font.cglp.tiles:
+    old_bitmap = tile.get_image()
+    new_bitmap = Image.new("L", (12, 16), 0xff)
+    for y in range(16):
+      for x in range(12):
+        if old_bitmap.getpixel((x, y)) == 0xaa:
+          new_bitmap.putpixel((x, y), 0x00)
+    tile.depth = 1
+    tile.raw_bytes = tile.get_bytes(new_bitmap)
+
+  return old_font
+
+
 def draw_char_0(bitmap: Image.Image, draw: ImageDraw.ImageDraw, font: ImageFont.FreeTypeFont, char: str) -> None:
-  draw.text(
-    (1, 13),
-    char,
-    0x55,
-    font,
-    "ls",
-  )
   draw.text(
     (0, 12),
     char,
-    0xAA,
+    0x00,
     font,
     "ls",
   )
@@ -73,16 +97,9 @@ def draw_char_3(bitmap: Image.Image, draw: ImageDraw.ImageDraw, font: ImageFont.
 
 def draw_char_4(bitmap: Image.Image, draw: ImageDraw.ImageDraw, font: ImageFont.FreeTypeFont, char: str) -> None:
   draw.text(
-    (1, 13),
-    char,
-    0x55,
-    font,
-    "ls",
-  )
-  draw.text(
     (0, 12),
     char,
-    0xAA,
+    0x00,
     font,
     "ls",
   )
@@ -131,13 +148,14 @@ FONT_CONFIG: dict[int, dict] = {
     "width": 10,
   },
   3: {
-    "handle": expand_font_0,
+    "handle": expand_font_3,
     "font": "files/fonts/Zfull-GB.ttf",
     "size": 9,
     "draw": draw_char_3,
     "width": 10,
   },
   4: {
+    "handle": convert_font_4,
     "font": "C:/Windows/Fonts/simsun.ttc",
     "size": 12,
     "draw": draw_char_4,
@@ -183,8 +201,9 @@ for file_name in os.listdir(f"{DIR_UNPACKED_FILES}/{DIR_FONT}"):
 
   font = ImageFont.truetype(config["font"], config["size"])
   draw_char: Callable[[Image.Image, ImageDraw.ImageDraw, ImageFont.FreeTypeFont, str], None] = config["draw"]
-  char_width: int = config["width"]
-  char_length: int = config.get("length", char_width)
+  nftr.finf.default_start = 0
+  nftr.finf.default_width = config["width"]
+  nftr.finf.default_length = config.get("length", config["width"])
 
   new_char_map = {}
   for code in sorted(nftr.char_map.keys()):
@@ -194,6 +213,7 @@ for file_name in os.listdir(f"{DIR_UNPACKED_FILES}/{DIR_FONT}"):
     else:
       break
 
+  nftr.cwdh.info = nftr.cwdh.info[:code]
   tile = nftr.cglp.tiles[0]
   for shift_jis, chs in char_table.items():
     if not (chs in characters and 0x4e00 <= ord(chs) <= 0x9fff):
@@ -207,13 +227,13 @@ for file_name in os.listdir(f"{DIR_UNPACKED_FILES}/{DIR_FONT}"):
     new_tile = CGLPTile(tile.width, tile.height, tile.depth, tile.get_bytes(bitmap))
     if code < len(nftr.cglp.tiles):
       nftr.cglp.tiles[code] = new_tile
-      nftr.cwdh.info[code] = CWDHInfo(0, char_width, char_length)
     else:
       nftr.cglp.tiles.append(new_tile)
-      nftr.cwdh.info.append(CWDHInfo(0, char_width, char_length))
 
     code += 1
 
+  nftr.cmaps = [nftr.cmaps[-1]]
+  nftr.cmaps[-1].char_map = new_char_map
   nftr.char_map = new_char_map
 
   new_bytes = nftr.get_bytes()

@@ -37,6 +37,12 @@ CHINESE_TO_JAPANESE = {
   ".": "．",
   ",": "，",
 }
+HARDCODED_TEXTS_ARM9_BIN = [
+  ("こうげきりょく", "あたらしいワザをおぼえた！"),
+  ("すべてのデジモン", "みとうろく"),
+  ("だい%dファイル", "だい%dファイル"),
+  ("こうげきりょく", "タイプ"),
+]
 
 char_table_reversed: dict[str, str] = {}
 zh_hans_no_code = set()
@@ -100,7 +106,7 @@ def convert_zh_hans_to_shift_jis(zh_hans: str) -> str:
   output = []
   control = 0
   for char in zh_hans:
-    if char == "^":
+    if char in ["^", "%"]:
       control = 2
     if control > 0:
       output.append(char)
