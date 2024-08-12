@@ -1,8 +1,11 @@
+@ 每个字体的默认宽度。
+
 arepl_212188C:
   .byte 0x0A
   .byte 0x05
   .byte 0x04
   .byte 0x09
+  .byte 0x0C
   .byte 0x0C
   .byte 0x0C
   .byte 0x10

@@ -1,7 +1,7 @@
 import json
 import os
 import struct
-from helper import DIR_CSV_ROOT, CHAR_TABLE_PATH, get_used_characters
+from helper import DIR_CSV_ROOT, CHAR_TABLE_PATH, OLD_CHAR_TABLE_PATH, get_used_characters
 
 import pypinyin
 from pypinyin import lazy_pinyin
@@ -24,11 +24,11 @@ def generate_cp932(used_kanjis: set[str]):
       yield char
 
 
-def generate_char_table(json_root: str) -> dict[str, str]:
-  char_table: dict[str, str] = {}
-  shift_jis_characters = set()
+def generate_char_table(old_char_table: dict[str, str], json_root: str) -> dict[str, str]:
+  char_table: dict[str, str] = {**old_char_table}
+  shift_jis_characters = set(char_table.keys())
 
-  characters = get_used_characters(json_root)
+  characters = get_used_characters(json_root) - set(char_table.values())
   generator = generate_cp932(set())
 
   def insert_char(char: str):
@@ -39,22 +39,17 @@ def generate_char_table(json_root: str) -> dict[str, str]:
     shift_jis_characters.add(shift_jis_char)
 
   for char in sorted(characters, key=lambda x: (lazy_pinyin(x, style=pypinyin.Style.TONE3), x)):
-    if not 0x4e00 <= ord(char) <= 0x9fff:
-      try:
-        char.encode("cp932")
-        char_table[char] = char
-        continue
-      except UnicodeEncodeError:
-        pass
-
-    insert_char(char)
+    if 0x4e00 <= ord(char) <= 0x9fff:
+      insert_char(char)
 
   char_table = {k: v for k, v in sorted(char_table.items(), key=lambda x: x[0].encode("cp932").rjust(2, b"\0"))}
   return char_table
 
 
 if __name__ == "__main__":
-  char_table = generate_char_table(f"{DIR_CSV_ROOT}/{LANGUAGE}")
+  with open(OLD_CHAR_TABLE_PATH, "r", -1, "utf8") as reader:
+    old_char_table = json.load(reader)
+  char_table = generate_char_table(old_char_table, f"{DIR_CSV_ROOT}/{LANGUAGE}")
   os.makedirs(os.path.dirname(CHAR_TABLE_PATH), exist_ok=True)
   with open(CHAR_TABLE_PATH, "w", -1, "utf8") as writer:
     json.dump(char_table, writer, ensure_ascii=False, indent=2)

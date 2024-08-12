@@ -155,6 +155,7 @@ FONT_CONFIG: dict[int, dict] = {
     "size": 9,
     "draw": draw_char_3,
     "width": 10,
+    "length": 9,
   },
   4: {
     "handle": convert_font_4,
@@ -173,7 +174,7 @@ FONT_CONFIG: dict[int, dict] = {
     "font": "files/fonts/SmileySans-Oblique.otf",
     "size": 14,
     "draw": draw_char_6,
-    "width": 11,
+    "width": 12,
   },
   7: {
     "font": "files/fonts/HYZongYiTiJF.ttf",
@@ -182,6 +183,62 @@ FONT_CONFIG: dict[int, dict] = {
     "width": 16,
   },
 }
+
+
+def compress_cmap(char_map: dict[int, int]) -> list[CMAP]:
+  cmaps = []
+  type_2_char_map = {}
+  char_index = 0
+  char_map_len = len(char_map)
+  while char_index < len(char_map):
+    char_code = char_map[char_index]
+
+    code_index_diff = char_code - char_index
+    window = 0x20
+    while char_index + window < char_map_len and \
+      char_map[char_index + window] - (char_index + window) == code_index_diff:
+      window += 1
+    if window > 0x20:
+      cmap = CMAP.get_blank()
+      cmap.type_section = 0
+      cmap.first_char_code = char_code
+      cmap.last_char_code = char_map[char_index + window - 1]
+      cmap.char_map = {index: char_map[index] for index in range(char_index, char_index + window)}
+      cmaps.append(cmap)
+      char_index += window
+      continue
+
+    window = 0
+    while char_index + window < char_map_len and \
+      char_map[char_index + window] - char_code <= window * 2:
+      if char_index + window > 0 and \
+        char_map[char_index + window] - char_map[char_index + window - 1] > 0x10:
+        break
+      window += 1
+
+    if window > 0x20:
+      cmap = CMAP.get_blank()
+      cmap.type_section = 1
+      cmap.first_char_code = char_code
+      cmap.last_char_code = char_map[char_index + window - 1]
+      cmap.char_map = {index: char_map[index] for index in range(char_index, char_index + window)}
+      cmaps.append(cmap)
+
+      char_index += window
+      continue
+
+    type_2_char_map[char_index] = char_code
+    char_index += 1
+    continue
+
+  cmap = CMAP.get_blank()
+  cmap.type_section = 2
+  cmap.first_char_code = min(type_2_char_map.keys())
+  cmap.last_char_code = 0xffff
+  cmap.char_map = type_2_char_map
+  cmaps.append(cmap)
+
+  return cmaps
 
 
 def create_font():
@@ -237,65 +294,14 @@ def create_font():
 
       code += 1
 
-    cmaps = []
-    type_2_char_map = {}
-    char_index = 0
-    char_map_len = len(new_char_map)
-    while char_index < len(new_char_map):
-      char_code = new_char_map[char_index]
-
-      code_index_diff = char_code - char_index
-      window = 0x20
-      while char_index + window < char_map_len and \
-        new_char_map[char_index + window] - (char_index + window) == code_index_diff:
-        window += 1
-      if window > 0x20:
-        cmap = CMAP.get_blank()
-        cmap.type_section = 0
-        cmap.first_char_code = char_code
-        cmap.last_char_code = new_char_map[char_index + window - 1]
-        cmap.char_map = {index: new_char_map[index] for index in range(char_index, char_index + window)}
-        cmaps.append(cmap)
-        char_index += window
-        continue
-
-      window = 0
-      while char_index + window < char_map_len and \
-        new_char_map[char_index + window] - char_code <= window * 2:
-        if char_index + window > 0 and \
-          new_char_map[char_index + window] - new_char_map[char_index + window - 1] > 0x10:
-          break
-        window += 1
-
-      if window > 0x20:
-        cmap = CMAP.get_blank()
-        cmap.type_section = 1
-        cmap.first_char_code = char_code
-        cmap.last_char_code = new_char_map[char_index + window - 1]
-        cmap.char_map = {index: new_char_map[index] for index in range(char_index, char_index + window)}
-        cmaps.append(cmap)
-
-        char_index += window
-        continue
-
-      type_2_char_map[char_index] = char_code
-      char_index += 1
-      continue
-
-    cmap = CMAP.get_blank()
-    cmap.type_section = 2
-    cmap.first_char_code = min(type_2_char_map.keys())
-    cmap.last_char_code = 0xffff
-    cmap.char_map = type_2_char_map
-    cmaps.append(cmap)
-
-    nftr.cmaps = cmaps
-
+    nftr.cmaps = compress_cmap(new_char_map)
     nftr.char_map = new_char_map
 
     new_bytes = nftr.get_bytes()
     with open(f"{DIR_IMPORT_ROOT}/{DIR_FONT_BIN_ROOT}/{font_index:04d}.bin", "wb") as writer:
       writer.write(new_bytes)
+
+    print(f"Saved font {font_index:04d}.bin ({len(new_char_map):4d} characters, {len(new_bytes) / 1024:2.2f} KiB)")
 
 
 if __name__ == "__main__":

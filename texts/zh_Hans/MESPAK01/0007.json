@@ -107,9 +107,9 @@
   {
     "key": "MESPAK01_0007_0015",
     "original": "すべてのデジモン",
-    "translation": "所有数码兽",
+    "translation": "所有数码宝贝",
     "stage": 0,
-    "context": "机翻辅助：\n\n所有数码兽\n\n所有的数码兽"
+    "context": "机翻辅助：\n\n所有数码宝贝\n\n所有的数码宝贝"
   },
   {
     "key": "MESPAK01_0007_0016",
@@ -163,9 +163,9 @@
   {
     "key": "MESPAK01_0007_0023",
     "original": "デジモン",
-    "translation": "数码兽",
+    "translation": "数码宝贝",
     "stage": 0,
-    "context": "机翻辅助：\n\n数码兽"
+    "context": "机翻辅助：\n\n数码宝贝"
   },
   {
     "key": "MESPAK01_0007_0024",
@@ -443,9 +443,9 @@
   {
     "key": "MESPAK01_0007_0063",
     "original": "デジモンのきずな",
-    "translation": "数码兽",
+    "translation": "数码宝贝",
     "stage": 0,
-    "context": "机翻辅助：\n\n数码兽\n\n数码兽的纽带\n\n数码兽的羁绊"
+    "context": "机翻辅助：\n\n数码宝贝\n\n数码宝贝的纽带\n\n数码宝贝的羁绊"
   },
   {
     "key": "MESPAK01_0007_0064",
@@ -541,8 +541,8 @@
   {
     "key": "MESPAK01_0007_0077",
     "original": "デジモンが　いません",
-    "translation": "没有数码兽",
+    "translation": "没有数码宝贝",
     "stage": 0,
-    "context": "机翻辅助：\n\n没有数码兽\n\n没有数码兽。"
+    "context": "机翻辅助：\n\n没有数码宝贝\n\n没有数码宝贝。"
   }
 ]
