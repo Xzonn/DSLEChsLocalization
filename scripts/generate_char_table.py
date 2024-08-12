@@ -53,3 +53,4 @@ if __name__ == "__main__":
   os.makedirs(os.path.dirname(CHAR_TABLE_PATH), exist_ok=True)
   with open(CHAR_TABLE_PATH, "w", -1, "utf8") as writer:
     json.dump(char_table, writer, ensure_ascii=False, indent=2)
+  print(f"Collected {len(char_table)} characters.")
