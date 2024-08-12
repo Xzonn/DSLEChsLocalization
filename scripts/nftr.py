@@ -1,4 +1,5 @@
 from io import BufferedReader
+import io
 from math import ceil
 import struct
 
@@ -264,7 +265,17 @@ class CMAP:
         char_code, char_index = struct.unpack("<2H", reader.read(0x04))
         self.char_map[char_index] = char_code
 
-  def get_bytes(self, char_map: dict[int, int]) -> bytes:
+  @staticmethod
+  def get_blank():
+    with io.BytesIO() as buffer:
+      buffer.write(b"PAMC" + b"\0" * 0x12)
+      buffer.seek(0)
+      cmap = CMAP(buffer)
+    return cmap
+
+  def get_bytes(self, char_map: dict[int, int] = None) -> bytes:
+    if char_map is None:
+      char_map = self.char_map
     sorted_keys = sorted(char_map.keys())
     body = bytearray()
     if self.type_section == 0:
@@ -330,7 +341,7 @@ class NFTR:
       next_offset = cmap.next_offset - 0x08
 
   def get_bytes(self) -> bytes:
-    cmaps = [cmap.get_bytes(cmap.char_map) for cmap in self.cmaps]
+    cmaps = [cmap.get_bytes() for cmap in self.cmaps]
     cwdh = self.cwdh.get_bytes()
     cglp = self.cglp.get_bytes()
 

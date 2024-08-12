@@ -1,7 +1,7 @@
 import json
 import os
 import struct
-from helper import DIR_JSON_ROOT, CHAR_TABLE_PATH, get_used_characters
+from helper import DIR_CSV_ROOT, CHAR_TABLE_PATH, get_used_characters
 
 import pypinyin
 from pypinyin import lazy_pinyin
@@ -54,7 +54,7 @@ def generate_char_table(json_root: str) -> dict[str, str]:
 
 
 if __name__ == "__main__":
-  char_table = generate_char_table(f"{DIR_JSON_ROOT}/{LANGUAGE}")
+  char_table = generate_char_table(f"{DIR_CSV_ROOT}/{LANGUAGE}")
   os.makedirs(os.path.dirname(CHAR_TABLE_PATH), exist_ok=True)
   with open(CHAR_TABLE_PATH, "w", -1, "utf8") as writer:
     json.dump(char_table, writer, ensure_ascii=False, indent=2)

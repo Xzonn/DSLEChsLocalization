@@ -1,7 +1,7 @@
 import json
 import os
 import struct
-from helper import DIR_JSON_ROOT, DIR_IMPORT_ROOT, DIR_MESSAGES, convert_zh_hans_to_shift_jis
+from helper import DIR_JSON_ROOT, DIR_IMPORT_ROOT, DIR_MESSAGES
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
@@ -26,7 +26,7 @@ def convert_json_to_messages(json_root: str, output_root: str):
       pos = 0x08 + 0x04 * string_count
       for k, v in translations.items():
         header += struct.pack("<I", pos)
-        text = convert_zh_hans_to_shift_jis(v["content"]).encode("cp932") + b"\0"
+        text = v["content"].encode("cp932") + b"\0"
         text += b"\0" * (-len(text) % 4)
         body += text
         pos += len(text)

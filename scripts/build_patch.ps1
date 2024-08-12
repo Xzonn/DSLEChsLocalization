@@ -17,7 +17,7 @@ python scripts\decompress_arm9.py
 python scripts\export_arm9.py
 python scripts\convert_messages_to_json.py
 
-& $nitropacker "patch-arm9" -i "src" -o "temp/nitro" -a "02006514" -d latest
+& $nitropacker "patch-arm9" -i "src" -o "temp/nitro" -a "02006514"
 
 python scripts\import_csv_to_json.py
 python scripts\convert_json_to_messages.py

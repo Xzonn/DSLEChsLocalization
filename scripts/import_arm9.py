@@ -2,7 +2,7 @@ import json
 from logging import warning
 import os
 from typing import Any
-from helper import ARM9_MODIFIED_PATH, DIR_JSON_ROOT, convert_zh_hans_to_shift_jis
+from helper import ARM9_MODIFIED_PATH, DIR_JSON_ROOT
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
@@ -18,9 +18,9 @@ def import_arm9(input_path: str, sheet_name: str, message_root: str, output_path
     offset: int = value["offset"]
     length: int = value["length"]
     text: str = value["content"]
-    text_bytes = convert_zh_hans_to_shift_jis(text).encode("cp932")
+    text_bytes = text.encode("cp932")
     if len(text_bytes) > length:
-      warning(f"Text is too long: {text}")
+      warning(f"Text is too long: {text} ({key}, {len(text_bytes)} > {length})")
       continue
     elif len(text_bytes) < length:
       text_bytes += b"\0" * (length - len(text_bytes))

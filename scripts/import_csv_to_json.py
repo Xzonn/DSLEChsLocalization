@@ -1,7 +1,7 @@
 import json
 import os
 
-from helper import DIR_CSV_ROOT, DIR_JSON_ROOT, load_translations
+from helper import DIR_CSV_ROOT, DIR_JSON_ROOT, convert_zh_hans_to_shift_jis, load_translations
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
@@ -17,7 +17,7 @@ def import_csv_to_json(csv_root: str, json_input_root: str, json_output_root: st
       if not os.path.exists(json_path):
         continue
 
-      translations = load_translations(csv_root, sheet_name)
+      translations = load_translations(f"{root}/{file_name}")
 
       with open(json_path, "r", -1, "utf8") as reader:
         json_input = json.load(reader)
@@ -26,7 +26,7 @@ def import_csv_to_json(csv_root: str, json_input_root: str, json_output_root: st
         if v.get("trash", False):
           continue
 
-        v["content"] = translations.get(k, v["content"])
+        v["content"] = convert_zh_hans_to_shift_jis(translations.get(k, v["content"]))
 
       output_path = f"{json_output_root}/{sheet_name}.json"
       os.makedirs(os.path.dirname(output_path), exist_ok=True)

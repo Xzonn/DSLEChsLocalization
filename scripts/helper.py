@@ -7,7 +7,8 @@ import re
 DIR_ORIGINAL_FILES = "original_files"
 DIR_UNPACKED_FILES = "temp/unpacked"
 DIR_MESSAGES = "data/MSG"
-DIR_FONT = "data/FONT_NFTR/"
+DIR_FONT_BIN_ROOT = "data/FONT_NFTR/"
+DIR_FONT_FILES_ROOT = "files/fonts"
 DIR_JSON_ROOT = "temp/json"
 DIR_IMPORT_ROOT = "temp/import"
 DIR_CSV_ROOT = "texts"
@@ -22,9 +23,10 @@ ARM9_OUT_PATH = "out/arm9.bin"
 
 TRASH_PATTERN = re.compile(
   #r"^[0-9a-zA-Z０-９ａ-ｚＡ-Ｚ#\-/？~№－\?:＋％%\.．ⅠⅡ <>_＿;，。！：；\n\+]+$|１２３４５６７８９|０１２３４５６７８",
-  r"NULL",
+  r"[＿]",
   re.DOTALL,
 )
+CONTROL_PATTERN = re.compile(r"\^[0-9A-Za-z]|%[ds]|~[CFcf][0-9\-]+")
 KANA_PATTERN = re.compile(r"[\u3040-\u309F\u30A0-\u30FF]+")
 
 CHINESE_TO_JAPANESE = {
@@ -34,6 +36,7 @@ CHINESE_TO_JAPANESE = {
   "+": "＋",
   "-": "－",
   "%": "％",
+  "~": "～",
   ".": "．",
   ",": "，",
 }
@@ -48,8 +51,8 @@ char_table_reversed: dict[str, str] = {}
 zh_hans_no_code = set()
 
 
-def load_translations(root: str, sheet_name: str) -> dict[str, str]:
-  with open(f"{root}/{sheet_name}.json", "r", -1, "utf8") as reader:
+def load_translations(path: str) -> dict[str, str]:
+  with open(path, "r", -1, "utf8") as reader:
     translation_list: list[dict] = json.load(reader)
 
   translations = {}
@@ -59,33 +62,39 @@ def load_translations(root: str, sheet_name: str) -> dict[str, str]:
   return translations
 
 
-def load_csv(root: str, sheet_name: str) -> list[dict[str, str]]:
-  with open(f"{root}/{sheet_name}.json", "r", -1, "utf8") as reader:
+def load_csv(path: str) -> list[dict[str, str]]:
+  with open(path, "r", -1, "utf8") as reader:
     translation_list: list[dict] = json.load(reader)
 
   return translation_list
 
 
-def get_used_characters(json_root: str) -> set[str]:
+def get_used_characters(json_root: str, font_index: int = None) -> set[str]:
+  keys = []
+  if font_index is not None:
+    key_list_path = f"{DIR_FONT_FILES_ROOT}/key_list_{font_index:04d}.txt"
+    if os.path.exists(key_list_path):
+      with open(f"{DIR_FONT_FILES_ROOT}/key_list_{font_index:04d}.txt", "r", -1, "utf8") as reader:
+        keys = reader.read().splitlines()
+
   characters = set()
   for root, dirs, files in os.walk(json_root):
     for file_name in files:
       if not file_name.endswith(".json"):
         continue
 
-      with open(f"{root}/{file_name}", "r", -1, "utf8") as reader:
-        json_input: dict[str, dict] = json.load(reader)
+      translations = load_translations(f"{root}/{file_name}")
 
-      for k, v in json_input.items():
-        if v.get("trash", False):
+      for key, content in translations.items():
+        if keys and key not in keys:
           continue
-
-        content = v["content"].replace("\n", "")
+        content = CONTROL_PATTERN.sub("", content).replace("\n", "")
         if KANA_PATTERN.search(content):
           continue
 
         for k, v in CHINESE_TO_JAPANESE.items():
           content = content.replace(k, v)
+
         for char in content:
           characters.add(char)
 
@@ -104,14 +113,25 @@ def convert_zh_hans_to_shift_jis(zh_hans: str) -> str:
     zh_hans = zh_hans.replace(k, v)
 
   output = []
-  control = 0
-  for char in zh_hans:
-    if char in ["^", "%"]:
-      control = 2
-    if control > 0:
-      output.append(char)
-      control -= 1
+  i = 0
+  while i < len(zh_hans):
+    char = zh_hans[i]
+    if char == "^":
+      output.append(zh_hans[i:i + 2])
+      i += 2
       continue
+    elif char == "％":
+      search = re.search(r"％([ds])", zh_hans[i:])
+      if search:
+        output.append(f"%{search.group(1)}")
+        i += search.end()
+        continue
+    elif char == "～":
+      search = re.search(r"～[CFcf]([0-9\-]+)", zh_hans[i:])
+      if search:
+        output.append(f"~{search.group(1)}")
+        i += search.end()
+        continue
 
     char = CHINESE_TO_JAPANESE.get(char, char)
     if char in "0123456789":
@@ -132,5 +152,7 @@ def convert_zh_hans_to_shift_jis(zh_hans: str) -> str:
           warning(f"Missing char: {char}")
           zh_hans_no_code.add(char)
         output.append("?")
+
+    i += 1
 
   return "".join(output)

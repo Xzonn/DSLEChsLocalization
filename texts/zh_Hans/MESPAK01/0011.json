@@ -121,16 +121,16 @@
   {
     "key": "MESPAK01_0011_0017",
     "original": "とくせい",
-    "translation": "普通",
+    "translation": "特性",
     "stage": 0,
-    "context": "机翻辅助：\n\n普通\n\n特性"
+    "context": "机翻辅助：\n\n特性"
   },
   {
     "key": "MESPAK01_0011_0018",
     "original": "せいかく",
-    "translation": "特殊",
+    "translation": "性格",
     "stage": 0,
-    "context": "机翻辅助：\n\n特殊\n\n正核\n\n性格"
+    "context": "机翻辅助：\n\n性格"
   },
   {
     "key": "MESPAK01_0011_0019",

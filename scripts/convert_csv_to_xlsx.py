@@ -37,8 +37,8 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
         f"{csv_root_without_language}/ja",
       ).replace("\\", "/").removesuffix(".json")
 
-      original = load_csv(f"{csv_root_without_language}/ja", sheet_name)
-      translated = load_csv(f"{csv_root_without_language}/{language}", sheet_name)
+      original = load_csv(f"{root}/{file_name}")
+      translated = load_csv(f"{csv_root_without_language}/{language}/{sheet_name}.json")
 
       workbook = Workbook()
       sheet = workbook.active

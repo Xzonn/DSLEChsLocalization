@@ -161,27 +161,6 @@
     "context": ""
   },
   {
-    "key": "MESPAK04_0021_0023",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ５９７＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５９７＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0024",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ５９８＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５９８＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0025",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ５９９＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５９９＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
     "key": "MESPAK04_0021_0026",
     "original": "きょうれつな　おんぱの\nたまの　しょうげきで\nこうげきする",
     "translation": "きょうれつな　おんぱの\nたまの　しょうげきで\nこうげきする",
@@ -248,104 +227,6 @@
     "key": "MESPAK04_0021_0035",
     "original": "どくのきりを　しゅういに\nはっしゃして\nこうげきする　★どく",
     "translation": "どくのきりを　しゅういに\nはっしゃして\nこうげきする　★どく",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0036",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１０＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６１０＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0037",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１１＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６１１＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0038",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１２＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６１２＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0039",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１３＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６１３＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0040",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１４＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６１４＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0041",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１５＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６１５＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0042",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１６＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６１６＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0043",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１７＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６１７＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0044",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１８＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６１８＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0045",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６１９＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６１９＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0046",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２０＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６２０＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0047",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２１＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６２１＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0048",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２２＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６２２＿ＥＸＰＬ",
-    "stage": 1,
-    "context": ""
-  },
-  {
-    "key": "MESPAK04_0021_0049",
-    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２３＿ＥＸＰＬ",
-    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６２３＿ＥＸＰＬ",
     "stage": 1,
     "context": ""
   }
