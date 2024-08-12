@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK04_0013_0000",
+    "original": "Attacks using the energy of forbidden\ntemptation. \n★Confusion",
+    "translation": "Attacks using the energy of forbidden\ntemptation. \n★Confusion",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0001",
+    "original": "Showers the opponent in poisonous rain.\n★Poison",
+    "translation": "Showers the opponent in poisonous rain.\n★Poison",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0002",
+    "original": "Scatters poisonous powder at the opponent.\n★Poison",
+    "translation": "Scatters poisonous powder at the opponent.\n★Poison",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0003",
+    "original": "Glares at the opponent with eyes filled with\nevil energy. \n★Paralysis",
+    "translation": "Glares at the opponent with eyes filled with\nevil energy. \n★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0004",
+    "original": "Enchants the opponent with an alluring dance\nand sweet scent. \n★Paralysis",
+    "translation": "Enchants the opponent with an alluring dance\nand sweet scent. \n★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0005",
+    "original": "Engulfs the opponent in a water bubble,\ncausing them to fall asleep. \n★Sleep",
+    "translation": "Engulfs the opponent in a water bubble,\ncausing them to fall asleep. \n★Sleep",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0006",
+    "original": "Causes the opponent to fall asleep with a\nresonating lullaby. \n★Stun ★Sleep",
+    "translation": "Causes the opponent to fall asleep with a\nresonating lullaby. \n★Stun ★Sleep",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0007",
+    "original": "Showers allies with healing rain, restoring HP\nand healing poison.",
+    "translation": "Showers allies with healing rain, restoring HP\nand healing poison.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0008",
+    "original": "Unleashes waves of holy energy, restoring\nallies HP.",
+    "translation": "Unleashes waves of holy energy, restoring\nallies HP.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0009",
+    "original": "Calls upon the gods' healing light to restore\nan ally's HP. \n★Stun",
+    "translation": "Calls upon the gods' healing light to restore\nan ally's HP. \n★Stun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0010",
+    "original": "Calls upon the healing power of machinery to\nrestore an ally's HP and heal poison.",
+    "translation": "Calls upon the healing power of machinery to\nrestore an ally's HP and heal poison.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0011",
+    "original": "Calls upon the earth's healing energy to\nrestore an ally's HP and cure status\neffects.",
+    "translation": "Calls upon the earth's healing energy to\nrestore an ally's HP and cure status\neffects.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0012",
+    "original": "Uses the power of light to distribute MP to\nyour allies.",
+    "translation": "Uses the power of light to distribute MP to\nyour allies.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0013",
+    "original": "Calls upon the power of darkness to restore\nan ally's MP.",
+    "translation": "Calls upon the power of darkness to restore\nan ally's MP.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0014",
+    "original": "Brings an ally into a loving embrace, reviving\nit.",
+    "translation": "Brings an ally into a loving embrace, reviving\nit.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0015",
+    "original": "Summons the life force within nature's\noceans to call forth a tsunami and restore an\nally fully.",
+    "translation": "Summons the life force within nature's\noceans to call forth a tsunami and restore an\nally fully.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0016",
+    "original": "Uses a hand engulfed in darkness to reach\ninto the otherworld and restore an ally fully.",
+    "translation": "Uses a hand engulfed in darkness to reach\ninto the otherworld and restore an ally fully.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0017",
+    "original": "Restores an ally fully by giving it an electric\nshock.",
+    "translation": "Restores an ally fully by giving it an electric\nshock.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0018",
+    "original": "Calls upon a healing breeze to restore an\nally's HP and cure poison.",
+    "translation": "Calls upon a healing breeze to restore an\nally's HP and cure poison.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0019",
+    "original": "Calls upon the overflowing power of light to\ncure an ally's status and restore HP.",
+    "translation": "Calls upon the overflowing power of light to\ncure an ally's status and restore HP.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0020",
+    "original": "Unleashes waves of light to restore an ally's\nstatus and restore HP. \n★Stun",
+    "translation": "Unleashes waves of light to restore an ally's\nstatus and restore HP. \n★Stun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0021",
+    "original": "Calls upon the healing power of machinery to\ncure an ally's status and restore HP.",
+    "translation": "Calls upon the healing power of machinery to\ncure an ally's status and restore HP.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0022",
+    "original": "Slashes at the opponent in the blink of an\neye using huge throwing stars.",
+    "translation": "Slashes at the opponent in the blink of an\neye using huge throwing stars.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0023",
+    "original": "Slashes at the opponent swiftly with two holy\nblades in a cross- shaped attack.",
+    "translation": "Slashes at the opponent swiftly with two holy\nblades in a cross- shaped attack.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0024",
+    "original": "Unleashes burning hot fire from one's mouth,\nburning the opponent.",
+    "translation": "Unleashes burning hot fire from one's mouth,\nburning the opponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0025",
+    "original": "Seals the opponent for eternity in\nspace-time. \n★Confusion",
+    "translation": "Seals the opponent for eternity in\nspace-time. \n★Confusion",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0026",
+    "original": "Slashes at the opponent with its pair of razor\nsharp ears.",
+    "translation": "Slashes at the opponent with its pair of razor\nsharp ears.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0027",
+    "original": "Emits a wave of light energy from its entire\nbody, eliminating everything. \n★Stun",
+    "translation": "Emits a wave of light energy from its entire\nbody, eliminating everything. \n★Stun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0028",
+    "original": "Slams the opponent with a massive anchor,\nslashing them in a cross shape.",
+    "translation": "Slams the opponent with a massive anchor,\nslashing them in a cross shape.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0029",
+    "original": "Melts everything with a rainbow- colored\nhyperthermophile laser.",
+    "translation": "Melts everything with a rainbow- colored\nhyperthermophile laser.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0030",
+    "original": "Creates a massive explosion using the power\nof fire, engulfing the enemy in fumes.",
+    "translation": "Creates a massive explosion using the power\nof fire, engulfing the enemy in fumes.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0031",
+    "original": "Slashes at the opponent with massive\nclaymores at the Speed of light.",
+    "translation": "Slashes at the opponent with massive\nclaymores at the Speed of light.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0032",
+    "original": "Shoots powerful lasers from both hands,\nburning everything.",
+    "translation": "Shoots powerful lasers from both hands,\nburning everything.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0033",
+    "original": "Unleashes a blizzard that freezes enemies\nsolid. \n★Stun",
+    "translation": "Unleashes a blizzard that freezes enemies\nsolid. \n★Stun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0034",
+    "original": "Unleashes the power of flames, creating a\nmassive explosion engulfing the area. \n★Stun",
+    "translation": "Unleashes the power of flames, creating a\nmassive explosion engulfing the area. \n★Stun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0035",
+    "original": "Spins around a heavy crane, bashing into the\nopponent.",
+    "translation": "Spins around a heavy crane, bashing into the\nopponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0036",
+    "original": "Confines the opponent in a different\ndimension of pure darkness, destroying them.\n★Confusion",
+    "translation": "Confines the opponent in a different\ndimension of pure darkness, destroying them.\n★Confusion",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0037",
+    "original": "Uses the sword on its back to confuse the\nopponent and launch a clever attack.\n★Confusion",
+    "translation": "Uses the sword on its back to confuse the\nopponent and launch a clever attack.\n★Confusion",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0038",
+    "original": "Shoots arrows of darkness from the evil\neyes on its hands. \n★Death",
+    "translation": "Shoots arrows of darkness from the evil\neyes on its hands. \n★Death",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0039",
+    "original": "Unleashes a massive water current that\nengulfs everything in its path. \n★Stun",
+    "translation": "Unleashes a massive water current that\nengulfs everything in its path. \n★Stun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0040",
+    "original": "Gathers all the negative energy and creates a\nball of darkness that destroys all. \n★Stun",
+    "translation": "Gathers all the negative energy and creates a\nball of darkness that destroys all. \n★Stun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0041",
+    "original": "Summons an evil magician from hell to pass\ndown brutal justice upon the opponent.\n★Death",
+    "translation": "Summons an evil magician from hell to pass\ndown brutal justice upon the opponent.\n★Death",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0042",
+    "original": "Gathers the power of grudges and burns all\nwith burning hot flames.",
+    "translation": "Gathers the power of grudges and burns all\nwith burning hot flames.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0043",
+    "original": "Unleashes a dark gas that eats away at and\ndestroys data. \n★Poison",
+    "translation": "Unleashes a dark gas that eats away at and\ndestroys data. \n★Poison",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0044",
+    "original": "Using its ultimate wisdom, it calculates the\ncoordinates of the spirit world and imprisons\nthe opponent there. ★Confusion",
+    "translation": "Using its ultimate wisdom, it calculates the\ncoordinates of the spirit world and imprisons\nthe opponent there. ★Confusion",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0045",
+    "original": "Fires a massive ball of dark energy at the\nopponent, destroying all in its path.",
+    "translation": "Fires a massive ball of dark energy at the\nopponent, destroying all in its path.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0046",
+    "original": "Gathers dark energy within the lance in its\nright hand and slashes the opponent in the\nblink of an eye. ★Death",
+    "translation": "Gathers dark energy within the lance in its\nright hand and slashes the opponent in the\nblink of an eye. ★Death",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0047",
+    "original": "Shoots at the opponent twice using its\nbeloved shotgun, Berenjena.",
+    "translation": "Shoots at the opponent twice using its\nbeloved shotgun, Berenjena.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0048",
+    "original": "Uses the power of an evil god to destroy the\nflow of time and rebuild it. \n★Stun ★Paralysis",
+    "translation": "Uses the power of an evil god to destroy the\nflow of time and rebuild it. \n★Stun ★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0013_0049",
+    "original": "Shoots flames of hell from both its shoulders\nat the opponent, burning everything.",
+    "translation": "Shoots flames of hell from both its shoulders\nat the opponent, burning everything.",
+    "stage": 1,
+    "context": ""
+  }
+]

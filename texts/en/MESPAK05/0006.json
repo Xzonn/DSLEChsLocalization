@@ -1,0 +1,702 @@
+[
+  {
+    "key": "MESPAK05_0006_0000",
+    "original": "Attack went up!\n^6 → ^7",
+    "translation": "Attack went up!\n^6 → ^7",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0001",
+    "original": "Defense went up!\n^6 → ^7",
+    "translation": "Defense went up!\n^6 → ^7",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0002",
+    "original": "Speed went up!\n^6 → ^7",
+    "translation": "Speed went up!\n^6 → ^7",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0003",
+    "original": "Friendship went up!\n^6 → ^7",
+    "translation": "Friendship went up!\n^6 → ^7",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0004",
+    "original": "Oh my! These are Scales now \naren't they?\nI can show off this perfect body \nof mine",
+    "translation": "Oh my! These are Scales now \naren't they?\nI can show off this perfect body \nof mine",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0005",
+    "original": "Well look at that! Perfection!\nIt was inevitable\nMy Max HP went up a little",
+    "translation": "Well look at that! Perfection!\nIt was inevitable\nMy Max HP went up a little",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0006",
+    "original": "I-I gained weight?!\nI'm utterly shocked!!",
+    "translation": "I-I gained weight?!\nI'm utterly shocked!!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0007",
+    "original": "Oh my, isn't this a Belt Machine?\n\nSome beauty treatment is exactly\nwhat I need right now",
+    "translation": "Oh my, isn't this a Belt Machine?\n\nSome beauty treatment is exactly\nwhat I need right now",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0008",
+    "original": "Hehe, with this, I've become so\nmuch more stylish\nMy Max HP went up",
+    "translation": "Hehe, with this, I've become so\nmuch more stylish\nMy Max HP went up",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0009",
+    "original": "W-what the-?! I can't stop\nshaking! This is the worst!!",
+    "translation": "W-what the-?! I can't stop\nshaking! This is the worst!!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0010",
+    "original": "Hey now, isn't this a Treadmill?\n\nWhy must I run on such a machine?",
+    "translation": "Hey now, isn't this a Treadmill?\n\nWhy must I run on such a machine?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0011",
+    "original": "Oh my, I've lost weight using this!\nIn that case, I like this thing!\nMy Max HP went up a lot!",
+    "translation": "Oh my, I've lost weight using this!\nIn that case, I like this thing!\nMy Max HP went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0012",
+    "original": "I'm tired, I can't run anymore...\nEnough already!",
+    "translation": "I'm tired, I can't run anymore...\nEnough already!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0013",
+    "original": "What's this?\nA Crystal Ball?\nI can see through the middle...\nHow pretty!",
+    "translation": "What's this?\nA Crystal Ball?\nI can see through the middle...\nHow pretty!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0014",
+    "original": "Whoa! Was that a light?!\nIt totally glowed just now!\nMy Max MP went up a little",
+    "translation": "Whoa! Was that a light?!\nIt totally glowed just now!\nMy Max MP went up a little",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0015",
+    "original": "Ermmm... I'm more of a Diamond\nkinda Digimon",
+    "translation": "Ermmm... I'm more of a Diamond\nkinda Digimon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0016",
+    "original": "Oh my, what's this here?\n\nOh, I know!\nThey're Tarot cards, right?",
+    "translation": "Oh my, what's this here?\n\nOh, I know!\nThey're Tarot cards, right?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0017",
+    "original": "What the-? I can feel some\nmysterious power...!\nMy Max MP went up",
+    "translation": "What the-? I can feel some\nmysterious power...!\nMy Max MP went up",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0018",
+    "original": "I dunno how they work though...\nSo I'm not really interested",
+    "translation": "I dunno how they work though...\nSo I'm not really interested",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0019",
+    "original": "This is a Pyramid, isn't it?\n\nWhat's that? I should go take\na look inside??",
+    "translation": "This is a Pyramid, isn't it?\n\nWhat's that? I should go take\na look inside??",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0020",
+    "original": "I feel powered up thanks to \nPyramid Power!\nMy Max MP went up a lot!",
+    "translation": "I feel powered up thanks to \nPyramid Power!\nMy Max MP went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0021",
+    "original": "Gross! It's so damp and dark in\nhere! I hate it!",
+    "translation": "Gross! It's so damp and dark in\nhere! I hate it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0022",
+    "original": "Isn't this a Sandbag?\n\nI'm not really into such uncivilized\nthings though...!",
+    "translation": "Isn't this a Sandbag?\n\nI'm not really into such uncivilized\nthings though...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0023",
+    "original": "Actually this isn't as horrible as\nI thought it'd be!\nMy attack went up a lot!",
+    "translation": "Actually this isn't as horrible as\nI thought it'd be!\nMy attack went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0024",
+    "original": "Enough already... I'm not suited \nto something like this!",
+    "translation": "Enough already... I'm not suited \nto something like this!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0025",
+    "original": "This is a Large Tree used for\nspecial training, right?\nIf you insist... then I guess I'll\ngive it a try...",
+    "translation": "This is a Large Tree used for\nspecial training, right?\nIf you insist... then I guess I'll\ngive it a try...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0026",
+    "original": "The more I try, the more fun it\nbecomes...!\nMy attack went up a lot!",
+    "translation": "The more I try, the more fun it\nbecomes...!\nMy attack went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0027",
+    "original": "My body's aching like crazy!\nThis is the worst!",
+    "translation": "My body's aching like crazy!\nThis is the worst!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0028",
+    "original": "What the-?! What's up with this\nGiant Rock here?!\nJust move it around you say...\nThere's no way I can do that!",
+    "translation": "What the-?! What's up with this\nGiant Rock here?!\nJust move it around you say...\nThere's no way I can do that!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0029",
+    "original": "Oh my! It moved so easily!\nWow, I'm so strong!\nMy attack went up a lot!",
+    "translation": "Oh my! It moved so easily!\nWow, I'm so strong!\nMy attack went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0030",
+    "original": "See? It's impossible. That much\nwas obvious from the start.",
+    "translation": "See? It's impossible. That much\nwas obvious from the start.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0031",
+    "original": "...What's this thing?\nA Punching Machine...?\nI gotta withstand its hits??\nJeez... sounds annoying...",
+    "translation": "...What's this thing?\nA Punching Machine...?\nI gotta withstand its hits??\nJeez... sounds annoying...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0032",
+    "original": "Did you really think I'd have\na problem with this?\nMy defense went up a little",
+    "translation": "Did you really think I'd have\na problem with this?\nMy defense went up a little",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0033",
+    "original": "That hurts! What am I even doing?!",
+    "translation": "That hurts! What am I even doing?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0034",
+    "original": "This is a Cannon for special\ntraining...?\nSounds bad... should I really be\ndoing this??",
+    "translation": "This is a Cannon for special\ntraining...?\nSounds bad... should I really be\ndoing this??",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0035",
+    "original": "I may have complained, but this\nwas a piece of cake for me!\nMy defense went up",
+    "translation": "I may have complained, but this\nwas a piece of cake for me!\nMy defense went up",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0036",
+    "original": "No way! This is dangerous!\nAre you trying to kill me?!",
+    "translation": "No way! This is dangerous!\nAre you trying to kill me?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0037",
+    "original": "You're saying I'm supposed to\ncatch this thing?!",
+    "translation": "You're saying I'm supposed to\ncatch this thing?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0038",
+    "original": "There, I did it.\nIs that good enough for you?!\nMy defense went up a lot!",
+    "translation": "There, I did it.\nIs that good enough for you?!\nMy defense went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0039",
+    "original": "What the heck?!\n^P! You're terrible!",
+    "translation": "What the heck?!\n^P! You're terrible!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0040",
+    "original": "This is for Side Stepping?\nSure, I'll give it a try!",
+    "translation": "This is for Side Stepping?\nSure, I'll give it a try!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0041",
+    "original": "How was that? Weren't my \nmovements so elegant?\nMy speed went up a lot!",
+    "translation": "How was that? Weren't my \nmovements so elegant?\nMy speed went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0042",
+    "original": "M-My legs are getting tangled!\nI hate this!",
+    "translation": "M-My legs are getting tangled!\nI hate this!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0043",
+    "original": "This is a Trampoline, isn't it?!\nIn that case...\nLet me show you my\nelegant moves!",
+    "translation": "This is a Trampoline, isn't it?!\nIn that case...\nLet me show you my\nelegant moves!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0044",
+    "original": "Heh, behold. Perfection!\nI am absolute perfection!\nMy speed went up a lot!",
+    "translation": "Heh, behold. Perfection!\nI am absolute perfection!\nMy speed went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0045",
+    "original": "Ouch! I think I twisted my ankle!\nThis is awful!",
+    "translation": "Ouch! I think I twisted my ankle!\nThis is awful!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0046",
+    "original": "Could this be... A Hamster\nWheel...?\nI get it... I just gotta go for\na spin in it!",
+    "translation": "Could this be... A Hamster\nWheel...?\nI get it... I just gotta go for\na spin in it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0047",
+    "original": "Haaah... That was much better\nexercise than I expected!\nMy speed went up a lot!",
+    "translation": "Haaah... That was much better\nexercise than I expected!\nMy speed went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0048",
+    "original": "This just makes me look stupid!\nI've had enough!",
+    "translation": "This just makes me look stupid!\nI've had enough!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0049",
+    "original": "Oh my, if it isn't a Digimon \nKeychain!\nIt sure looks like fun!\nI think I'll try it out!",
+    "translation": "Oh my, if it isn't a Digimon \nKeychain!\nIt sure looks like fun!\nI think I'll try it out!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0050",
+    "original": "This is so much fun!\nThe best game ever!\nMy Friendship level went up a little",
+    "translation": "This is so much fun!\nThe best game ever!\nMy Friendship level went up a little",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0051",
+    "original": "Jeez, this is difficult!\nBut it's still really fun...",
+    "translation": "Jeez, this is difficult!\nBut it's still really fun...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0052",
+    "original": "Oh my, this is a Mobile Phone!\n\nI'm gonna send some mail to\n^P, so be thankful!",
+    "translation": "Oh my, this is a Mobile Phone!\n\nI'm gonna send some mail to\n^P, so be thankful!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0053",
+    "original": "I received a reply!\nJust as I expected\nMy Friendship level went up a lot!",
+    "translation": "I received a reply!\nJust as I expected\nMy Friendship level went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0054",
+    "original": "I never got a reply...\n^P, you're the worst!",
+    "translation": "I never got a reply...\n^P, you're the worst!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0055",
+    "original": "Oh my, ^P left a \nDigital Camera here!\nThen I'll go ahead and take a \nlittle selfie",
+    "translation": "Oh my, ^P left a \nDigital Camera here!\nThen I'll go ahead and take a \nlittle selfie",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0056",
+    "original": "Perfect! \nMy beauty is also perfection!\nMy Friendship level went up a lot!",
+    "translation": "Perfect! \nMy beauty is also perfection!\nMy Friendship level went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0057",
+    "original": "Hey wait, this Camera's broken!\nWhat the heck?!",
+    "translation": "Hey wait, this Camera's broken!\nWhat the heck?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0058",
+    "original": "No way, could it be...\nThis Flaming Wheel...\nYou want me to give it a go...?\nIf you insist...",
+    "translation": "No way, could it be...\nThis Flaming Wheel...\nYou want me to give it a go...?\nIf you insist...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0059",
+    "original": "Look, I did it!\nThis much was a piece of cake\nMy EXP went up a little",
+    "translation": "Look, I did it!\nThis much was a piece of cake\nMy EXP went up a little",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0060",
+    "original": "Uwah!! E-enough!\nI hate this!!",
+    "translation": "Uwah!! E-enough!\nI hate this!!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0061",
+    "original": "Wait... don't tell me...\n\nYou expect me to cross this\nFiery Road...?",
+    "translation": "Wait... don't tell me...\n\nYou expect me to cross this\nFiery Road...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0062",
+    "original": "How was that?!\nIt was a piece of cake for me!\nMy EXP went up",
+    "translation": "How was that?!\nIt was a piece of cake for me!\nMy EXP went up",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0063",
+    "original": "Whoa! What the-?!\nThis is the worst! Enough!!",
+    "translation": "Whoa! What the-?!\nThis is the worst! Enough!!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0064",
+    "original": "Oh my, aren't these Fireworks...\n\nYou want me to try setting some\noff?",
+    "translation": "Oh my, aren't these Fireworks...\n\nYou want me to try setting some\noff?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0065",
+    "original": "How lovely They're almost as\nbeautiful as me!\nMy EXP went up a lot!",
+    "translation": "How lovely They're almost as\nbeautiful as me!\nMy EXP went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0066",
+    "original": "...They didn't go off?!\nWhat's the meaning of this?!",
+    "translation": "...They didn't go off?!\nWhat's the meaning of this?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0067",
+    "original": "What's up with this massive ball?\n\nYou're saying I'm supposed to\nbalance on top of it?!",
+    "translation": "What's up with this massive ball?\n\nYou're saying I'm supposed to\nbalance on top of it?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0068",
+    "original": "Heh Something like this is\na piece of cake for me\nMy EXP went up a little",
+    "translation": "Heh Something like this is\na piece of cake for me\nMy EXP went up a little",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0069",
+    "original": "I keep falling off!\nThis is so stupid...",
+    "translation": "I keep falling off!\nThis is so stupid...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0070",
+    "original": "Could this be... a Tightrope?\n\nIn other words, I just gotta try\nto balance on it, right?",
+    "translation": "Could this be... a Tightrope?\n\nIn other words, I just gotta try\nto balance on it, right?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0071",
+    "original": "Did you see how elegant my form\nwas while balancing?\nMy EXP went up",
+    "translation": "Did you see how elegant my form\nwas while balancing?\nMy EXP went up",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0072",
+    "original": "What the-?! This rope is too thin,\nand its swaying too much!",
+    "translation": "What the-?! This rope is too thin,\nand its swaying too much!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0073",
+    "original": "I go inside this Circus Tent...\n\nI'll become a super star! \nNo doubt about it!",
+    "translation": "I go inside this Circus Tent...\n\nI'll become a super star! \nNo doubt about it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0074",
+    "original": "Heheh, everyone was entranced by\nmy charm!\nMy EXP went up a lot!",
+    "translation": "Heheh, everyone was entranced by\nmy charm!\nMy EXP went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0075",
+    "original": "Enough of this... it's too difficult\nfor me!",
+    "translation": "Enough of this... it's too difficult\nfor me!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0076",
+    "original": "Oh my, isn't this a Mini-Shower?\n\nThat sounds absolutely perfect\nright about now!",
+    "translation": "Oh my, isn't this a Mini-Shower?\n\nThat sounds absolutely perfect\nright about now!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0077",
+    "original": "Ahh, that was refreshing!\nI feel great!\nMy EXP went up a little",
+    "translation": "Ahh, that was refreshing!\nI feel great!\nMy EXP went up a little",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0078",
+    "original": "Whoa, what the-?!\nI'll freeze at this rate!!",
+    "translation": "Whoa, what the-?!\nI'll freeze at this rate!!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0079",
+    "original": "Isn't this here a Mini-Pond for\nfishing?\nLooks like a good way to kill \nsome time",
+    "translation": "Isn't this here a Mini-Pond for\nfishing?\nLooks like a good way to kill \nsome time",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0080",
+    "original": "Heheh... not even the fish can\nresist my charms!\nMy EXP went up",
+    "translation": "Heheh... not even the fish can\nresist my charms!\nMy EXP went up",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0081",
+    "original": "Nothing's biting...\nI'm bored of this!",
+    "translation": "Nothing's biting...\nI'm bored of this!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0082",
+    "original": "There's even a Large Waterfall\nin a place like this...\nCould it be I could do some\ntraining using it...?",
+    "translation": "There's even a Large Waterfall\nin a place like this...\nCould it be I could do some\ntraining using it...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0083",
+    "original": "Somehow I feel like my mind has\nbeen totally refreshed.\nMy EXP went up a lot!",
+    "translation": "Somehow I feel like my mind has\nbeen totally refreshed.\nMy EXP went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0084",
+    "original": "Whoa! The water's so fierce!\nI can't take this anymore!",
+    "translation": "Whoa! The water's so fierce!\nI can't take this anymore!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0085",
+    "original": "Oh my... I smell something\nreally lovely...\nSeems like its coming from this\nflower...",
+    "translation": "Oh my... I smell something\nreally lovely...\nSeems like its coming from this\nflower...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0086",
+    "original": "Both the shape and smell are lovely.\nJust like me\nMy EXP went up a little",
+    "translation": "Both the shape and smell are lovely.\nJust like me\nMy EXP went up a little",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0087",
+    "original": "Kyah! A bug came out!\nWhat the heck!?",
+    "translation": "Kyah! A bug came out!\nWhat the heck!?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0088",
+    "original": "This is a Treehouse, isn't it?\nLooks like fun!\nI bet it'd be the perfect place for\nme to live!",
+    "translation": "This is a Treehouse, isn't it?\nLooks like fun!\nI bet it'd be the perfect place for\nme to live!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0089",
+    "original": "Just as I thought, this'd make the\nperfect home!\nMy EXP went up a lot!",
+    "translation": "Just as I thought, this'd make the\nperfect home!\nMy EXP went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0090",
+    "original": "It's not as good as I expected...\nThis is no good at all.",
+    "translation": "It's not as good as I expected...\nThis is no good at all.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0091",
+    "original": "There's even a Computer here...\n\nI think I'll try browsing the internet!",
+    "translation": "There's even a Computer here...\n\nI think I'll try browsing the internet!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0092",
+    "original": "Heheh! Computers are such\nsimple machines!\nMy EXP went up a little",
+    "translation": "Heheh! Computers are such\nsimple machines!\nMy EXP went up a little",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0093",
+    "original": "Where's the switch on this thing??\nI don't get this at all!",
+    "translation": "Where's the switch on this thing??\nI don't get this at all!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0094",
+    "original": "Is this a Solar Panel?\n\nHrmmm... what am I supposed to\ndo with this?",
+    "translation": "Is this a Solar Panel?\n\nHrmmm... what am I supposed to\ndo with this?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0095",
+    "original": "What the-? The electricity is \nflowing into me?!\nMy EXP went up",
+    "translation": "What the-? The electricity is \nflowing into me?!\nMy EXP went up",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0096",
+    "original": "W-whoa! What the-?!\nThis thing shocked me!",
+    "translation": "W-whoa! What the-?!\nThis thing shocked me!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0097",
+    "original": "This is a Pinball Machine, isn't it?\n\nI see. I have some time to kill,\nguess I'll give it a try",
+    "translation": "This is a Pinball Machine, isn't it?\n\nI see. I have some time to kill,\nguess I'll give it a try",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0098",
+    "original": "Oh my, that was a lot more fun\nthan I thought it would be!\nMy EXP went up a lot!",
+    "translation": "Oh my, that was a lot more fun\nthan I thought it would be!\nMy EXP went up a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0006_0099",
+    "original": "What's so great about this?\nI don't get it at all...",
+    "translation": "What's so great about this?\nI don't get it at all...",
+    "stage": 1,
+    "context": ""
+  }
+]

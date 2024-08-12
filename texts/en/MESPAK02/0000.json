@@ -1,0 +1,702 @@
+[
+  {
+    "key": "MESPAK02_0000_0000",
+    "original": "Red DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Red DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0001",
+    "original": "Brown DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Brown DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0002",
+    "original": "Pink DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Pink DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0003",
+    "original": "Purple DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Purple DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0004",
+    "original": "Blue DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Blue DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0005",
+    "original": "Grey DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Grey DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0006",
+    "original": "Skyblue DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Skyblue DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0007",
+    "original": "Yellow DigiEgg\r\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\r\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\r\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\r\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\r\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Yellow DigiEgg\\r\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\\r\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\\r\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\\r\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\\r\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0008",
+    "original": "Green DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Green DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0009",
+    "original": "Fever Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Fever Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0010",
+    "original": "Fang Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Fang Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0011",
+    "original": "Holy Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Holy Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0012",
+    "original": "Evil Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Evil Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0013",
+    "original": "Sea Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Sea Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0014",
+    "original": "Mecha Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Mecha Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0015",
+    "original": "Sky Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Sky Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0016",
+    "original": "Bug Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Bug Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0017",
+    "original": "Forest Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Forest Spotted Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0018",
+    "original": "Dragon DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Dragon DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0019",
+    "original": "Beast DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Beast DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0020",
+    "original": "Holy DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Holy DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0021",
+    "original": "Dark DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Dark DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0022",
+    "original": "Water DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Water DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0023",
+    "original": "Machine DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Machine DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0024",
+    "original": "Bird DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Bird DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0025",
+    "original": "Bug DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Bug DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0026",
+    "original": "Grass DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Grass DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0027",
+    "original": "Dragon's Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Dragon's Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0028",
+    "original": "Nature Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Nature Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0029",
+    "original": "Busters Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Busters Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0030",
+    "original": "Nightmare Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Nightmare Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0031",
+    "original": "Deep Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Deep Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0032",
+    "original": "Metal Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Metal Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0033",
+    "original": "Wind Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Wind Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0034",
+    "original": "Insect Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Insect Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0035",
+    "original": "Jungle Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Jungle Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0036",
+    "original": "High-Drago Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "High-Drago Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0037",
+    "original": "Royal Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Royal Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0038",
+    "original": "Paladin Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Paladin Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0039",
+    "original": "Kaizer Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Kaizer Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0040",
+    "original": "Protector Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Protector Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0041",
+    "original": "Sun-Moon Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Sun-Moon Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0042",
+    "original": "Prayer DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Prayer DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0043",
+    "original": "Spirit DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Spirit DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0044",
+    "original": "Demon Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Demon Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0045",
+    "original": "Chaos Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Chaos Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0046",
+    "original": "Mummymon Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Mummymon Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0047",
+    "original": "Aqua Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Aqua Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0048",
+    "original": "Steel DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Steel DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0049",
+    "original": "Space-Time DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Space-Time DigiEgg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0050",
+    "original": "Rainbow Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Rainbow Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0051",
+    "original": "Chrono Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Chrono Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0052",
+    "original": "Beetle Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Beetle Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0053",
+    "original": "Beauty Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "translation": "Beauty Egg\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７\n１２３４５６７８９０１２３４５６７８９０１２３４５６７",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0054",
+    "original": "This Digimon takes on the appearance of a small\nchick. Though it's still physically weak and unable to\nhold its own in a fight, it's still an In-Training level\nDigimon and so it is easy to predict what it will\nDigivolve into.",
+    "translation": "This Digimon takes on the appearance of a small\nchick. Though it's still physically weak and unable to\nhold its own in a fight, it's still an In-Training level\nDigimon and so it is easy to predict what it will\nDigivolve into.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0055",
+    "original": "Just like other Dragon Digimon, despite its small\nstature, it's full of energy. It's body has become\nlarger, and its fine, downy hair has fallen out.",
+    "translation": "Just like other Dragon Digimon, despite its small\nstature, it's full of energy. It's body has become\nlarger, and its fine, downy hair has fallen out.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0056",
+    "original": "This small Digimon is covered in a coat of flowing long\nhair and possesses a tough horn atop its head. It is\nquite mischievous, but isn't suited for battle yet.",
+    "translation": "This small Digimon is covered in a coat of flowing long\nhair and possesses a tough horn atop its head. It is\nquite mischievous, but isn't suited for battle yet.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0057",
+    "original": "This Digimon's body is completely translucent, and it\ndrifts about the Net Ocean like a jellyfish. Scholars \nstudying Digimon consider it the 'Missing Link', the \nkey to solving the mystery of the origin of Digimon.",
+    "translation": "This Digimon's body is completely translucent, and it\ndrifts about the Net Ocean like a jellyfish. Scholars \nstudying Digimon consider it the 'Missing Link', the \nkey to solving the mystery of the origin of Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0058",
+    "original": "This tiny Digimon has grown limb-like protrusions from\nits lower body, which is quite a rare occurrence for\nIn-training level Digimon. It's round, chubby body is\nconsidered very cute.",
+    "translation": "This tiny Digimon has grown limb-like protrusions from\nits lower body, which is quite a rare occurrence for\nIn-training level Digimon. It's round, chubby body is\nconsidered very cute.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0059",
+    "original": "This small Digimon with leaves sprouting from its head\npossesses a timid personality and dislikes fighting.\nWhen it senses danger, it will bury itself in the dirt to\nhide using its clawed feet.",
+    "translation": "This small Digimon with leaves sprouting from its head\npossesses a timid personality and dislikes fighting.\nWhen it senses danger, it will bury itself in the dirt to\nhide using its clawed feet.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0060",
+    "original": "This is a Digimon that loves mischief, as expected of\nan In-Training level Digimon part of the Virus\ncategory. It has a cynical personality, and its large\nhand-like ears can even be used to fly.",
+    "translation": "This is a Digimon that loves mischief, as expected of\nan In-Training level Digimon part of the Virus\ncategory. It has a cynical personality, and its large\nhand-like ears can even be used to fly.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0061",
+    "original": "This small Digimon wears a metal helmet on its head,\nwhich gives it superior defensive capabilities in\ncomparison to other In-Training Digimon. It is a\nbat-like Digimon that is able to maneuver even in\npitch darkness by using sonar waves.",
+    "translation": "This small Digimon wears a metal helmet on its head,\nwhich gives it superior defensive capabilities in\ncomparison to other In-Training Digimon. It is a\nbat-like Digimon that is able to maneuver even in\npitch darkness by using sonar waves.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0062",
+    "original": "This mysterious Digimon suddenly appeared on the\nComputer Network and is said to have been born from\nan egg filled with humanity's malice. It is able to\nmultiply like a virus and will destroy any network it\ncomes across.",
+    "translation": "This mysterious Digimon suddenly appeared on the\nComputer Network and is said to have been born from\nan egg filled with humanity's malice. It is able to\nmultiply like a virus and will destroy any network it\ncomes across.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0063",
+    "original": "Because this Digimon is rumored to bring happiness,\nit is an extremely popular choice amongst Tamers.\nDespite its cute exterior, it had a mischievous side,\nthough Tamers say that's part of its charm.",
+    "translation": "Because this Digimon is rumored to bring happiness,\nit is an extremely popular choice amongst Tamers.\nDespite its cute exterior, it had a mischievous side,\nthough Tamers say that's part of its charm.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0064",
+    "original": "While this Digimon is small and weak, it has the\npotential to Digivolve into a variety of different\nDragon Digimon. Because of this, it is considered\nextremely valuable by researchers and Tamers.",
+    "translation": "While this Digimon is small and weak, it has the\npotential to Digivolve into a variety of different\nDragon Digimon. Because of this, it is considered\nextremely valuable by researchers and Tamers.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0065",
+    "original": "This Digimon possesses a reckless personality, and\nwill stand up against any threat despite its small\nsize. While this causes it to be difficult to tame,\nit is a preferred choice by Tamers who pride\nthemselves in battle.",
+    "translation": "This Digimon possesses a reckless personality, and\nwill stand up against any threat despite its small\nsize. While this causes it to be difficult to tame,\nit is a preferred choice by Tamers who pride\nthemselves in battle.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0066",
+    "original": "This Digimon is the embodiment of the power of\nDigivolution, and because of that, it is often\nreferred to as the 'Digi-Entelechy'. Due to this\nreputation, it is said to have the power to help other\nDigimon Digivolve.",
+    "translation": "This Digimon is the embodiment of the power of\nDigivolution, and because of that, it is often\nreferred to as the 'Digi-Entelechy'. Due to this\nreputation, it is said to have the power to help other\nDigimon Digivolve.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0067",
+    "original": "Though small in side, this In-Training Dragon Digimon\npossesses legs, a tail, and even small wings on its\nhead. It has an aggressive personality, and as such,\nTamers are advised to handle it with caution.",
+    "translation": "Though small in side, this In-Training Dragon Digimon\npossesses legs, a tail, and even small wings on its\nhead. It has an aggressive personality, and as such,\nTamers are advised to handle it with caution.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0068",
+    "original": "This Digimon is extremely active, but is still able to\nget along well with its more timid Twin, Kokomon.\nThe pair are always seen together, and while they\nmay look very similar, Gummymon is green and has\nonly a single horn atop its head.",
+    "translation": "This Digimon is extremely active, but is still able to\nget along well with its more timid Twin, Kokomon.\nThe pair are always seen together, and while they\nmay look very similar, Gummymon is green and has\nonly a single horn atop its head.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0069",
+    "original": "This rough Digimon has the destructive ability to not\nonly ruin data, but entire networks with incredible\nspeed. Due to its superior speed, it is extremely\ndifficult to catch, and its single eye radiates an\neerie light.",
+    "translation": "This rough Digimon has the destructive ability to not\nonly ruin data, but entire networks with incredible\nspeed. Due to its superior speed, it is extremely\ndifficult to catch, and its single eye radiates an\neerie light.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0070",
+    "original": "This Digimon has a quiet personality, and wears a\ntough shell made from straw to protect itself. It\ntravels by hanging onto bigger Digimon using the\nvines that protrude from its head.",
+    "translation": "This Digimon has a quiet personality, and wears a\ntough shell made from straw to protect itself. It\ntravels by hanging onto bigger Digimon using the\nvines that protrude from its head.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0071",
+    "original": "This Digimon's speed is its strong point, and because\nof that, Tamers must be sure not to let it run off\nrecklessly. It was created by fusing the data of\ncommonly kept pets such as cats and dogs, and\nbecause of this, it becomes attached to any Tamer\nthat treats it well.",
+    "translation": "This Digimon's speed is its strong point, and because\nof that, Tamers must be sure not to let it run off\nrecklessly. It was created by fusing the data of\ncommonly kept pets such as cats and dogs, and\nbecause of this, it becomes attached to any Tamer\nthat treats it well.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0072",
+    "original": "This Digimon has the appearance of a flower bud,\nas it was created by fusing the data of several\npoisonous plants. It peacefully floats around, riding\nthe wind using a leaf, and while it won't initiate an\nattack, it will defend itself with its sharp thorns.",
+    "translation": "This Digimon has the appearance of a flower bud,\nas it was created by fusing the data of several\npoisonous plants. It peacefully floats around, riding\nthe wind using a leaf, and while it won't initiate an\nattack, it will defend itself with its sharp thorns.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0073",
+    "original": "This newly-born Digimon is covered in black\nvelvet-like hairs and its body is extremely soft.",
+    "translation": "This newly-born Digimon is covered in black\nvelvet-like hairs and its body is extremely soft.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0074",
+    "original": "This Digimon's form imitates the sun, and a gentle\nflame flickers atop its head. It tends to float around\nin the air, and possesses a happy-go-lucky\npersonality.",
+    "translation": "This Digimon's form imitates the sun, and a gentle\nflame flickers atop its head. It tends to float around\nin the air, and possesses a happy-go-lucky\npersonality.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0075",
+    "original": "This Digimon has a translucent body shaped like a\nwater droplet with cute flushed cheeks. It possesses\na pure heart, and because of this, it is easily\naffected by the personality of its Tamer.",
+    "translation": "This Digimon has a translucent body shaped like a\nwater droplet with cute flushed cheeks. It possesses\na pure heart, and because of this, it is easily\naffected by the personality of its Tamer.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0076",
+    "original": "Despite its small size, this purple dragon Digimon\nloves to fight. It's full of energy, and will stand up to\nany enemy regardless of strength, attacking fiercely\nwith sharp claws. It is often heard shouting\ndeclarations of battle at anyone that annoys it.",
+    "translation": "Despite its small size, this purple dragon Digimon\nloves to fight. It's full of energy, and will stand up to\nany enemy regardless of strength, attacking fiercely\nwith sharp claws. It is often heard shouting\ndeclarations of battle at anyone that annoys it.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0077",
+    "original": "This reptilian Digimon has developed the ability to\nwalk on two legs. It has a stubborn personality and\nwill stand up against any enemy, using its sharp\nclaws and fiery 'Pepper Breath' shot from its mouth.",
+    "translation": "This reptilian Digimon has developed the ability to\nwalk on two legs. It has a stubborn personality and\nwill stand up against any enemy, using its sharp\nclaws and fiery 'Pepper Breath' shot from its mouth.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0078",
+    "original": "This Digimon is thought to have descended from a\nspecies that flourishes during the time of the Digital\nWorld's creation. It is an energetic Digimon with a\npure heart, and the ability to 'Armor Digivolve' using\nthe power of a 'Digi-Egg'.",
+    "translation": "This Digimon is thought to have descended from a\nspecies that flourishes during the time of the Digital\nWorld's creation. It is an energetic Digimon with a\npure heart, and the ability to 'Armor Digivolve' using\nthe power of a 'Digi-Egg'.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0079",
+    "original": "This Rookie Digimon is part of the Dragon family and \nhas the potential to become a 'Combat Species' in the \nfuture. It has the 'Digital Hazard' label, indicating its \npotential to cause significant damage to data.\nHowever, if used for peace, its untapped power\ncould become a tool for protecting the world.",
+    "translation": "This Rookie Digimon is part of the Dragon family and \nhas the potential to become a 'Combat Species' in the \nfuture. It has the 'Digital Hazard' label, indicating its \npotential to cause significant damage to data.\nHowever, if used for peace, its untapped power\ncould become a tool for protecting the world.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0080",
+    "original": "Due to the outdated 'Interface' located on its\nforehead, many believe that this Digimon was an\nexperimental 'Prototype'. It possesses a high combat\ninstinct, and it feels an instant sense of attachment\nto whatever it bites. This mysterious Digimon has the\npotential to grow into something incredible.",
+    "translation": "Due to the outdated 'Interface' located on its\nforehead, many believe that this Digimon was an\nexperimental 'Prototype'. It possesses a high combat\ninstinct, and it feels an instant sense of attachment\nto whatever it bites. This mysterious Digimon has the\npotential to grow into something incredible.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0081",
+    "original": "This Amphibian Digimon walks around on four legs,\nand though its personality is quite timid, if it is\nangered, it will lash out with an electrical shock.",
+    "translation": "This Amphibian Digimon walks around on four legs,\nand though its personality is quite timid, if it is\nangered, it will lash out with an electrical shock.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0082",
+    "original": "This shy Digimon wears a fur coat made from\nleftover Data from Garurumon in order to protect\nitself. Though it is generally quite timid, wearing its\nfur coat helps it become bold and tough.",
+    "translation": "This shy Digimon wears a fur coat made from\nleftover Data from Garurumon in order to protect\nitself. Though it is generally quite timid, wearing its\nfur coat helps it become bold and tough.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0083",
+    "original": "This Mammal Digimon possesses particularly large\nears that look more like wings, and while it is able to\nuse them to fly, it can only travel at 1km/h, thus it is\nfaster for it to just walk. It has the mysterious\nability to 'Armor Digivolve' using the power of a\n'Digi-Egg'.",
+    "translation": "This Mammal Digimon possesses particularly large\nears that look more like wings, and while it is able to\nuse them to fly, it can only travel at 1km/h, thus it is\nfaster for it to just walk. It has the mysterious\nability to 'Armor Digivolve' using the power of a\n'Digi-Egg'.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0084",
+    "original": "This chick-like Digimon's wings have evolved into\narms, which while it can use them to fly, it is no\nbetter than Patamon. Due to this, it tends to live on\nthe land, only flying when it senses danger. It dreams\nof flying in the wide open sky one day.",
+    "translation": "This chick-like Digimon's wings have evolved into\narms, which while it can use them to fly, it is no\nbetter than Patamon. Due to this, it tends to live on\nthe land, only flying when it senses danger. It dreams\nof flying in the wide open sky one day.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0085",
+    "original": "This Digimon has a large tropical flower growing from\nits head, it's said that this flower changes its\nfragrance depending on its mood. When in a good\nmood, the flower will emit a pleasant sweet smell,\nbut when angry, it emits an intense odor that causes\neven bigger Digimon to flee.",
+    "translation": "This Digimon has a large tropical flower growing from\nits head, it's said that this flower changes its\nfragrance depending on its mood. When in a good\nmood, the flower will emit a pleasant sweet smell,\nbut when angry, it emits an intense odor that causes\neven bigger Digimon to flee.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0086",
+    "original": "This original type of Insect Digimon possesses a hard\nshell and long sharp claws. It loves nature and has a\nvery carefree personality, and while many Insect\nDigimon tend to be aggressive, this Digimon is quite\nkind.",
+    "translation": "This original type of Insect Digimon possesses a hard\nshell and long sharp claws. It loves nature and has a\nvery carefree personality, and while many Insect\nDigimon tend to be aggressive, this Digimon is quite\nkind.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0087",
+    "original": "This Digimon covers itself in mineral data in order to\nfortify its defences. The type of mineral data varies\ndepending on the location and condition of where it is\nobtained.",
+    "translation": "This Digimon covers itself in mineral data in order to\nfortify its defences. The type of mineral data varies\ndepending on the location and condition of where it is\nobtained.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0088",
+    "original": "This seal-like Digimon has evolved the ability to live\non the land as well as in the ocean. Its entire body is\ncovered in thick warm fur that continues to grow\nthroughout its lifetime. As it grows older, the fur\nchanges color from pure white to brown.",
+    "translation": "This seal-like Digimon has evolved the ability to live\non the land as well as in the ocean. Its entire body is\ncovered in thick warm fur that continues to grow\nthroughout its lifetime. As it grows older, the fur\nchanges color from pure white to brown.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0089",
+    "original": "This small bat-like Digimon is said to have been the\none to tempt the originally Angel type Devimon down\nthe path of evil. This Digimon is crafty and wherever\nit goes, bad luck is sure to follow. It dislikes direct\nbattle, and prefers to hide in the background and\nattack from a safe distance.",
+    "translation": "This small bat-like Digimon is said to have been the\none to tempt the originally Angel type Devimon down\nthe path of evil. This Digimon is crafty and wherever\nit goes, bad luck is sure to follow. It dislikes direct\nbattle, and prefers to hide in the background and\nattack from a safe distance.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0090",
+    "original": "A Digimon that was originally created by a child trying\nto re-created Agumon, it possesses a keen sense of\njustice, despite its timid personality. It tends to fall\nto pieces when startled, and loves communicating\nwith children through the internet.",
+    "translation": "A Digimon that was originally created by a child trying\nto re-created Agumon, it possesses a keen sense of\njustice, despite its timid personality. It tends to fall\nto pieces when startled, and loves communicating\nwith children through the internet.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0091",
+    "original": "This gear-shaped Digimon's body is crammed full of\ngears, and if even just one gets jammed, it will cease\nto function. It is able to send a virus into other\nDigimon's bodies with a Black Gear and control them.",
+    "translation": "This gear-shaped Digimon's body is crammed full of\ngears, and if even just one gets jammed, it will cease\nto function. It is able to send a virus into other\nDigimon's bodies with a Black Gear and control them.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0092",
+    "original": "This Digimon was created by a Digimon researcher as\nan experiment. Though it is a Holy Digimon, it has yet\nto awaken to its mission as a 'Virus Buster', and\nbecause of this, depending on how it is raised, it\ncould become good or evil.",
+    "translation": "This Digimon was created by a Digimon researcher as\nan experiment. Though it is a Holy Digimon, it has yet\nto awaken to its mission as a 'Virus Buster', and\nbecause of this, depending on how it is raised, it\ncould become good or evil.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0093",
+    "original": "This small larval Digimon is incredibly kind hearted,\nand while it's unable to match up against bigger\nDigimon, once it 'Armor Digivolves', it gains access to\nincredible power.",
+    "translation": "This small larval Digimon is incredibly kind hearted,\nand while it's unable to match up against bigger\nDigimon, once it 'Armor Digivolves', it gains access to\nincredible power.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0094",
+    "original": "This bird Digimon possesses proper manners and is\nalways polite to others. Due to being a descendant\nof an ancient species, it has the ability to 'Armor\nDigivolve' using the power of a 'Digi-Egg'.",
+    "translation": "This bird Digimon possesses proper manners and is\nalways polite to others. Due to being a descendant\nof an ancient species, it has the ability to 'Armor\nDigivolve' using the power of a 'Digi-Egg'.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0095",
+    "original": "This Mammal Digimon wears a tough shell to protect\nitself from attacks. Due to being a descendant of an\nancient species, it has the ability to 'Armor Digivolve'\nusing the power of a 'Digi-Egg'.",
+    "translation": "This Mammal Digimon wears a tough shell to protect\nitself from attacks. Due to being a descendant of an\nancient species, it has the ability to 'Armor Digivolve'\nusing the power of a 'Digi-Egg'.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0096",
+    "original": "Part of a pair of twin Digimon, this Digimon has only a\nsingle horn on its head. While its personality isn't the\nmost intimidating, once it is engaged in battle, it\nshows incredible power.",
+    "translation": "Part of a pair of twin Digimon, this Digimon has only a\nsingle horn on its head. While its personality isn't the\nmost intimidating, once it is engaged in battle, it\nshows incredible power.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0097",
+    "original": "Part of a pair of twin Digimon, this Digimon has three\nhorns atop its head. Its personality is the complete\nopposite of Terriermon, being more of a needy\ncrybaby. Despite this, when push comes to shove,\njust like Terriermon, it shows incredible power.",
+    "translation": "Part of a pair of twin Digimon, this Digimon has three\nhorns atop its head. Its personality is the complete\nopposite of Terriermon, being more of a needy\ncrybaby. Despite this, when push comes to shove,\njust like Terriermon, it shows incredible power.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0098",
+    "original": "This Digimon possesses incredible potential if its\nability is properly cultivated by a skilled Tamer from\nthe In-Training level. It relies much more on speed\nthan power during battle.",
+    "translation": "This Digimon possesses incredible potential if its\nability is properly cultivated by a skilled Tamer from\nthe In-Training level. It relies much more on speed\nthan power during battle.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK02_0000_0099",
+    "original": "This child-like Digimon is seen as a troublesome devil\nchild, as it loves to play pranks and cause mischief.\nIt will never back down to a stronger opponent due to\nits prideful personality and distaste towards losing.\nDespite this, truth be told, it has a lonely side to it.",
+    "translation": "This child-like Digimon is seen as a troublesome devil\nchild, as it loves to play pranks and cause mischief.\nIt will never back down to a stronger opponent due to\nits prideful personality and distaste towards losing.\nDespite this, truth be told, it has a lonely side to it.",
+    "stage": 1,
+    "context": ""
+  }
+]

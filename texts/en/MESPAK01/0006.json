@@ -1,0 +1,555 @@
+[
+  {
+    "key": "MESPAK01_0006_0000",
+    "original": "Close DigiReport?",
+    "translation": "Close DigiReport?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0001",
+    "original": "Close",
+    "translation": "Close",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0002",
+    "original": "Don't close",
+    "translation": "Don't close",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0003",
+    "original": "Party",
+    "translation": "Party",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0004",
+    "original": "DigiBank",
+    "translation": "DigiBank",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0005",
+    "original": "Expedition Team",
+    "translation": "Expedition Team",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0006",
+    "original": "All Digimon",
+    "translation": "All Digimon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0007",
+    "original": "Group",
+    "translation": "Group",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0008",
+    "original": "Level",
+    "translation": "Level",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0009",
+    "original": "Species",
+    "translation": "Species",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0010",
+    "original": "Name",
+    "translation": "Name",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0011",
+    "original": "Sorting Options",
+    "translation": "Sorting Options",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0012",
+    "original": "Sort by Group",
+    "translation": "Sort by Group",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0013",
+    "original": "Sort by Level",
+    "translation": "Sort by Level",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0014",
+    "original": "Sort by Species",
+    "translation": "Sort by Species",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0015",
+    "original": "Sort by Name",
+    "translation": "Sort by Name",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0016",
+    "original": "Close Menu",
+    "translation": "Close Menu",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0017",
+    "original": "Move Digimon",
+    "translation": "Move Digimon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0018",
+    "original": "Check your Digimon's Information",
+    "translation": "Check your Digimon's Information",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0019",
+    "original": "Convert into Scan Data",
+    "translation": "Convert into Scan Data",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0020",
+    "original": "Erase Data",
+    "translation": "Erase Data",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0021",
+    "original": "Cancel training",
+    "translation": "Cancel training",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0022",
+    "original": "Cannot move a Digimon that is \ntraining.",
+    "translation": "Cannot move a Digimon that is \ntraining.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0023",
+    "original": "Cannot remove the last Digimon \nfrom the party.",
+    "translation": "Cannot remove the last Digimon \nfrom the party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0024",
+    "original": "Cannot move a Quest client \nDigimon.",
+    "translation": "Cannot move a Quest client \nDigimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0025",
+    "original": "Cannot move a Digimon that is \ncurrently assigned a Task.",
+    "translation": "Cannot move a Digimon that is \ncurrently assigned a Task.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0026",
+    "original": "Cannot move a DigiEgg into the \nparty.",
+    "translation": "Cannot move a DigiEgg into the \nparty.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0027",
+    "original": "Cannot add a DigiEgg to the \nExpedition Party.",
+    "translation": "Cannot add a DigiEgg to the \nExpedition Party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0028",
+    "original": "Digimon is already in the DigiBank.",
+    "translation": "Digimon is already in the DigiBank.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0029",
+    "original": "Cannot move within the same \nFarm Island.",
+    "translation": "Cannot move within the same \nFarm Island.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0030",
+    "original": "Cannot exchange a Digimon that \nis currently training.",
+    "translation": "Cannot exchange a Digimon that \nis currently training.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0031",
+    "original": "Digimon is already in the Party.",
+    "translation": "Digimon is already in the Party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0032",
+    "original": "Cannot exchange a Party Digimon \nfor a DigiEgg.",
+    "translation": "Cannot exchange a Party Digimon \nfor a DigiEgg.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0033",
+    "original": "Cannot move within the same \nFarm Island.",
+    "translation": "Cannot move within the same \nFarm Island.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0034",
+    "original": "Cannot move a currently training \nDigimon into the Party.",
+    "translation": "Cannot move a currently training \nDigimon into the Party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0035",
+    "original": "Cannot exchange Quest Client \nDigimon.",
+    "translation": "Cannot exchange Quest Client \nDigimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0036",
+    "original": "Cannot exchange a Digimon \ncurrently assigned a Task.",
+    "translation": "Cannot exchange a Digimon \ncurrently assigned a Task.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0037",
+    "original": "Digimon is already in the \nExpedition Party.",
+    "translation": "Digimon is already in the \nExpedition Party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0038",
+    "original": "Cannot move a currently training \nDigimon into the Party.",
+    "translation": "Cannot move a currently training \nDigimon into the Party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0039",
+    "original": "Cannot exchange an Expedition \nParty Digimon for a DigiEgg.",
+    "translation": "Cannot exchange an Expedition \nParty Digimon for a DigiEgg.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0040",
+    "original": "Move this Digimon?",
+    "translation": "Move this Digimon?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0041",
+    "original": "Move",
+    "translation": "Move",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0042",
+    "original": "Don't move",
+    "translation": "Don't move",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0043",
+    "original": "This Digimon's equipment will be \nremoved, is this OK?",
+    "translation": "This Digimon's equipment will be \nremoved, is this OK?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0044",
+    "original": "Yes",
+    "translation": "Yes",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0045",
+    "original": "I changed my mind",
+    "translation": "I changed my mind",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0046",
+    "original": "Digimon was moved.",
+    "translation": "Digimon was moved.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0047",
+    "original": "Finished moving Digimon?",
+    "translation": "Finished moving Digimon?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0048",
+    "original": "I'm done",
+    "translation": "I'm done",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0049",
+    "original": "Wait",
+    "translation": "Wait",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0050",
+    "original": "All Farms",
+    "translation": "All Farms",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0051",
+    "original": "Erase DigiEgg? \n「^0」",
+    "translation": "Erase DigiEgg? \n「^0」",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0052",
+    "original": "Erase",
+    "translation": "Erase",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0053",
+    "original": "Don't erase",
+    "translation": "Don't erase",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0054",
+    "original": "DigiEgg will be erased, is that OK?",
+    "translation": "DigiEgg will be erased, is that OK?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0055",
+    "original": "You will not be able to recover the \nDigiEgg, are you absolutely sure?",
+    "translation": "You will not be able to recover the \nDigiEgg, are you absolutely sure?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0056",
+    "original": "DigiEgg erased. \n「^0」",
+    "translation": "DigiEgg erased. \n「^0」",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0057",
+    "original": "Cannot convert Quest Client \nDigimon to Scan Data.",
+    "translation": "Cannot convert Quest Client \nDigimon to Scan Data.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0058",
+    "original": "Cannot convert Digimon assigned \na Task to Scan Data.",
+    "translation": "Cannot convert Digimon assigned \na Task to Scan Data.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0059",
+    "original": "Cannot convert Party Digimon to \nScan Data.",
+    "translation": "Cannot convert Party Digimon to \nScan Data.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0060",
+    "original": "Convert ^0 to \nScan Data?",
+    "translation": "Convert ^0 to \nScan Data?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0061",
+    "original": "Convert",
+    "translation": "Convert",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0062",
+    "original": "Don't convert",
+    "translation": "Don't convert",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0063",
+    "original": "Digimon will be converted, \nis that OK?",
+    "translation": "Digimon will be converted, \nis that OK?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0064",
+    "original": "You will not be able to recover \nthe Digimon, are you sure?",
+    "translation": "You will not be able to recover \nthe Digimon, are you sure?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0065",
+    "original": "\n^0 was converted to \nScan Data. \n",
+    "translation": "\n^0 was converted to \nScan Data. \n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0066",
+    "original": "Training will be cancelled, \nis that OK?",
+    "translation": "Training will be cancelled, \nis that OK?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0067",
+    "original": "Friends Digimon will be returned, \nis that OK?",
+    "translation": "Friends Digimon will be returned, \nis that OK?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0068",
+    "original": "Their training results will also be \ncancelled, is that OK?",
+    "translation": "Their training results will also be \ncancelled, is that OK?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0069",
+    "original": "Training cancelled! Friend’s Digimon \nwas returned.",
+    "translation": "Training cancelled! Friend’s Digimon \nwas returned.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0070",
+    "original": "Cannot match DigiEgg.",
+    "translation": "Cannot match DigiEgg.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0071",
+    "original": "Match 「^0」 with　「^1」?",
+    "translation": "Match 「^0」 with　「^1」?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0072",
+    "original": "This is fine",
+    "translation": "This is fine",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0073",
+    "original": "I changed my mind",
+    "translation": "I changed my mind",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0074",
+    "original": "EXP obtained in 1d:",
+    "translation": "EXP obtained in 1d:",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0075",
+    "original": "Varies (Battle)",
+    "translation": "Varies (Battle)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0076",
+    "original": "^0 EXP",
+    "translation": "^0 EXP",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0077",
+    "original": "Varies (Expedition)",
+    "translation": "Varies (Expedition)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0006_0078",
+    "original": "None",
+    "translation": "None",
+    "stage": 1,
+    "context": ""
+  }
+]

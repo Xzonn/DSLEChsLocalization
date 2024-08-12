@@ -1,0 +1,1402 @@
+[
+  {
+    "key": "MESPAK03_0009_0000",
+    "original": "We have nothing to worry about,\n^P. We know you can do it!",
+    "translation": "We have nothing to worry about,\n^P. We know you can do it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0001",
+    "original": "Oh my, even you fall down \nsometimes, huh, ^P?\nGood luck, and try not to be\ntoo reckless out there♪",
+    "translation": "Oh my, even you fall down \nsometimes, huh, ^P?\nGood luck, and try not to be\ntoo reckless out there♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0002",
+    "original": "Do you want to take a rest?",
+    "translation": "Do you want to take a rest?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0003",
+    "original": "I'd like to rest",
+    "translation": "I'd like to rest",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0004",
+    "original": "I won't rest",
+    "translation": "I won't rest",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0005",
+    "original": "Your Digimon's HP and MP were\nfully restored!",
+    "translation": "Your Digimon's HP and MP were\nfully restored!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0006",
+    "original": "Your Digimon's HP and MP were\nfully restored!\n",
+    "translation": "Your Digimon's HP and MP were\nfully restored!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0007",
+    "original": "Do you want to take a rest?\n",
+    "translation": "Do you want to take a rest?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0008",
+    "original": "I'd like to rest",
+    "translation": "I'd like to rest",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0009",
+    "original": "I won't rest",
+    "translation": "I won't rest",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0010",
+    "original": "Your Digimon's HP and MP were\nfully restored!",
+    "translation": "Your Digimon's HP and MP were\nfully restored!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0011",
+    "original": "Your Digimon's HP and MP were\nfully restored!",
+    "translation": "Your Digimon's HP and MP were\nfully restored!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0012",
+    "original": "It'll cost 300 bits to recover,\nis that okay?",
+    "translation": "It'll cost 300 bits to recover,\nis that okay?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0013",
+    "original": "Recover",
+    "translation": "Recover",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0014",
+    "original": "Don't recover",
+    "translation": "Don't recover",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0015",
+    "original": "You don't have enough bits!",
+    "translation": "You don't have enough bits!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0016",
+    "original": "That's too bad. Come back again\nwhen you have enough.",
+    "translation": "That's too bad. Come back again\nwhen you have enough.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0017",
+    "original": "Okay! Here goes!",
+    "translation": "Okay! Here goes!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0018",
+    "original": "Your Digimon's HP and MP were\nfully restored!",
+    "translation": "Your Digimon's HP and MP were\nfully restored!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0019",
+    "original": "Your Digimon's HP and MP were\nfully restored!",
+    "translation": "Your Digimon's HP and MP were\nfully restored!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0020",
+    "original": "Thank you for your patronage!\nPlease come again!",
+    "translation": "Thank you for your patronage!\nPlease come again!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0021",
+    "original": "It'll cost 300 bits to recover,\nis that okay?",
+    "translation": "It'll cost 300 bits to recover,\nis that okay?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0022",
+    "original": "Recover",
+    "translation": "Recover",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0023",
+    "original": "Don't recover",
+    "translation": "Don't recover",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0024",
+    "original": "You don't have enough bits!",
+    "translation": "You don't have enough bits!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0025",
+    "original": "That's too bad. Come back again\nwhen you have enough.",
+    "translation": "That's too bad. Come back again\nwhen you have enough.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0026",
+    "original": "Okay! Here goes!",
+    "translation": "Okay! Here goes!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0027",
+    "original": "Your Digimon's HP and MP were\nfully restored!",
+    "translation": "Your Digimon's HP and MP were\nfully restored!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0028",
+    "original": "Your Digimon's HP and MP were\nfully restored!",
+    "translation": "Your Digimon's HP and MP were\nfully restored!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0029",
+    "original": "Thank you for your patronage!\nPlease come again!",
+    "translation": "Thank you for your patronage!\nPlease come again!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0030",
+    "original": "It'll cost 300 bits to recover,\nis that okay?",
+    "translation": "It'll cost 300 bits to recover,\nis that okay?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0031",
+    "original": "Recover",
+    "translation": "Recover",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0032",
+    "original": "Don't recover",
+    "translation": "Don't recover",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0033",
+    "original": "You don't have enough bits!",
+    "translation": "You don't have enough bits!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0034",
+    "original": "That's too bad. Come back again\nwhen you have enough.",
+    "translation": "That's too bad. Come back again\nwhen you have enough.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0035",
+    "original": "Okay! Here goes!",
+    "translation": "Okay! Here goes!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0036",
+    "original": "Your Digimon's HP and MP were\nfully restored!",
+    "translation": "Your Digimon's HP and MP were\nfully restored!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0037",
+    "original": "Your Digimon's HP and MP were\nfully restored!",
+    "translation": "Your Digimon's HP and MP were\nfully restored!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0038",
+    "original": "Thank you for your patronage!\nPlease come again!",
+    "translation": "Thank you for your patronage!\nPlease come again!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0039",
+    "original": "It'll cost 300 bits to recover,\nis that okay?",
+    "translation": "It'll cost 300 bits to recover,\nis that okay?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0040",
+    "original": "Recover",
+    "translation": "Recover",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0041",
+    "original": "Don't recover",
+    "translation": "Don't recover",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0042",
+    "original": "You don't have enough bits!",
+    "translation": "You don't have enough bits!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0043",
+    "original": "That's too bad. Come back again\nwhen you have enough.",
+    "translation": "That's too bad. Come back again\nwhen you have enough.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0044",
+    "original": "Okay! Here goes!",
+    "translation": "Okay! Here goes!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0045",
+    "original": "Your Digimon's HP and MP were\nfully restored!",
+    "translation": "Your Digimon's HP and MP were\nfully restored!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0046",
+    "original": "Your Digimon's HP and MP were\nfully restored!",
+    "translation": "Your Digimon's HP and MP were\nfully restored!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0047",
+    "original": "Thank you for your patronage!\nPlease come again!",
+    "translation": "Thank you for your patronage!\nPlease come again!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0048",
+    "original": "You do not have a Digimon with \nthe skill 'Bulldoze' in your party.",
+    "translation": "You do not have a Digimon with \nthe skill 'Bulldoze' in your party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0049",
+    "original": "You used the 'Bulldoze' skill!",
+    "translation": "You used the 'Bulldoze' skill!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0050",
+    "original": "You do not have a Digimon with \nthe skill 'Bulldoze' in your party.\n",
+    "translation": "You do not have a Digimon with \nthe skill 'Bulldoze' in your party.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0051",
+    "original": "You used the 'Bulldoze' skill!",
+    "translation": "You used the 'Bulldoze' skill!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0052",
+    "original": "You do not have a Digimon with \nthe skill 'Tree Cut' in your party.",
+    "translation": "You do not have a Digimon with \nthe skill 'Tree Cut' in your party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0053",
+    "original": "You used the 'Tree Cut' skill!\n",
+    "translation": "You used the 'Tree Cut' skill!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0054",
+    "original": "You do not have a Digimon with \nthe skill 'Tree Cut' in your party.",
+    "translation": "You do not have a Digimon with \nthe skill 'Tree Cut' in your party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0055",
+    "original": "You used the 'Tree Cut' skill!\n",
+    "translation": "You used the 'Tree Cut' skill!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0056",
+    "original": "You do not have a Digimon with \nthe skill 'Tree Cut' in your party.",
+    "translation": "You do not have a Digimon with \nthe skill 'Tree Cut' in your party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0057",
+    "original": "You used the 'Tree Cut' skill!\n",
+    "translation": "You used the 'Tree Cut' skill!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0058",
+    "original": "You do not have a Digimon with \nthe skill 'Tree Cut' in your party.",
+    "translation": "You do not have a Digimon with \nthe skill 'Tree Cut' in your party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0059",
+    "original": "You used the 'Tree Cut' skill!",
+    "translation": "You used the 'Tree Cut' skill!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0060",
+    "original": "You do not have a Digimon with \nthe skill 'Ice Melt' in your party.\n",
+    "translation": "You do not have a Digimon with \nthe skill 'Ice Melt' in your party.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0061",
+    "original": "You used the 'Ice Melt' skill!\n",
+    "translation": "You used the 'Ice Melt' skill!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0062",
+    "original": "You do not have a Digimon with \nthe skill 'Ice Melt' in your party.\n\n",
+    "translation": "You do not have a Digimon with \nthe skill 'Ice Melt' in your party.\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0063",
+    "original": "You used the 'Ice Melt' skill!\n\n",
+    "translation": "You used the 'Ice Melt' skill!\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0064",
+    "original": "You do not have a Digimon with \nthe skill 'Ice Melt' in your party.\n\n",
+    "translation": "You do not have a Digimon with \nthe skill 'Ice Melt' in your party.\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0065",
+    "original": "You used the 'Ice Melt' skill!\n\n",
+    "translation": "You used the 'Ice Melt' skill!\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0066",
+    "original": "You do not have a Digimon with \nthe skill 'Dig' in your party.",
+    "translation": "You do not have a Digimon with \nthe skill 'Dig' in your party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0067",
+    "original": "You used the 'Dig' skill!",
+    "translation": "You used the 'Dig' skill!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0068",
+    "original": "You do not have a Digimon with \nthe skill 'Dig' in your party.\n",
+    "translation": "You do not have a Digimon with \nthe skill 'Dig' in your party.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0069",
+    "original": "You used the 'Dig' skill!\n",
+    "translation": "You used the 'Dig' skill!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0070",
+    "original": "You do not have a Digimon with \nthe skill 'Dive' in your party.",
+    "translation": "You do not have a Digimon with \nthe skill 'Dive' in your party.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0071",
+    "original": "You used the 'Dive' skill!\n\n",
+    "translation": "You used the 'Dive' skill!\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0072",
+    "original": "You do not have a Digimon with \nthe skill 'Dive' in your party.\n",
+    "translation": "You do not have a Digimon with \nthe skill 'Dive' in your party.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0073",
+    "original": "You used the 'Dive' skill!",
+    "translation": "You used the 'Dive' skill!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0074",
+    "original": "You're the Tamer that's entering\nthe Championship, right?\nIf you're in a hurry, I can send you\nstraight to the Colosseum entrance.",
+    "translation": "You're the Tamer that's entering\nthe Championship, right?\nIf you're in a hurry, I can send you\nstraight to the Colosseum entrance.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0075",
+    "original": "Do you want to warp to the\nColosseum entrance?",
+    "translation": "Do you want to warp to the\nColosseum entrance?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0076",
+    "original": "Warp",
+    "translation": "Warp",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0077",
+    "original": "I'm fine for now",
+    "translation": "I'm fine for now",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0078",
+    "original": "I see, you'd like to spend some\nmore time training...\nThat's fine.\nGood luck, and work hard.",
+    "translation": "I see, you'd like to spend some\nmore time training...\nThat's fine.\nGood luck, and work hard.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0079",
+    "original": "Okay,\nthen I'll take you to the entrance.\nI wish you the best.",
+    "translation": "Okay,\nthen I'll take you to the entrance.\nI wish you the best.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0080",
+    "original": "You do not have the key to open this gate!",
+    "translation": "You do not have the key to open this gate!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0081",
+    "original": "The DigiPort Gate opened!",
+    "translation": "The DigiPort Gate opened!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0082",
+    "original": "You do not have the key to open this gate!\n",
+    "translation": "You do not have the key to open this gate!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0083",
+    "original": "The DigiPort Gate opened!\n",
+    "translation": "The DigiPort Gate opened!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0084",
+    "original": "You do not have the key to open this gate!\n",
+    "translation": "You do not have the key to open this gate!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0085",
+    "original": "The DigiPort Gate opened!\n",
+    "translation": "The DigiPort Gate opened!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0086",
+    "original": "You do not have the key to open this gate!\n",
+    "translation": "You do not have the key to open this gate!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0087",
+    "original": "The DigiPort Gate opened!\n",
+    "translation": "The DigiPort Gate opened!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0088",
+    "original": "You do not have the key to open this gate!\n",
+    "translation": "You do not have the key to open this gate!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0089",
+    "original": "The Town Gate opened!\n",
+    "translation": "The Town Gate opened!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0090",
+    "original": "You do not have the key to open this gate!\n",
+    "translation": "You do not have the key to open this gate!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0091",
+    "original": "The Town Gate opened!\n\n",
+    "translation": "The Town Gate opened!\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0092",
+    "original": "You do not have the key to open this gate!\n\n",
+    "translation": "You do not have the key to open this gate!\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0093",
+    "original": "The Town Gate opened!\n",
+    "translation": "The Town Gate opened!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0094",
+    "original": "You do not have the card to open this gate!",
+    "translation": "You do not have the card to open this gate!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0095",
+    "original": "The Switch Gate opened!\n",
+    "translation": "The Switch Gate opened!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0096",
+    "original": "You do not have the card to open this gate!",
+    "translation": "You do not have the card to open this gate!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0097",
+    "original": "The Switch Gate opened!\n",
+    "translation": "The Switch Gate opened!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0098",
+    "original": "You do not have the card to open this gate!",
+    "translation": "You do not have the card to open this gate!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0099",
+    "original": "The Switch Gate opened!",
+    "translation": "The Switch Gate opened!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0100",
+    "original": "Yo! Thanks for comin'!\nThe name's Octomon!\nGot any 'Spare Plates'? I'll take\n'em right off yer hands!\nWhat's that? Ya don't know what\n'Spare Plates' are...?\nWell, y'know, when you repair\nplates back at the DigiLab,\nIf ya already got that plate, ya \ndon't need it anymore, right?\nSince ya can't put it into the\nEvolution Tree, after all.\nSo it gets put into your Digivice's\n'Consumables' section.\nBut isn't it a waste to leave them\nplates there collectin' dust?!\nSo what I do is I take those\nunneeded plates off ya hands!\nNot for free, of course, I'll be\nsure to offer compensation!\nSounds like a good deal, eh?\nThat way we'll both be happy♪\nSo then let's get started...\nHave ya got 5 Spare Plates?",
+    "translation": "Yo! Thanks for comin'!\nThe name's Octomon!\nGot any 'Spare Plates'? I'll take\n'em right off yer hands!\nWhat's that? Ya don't know what\n'Spare Plates' are...?\nWell, y'know, when you repair\nplates back at the DigiLab,\nIf ya already got that plate, ya \ndon't need it anymore, right?\nSince ya can't put it into the\nEvolution Tree, after all.\nSo it gets put into your Digivice's\n'Consumables' section.\nBut isn't it a waste to leave them\nplates there collectin' dust?!\nSo what I do is I take those\nunneeded plates off ya hands!\nNot for free, of course, I'll be\nsure to offer compensation!\nSounds like a good deal, eh?\nThat way we'll both be happy♪\nSo then let's get started...\nHave ya got 5 Spare Plates?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0101",
+    "original": "You've brought me some Spare\nPlates??\nI've been waiting excitedly!\nI'll gladly take 'em off yer hands!",
+    "translation": "You've brought me some Spare\nPlates??\nI've been waiting excitedly!\nI'll gladly take 'em off yer hands!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0102",
+    "original": "So far, you've given me a total of...\n\n^0 Plates!",
+    "translation": "So far, you've given me a total of...\n\n^0 Plates!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0103",
+    "original": "You've cleared yer target of\ngivin' me 5 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "translation": "You've cleared yer target of\ngivin' me 5 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0104",
+    "original": "Obtained an item!\n^i",
+    "translation": "Obtained an item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0105",
+    "original": "Yer goal is 5 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "translation": "Yer goal is 5 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0106",
+    "original": "You've cleared yer target of\ngivin' me 20 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "translation": "You've cleared yer target of\ngivin' me 20 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0107",
+    "original": "Obtained an Equipable item!\n^i",
+    "translation": "Obtained an Equipable item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0108",
+    "original": "Yer goal is 20 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "translation": "Yer goal is 20 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0109",
+    "original": "You've cleared yer target of\ngivin' me 40 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "translation": "You've cleared yer target of\ngivin' me 40 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0110",
+    "original": "Obtained an Equipable item!\n^i",
+    "translation": "Obtained an Equipable item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0111",
+    "original": "Yer goal is 40 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "translation": "Yer goal is 40 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0112",
+    "original": "You've cleared yer target of\ngivin' me 60 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "translation": "You've cleared yer target of\ngivin' me 60 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0113",
+    "original": "Obtained an Equipable item!\n^i",
+    "translation": "Obtained an Equipable item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0114",
+    "original": "Yer goal is 60 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "translation": "Yer goal is 60 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0115",
+    "original": "You've cleared yer target of\ngivin' me 80 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "translation": "You've cleared yer target of\ngivin' me 80 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0116",
+    "original": "Obtained an Equipable item!\n^i",
+    "translation": "Obtained an Equipable item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0117",
+    "original": "Yer goal is 80 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "translation": "Yer goal is 80 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0118",
+    "original": "You've cleared yer target of\ngivin' me 100 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "translation": "You've cleared yer target of\ngivin' me 100 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0119",
+    "original": "Obtained an Equipable item!\n^i",
+    "translation": "Obtained an Equipable item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0120",
+    "original": "Yer goal is 100 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "translation": "Yer goal is 100 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0121",
+    "original": "You've cleared yer target of\ngivin' me 250 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "translation": "You've cleared yer target of\ngivin' me 250 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0122",
+    "original": "Obtained an Equipable item!\n^i",
+    "translation": "Obtained an Equipable item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0123",
+    "original": "Yer goal is 250 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "translation": "Yer goal is 250 Plates, you're still\nshort by ^1, y'know?\nI look forward to receivin' more,\nso work hard out there!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0124",
+    "original": "You've cleared yer target of\ngivin' me 400 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "translation": "You've cleared yer target of\ngivin' me 400 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0125",
+    "original": "Obtained an Equipable item!\n^i",
+    "translation": "Obtained an Equipable item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0126",
+    "original": "Yer goal is 400 Plates, you're still\nshort by ^1, ya know?\nI look forward to receivin' more,\nso work hard out there!",
+    "translation": "Yer goal is 400 Plates, you're still\nshort by ^1, ya know?\nI look forward to receivin' more,\nso work hard out there!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0127",
+    "original": "You've cleared yer target of\ngivin' me 550 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "translation": "You've cleared yer target of\ngivin' me 550 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0128",
+    "original": "Obtained an Equipable item!\n^i",
+    "translation": "Obtained an Equipable item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0129",
+    "original": "Yer goal is 550 Plates, you're still\nshort by ^1, ya know?\nI look forward to receivin' more,\nso work hard out there!",
+    "translation": "Yer goal is 550 Plates, you're still\nshort by ^1, ya know?\nI look forward to receivin' more,\nso work hard out there!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0130",
+    "original": "You've cleared yer target of\ngivin' me 700 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "translation": "You've cleared yer target of\ngivin' me 700 Plates!\nTake this here thing as a \nreward! Take good care of it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0131",
+    "original": "Obtained an Equipable item!\n^i",
+    "translation": "Obtained an Equipable item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0132",
+    "original": "Whoaaa!\nI concede!\nYou've collected a whole ton've\nplates!\nI've given ya everything I can,\nI've got no more rewards!",
+    "translation": "Whoaaa!\nI concede!\nYou've collected a whole ton've\nplates!\nI've given ya everything I can,\nI've got no more rewards!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0133",
+    "original": "Yer goal is 700 Plates, you're still\nshort by ^1, ya know?\nI look forward to receivin' more,\nso work hard out there!",
+    "translation": "Yer goal is 700 Plates, you're still\nshort by ^1, ya know?\nI look forward to receivin' more,\nso work hard out there!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0134",
+    "original": "Yer really somethin' else! I don't\nhave anythin' left to give you!",
+    "translation": "Yer really somethin' else! I don't\nhave anythin' left to give you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0135",
+    "original": "Switch on the Quest PC?",
+    "translation": "Switch on the Quest PC?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0136",
+    "original": "Yes",
+    "translation": "Yes",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0137",
+    "original": "No",
+    "translation": "No",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0138",
+    "original": "Looks like there are no requests \nyou can accept right now.",
+    "translation": "Looks like there are no requests \nyou can accept right now.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0139",
+    "original": "I think you've given me all the \npasswords that you can.\nYou really did your research,\n^P. Great job!",
+    "translation": "I think you've given me all the \npasswords that you can.\nYou really did your research,\n^P. Great job!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0140",
+    "original": "Do you know any secret \npasswords?\nIf you tell me some, I might give\nyou something good!",
+    "translation": "Do you know any secret \npasswords?\nIf you tell me some, I might give\nyou something good!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0141",
+    "original": "Give a password?",
+    "translation": "Give a password?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0142",
+    "original": "Yes",
+    "translation": "Yes",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0143",
+    "original": "No",
+    "translation": "No",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0144",
+    "original": "Okay, then tell me the password\nyou know.",
+    "translation": "Okay, then tell me the password\nyou know.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0145",
+    "original": "Whaaa-?!\nYou're pretty good...!\nWhere'd you come across this\npassword??\nThen in exchange for that\npassword, take this!",
+    "translation": "Whaaa-?!\nYou're pretty good...!\nWhere'd you come across this\npassword??\nThen in exchange for that\npassword, take this!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0146",
+    "original": "Obtained a key item!\n^i",
+    "translation": "Obtained a key item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0147",
+    "original": "Whaaa-?!\nHow'd you know that?!\nThat password is super rare,\nyou know?!\nThen in exchange for that\npassword, take this!",
+    "translation": "Whaaa-?!\nHow'd you know that?!\nThat password is super rare,\nyou know?!\nThen in exchange for that\npassword, take this!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0148",
+    "original": "Obtained a key item!\n^i",
+    "translation": "Obtained a key item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0149",
+    "original": "Whaaa-?!\nHow'd you find that out?!\nThat password should have been\nvery difficult to find...\nThen in exchange for that\npassword, take this!",
+    "translation": "Whaaa-?!\nHow'd you find that out?!\nThat password should have been\nvery difficult to find...\nThen in exchange for that\npassword, take this!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0150",
+    "original": "Obtained a key item!\n^i",
+    "translation": "Obtained a key item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0151",
+    "original": "Whaaa-!?\nYou really did it♪\nYou've gotta be pretty skilled to\nfind THAT password!\nThen in exchange for that\npassword, take this!",
+    "translation": "Whaaa-!?\nYou really did it♪\nYou've gotta be pretty skilled to\nfind THAT password!\nThen in exchange for that\npassword, take this!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0152",
+    "original": "Obtained a key item!\n^i",
+    "translation": "Obtained a key item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0153",
+    "original": "......Huh?\n\nI guess that counts as a \npassword, too, but...\nThat one's best kept as your own \nlittle secret, don't you think?",
+    "translation": "......Huh?\n\nI guess that counts as a \npassword, too, but...\nThat one's best kept as your own \nlittle secret, don't you think?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0154",
+    "original": "Take that USB and go to the\nDigiBase,\nBe sure to check out the Quest \nPC in the Private Room!\nYou should receive a new, special\nrequest♪",
+    "translation": "Take that USB and go to the\nDigiBase,\nBe sure to check out the Quest \nPC in the Private Room!\nYou should receive a new, special\nrequest♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0155",
+    "original": "While that password's correct,\nyou've already given it to me.\nWhy don't you try getting another\npassword and see if that works?",
+    "translation": "While that password's correct,\nyou've already given it to me.\nWhy don't you try getting another\npassword and see if that works?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0156",
+    "original": "No unauthorized personnel \nallowed here, Calu!",
+    "translation": "No unauthorized personnel \nallowed here, Calu!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0157",
+    "original": "Just beyond here is the DigiLab,\n\nWe're checking the Evolution \nSystem, so you can't enter, Calu!",
+    "translation": "Just beyond here is the DigiLab,\n\nWe're checking the Evolution \nSystem, so you can't enter, Calu!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0158",
+    "original": "What's the DigiLab, you ask...?\n\nIn the DigiLab, you can have your\nDigimon Digivolve or Degenerate,\nAs well as check the Evolution Tree\nand convert your scan data...\nIn other words, it's the most\nimportant place in the DigiBase!\nWe're close to finishing the \nEvolution Tree, so we're very busy!\nIt's dangerous right now, so you\ncan't enter, Calu!",
+    "translation": "What's the DigiLab, you ask...?\n\nIn the DigiLab, you can have your\nDigimon Digivolve or Degenerate,\nAs well as check the Evolution Tree\nand convert your scan data...\nIn other words, it's the most\nimportant place in the DigiBase!\nWe're close to finishing the \nEvolution Tree, so we're very busy!\nIt's dangerous right now, so you\ncan't enter, Calu!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0159",
+    "original": "Please hurry up, Calumon!\n\nWe gotta hurry and finish checking\nthe Evolution System.",
+    "translation": "Please hurry up, Calumon!\n\nWe gotta hurry and finish checking\nthe Evolution System.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0160",
+    "original": "No unauthorized personnel \nallowed here, Calu!",
+    "translation": "No unauthorized personnel \nallowed here, Calu!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0161",
+    "original": "Just beyond here is the DigiLab,\n\nWe're close to finishing the \nEvolution Tree, so we're very busy!\nIt's dangerous right now, so you\ncan't enter, Calu!",
+    "translation": "Just beyond here is the DigiLab,\n\nWe're close to finishing the \nEvolution Tree, so we're very busy!\nIt's dangerous right now, so you\ncan't enter, Calu!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0162",
+    "original": "What are you doing, Calumon?\nHurry and get back to work!\nJust a little more and we'll be\ndone with the Evolution Tree!",
+    "translation": "What are you doing, Calumon?\nHurry and get back to work!\nJust a little more and we'll be\ndone with the Evolution Tree!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0163",
+    "original": "Enter the Digilab?",
+    "translation": "Enter the Digilab?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0164",
+    "original": "Yes",
+    "translation": "Yes",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0165",
+    "original": "No",
+    "translation": "No",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0166",
+    "original": "Enter the Digilab?\n",
+    "translation": "Enter the Digilab?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0167",
+    "original": "Yes",
+    "translation": "Yes",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0168",
+    "original": "No",
+    "translation": "No",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0169",
+    "original": "Enter the DigiFarm?",
+    "translation": "Enter the DigiFarm?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0170",
+    "original": "Yes",
+    "translation": "Yes",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0171",
+    "original": "No",
+    "translation": "No",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0172",
+    "original": "Enter the DigiFarm?\n",
+    "translation": "Enter the DigiFarm?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0173",
+    "original": "Yes",
+    "translation": "Yes",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0174",
+    "original": "No",
+    "translation": "No",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0175",
+    "original": "Turn on DS Wireless and\nWi-Fi communications?",
+    "translation": "Turn on DS Wireless and\nWi-Fi communications?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0176",
+    "original": "Yes",
+    "translation": "Yes",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0177",
+    "original": "No",
+    "translation": "No",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0178",
+    "original": "I can tell you about what you can\ndo through wireless communication!",
+    "translation": "I can tell you about what you can\ndo through wireless communication!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0179",
+    "original": "I want to know about link battles,\nDigimon trading, and training.",
+    "translation": "I want to know about link battles,\nDigimon trading, and training.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0180",
+    "original": "I want to know about matching\nDigimon.",
+    "translation": "I want to know about matching\nDigimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0181",
+    "original": "I have no questions",
+    "translation": "I have no questions",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0182",
+    "original": "I want to know about link battles\nand Digimon trading.",
+    "translation": "I want to know about link battles\nand Digimon trading.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0183",
+    "original": "I want to know about training.",
+    "translation": "I want to know about training.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0184",
+    "original": "Back",
+    "translation": "Back",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0185",
+    "original": "I want to know about matching.",
+    "translation": "I want to know about matching.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0186",
+    "original": "I want to know about Digiegg\nfamily trees.",
+    "translation": "I want to know about Digiegg\nfamily trees.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0187",
+    "original": "Back",
+    "translation": "Back",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0188",
+    "original": "I want to know about link battles.",
+    "translation": "I want to know about link battles.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0189",
+    "original": "I want to know about Digimon\ntrading.",
+    "translation": "I want to know about Digimon\ntrading.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0190",
+    "original": "Back",
+    "translation": "Back",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0191",
+    "original": "I want to know about sending out \nand receiving Digimon from training.",
+    "translation": "I want to know about sending out \nand receiving Digimon from training.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0192",
+    "original": "I want to know if there's anything\nspecial about training.",
+    "translation": "I want to know if there's anything\nspecial about training.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0193",
+    "original": "Back",
+    "translation": "Back",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0194",
+    "original": "I want to know about matching.",
+    "translation": "I want to know about matching.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0195",
+    "original": "I want to know how matching \nworks.",
+    "translation": "I want to know how matching \nworks.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0196",
+    "original": "Back",
+    "translation": "Back",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0197",
+    "original": "I want to know about family trees.",
+    "translation": "I want to know about family trees.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0198",
+    "original": "I want to know about Digieggs.",
+    "translation": "I want to know about Digieggs.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0009_0199",
+    "original": "Back",
+    "translation": "Back",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "key": "MESPAK03_0023_0000",
+    "original": "I have the skill 'Tree Cut'.\n\nI'll slice down any tree in the way\nto ribbons.",
+    "translation": "I have the skill 'Tree Cut'.\n\nI'll slice down any tree in the way\nto ribbons.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0001",
+    "original": "０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４",
+    "translation": "０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0002",
+    "original": "I have the skill 'Dig'.\n\nI can easily travel through the earth\nto find new locations.",
+    "translation": "I have the skill 'Dig'.\n\nI can easily travel through the earth\nto find new locations.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0003",
+    "original": "I have the skill 'Dive'.\n\nI can easily dive through the water\nto find new locations.",
+    "translation": "I have the skill 'Dive'.\n\nI can easily dive through the water\nto find new locations.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0004",
+    "original": "I don't have any skills, but I'll make\nup for it in other ways.",
+    "translation": "I don't have any skills, but I'll make\nup for it in other ways.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0005",
+    "original": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our HP and MP.\nI look forward to seeing what kind\nof effect they'll have.",
+    "translation": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our HP and MP.\nI look forward to seeing what kind\nof effect they'll have.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0006",
+    "original": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our EXP.\nI look forward to seeing what kind\nof effect they'll have.\n",
+    "translation": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our EXP.\nI look forward to seeing what kind\nof effect they'll have.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0007",
+    "original": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our Attack.\nI look forward to seeing what kind\nof effect they'll have.\n",
+    "translation": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our Attack.\nI look forward to seeing what kind\nof effect they'll have.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0008",
+    "original": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our Defense.\nI look forward to seeing what kind\nof effect they'll have.\n",
+    "translation": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our Defense.\nI look forward to seeing what kind\nof effect they'll have.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0009",
+    "original": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our Speed.\nI look forward to seeing what kind\nof effect they'll have.\n",
+    "translation": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our Speed.\nI look forward to seeing what kind\nof effect they'll have.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0010",
+    "original": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our Friendship.\nI look forward to seeing what kind\nof effect they'll have.\n",
+    "translation": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with our Friendship.\nI look forward to seeing what kind\nof effect they'll have.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0011",
+    "original": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with Weapon-making.\nI look forward to seeing what kind\nof weapons it'll make.\n",
+    "translation": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with Weapon-making.\nI look forward to seeing what kind\nof weapons it'll make.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0012",
+    "original": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with Armor-making.\nI look forward to seeing what kind\nof armor it'll make.\n\n",
+    "translation": "These new Farm Goods you've\nplaced down...\nLooks like it's got something to\ndo with Armor-making.\nI look forward to seeing what kind\nof armor it'll make.\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0013",
+    "original": "Should I stop this job?",
+    "translation": "Should I stop this job?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0014",
+    "original": "Alright then. Guess I'll take a\nshort break.",
+    "translation": "Alright then. Guess I'll take a\nshort break.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0015",
+    "original": "I see... Then I'll just continue\nwhere I left off.",
+    "translation": "I see... Then I'll just continue\nwhere I left off.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0016",
+    "original": "Should I start this job?",
+    "translation": "Should I start this job?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0017",
+    "original": "This DigiMeal is delicious!\nI'm full of energy now!",
+    "translation": "This DigiMeal is delicious!\nI'm full of energy now!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0018",
+    "original": "That DigiMeal was fine.\nI feel a bit better now.",
+    "translation": "That DigiMeal was fine.\nI feel a bit better now.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0019",
+    "original": "Sorry, but I can't eat that.",
+    "translation": "Sorry, but I can't eat that.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0020",
+    "original": "Thanks, but I can't eat another \nbite.",
+    "translation": "Thanks, but I can't eat another \nbite.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0021",
+    "original": "Hi, ^P.\nCould you answer this for me?\nWhat's the name of the PC that\nreceives requests from Digimon?",
+    "translation": "Hi, ^P.\nCould you answer this for me?\nWhat's the name of the PC that\nreceives requests from Digimon?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0022",
+    "original": "Quest PC",
+    "translation": "Quest PC",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0023",
+    "original": "Counter PC",
+    "translation": "Counter PC",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0024",
+    "original": "Ah, yes, that's it!\nThanks for that!\nI'll give you a gift as thanks.\nHere you go!",
+    "translation": "Ah, yes, that's it!\nThanks for that!\nI'll give you a gift as thanks.\nHere you go!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0025",
+    "original": "Hey wait, that's not right!\nPlease pay more attention!\nAnd please be sure to become\na more adequate Tamer!",
+    "translation": "Hey wait, that's not right!\nPlease pay more attention!\nAnd please be sure to become\na more adequate Tamer!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0026",
+    "original": "Hi, ^P.\nCould you answer this for me?\nWhat stage was Wisemon, again?",
+    "translation": "Hi, ^P.\nCould you answer this for me?\nWhat stage was Wisemon, again?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0027",
+    "original": "Ultimate level",
+    "translation": "Ultimate level",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0028",
+    "original": "Mega level",
+    "translation": "Mega level",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0029",
+    "original": "Ah, yes, that's it!\nThanks for that!\nI'll give you a gift as thanks.\nHere you go!\n",
+    "translation": "Ah, yes, that's it!\nThanks for that!\nI'll give you a gift as thanks.\nHere you go!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0030",
+    "original": "Hey wait, that's not right!\nPlease pay more attention!\nAnd please be sure to become\na more adequate Tamer!\n",
+    "translation": "Hey wait, that's not right!\nPlease pay more attention!\nAnd please be sure to become\na more adequate Tamer!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0031",
+    "original": "Hi, ^P.\nCould you answer this for me?\nWhat's the Tamer rank below \nSilver?",
+    "translation": "Hi, ^P.\nCould you answer this for me?\nWhat's the Tamer rank below \nSilver?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0032",
+    "original": "Bronze Tamer, right?",
+    "translation": "Bronze Tamer, right?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0033",
+    "original": "Gold Tamer, right?",
+    "translation": "Gold Tamer, right?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0034",
+    "original": "Ah, yes, that's it!\nThanks for that!\nI'll give you a gift as thanks.\nHere you go!\n\n",
+    "translation": "Ah, yes, that's it!\nThanks for that!\nI'll give you a gift as thanks.\nHere you go!\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0035",
+    "original": "Hey wait, that's not right!\nPlease pay more attention!\nAnd please be sure to become\na more adequate Tamer!\n",
+    "translation": "Hey wait, that's not right!\nPlease pay more attention!\nAnd please be sure to become\na more adequate Tamer!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0036",
+    "original": "Hi, ^P.\nCould you answer this for me?\nOut of Monzaemon, Taomon,\nPandamon and Pukumon...\nWhich pair are of the same\nDigivolution stage?",
+    "translation": "Hi, ^P.\nCould you answer this for me?\nOut of Monzaemon, Taomon,\nPandamon and Pukumon...\nWhich pair are of the same\nDigivolution stage?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0037",
+    "original": "Pandamon and Pukumon",
+    "translation": "Pandamon and Pukumon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0038",
+    "original": "Monzaemon and Taomon",
+    "translation": "Monzaemon and Taomon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0039",
+    "original": "Ah, yes, that's it!\nThanks for that!\nI'll give you a gift as thanks.\nHere you go!\n\n",
+    "translation": "Ah, yes, that's it!\nThanks for that!\nI'll give you a gift as thanks.\nHere you go!\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0040",
+    "original": "Hey wait, that's not right!\nPlease pay more attention!\nAnd please be sure to become\na more adequate Tamer!\n",
+    "translation": "Hey wait, that's not right!\nPlease pay more attention!\nAnd please be sure to become\na more adequate Tamer!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0041",
+    "original": "Hi, ^P.\nCould you answer this for me?\nWe both know I'm incredibly\nbeautiful,\nBut could you tell me how to \nbecome even more beautiful?",
+    "translation": "Hi, ^P.\nCould you answer this for me?\nWe both know I'm incredibly\nbeautiful,\nBut could you tell me how to \nbecome even more beautiful?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0042",
+    "original": "Beauty is on the inside.",
+    "translation": "Beauty is on the inside.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0043",
+    "original": "Shave those rough edges.",
+    "translation": "Shave those rough edges.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0044",
+    "original": "Yes, you're exactly right,\n^P.\nIt's not just the outside, but I need\nto work on the inside, as well.\nThat was exactly what I was\nmissing!\nThank you for opening my eyes,\n^P!",
+    "translation": "Yes, you're exactly right,\n^P.\nIt's not just the outside, but I need\nto work on the inside, as well.\nThat was exactly what I was\nmissing!\nThank you for opening my eyes,\n^P!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0045",
+    "original": ".........\nHey wait a minute!\nI don't get it at all!\nNow I just feel annoyed!\nYou just don't understand a thing!",
+    "translation": ".........\nHey wait a minute!\nI don't get it at all!\nNow I just feel annoyed!\nYou just don't understand a thing!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0046",
+    "original": "What is it, ^P?\nDo you need me for something?\nIt's about time I took my\nafternoon nap.\nLack of sleep isn't good for your\nskin, you know?\nIf you get in the way of my beauty\nsleep, you'll pay...!",
+    "translation": "What is it, ^P?\nDo you need me for something?\nIt's about time I took my\nafternoon nap.\nLack of sleep isn't good for your\nskin, you know?\nIf you get in the way of my beauty\nsleep, you'll pay...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0047",
+    "original": "Hey, ^P,\ncan you repeat after me?\n\"If its low calorie, then you can\neat as much as you want.\"\n...What's that about, you ask?\nThat's every girl's fantasy.\n\"Just a little means low calorie.\"\nCome on, just say it!\n\"Low may as well be no calorie!\"\nAlright, I know I'm blabbing.\nI was just trying to convince \nmyself, leave me alone!",
+    "translation": "Hey, ^P,\ncan you repeat after me?\n\"If its low calorie, then you can\neat as much as you want.\"\n...What's that about, you ask?\nThat's every girl's fantasy.\n\"Just a little means low calorie.\"\nCome on, just say it!\n\"Low may as well be no calorie!\"\nAlright, I know I'm blabbing.\nI was just trying to convince \nmyself, leave me alone!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0048",
+    "original": "...Hey, ^P.\n\nI asked you to bring one, so \nwhere's my souvenir?\nJeez... Don't you get it?\nIt's not about the souvenir.\nIt's about the feeling and gesture\nthat goes into getting one!\nDid I contradict myself? I don't \nknow what you're talking about.",
+    "translation": "...Hey, ^P.\n\nI asked you to bring one, so \nwhere's my souvenir?\nJeez... Don't you get it?\nIt's not about the souvenir.\nIt's about the feeling and gesture\nthat goes into getting one!\nDid I contradict myself? I don't \nknow what you're talking about.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0049",
+    "original": "Do you know the key to keeping\nboth strength and beauty?\nIt's simple.\nIt's all about putting in effort.\nYou need to feel an obligation\nto maintain it.\nIt's not about preserving the\neffort you put in,\nIt's about constantly working\non it each and every day.\nThough that's not usually \nwhat anyone wants to hear.",
+    "translation": "Do you know the key to keeping\nboth strength and beauty?\nIt's simple.\nIt's all about putting in effort.\nYou need to feel an obligation\nto maintain it.\nIt's not about preserving the\neffort you put in,\nIt's about constantly working\non it each and every day.\nThough that's not usually \nwhat anyone wants to hear.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0050",
+    "original": "I don't have much interest\nin jewellery.\nAfter all, no matter how beautiful\nthe shine...\nIt'll always pale in comparison\nto how much I glitter!♪",
+    "translation": "I don't have much interest\nin jewellery.\nAfter all, no matter how beautiful\nthe shine...\nIt'll always pale in comparison\nto how much I glitter!♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0051",
+    "original": "Oh, ^P,\nDid you want something?\nI don't feel like talking today, so\ncome back some other time.",
+    "translation": "Oh, ^P,\nDid you want something?\nI don't feel like talking today, so\ncome back some other time.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0052",
+    "original": "Ahhh... It's so boring here on\nthis Farm Island.\nHey, could we have a \nCommunication Battle sometime?",
+    "translation": "Ahhh... It's so boring here on\nthis Farm Island.\nHey, could we have a \nCommunication Battle sometime?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0053",
+    "original": "Haaah...\n\nIt's simply a sin how beautiful\nI am.",
+    "translation": "Haaah...\n\nIt's simply a sin how beautiful\nI am.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0054",
+    "original": "I only want the best things.\n\nI'm being quite kind in saying that,\nyou know.\nAfter all, my perfection can't be\ncompared to others.\nI feel sorry for anyone who's\ncompared to me♪",
+    "translation": "I only want the best things.\n\nI'm being quite kind in saying that,\nyou know.\nAfter all, my perfection can't be\ncompared to others.\nI feel sorry for anyone who's\ncompared to me♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0055",
+    "original": "Hey, ^P,\ncan we have an honest talk?\nI'm not sure how I feel about that\nfashion sense of yours.\nEspecially...\nthose pointless goggles, you know?\nLook, you're my Tamer, after all.\n\nIf you're trying to make me look\nlike a fool, you'll be in for it!",
+    "translation": "Hey, ^P,\ncan we have an honest talk?\nI'm not sure how I feel about that\nfashion sense of yours.\nEspecially...\nthose pointless goggles, you know?\nLook, you're my Tamer, after all.\n\nIf you're trying to make me look\nlike a fool, you'll be in for it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0056",
+    "original": "...Haaah...\n\nI'm just not getting excited about\nanything these days.\nIt's not about my HP or MP\ngauges...\nI'd be better if I had an \n'Excitement' gauge instead...\nMaybe a 'Sweets' gauge, or a\n'Charm' gauge,\nEven a 'Motivation' gauge \ncould be nice...\n... A 'Weight' gauge?!\nI don't need that!\nEven if I did have one, I'd\nnever show you, got it?!",
+    "translation": "...Haaah...\n\nI'm just not getting excited about\nanything these days.\nIt's not about my HP or MP\ngauges...\nI'd be better if I had an \n'Excitement' gauge instead...\nMaybe a 'Sweets' gauge, or a\n'Charm' gauge,\nEven a 'Motivation' gauge \ncould be nice...\n... A 'Weight' gauge?!\nI don't need that!\nEven if I did have one, I'd\nnever show you, got it?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0057",
+    "original": "Why is it I'm gaining levels,\nI wonder?\nI think its quite rude and\nunnecessary.\nAfter all, I'm perfect as I am!\nI don't need levels♪",
+    "translation": "Why is it I'm gaining levels,\nI wonder?\nI think its quite rude and\nunnecessary.\nAfter all, I'm perfect as I am!\nI don't need levels♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0058",
+    "original": "Hm? Fortune telling?\nI don't believe in that stuff.\nOf course, people are free to\nbelieve what they want.\nI don't have any need for such\nthings as Lucky Colors or Items.\nAfter all, I'm a Lucky Item,\nmyself♪",
+    "translation": "Hm? Fortune telling?\nI don't believe in that stuff.\nOf course, people are free to\nbelieve what they want.\nI don't have any need for such\nthings as Lucky Colors or Items.\nAfter all, I'm a Lucky Item,\nmyself♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0059",
+    "original": "Hey, ^P...\nI'd like to ask you something...\nWhat's the Real World like...?\n\n...'Real'??\nWhat's that suppose to mean?\nI don't get it!",
+    "translation": "Hey, ^P...\nI'd like to ask you something...\nWhat's the Real World like...?\n\n...'Real'??\nWhat's that suppose to mean?\nI don't get it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0060",
+    "original": "Hey, ^P?\n\nOther than me, what kinds of\nDigimon do you like?\nHm? You think this is a\nstrange question?\nWell, if I included myself, then I'd\nbe the best one, wouldn't I?\nThat was obvious!",
+    "translation": "Hey, ^P?\n\nOther than me, what kinds of\nDigimon do you like?\nHm? You think this is a\nstrange question?\nWell, if I included myself, then I'd\nbe the best one, wouldn't I?\nThat was obvious!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0061",
+    "original": "I'm Agumon, a dragon type\nMythical Beast species Digimon!\nDinosaur...? How rude!\n\nI'm not anywhere close to being\nrelated to some gross lizard!\n",
+    "translation": "I'm Agumon, a dragon type\nMythical Beast species Digimon!\nDinosaur...? How rude!\n\nI'm not anywhere close to being\nrelated to some gross lizard!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0062",
+    "original": "I'm Veemon, a dragon type\nMythical Beast species Digimon!\nYou're 250 million years too early\nto be training someone like me!\nInstead, allow me to train you\nthoroughly!\nI'll make sure you turn into a\nmost appropriate Tamer!\nYou best be prepared!",
+    "translation": "I'm Veemon, a dragon type\nMythical Beast species Digimon!\nYou're 250 million years too early\nto be training someone like me!\nInstead, allow me to train you\nthoroughly!\nI'll make sure you turn into a\nmost appropriate Tamer!\nYou best be prepared!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0063",
+    "original": "I'm Guilmon, a dark dragon type\nMythical Beast species Digimon!\nMy beautiful claws are useful \nin battle, and for other things...\nIf you ever disappoint me...\nI'll tear your heart out with them♪",
+    "translation": "I'm Guilmon, a dark dragon type\nMythical Beast species Digimon!\nMy beautiful claws are useful \nin battle, and for other things...\nIf you ever disappoint me...\nI'll tear your heart out with them♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0064",
+    "original": "I'm Dorumon, a beast dragon \ntype Mythical Beast \nspecies Digimon!\n\nDigging holes is a simple matter\nfor these claws of mine.\nAllow me to show you some\nspecial places...♪",
+    "translation": "I'm Dorumon, a beast dragon \ntype Mythical Beast \nspecies Digimon!\n\nDigging holes is a simple matter\nfor these claws of mine.\nAllow me to show you some\nspecial places...♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0065",
+    "original": "I'm Patamon, a sacred beast \ntype seraph species Digimon!\nI may look cute, but truth is I'm\nactually quite amazing♪\nIf you let you're guard down,\nyou're in for trouble!",
+    "translation": "I'm Patamon, a sacred beast \ntype seraph species Digimon!\nI may look cute, but truth is I'm\nactually quite amazing♪\nIf you let you're guard down,\nyou're in for trouble!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0066",
+    "original": "I'm Biyomon, a wing type\nbird species Digimon!\nI'm strong, wise and beautiful.\nEveryone should bow before me!",
+    "translation": "I'm Biyomon, a wing type\nbird species Digimon!\nI'm strong, wise and beautiful.\nEveryone should bow before me!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0067",
+    "original": "I'm Palmon, a plant type\nplant species Digimon!\nEvery rose has its thorns.\nYou'd best remember that♪",
+    "translation": "I'm Palmon, a plant type\nplant species Digimon!\nEvery rose has its thorns.\nYou'd best remember that♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0068",
+    "original": "I'm Tentomon, a insect type\nbug species Digimon!\nI do so love the beauty of nature...\n...As well as my own beauty♪\nThough this Farm Island isn't\ntoo bad, either.",
+    "translation": "I'm Tentomon, a insect type\nbug species Digimon!\nI do so love the beauty of nature...\n...As well as my own beauty♪\nThough this Farm Island isn't\ntoo bad, either.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0069",
+    "original": "I'm Gomamon, an ice water \ntype beast species Digimon!\nI'm really good at diving!\nI can take you wherever your heart\ndesires♪",
+    "translation": "I'm Gomamon, an ice water \ntype beast species Digimon!\nI'm really good at diving!\nI can take you wherever your heart\ndesires♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0070",
+    "original": "I'm Terriermon, an animal type\nbeast species Digimon!\nI may look frail, but I'm actually\njust very delicate...\n...Not really!\nI'm truthfully very strong!\nHurry and take me with you\nwhen you wanna see my power!",
+    "translation": "I'm Terriermon, an animal type\nbeast species Digimon!\nI may look frail, but I'm actually\njust very delicate...\n...Not really!\nI'm truthfully very strong!\nHurry and take me with you\nwhen you wanna see my power!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0071",
+    "original": "I'm Renamon, a dark type\nbeast species Digimon!\nNo one can compare to my speed.\n\nIf you drag your feet, I'll catch\nup to you, you know♪",
+    "translation": "I'm Renamon, a dark type\nbeast species Digimon!\nNo one can compare to my speed.\n\nIf you drag your feet, I'll catch\nup to you, you know♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0072",
+    "original": "I'm Coronamon, a flame type\nbeast species Digimon!\nI'll burn anyone with my fiery\ntechniques.\nDon't be fooled by my cute\nappearance...\nElse you might get burned, too.",
+    "translation": "I'm Coronamon, a flame type\nbeast species Digimon!\nI'll burn anyone with my fiery\ntechniques.\nDon't be fooled by my cute\nappearance...\nElse you might get burned, too.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0073",
+    "original": "I'm Lunamon, a ice water type\nbeast species Digimon!\nWhile I specialize in water attacks,\nI actually hate the cold!\nWhat I live for is an exciting,\nheated battle!♪",
+    "translation": "I'm Lunamon, a ice water type\nbeast species Digimon!\nWhile I specialize in water attacks,\nI actually hate the cold!\nWhat I live for is an exciting,\nheated battle!♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0074",
+    "original": "I'm Gatomon, a sacred beast \ntype seraph species Digimon!\nI hate uncleanliness, boredom\nand alarm clocks.\n...And of course, Tamers who\ndon't care for their Digimon♪",
+    "translation": "I'm Gatomon, a sacred beast \ntype seraph species Digimon!\nI hate uncleanliness, boredom\nand alarm clocks.\n...And of course, Tamers who\ndon't care for their Digimon♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0075",
+    "original": "I'm WarGreymon, a dragon \nwarrior type \nMythical Beast species Digimon!\n\nMy only wish is to continue to\ngrow stronger!\nOf course, I'm already beautiful\nenough♪",
+    "translation": "I'm WarGreymon, a dragon \nwarrior type \nMythical Beast species Digimon!\n\nMy only wish is to continue to\ngrow stronger!\nOf course, I'm already beautiful\nenough♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0076",
+    "original": "I'm MetalGarurumon, a metal\nbeast type \nbeast species Digimon!\n\nIf all you care for is strength,\nthen I'm not for you.\nBattles are all about strength,\nspeed and beauty♪",
+    "translation": "I'm MetalGarurumon, a metal\nbeast type \nbeast species Digimon!\n\nIf all you care for is strength,\nthen I'm not for you.\nBattles are all about strength,\nspeed and beauty♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0077",
+    "original": "I'm Gallantmon, a dragon \nwarrior type \nMythical Beast species Digimon!\n\nI'm going to become even more\nstrong and beautiful!\n...No, that's not correct.\nI MUST become as such.\nThat's the duty of a chosen one\nsuch as myself♪",
+    "translation": "I'm Gallantmon, a dragon \nwarrior type \nMythical Beast species Digimon!\n\nI'm going to become even more\nstrong and beautiful!\n...No, that's not correct.\nI MUST become as such.\nThat's the duty of a chosen one\nsuch as myself♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0078",
+    "original": "I'm Susanoomon, an ancient \ntype seraph species Digimon!\nWe meet at last, ^P.\nI've been waiting for you.\nAfter all, you're the Tamer I need.\nAnd you need me just as much♪",
+    "translation": "I'm Susanoomon, an ancient \ntype seraph species Digimon!\nWe meet at last, ^P.\nI've been waiting for you.\nAfter all, you're the Tamer I need.\nAnd you need me just as much♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0079",
+    "original": "I'm ShineGreymon BM,\na dragon warrior type \nMythical Beast species Digimon!\n\nThe S is for Sweet, the B is for\nBeautiful, and the M...\n...is for Marvelous!\n...Just joking♪",
+    "translation": "I'm ShineGreymon BM,\na dragon warrior type \nMythical Beast species Digimon!\n\nThe S is for Sweet, the B is for\nBeautiful, and the M...\n...is for Marvelous!\n...Just joking♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0080",
+    "original": "I'm Omnimon,\na dragon warrior type \nMythical Beast species Digimon!\n\nI don't really need an introduction,\nnow do I?\nThere isn't a Tamer alive who\ndoesn't know about me!♪",
+    "translation": "I'm Omnimon,\na dragon warrior type \nMythical Beast species Digimon!\n\nI don't really need an introduction,\nnow do I?\nThere isn't a Tamer alive who\ndoesn't know about me!♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0081",
+    "original": "I'm Imperialdramon PM,\na dragon warrior type \nMythical Beast species Digimon!\n\nOf course, you can just call me \nImperialdramon Paladin Mode.",
+    "translation": "I'm Imperialdramon PM,\na dragon warrior type \nMythical Beast species Digimon!\n\nOf course, you can just call me \nImperialdramon Paladin Mode.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0082",
+    "original": "I'm ^2,\na ^1 type \n^0 species Digimon!\n\nDid you bring me all the way to\nthis Farm Island...\nJust to dump me off because\nyou're disappointed in me?",
+    "translation": "I'm ^2,\na ^1 type \n^0 species Digimon!\n\nDid you bring me all the way to\nthis Farm Island...\nJust to dump me off because\nyou're disappointed in me?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0083",
+    "original": "^P? Who's that?\nNever heard that name before.\nOh, that's your name?\n...Hmph.",
+    "translation": "^P? Who's that?\nNever heard that name before.\nOh, that's your name?\n...Hmph.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0084",
+    "original": "^P!\nYou've got a long way to go!\nYou've gotta figure out what\nyou wanna talk about!",
+    "translation": "^P!\nYou've got a long way to go!\nYou've gotta figure out what\nyou wanna talk about!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0085",
+    "original": "You've been ignoring me a lot\nlately.\nIt's about time you realise what\nyou're doing wrong, got it?",
+    "translation": "You've been ignoring me a lot\nlately.\nIt's about time you realise what\nyou're doing wrong, got it?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0086",
+    "original": "You're starting to become like a\nreal Tamer, ^P!\nBut it wouldn't feel right calling you\nmy Tamer just yet!",
+    "translation": "You're starting to become like a\nreal Tamer, ^P!\nBut it wouldn't feel right calling you\nmy Tamer just yet!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0087",
+    "original": "Well, you're an okay person,\n^P.\nBut I'm still not satisfied yet!",
+    "translation": "Well, you're an okay person,\n^P.\nBut I'm still not satisfied yet!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0088",
+    "original": "I'm glad you're my Tamer,\n^P...\n........\n\nWere you even listening?!\nI'm not gonna say it again, jeez!\n...Idiot.",
+    "translation": "I'm glad you're my Tamer,\n^P...\n........\n\nWere you even listening?!\nI'm not gonna say it again, jeez!\n...Idiot.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0089",
+    "original": "^P, you've played this\ngame for total of about...\n^0 hours and ^1 minutes.\n\nIt's not enough...\nIt's not NEARLY enough!\nYou're gonna have to hang out\nwith us a lot more!",
+    "translation": "^P, you've played this\ngame for total of about...\n^0 hours and ^1 minutes.\n\nIt's not enough...\nIt's not NEARLY enough!\nYou're gonna have to hang out\nwith us a lot more!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0090",
+    "original": "^P, you've currently\nset about...\n^0% of all DigiPlates.\n\nNot like that's such a big deal,\nanyway!",
+    "translation": "^P, you've currently\nset about...\n^0% of all DigiPlates.\n\nNot like that's such a big deal,\nanyway!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0091",
+    "original": "Just a minute, ^P!\n\nI've become able to Digivolve into\n^0!\n'Huh'?! Is that all you've got to \nsay...?!\nShow some thanks, at least!\nI can Digivolve at any time!",
+    "translation": "Just a minute, ^P!\n\nI've become able to Digivolve into\n^0!\n'Huh'?! Is that all you've got to \nsay...?!\nShow some thanks, at least!\nI can Digivolve at any time!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0092",
+    "original": "I can Digivolve into all sorts of\nDigimon right now♪\n.........\n\nWhat's with that lame reaction...?\n\nCan't I at least get a standing\novation?\nWell, whatever, just being able to\nDigivolve is good enough!",
+    "translation": "I can Digivolve into all sorts of\nDigimon right now♪\n.........\n\nWhat's with that lame reaction...?\n\nCan't I at least get a standing\novation?\nWell, whatever, just being able to\nDigivolve is good enough!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0093",
+    "original": "Hey, ^P,\nlook here...\nI can't Digivolve into ANY Digimon\nat the moment!\nIt'd be great if you could train me\na little more!",
+    "translation": "Hey, ^P,\nlook here...\nI can't Digivolve into ANY Digimon\nat the moment!\nIt'd be great if you could train me\na little more!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0094",
+    "original": "Did you know every Digimon has\na 'Weakness'?\nFor example! Plant types are\nweak to Fire attribute attacks!\nYou'll lose if you aren't careful \nabout this kind of thing!",
+    "translation": "Did you know every Digimon has\na 'Weakness'?\nFor example! Plant types are\nweak to Fire attribute attacks!\nYou'll lose if you aren't careful \nabout this kind of thing!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0095",
+    "original": "Did you know every Digimon has\na 'Resistance'?\nFor example! Dragon types are\nstrong to Fire attribute attacks!\nYou'll lose if you aren't careful \nabout this kind of thing!\n",
+    "translation": "Did you know every Digimon has\na 'Resistance'?\nFor example! Dragon types are\nstrong to Fire attribute attacks!\nYou'll lose if you aren't careful \nabout this kind of thing!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0096",
+    "original": "I've got the skill 'Bulldoze'!\n\nI'll smash any rock that dares\nget in the way!",
+    "translation": "I've got the skill 'Bulldoze'!\n\nI'll smash any rock that dares\nget in the way!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0097",
+    "original": "I've got the skill 'Ice Melt'!\n\nI'll melt any ice block that dares\nget in the way!",
+    "translation": "I've got the skill 'Ice Melt'!\n\nI'll melt any ice block that dares\nget in the way!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0098",
+    "original": "I've got the skill 'Tree Cut'!\n\nI'll cut any tree that dares\nget in the way!\n",
+    "translation": "I've got the skill 'Tree Cut'!\n\nI'll cut any tree that dares\nget in the way!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0099",
+    "original": "０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４",
+    "translation": "０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0100",
+    "original": "I've got the skill 'Dig'!\n\nBe thankful to me, with this skill I\ncan dig paths into the earth!",
+    "translation": "I've got the skill 'Dig'!\n\nBe thankful to me, with this skill I\ncan dig paths into the earth!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0101",
+    "original": "I've got the skill 'Dive'!\n\nBe thankful to me, with this skill I\ncan dive deep into the ocean!\n",
+    "translation": "I've got the skill 'Dive'!\n\nBe thankful to me, with this skill I\ncan dive deep into the ocean!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0102",
+    "original": "I don't have any skills.\n\nThough I believe my beauty is\nenough of a skill♪",
+    "translation": "I don't have any skills.\n\nThough I believe my beauty is\nenough of a skill♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0103",
+    "original": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our HP and MP.\nI wonder what effect they'll have?\nMaybe I should give it a try!",
+    "translation": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our HP and MP.\nI wonder what effect they'll have?\nMaybe I should give it a try!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0104",
+    "original": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our EXP.\nI wonder what effect they'll have?\nMaybe I should give it a try!\n",
+    "translation": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our EXP.\nI wonder what effect they'll have?\nMaybe I should give it a try!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0105",
+    "original": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our Attack.\nI wonder what effect they'll have?\nMaybe I should give it a try!\n",
+    "translation": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our Attack.\nI wonder what effect they'll have?\nMaybe I should give it a try!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0106",
+    "original": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our Defense.\nI wonder what effect they'll have?\nMaybe I should give it a try!\n",
+    "translation": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our Defense.\nI wonder what effect they'll have?\nMaybe I should give it a try!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0107",
+    "original": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our Speed.\nI wonder what effect they'll have?\nMaybe I should give it a try!\n",
+    "translation": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our Speed.\nI wonder what effect they'll have?\nMaybe I should give it a try!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0108",
+    "original": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our Friendship.\nI wonder what effect they'll have?\nMaybe I should give it a try!\n",
+    "translation": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with our Friendship.\nI wonder what effect they'll have?\nMaybe I should give it a try!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0109",
+    "original": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with making Weapons.\nI wonder what weapons it'll make?\nMaybe I should give it a try!\n",
+    "translation": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with making Weapons.\nI wonder what weapons it'll make?\nMaybe I should give it a try!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0110",
+    "original": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with making Armor.\nI wonder what armor it'll make?\nMaybe I should give it a try!\n\n",
+    "translation": "These new Farm Goods you've\nplaced here...\nLooks like it's got something to\ndo with making Armor.\nI wonder what armor it'll make?\nMaybe I should give it a try!\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0111",
+    "original": "Oh? Can I stop this job now?",
+    "translation": "Oh? Can I stop this job now?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0112",
+    "original": "Hmmm... Alright then.\nI was getting a little tired.",
+    "translation": "Hmmm... Alright then.\nI was getting a little tired.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0113",
+    "original": "What's up with you?\nDon't bother me, then!",
+    "translation": "What's up with you?\nDon't bother me, then!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0114",
+    "original": "Okay, got it. I'll start on this job\nright away.",
+    "translation": "Okay, got it. I'll start on this job\nright away.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0115",
+    "original": "My! This DigiMeal is delicious♪\nI feel so much better now!",
+    "translation": "My! This DigiMeal is delicious♪\nI feel so much better now!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0116",
+    "original": "That food was fine.\nI feel a little better now.",
+    "translation": "That food was fine.\nI feel a little better now.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0117",
+    "original": "...Yuck! That was disgusting!\nWhat the heck was that?!",
+    "translation": "...Yuck! That was disgusting!\nWhat the heck was that?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0118",
+    "original": "Hmmm... Sorry, but I'm not\nhungry at the moment.",
+    "translation": "Hmmm... Sorry, but I'm not\nhungry at the moment.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0119",
+    "original": "Sorry to bother you, but I'd like \nto ask you something.\nDo you know which species\nGatomon belongs to?",
+    "translation": "Sorry to bother you, but I'd like \nto ask you something.\nDo you know which species\nGatomon belongs to?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0120",
+    "original": "Seraph",
+    "translation": "Seraph",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0121",
+    "original": "Beast",
+    "translation": "Beast",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0122",
+    "original": "Yes, exactly correct!\nI knew you'd get it right!\nI'd like to give you a reward in\nexchange for your correct answer.\nPlease keep up that knowledge.",
+    "translation": "Yes, exactly correct!\nI knew you'd get it right!\nI'd like to give you a reward in\nexchange for your correct answer.\nPlease keep up that knowledge.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0123",
+    "original": "Hm? Oh my, I'm sorry but that's\nnot the right answer.\nI'm asking you, ^P,\n\nCould you please show a little more\ninterest in us next time?",
+    "translation": "Hm? Oh my, I'm sorry but that's\nnot the right answer.\nI'm asking you, ^P,\n\nCould you please show a little more\ninterest in us next time?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0124",
+    "original": "Sorry to bother you, but I'd like \nto ask you something.\nWhat is the command used in order\nto make Equipment for Digimon?",
+    "translation": "Sorry to bother you, but I'd like \nto ask you something.\nWhat is the command used in order\nto make Equipment for Digimon?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0125",
+    "original": "Jobs",
+    "translation": "Jobs",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0126",
+    "original": "Training",
+    "translation": "Training",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0127",
+    "original": "Yes, exactly correct!\nI knew you'd get it right!\nI'd like to give you a reward in\nexchange for your correct answer.\nPlease keep up that knowledge.\n",
+    "translation": "Yes, exactly correct!\nI knew you'd get it right!\nI'd like to give you a reward in\nexchange for your correct answer.\nPlease keep up that knowledge.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0128",
+    "original": "Hm? Oh my, I'm sorry but that's\nnot the right answer.\nI'm asking you, ^P,\n\nCould you please show a little more\ninterest in us next time?\n",
+    "translation": "Hm? Oh my, I'm sorry but that's\nnot the right answer.\nI'm asking you, ^P,\n\nCould you please show a little more\ninterest in us next time?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0129",
+    "original": "Sorry to bother you, but I'd like \nto ask you something.\nWhat is the maximum amount of\nDigimon\nThat can be in a single Farm\nIsland at one time?",
+    "translation": "Sorry to bother you, but I'd like \nto ask you something.\nWhat is the maximum amount of\nDigimon\nThat can be in a single Farm\nIsland at one time?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0130",
+    "original": "Up to 8",
+    "translation": "Up to 8",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0131",
+    "original": "Up to 10",
+    "translation": "Up to 10",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0132",
+    "original": "Yes, exactly correct!\nI knew you'd get it right!\nI'd like to give you a reward in\nexchange for your correct answer.\nPlease keep up that knowledge.\n",
+    "translation": "Yes, exactly correct!\nI knew you'd get it right!\nI'd like to give you a reward in\nexchange for your correct answer.\nPlease keep up that knowledge.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0133",
+    "original": "Hm? Oh my, I'm sorry but that's\nnot the right answer.\nI'm asking you, ^P,\n\nCould you please show a little more\ninterest in us next time?\n",
+    "translation": "Hm? Oh my, I'm sorry but that's\nnot the right answer.\nI'm asking you, ^P,\n\nCould you please show a little more\ninterest in us next time?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0134",
+    "original": "Sorry to bother you, but I'd like \nto ask you something.\nThat Valkyriemon always has a \nbird with him,\nDo you happen to know the name\nof that bird?",
+    "translation": "Sorry to bother you, but I'd like \nto ask you something.\nThat Valkyriemon always has a \nbird with him,\nDo you happen to know the name\nof that bird?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0135",
+    "original": "It's Freya",
+    "translation": "It's Freya",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0136",
+    "original": "It's Blaze",
+    "translation": "It's Blaze",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0137",
+    "original": "Yes, exactly correct!\nI knew you'd get it right!\nI'd like to give you a reward in\nexchange for your correct answer.\nPlease keep up that knowledge.\n",
+    "translation": "Yes, exactly correct!\nI knew you'd get it right!\nI'd like to give you a reward in\nexchange for your correct answer.\nPlease keep up that knowledge.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0138",
+    "original": "Hm? Oh my, I'm sorry but that's\nnot the right answer.\nI'm asking you, ^P,\n\nCould you please show a little more\ninterest in us next time?\n",
+    "translation": "Hm? Oh my, I'm sorry but that's\nnot the right answer.\nI'm asking you, ^P,\n\nCould you please show a little more\ninterest in us next time?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0139",
+    "original": "Sorry to bother you, but I'd like \nto discuss with you.\nLately I've been having difficulty\nsleeping at night,\nThat makes everyday life during \nthe day quite punishing.\nDo you know of a way to\nget a good night's sleep?",
+    "translation": "Sorry to bother you, but I'd like \nto discuss with you.\nLately I've been having difficulty\nsleeping at night,\nThat makes everyday life during \nthe day quite punishing.\nDo you know of a way to\nget a good night's sleep?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0140",
+    "original": "Exercise during the day!",
+    "translation": "Exercise during the day!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0141",
+    "original": "Sleep while reading a book!",
+    "translation": "Sleep while reading a book!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0142",
+    "original": "Indeed... If I make my body get\nexhausted during the day...\nThen I should be able to get a\ngood night's sleep!\nThank you, ^P.\nI will try this right away♪",
+    "translation": "Indeed... If I make my body get\nexhausted during the day...\nThen I should be able to get a\ngood night's sleep!\nThank you, ^P.\nI will try this right away♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0143",
+    "original": "Sorry, but I've tried that method\nseveral times already.\nIt's no use, I just end up reading\nuntil the sun rises.",
+    "translation": "Sorry, but I've tried that method\nseveral times already.\nIt's no use, I just end up reading\nuntil the sun rises.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0144",
+    "original": "Could you live without books,\n^P?\nI certainly couldn't.\n\nIf I have some spare time and\ndon't have anything to read,\nMy eyes will absentmindedly search\nfor something to read somewhere.",
+    "translation": "Could you live without books,\n^P?\nI certainly couldn't.\n\nIf I have some spare time and\ndon't have anything to read,\nMy eyes will absentmindedly search\nfor something to read somewhere.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0145",
+    "original": "\"His speech is as if it was \ntranslated from another language\".\n...Is what it says here.\n\nIn that case, should I be angry?",
+    "translation": "\"His speech is as if it was \ntranslated from another language\".\n...Is what it says here.\n\nIn that case, should I be angry?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0146",
+    "original": "DigiWheat, DigiRice, DigiEggs.\nDigiWheat, DigiRice, DigiEggs.\nI don't know why, but I can't get\nthese words out of my head.\nDo you have this kind of\nexperience sometimes, too?\nDigiWheat, DigiRice, DigiEggs.\nDigiWheat, DigiRice, DigiEggs.\nI was trying very hard to forget\njust now, and yet...",
+    "translation": "DigiWheat, DigiRice, DigiEggs.\nDigiWheat, DigiRice, DigiEggs.\nI don't know why, but I can't get\nthese words out of my head.\nDo you have this kind of\nexperience sometimes, too?\nDigiWheat, DigiRice, DigiEggs.\nDigiWheat, DigiRice, DigiEggs.\nI was trying very hard to forget\njust now, and yet...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0147",
+    "original": "When making an effort to live a life\nwithout being angry,\nWithout being depraved, without\nbeing discouraged,\nWithout lowering their head and\nwithout forgetting to smile...\nA passion of wanting to do\nincredible things begins to flow\nFrom deep inside ones heart...\n\n...Right?",
+    "translation": "When making an effort to live a life\nwithout being angry,\nWithout being depraved, without\nbeing discouraged,\nWithout lowering their head and\nwithout forgetting to smile...\nA passion of wanting to do\nincredible things begins to flow\nFrom deep inside ones heart...\n\n...Right?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0148",
+    "original": "You always look so happy,\n^P.\nThat happiness is infectious, even\nI can't help but feel it.\n.........\n\nThough that comment seems a bit\npointless coming from me, huh.",
+    "translation": "You always look so happy,\n^P.\nThat happiness is infectious, even\nI can't help but feel it.\n.........\n\nThough that comment seems a bit\npointless coming from me, huh.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0149",
+    "original": "Oh my, ^P, what's wrong?\nDid something happen?\nYou look lost...\n\n...Forgive me if there's been some\nsort of misunderstanding.",
+    "translation": "Oh my, ^P, what's wrong?\nDid something happen?\nYou look lost...\n\n...Forgive me if there's been some\nsort of misunderstanding.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0150",
+    "original": "Say, ^P, do you believe\nin fortune telling?\nI, of course, don't believe it in\nthe slightest.\nFortune Telling, Incantation,\nCurses, Exorcism... \nI don't believe any of them.\n\n...Though part of me believes in\nrainmaking rituals... just a little.",
+    "translation": "Say, ^P, do you believe\nin fortune telling?\nI, of course, don't believe it in\nthe slightest.\nFortune Telling, Incantation,\nCurses, Exorcism... \nI don't believe any of them.\n\n...Though part of me believes in\nrainmaking rituals... just a little.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0151",
+    "original": "^P♪\n\nNo, it's nothing.\nDon't mind me!",
+    "translation": "^P♪\n\nNo, it's nothing.\nDon't mind me!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0152",
+    "original": "It's not about one's outward\nappearance, but also their heart.\nThat's not mere lip service,\nit's the truth.\nThe outermost layer of the heart\nis one's appearance.\nThere's not a single person that's \njust beautiful in heart,\nbut ugly in appearance.\nThe reverse is also the same.\nWhether you like it or not, \nthat's just the truth.\nCan you understand me?",
+    "translation": "It's not about one's outward\nappearance, but also their heart.\nThat's not mere lip service,\nit's the truth.\nThe outermost layer of the heart\nis one's appearance.\nThere's not a single person that's \njust beautiful in heart,\nbut ugly in appearance.\nThe reverse is also the same.\nWhether you like it or not, \nthat's just the truth.\nCan you understand me?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0153",
+    "original": "It's nice to go outside once in a\nwhile for a change of pace.\nCould you bring me along, too,\nsomeday?",
+    "translation": "It's nice to go outside once in a\nwhile for a change of pace.\nCould you bring me along, too,\nsomeday?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0154",
+    "original": "^P's name...\nIt's a perfect fit!♪\nIt really fits perfectly together\nwith their appearance...\n...Speaking of, that made me\nremember something.\nA long time ago, there was a\nGabumon with a strict Tamer.\nGabumon was given the \nnickname 'Mackeral'...\nHe felt pretty disheartened\nby such a nickname...",
+    "translation": "^P's name...\nIt's a perfect fit!♪\nIt really fits perfectly together\nwith their appearance...\n...Speaking of, that made me\nremember something.\nA long time ago, there was a\nGabumon with a strict Tamer.\nGabumon was given the \nnickname 'Mackeral'...\nHe felt pretty disheartened\nby such a nickname...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0155",
+    "original": "Do you ever feel curious... \nAbout what kinds of Farm Islands\nother Tamers build?\nYou can get an idea of their\npersonalities from various points,\nSuch as...\nThe name of the Island.",
+    "translation": "Do you ever feel curious... \nAbout what kinds of Farm Islands\nother Tamers build?\nYou can get an idea of their\npersonalities from various points,\nSuch as...\nThe name of the Island.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0156",
+    "original": "^P, do you enjoy tea?\n\nIf it's alright with you, next time\nwhy don't we have some DigiTea?\nWith some DigiCake, DigiScones,\nDigiMilk, and DigiCucumber \nSandwiches?",
+    "translation": "^P, do you enjoy tea?\n\nIf it's alright with you, next time\nwhy don't we have some DigiTea?\nWith some DigiCake, DigiScones,\nDigiMilk, and DigiCucumber \nSandwiches?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0157",
+    "original": "Digivolution, Degeneration,\nDigivolution, Degeneration,\nDigivolution, Degeneration,\nDigivolution, Degeneration,\nDigiv o l u t i o n, Degene r a t i o n,\nDigiv o l u t i o n, Degene r a t i o n,\nDigiv o l u t i o n, Degene r a t i o n,\nDigiv o l u t i o n, Degene r a t i o n,\n...Have you heard about the\n'Gestaltzerfall'...?\nNo, it's nothing.\nPlease forget what I just said.",
+    "translation": "Digivolution, Degeneration,\nDigivolution, Degeneration,\nDigivolution, Degeneration,\nDigivolution, Degeneration,\nDigiv o l u t i o n, Degene r a t i o n,\nDigiv o l u t i o n, Degene r a t i o n,\nDigiv o l u t i o n, Degene r a t i o n,\nDigiv o l u t i o n, Degene r a t i o n,\n...Have you heard about the\n'Gestaltzerfall'...?\nNo, it's nothing.\nPlease forget what I just said.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0158",
+    "original": "Oh, are you taking a look around,\n^P?\nEverything's in order.\nThank you for your concern.",
+    "translation": "Oh, are you taking a look around,\n^P?\nEverything's in order.\nThank you for your concern.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0159",
+    "original": "I'm Agumon, a dragon type\nMythical Beast species Digimon!\nI may look like a dinosaur, but \nthat's absolutely wrong.\nI want to get stronger, so please\nguide me♪",
+    "translation": "I'm Agumon, a dragon type\nMythical Beast species Digimon!\nI may look like a dinosaur, but \nthat's absolutely wrong.\nI want to get stronger, so please\nguide me♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0160",
+    "original": "I'm Veemon, a dragon type\nMythical Beast species Digimon.\nLet's hurry and go on adventures\ntogether. I can't wait.",
+    "translation": "I'm Veemon, a dragon type\nMythical Beast species Digimon.\nLet's hurry and go on adventures\ntogether. I can't wait.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0161",
+    "original": "I'm Guilmon, a dark dragon type\nMythical Beast species Digimon.\nMy sharp claws are quite useful\nduring battle.\nLet me participate in battle and\nI'll show you properly...♪",
+    "translation": "I'm Guilmon, a dark dragon type\nMythical Beast species Digimon.\nMy sharp claws are quite useful\nduring battle.\nLet me participate in battle and\nI'll show you properly...♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0162",
+    "original": "I'm Dorumon, a beast dragon \ntype Mythical Beast species Digimon.\nI can use my claws to dig holes\ninto the earth.\nI can take you anywhere you need\nto go with them♪",
+    "translation": "I'm Dorumon, a beast dragon \ntype Mythical Beast species Digimon.\nI can use my claws to dig holes\ninto the earth.\nI can take you anywhere you need\nto go with them♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0163",
+    "original": "I'm Patamon, a sacred beast \ntype seraph species Digimon.\nI may look weak at first...\nBut I'll grow stronger.\nYou just have to trust me.",
+    "translation": "I'm Patamon, a sacred beast \ntype seraph species Digimon.\nI may look weak at first...\nBut I'll grow stronger.\nYou just have to trust me.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0164",
+    "original": "I'm Biyomon, a wing type\nbird species Digimon.\nI'd like to soar high in the sky\nsomeday.\nSo please take me all over the\nplace♪",
+    "translation": "I'm Biyomon, a wing type\nbird species Digimon.\nI'd like to soar high in the sky\nsomeday.\nSo please take me all over the\nplace♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0165",
+    "original": "I'm Palmon, a plant type\nplant species Digimon.\nI'm sure you'll come to like the\nflower upon my head.\nI look forward to going on plenty\nof adventures with everyone.",
+    "translation": "I'm Palmon, a plant type\nplant species Digimon.\nI'm sure you'll come to like the\nflower upon my head.\nI look forward to going on plenty\nof adventures with everyone.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0166",
+    "original": "I'm Tentomon, a insect type\nbug species Digimon.\nI truly do love nature.\n\nBut I think I've come to like this\nFarm just as much♪",
+    "translation": "I'm Tentomon, a insect type\nbug species Digimon.\nI truly do love nature.\n\nBut I think I've come to like this\nFarm just as much♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0167",
+    "original": "I'm Gomamon, an ice water \ntype beast species Digimon.\nI'm pretty talented at diving♪\nLet's go on all sorts of adventures\ntogether, okay?",
+    "translation": "I'm Gomamon, an ice water \ntype beast species Digimon.\nI'm pretty talented at diving♪\nLet's go on all sorts of adventures\ntogether, okay?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0168",
+    "original": "I'm Terriermon, a animal type\nbeast species Digimon.\nI may not look it, but I'm actually\nincredibly strong.\nSo be sure to take me on many\ngrand adventures♪",
+    "translation": "I'm Terriermon, a animal type\nbeast species Digimon.\nI may not look it, but I'm actually\nincredibly strong.\nSo be sure to take me on many\ngrand adventures♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0169",
+    "original": "I'm Renamon, a dark type\nbeast species Digimon.\nI take pride in my speed, I can't\neven be seen by the naked eye.\nI hope we can go on adventures\ntogether, soon♪",
+    "translation": "I'm Renamon, a dark type\nbeast species Digimon.\nI take pride in my speed, I can't\neven be seen by the naked eye.\nI hope we can go on adventures\ntogether, soon♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0170",
+    "original": "I'm Coronamon, a flame type\nbeast species Digimon.\nI specialize in flame-based\ntechniques♪\nI'm curious to see what'll happen\nfrom here on...",
+    "translation": "I'm Coronamon, a flame type\nbeast species Digimon.\nI specialize in flame-based\ntechniques♪\nI'm curious to see what'll happen\nfrom here on...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0171",
+    "original": "I'm Lunamon, an ice water type\nbeast species Digimon.\nI specialize in water-based\ntechniques♪\nI'm excited to see what'll happen\nfrom here on!",
+    "translation": "I'm Lunamon, an ice water type\nbeast species Digimon.\nI specialize in water-based\ntechniques♪\nI'm excited to see what'll happen\nfrom here on!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0172",
+    "original": "I'm Gatomon, a sacred beast \ntype seraph species Digimon.\nWhile I do quite enjoy this Farm\nIsland,\nPlease hurry and bring me out on\nadventures, soon!",
+    "translation": "I'm Gatomon, a sacred beast \ntype seraph species Digimon.\nWhile I do quite enjoy this Farm\nIsland,\nPlease hurry and bring me out on\nadventures, soon!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0173",
+    "original": "I'm WarGreymon, a dragon \nwarrior type \nMythical Beast species Digimon.\n\nI'm only going to get stronger and\nstronger!\nI'm always ready for battle!",
+    "translation": "I'm WarGreymon, a dragon \nwarrior type \nMythical Beast species Digimon.\n\nI'm only going to get stronger and\nstronger!\nI'm always ready for battle!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0174",
+    "original": "I'm MetalGarurumon, a metal\nbeast type \nbeast species Digimon.\n\nI must continue to get stronger\nand stronger♪\nIn order to do that, you must take\nme on various adventures.",
+    "translation": "I'm MetalGarurumon, a metal\nbeast type \nbeast species Digimon.\n\nI must continue to get stronger\nand stronger♪\nIn order to do that, you must take\nme on various adventures.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0175",
+    "original": "I'm Gallantmon, a dragon \nwarrior type \nMythical Beast species Digimon.\n\nJust watch, I'm going to get\nstronger and stronger.\nSo be sure to take me on all sorts\nof adventures!",
+    "translation": "I'm Gallantmon, a dragon \nwarrior type \nMythical Beast species Digimon.\n\nJust watch, I'm going to get\nstronger and stronger.\nSo be sure to take me on all sorts\nof adventures!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0176",
+    "original": "I'm Susanoomon, an ancient \ntype seraph species Digimon.\nWe finally meet, ^P!\n\nI'm so very happy!\nLet's work hard together.",
+    "translation": "I'm Susanoomon, an ancient \ntype seraph species Digimon.\nWe finally meet, ^P!\n\nI'm so very happy!\nLet's work hard together.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0177",
+    "original": "I'm ShineGreymon BM,\na dragon warrior type \nMythical Beast species Digimon.\n\nWe finally meet, ^P!\n\nI'm so very happy!\nLet's work hard together.",
+    "translation": "I'm ShineGreymon BM,\na dragon warrior type \nMythical Beast species Digimon.\n\nWe finally meet, ^P!\n\nI'm so very happy!\nLet's work hard together.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0178",
+    "original": "I'm Omnimon,\na dragon warrior type \nMythical Beast species Digimon.\n\nWe finally meet, ^P!\n\nI'm so very happy!\nLet's work hard together.",
+    "translation": "I'm Omnimon,\na dragon warrior type \nMythical Beast species Digimon.\n\nWe finally meet, ^P!\n\nI'm so very happy!\nLet's work hard together.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0179",
+    "original": "I'm Imperialdramon PM,\na dragon warrior type \nMythical Beast species Digimon.\n\nWe finally meet, ^P!\n\nI'm so very happy!\nLet's work hard together.",
+    "translation": "I'm Imperialdramon PM,\na dragon warrior type \nMythical Beast species Digimon.\n\nWe finally meet, ^P!\n\nI'm so very happy!\nLet's work hard together.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0180",
+    "original": "I'm ^2,\na ^1 type \n^0 species Digimon.\n\nAs this Farm Island continues to\ngrow bigger,\nI'll be sure to do my very best to\nmake myself useful.",
+    "translation": "I'm ^2,\na ^1 type \n^0 species Digimon.\n\nAs this Farm Island continues to\ngrow bigger,\nI'll be sure to do my very best to\nmake myself useful.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0181",
+    "original": "Are you angry or something,\n^P?\nYou always have such a scary\nexpression,\nIt makes it hard for me to talk\nto you.",
+    "translation": "Are you angry or something,\n^P?\nYou always have such a scary\nexpression,\nIt makes it hard for me to talk\nto you.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0182",
+    "original": "You don't seem to have any \ninterest in me, ^P.\nNot that I mind, of course.",
+    "translation": "You don't seem to have any \ninterest in me, ^P.\nNot that I mind, of course.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0183",
+    "original": "Have you been especially busy\nrecently, ^P...?\nHm? Oh, well...\nIt's nothing, don't worry about it.",
+    "translation": "Have you been especially busy\nrecently, ^P...?\nHm? Oh, well...\nIt's nothing, don't worry about it.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0184",
+    "original": "You seem a lot happier recently,\n^P!\nI'm also happy whenever you're\nhere with me♪",
+    "translation": "You seem a lot happier recently,\n^P!\nI'm also happy whenever you're\nhere with me♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0185",
+    "original": "I'm so happy that you're my\nTamer, ^P♪\nI'm so glad I met you!",
+    "translation": "I'm so happy that you're my\nTamer, ^P♪\nI'm so glad I met you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0186",
+    "original": "Could you please listen to my\nrequest, ^P?\nRegardless of what shape I may\ntake in the future...\nPlease be my Tamer forever.",
+    "translation": "Could you please listen to my\nrequest, ^P?\nRegardless of what shape I may\ntake in the future...\nPlease be my Tamer forever.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0187",
+    "original": "^P, you've played this\ngame for about...\n^0 hours and ^1 minutes!\n\nI hope you can keep up the great\nwork♪",
+    "translation": "^P, you've played this\ngame for about...\n^0 hours and ^1 minutes!\n\nI hope you can keep up the great\nwork♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0188",
+    "original": "^P, you've currently\nset about...\n^0% of all DigiPlates!\n\nI'm very grateful for the number\nof plates you've collected♪",
+    "translation": "^P, you've currently\nset about...\n^0% of all DigiPlates!\n\nI'm very grateful for the number\nof plates you've collected♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0189",
+    "original": "Um, ^P...\nWell, you see,\nI'm actually able to Digivolve into\n^0 right now!\nSo feel free to Digivolve me\nwhenever you want♪",
+    "translation": "Um, ^P...\nWell, you see,\nI'm actually able to Digivolve into\n^0 right now!\nSo feel free to Digivolve me\nwhenever you want♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0190",
+    "original": "Um, ^P!\nSuddenly before I realized it,\nIt looks like I'm able to Digivolve\ninto many different Digimon♪\nSo please Digivolve me into \nwhichever Digimon you desire!",
+    "translation": "Um, ^P!\nSuddenly before I realized it,\nIt looks like I'm able to Digivolve\ninto many different Digimon♪\nSo please Digivolve me into \nwhichever Digimon you desire!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0191",
+    "original": "...^P...\nRight now, I...\nI'm unable to Digivolve into any\nDigimon, none at all...\nSo please!\nTrain me even harder!\nWe can't just stay like this!",
+    "translation": "...^P...\nRight now, I...\nI'm unable to Digivolve into any\nDigimon, none at all...\nSo please!\nTrain me even harder!\nWe can't just stay like this!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0192",
+    "original": "Did you know every Digimon has\na 'Weakness'?\nFor example! Beast types are\nweak to Water attribute attacks.\nTake these into consideration when\nyou're battling, okay?",
+    "translation": "Did you know every Digimon has\na 'Weakness'?\nFor example! Beast types are\nweak to Water attribute attacks.\nTake these into consideration when\nyou're battling, okay?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0193",
+    "original": "Did you know every Digimon has\na 'Resistance'?\nFor example! Bird types are\nstrong to Light attribute attacks.\nTake these into consideration when\nyou're battling, okay?\n",
+    "translation": "Did you know every Digimon has\na 'Resistance'?\nFor example! Bird types are\nstrong to Light attribute attacks.\nTake these into consideration when\nyou're battling, okay?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0194",
+    "original": "I have the skill 'Bulldoze'.\n\nI'll smash any rock that's in the \nway.",
+    "translation": "I have the skill 'Bulldoze'.\n\nI'll smash any rock that's in the \nway.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0195",
+    "original": "I have the skill 'Ice Melt'.\n\nI'll melt any ice blocks in the way.",
+    "translation": "I have the skill 'Ice Melt'.\n\nI'll melt any ice blocks in the way.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0196",
+    "original": "I have the skill 'Tree Cut'.\n\nI'll slice down any tree in the way.",
+    "translation": "I have the skill 'Tree Cut'.\n\nI'll slice down any tree in the way.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0197",
+    "original": "０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４",
+    "translation": "０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４\n０１２３４５６７８９０１２３４",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0198",
+    "original": "I have the skill 'Dig'.\n\nI can travel through the earth\nto find new locations.",
+    "translation": "I have the skill 'Dig'.\n\nI can travel through the earth\nto find new locations.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0023_0199",
+    "original": "I have the skill 'Dive'.\n\nI can dive through the water\nto find new locations.",
+    "translation": "I have the skill 'Dive'.\n\nI can dive through the water\nto find new locations.",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "key": "MESPAK03_0006_0000",
+    "original": "See ya, ^P.\nThanks for everything.",
+    "translation": "See ya, ^P.\nThanks for everything.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0001",
+    "original": "See you later, ^P.\nThank you for your help.",
+    "translation": "See you later, ^P.\nThank you for your help.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0002",
+    "original": "You're the first challenger we've\nhad in a long time.\nYou're the Tamer that came from\nWest City, right?\nYou must be a fool... or a coward.\nMaybe a blockhead?\nWell, which is it? Or perhaps it's\nall three?",
+    "translation": "You're the first challenger we've\nhad in a long time.\nYou're the Tamer that came from\nWest City, right?\nYou must be a fool... or a coward.\nMaybe a blockhead?\nWell, which is it? Or perhaps it's\nall three?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0003",
+    "original": "I suggest you brace yourself.\nBecause you see...\nNorth City is on a completely\ndifferent level to any other city!\nNot a single Tamer here\nis a push-over!\nYou'll be lucky to get past me,\nthe First Tamer!",
+    "translation": "I suggest you brace yourself.\nBecause you see...\nNorth City is on a completely\ndifferent level to any other city!\nNot a single Tamer here\nis a push-over!\nYou'll be lucky to get past me,\nthe First Tamer!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0004",
+    "original": "Behold, for I'm the first Tamer to \never make it to the Graphics Board \nContinent! Yes, I'm the one who \nmade it to Graphics Board North! \nDon't look so surprised!",
+    "translation": "Behold, for I'm the first Tamer to \never make it to the Graphics Board \nContinent! Yes, I'm the one who \nmade it to Graphics Board North! \nDon't look so surprised!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0005",
+    "original": "Now that you understand, \nIt's time I teach you a lesson!\nI'll be the first to beat you,\nand the first to end your journey!",
+    "translation": "Now that you understand, \nIt's time I teach you a lesson!\nI'll be the first to beat you,\nand the first to end your journey!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0006",
+    "original": "W-what's up with you?! Hey!\nAren't I supposed to be the first?!",
+    "translation": "W-what's up with you?! Hey!\nAren't I supposed to be the first?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0007",
+    "original": "The first to be beaten, and the \nfirst to lose, more like!\nHmph! How annoying! I don't need\nany pity from someone like you!",
+    "translation": "The first to be beaten, and the \nfirst to lose, more like!\nHmph! How annoying! I don't need\nany pity from someone like you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0008",
+    "original": "It's not like I gave it my all just\nthen, 'cause if I did...\nJust know that there's no way I'd\nlose to a Tamer like you!\nThis isn't over, got it!?\nDon't forget that!\nAnd to be clear, I'm not running\naway, I'm temporarily retreating!\nHmph!",
+    "translation": "It's not like I gave it my all just\nthen, 'cause if I did...\nJust know that there's no way I'd\nlose to a Tamer like you!\nThis isn't over, got it!?\nDon't forget that!\nAnd to be clear, I'm not running\naway, I'm temporarily retreating!\nHmph!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0009",
+    "original": "What's that?\nYou're a Tamer, right??\nThen you must know the name of\nthe Digimon by my side!\nIf you tell me, I'll allow you to pass!",
+    "translation": "What's that?\nYou're a Tamer, right??\nThen you must know the name of\nthe Digimon by my side!\nIf you tell me, I'll allow you to pass!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0010",
+    "original": "What are you spacing it out for?\nWhy won't you answer me?!",
+    "translation": "What are you spacing it out for?\nWhy won't you answer me?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0011",
+    "original": "If you're a Tamer, then you must\nknow this guy's name!\nI'm so close to remembering it, so\nwhy aren't you helping me?!\nI'll get you to give me the answer,\nno matter what!",
+    "translation": "If you're a Tamer, then you must\nknow this guy's name!\nI'm so close to remembering it, so\nwhy aren't you helping me?!\nI'll get you to give me the answer,\nno matter what!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0012",
+    "original": "Ah, I lost...\n\nWell, whatever, that's the least of\nmy concerns right now.\nNow, you have to answer me!\nWhat is this Digimon's name?!",
+    "translation": "Ah, I lost...\n\nWell, whatever, that's the least of\nmy concerns right now.\nNow, you have to answer me!\nWhat is this Digimon's name?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0013",
+    "original": "What's up with you...\nYou're no help at all...\nFine, I'll give you some hints! \nHere's hint number one!\n'They're great at dancing and \ngreedy when it comes to money.'\nHint number two!\n\n'They've been caught selling \nviruses on the black market!'",
+    "translation": "What's up with you...\nYou're no help at all...\nFine, I'll give you some hints! \nHere's hint number one!\n'They're great at dancing and \ngreedy when it comes to money.'\nHint number two!\n\n'They've been caught selling \nviruses on the black market!'",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0014",
+    "original": "Ah... but... they're not a bad guy, \nso don't get the wrong idea, ok?",
+    "translation": "Ah... but... they're not a bad guy, \nso don't get the wrong idea, ok?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0015",
+    "original": "Enough already, just answer me!\n\nWhat on earth is my partner?!",
+    "translation": "Enough already, just answer me!\n\nWhat on earth is my partner?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0016",
+    "original": "What is this Guard Tamer's \nPartner Digimon?",
+    "translation": "What is this Guard Tamer's \nPartner Digimon?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0017",
+    "original": "WaruSeadramon!",
+    "translation": "WaruSeadramon!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0018",
+    "original": "An evil Digimon!",
+    "translation": "An evil Digimon!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0019",
+    "original": "Weren't you listening back there?\nI told you they're not a bad guy...\nThey may be naiive, but they're\nnot evil!\nAlright, I'm gonna ask you again.",
+    "translation": "Weren't you listening back there?\nI told you they're not a bad guy...\nThey may be naiive, but they're\nnot evil!\nAlright, I'm gonna ask you again.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0020",
+    "original": "..........................\n\nUhmmm... Uh....?\nWaru... Sea... Dramon...?\nWaruSea... WaruSea...?\nI've heard that somewhere before...",
+    "translation": "..........................\n\nUhmmm... Uh....?\nWaru... Sea... Dramon...?\nWaruSea... WaruSea...?\nI've heard that somewhere before...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0021",
+    "original": "So I've definitely met this Digimon\nsomewhere before, then.\nThat's what I thought back then,\ntoo...",
+    "translation": "So I've definitely met this Digimon\nsomewhere before, then.\nThat's what I thought back then,\ntoo...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0022",
+    "original": "We first met back on South Bridge,\nbut...\nBoth this Digimon and I had lost\nour memories at the time.\nBut somehow, it didn't feel like the \nfirst time we'd met................\n...............................\n\nAnyway, thanks for your help. \nI need to think a bit more.",
+    "translation": "We first met back on South Bridge,\nbut...\nBoth this Digimon and I had lost\nour memories at the time.\nBut somehow, it didn't feel like the \nfirst time we'd met................\n...............................\n\nAnyway, thanks for your help. \nI need to think a bit more.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0023",
+    "original": "If it isn't ^P...\nHave you come looking for us?\nDon't worry, Yui is here too.\n\nFrom the moment we were \nabandoned in this cruel world...\nI vowed I'd protect her, no matter\nwhat happened.\nThis is a place where only the\nstrongest of Tamers can reach...\nTherefore, it's currently the\nsafest place in the Digital World.",
+    "translation": "If it isn't ^P...\nHave you come looking for us?\nDon't worry, Yui is here too.\n\nFrom the moment we were \nabandoned in this cruel world...\nI vowed I'd protect her, no matter\nwhat happened.\nThis is a place where only the\nstrongest of Tamers can reach...\nTherefore, it's currently the\nsafest place in the Digital World.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0024",
+    "original": "I will not allow anyone near her.\nI'll show you... that until now, \nand forevermore...\nIt will be ME who'll protect her!\nWarGrowlmon...!",
+    "translation": "I will not allow anyone near her.\nI'll show you... that until now, \nand forevermore...\nIt will be ME who'll protect her!\nWarGrowlmon...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0025",
+    "original": "Ready to fight at your command,\nmy Tamer.",
+    "translation": "Ready to fight at your command,\nmy Tamer.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0026",
+    "original": "You're saying you've come \nto rescue us NOW..?\nSo what were you doing when\nYui was here, shivering in \nfear and crying out for help?!\nWhere were you THEN?",
+    "translation": "You're saying you've come \nto rescue us NOW..?\nSo what were you doing when\nYui was here, shivering in \nfear and crying out for help?!\nWhere were you THEN?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0027",
+    "original": "I knew you'd come here. I had my\nDigimon report on you. \nThat's why I sent Digimon to \ntest you all. \nBut you rejected us, ^P.\nAnd Asuka simply ran away.\nThat's when I realized... even \nYOU are my enemies!",
+    "translation": "I knew you'd come here. I had my\nDigimon report on you. \nThat's why I sent Digimon to \ntest you all. \nBut you rejected us, ^P.\nAnd Asuka simply ran away.\nThat's when I realized... even \nYOU are my enemies!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0028",
+    "original": "I see it now! You're all enemies!\n\nAnyone who comes near \nYui is an enemy!\nAnd I will not allow anyone to \nlay a single finger on her!",
+    "translation": "I see it now! You're all enemies!\n\nAnyone who comes near \nYui is an enemy!\nAnd I will not allow anyone to \nlay a single finger on her!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0029",
+    "original": "I see... I knew it, I really am \nuseless after all...\nI don't have the strength to be\nable to protect Yui...\nNo matter how hard I try,\nnothing ever changes...\nI just don't know what to do\nanymore...\n^P, please...\nHelp Yui...",
+    "translation": "I see... I knew it, I really am \nuseless after all...\nI don't have the strength to be\nable to protect Yui...\nNo matter how hard I try,\nnothing ever changes...\nI just don't know what to do\nanymore...\n^P, please...\nHelp Yui...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0030",
+    "original": "She's been like this since just after\nwe arrived this world.\nNo matter what I do, she just\nwon't wake up...",
+    "translation": "She's been like this since just after\nwe arrived this world.\nNo matter what I do, she just\nwon't wake up...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0031",
+    "original": "You said you've come to rescue us,\ndidn't you?!\n...then please! Help Yui now!",
+    "translation": "You said you've come to rescue us,\ndidn't you?!\n...then please! Help Yui now!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0032",
+    "original": "Hold on a minute, there!\nWe heard everything!",
+    "translation": "Hold on a minute, there!\nWe heard everything!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0033",
+    "original": "Calm yourself, kid, everything will\nbe alright. She's in a DigiComa.\nIt sometimes happens to those \nwhose hearts are too pure for this \nworld. If we can find some 'Ginseng', \nwe can cure her DigiComa instantly!",
+    "translation": "Calm yourself, kid, everything will\nbe alright. She's in a DigiComa.\nIt sometimes happens to those \nwhose hearts are too pure for this \nworld. If we can find some 'Ginseng', \nwe can cure her DigiComa instantly!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0034",
+    "original": "'Ginseng'?!\nT-then I'll go look right away!",
+    "translation": "'Ginseng'?!\nT-then I'll go look right away!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0035",
+    "original": "Again, settle down! You're gonna \nlook for it... where exactly?",
+    "translation": "Again, settle down! You're gonna \nlook for it... where exactly?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0036",
+    "original": "B...But...!",
+    "translation": "B...But...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0037",
+    "original": "Trust in WaruSeadramon here's \nmemories!\nThough of course, the one who\nhelped restore those memories...\nWas none other than ^P♪",
+    "translation": "Trust in WaruSeadramon here's \nmemories!\nThough of course, the one who\nhelped restore those memories...\nWas none other than ^P♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0038",
+    "original": "D-do you really know where we\ncan find it?!",
+    "translation": "D-do you really know where we\ncan find it?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0039",
+    "original": "You betcha! I remember \neeeeeeverything now!\nIt's on a small island nearby\nProxy Port West.\nA Digimon called\nAncientWisemon lives there.\nYou can ask them for the medicine.\nHaving said that...\nAncientWisemon is kinda scary...\nA bit weird and intimidating.\nIf anyone is gonna go, it should \nbe ^P.",
+    "translation": "You betcha! I remember \neeeeeeverything now!\nIt's on a small island nearby\nProxy Port West.\nA Digimon called\nAncientWisemon lives there.\nYou can ask them for the medicine.\nHaving said that...\nAncientWisemon is kinda scary...\nA bit weird and intimidating.\nIf anyone is gonna go, it should \nbe ^P.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0040",
+    "original": "What's with the long face? Is it \nabout that virus story from earlier?\nIt was just a misunderstanding!\nThat was just... uh...\nHey! I worked with the Union as \na Super Hacker of Justice to \nhelp save the world from \ndestruction, you know!",
+    "translation": "What's with the long face? Is it \nabout that virus story from earlier?\nIt was just a misunderstanding!\nThat was just... uh...\nHey! I worked with the Union as \na Super Hacker of Justice to \nhelp save the world from \ndestruction, you know!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0041",
+    "original": "And back then I was one of the \nUnion Tamers who were saved.\nIf it weren't for this guy, \nI wouldn't be here right now...\n\n",
+    "translation": "And back then I was one of the \nUnion Tamers who were saved.\nIf it weren't for this guy, \nI wouldn't be here right now...\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0042",
+    "original": "Exactly, that's how it is.\n\nAnd I thought I was the one\nbeing fooled!",
+    "translation": "Exactly, that's how it is.\n\nAnd I thought I was the one\nbeing fooled!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0043",
+    "original": "Oh, ^P!\n\nHave you found the 'Ginseng' yet?!",
+    "translation": "Oh, ^P!\n\nHave you found the 'Ginseng' yet?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0044",
+    "original": "What?! Not yet??\nWhy not??\nBut Yui's been stuck like this for \nages!",
+    "translation": "What?! Not yet??\nWhy not??\nBut Yui's been stuck like this for \nages!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0045",
+    "original": "Hey now, settle down. Don't get \nyourself so worked up!",
+    "translation": "Hey now, settle down. Don't get \nyourself so worked up!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0046",
+    "original": "That's right, kid.\nJust believe in ^P.",
+    "translation": "That's right, kid.\nJust believe in ^P.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0047",
+    "original": "I'll tell you the location again, so \nlisten up, alright?\nYour destination is a small island\nnear Proxy Port West.\nThere you can ask AncientWisemon\nfor the medicine.\nThey're pretty intimidating, so\ndon't push your luck!",
+    "translation": "I'll tell you the location again, so \nlisten up, alright?\nYour destination is a small island\nnear Proxy Port West.\nThere you can ask AncientWisemon\nfor the medicine.\nThey're pretty intimidating, so\ndon't push your luck!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0048",
+    "original": "If you just exit this building, and\nthen go straight...\nYou'll find the City Gates. Just exit\nthere and you'll be close!\nGood luck!",
+    "translation": "If you just exit this building, and\nthen go straight...\nYou'll find the City Gates. Just exit\nthere and you'll be close!\nGood luck!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0049",
+    "original": "..........................\nPlease, ^P!\nWe absolutely must get that\n'Ginseng' no matter what!\nWe believe in you!",
+    "translation": "..........................\nPlease, ^P!\nWe absolutely must get that\n'Ginseng' no matter what!\nWe believe in you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0050",
+    "original": "Hm?! What business do you have\nwith me?!",
+    "translation": "Hm?! What business do you have\nwith me?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0051",
+    "original": "You want medicine for DigiComa?\nNot again...\nIf you want it so badly, you can\njust take it by force, right?\nJust like you did before!",
+    "translation": "You want medicine for DigiComa?\nNot again...\nIf you want it so badly, you can\njust take it by force, right?\nJust like you did before!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0052",
+    "original": "It's no use playing dumb!\nIf you won't make the first move...\nThen I will!",
+    "translation": "It's no use playing dumb!\nIf you won't make the first move...\nThen I will!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0053",
+    "original": "...What? You want the medicine \nto CURE DigiComa?\nNot the medicine to cause it...?",
+    "translation": "...What? You want the medicine \nto CURE DigiComa?\nNot the medicine to cause it...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0054",
+    "original": "I see... my apologies... I thought \nyou were Selectors here again...\nThey use the medicine in order to\nrender a person unconscious...",
+    "translation": "I see... my apologies... I thought \nyou were Selectors here again...\nThey use the medicine in order to\nrender a person unconscious...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0055",
+    "original": "This island was recently attacked\nby the Selectors.\nI lost a large amount of very \nimportant medicine to them.\nUnfortunately, I ended up mistaking\nyou for an enemy, too...\nUpon closer inspection, it's clear\nyou're not part of the Selectors.",
+    "translation": "This island was recently attacked\nby the Selectors.\nI lost a large amount of very \nimportant medicine to them.\nUnfortunately, I ended up mistaking\nyou for an enemy, too...\nUpon closer inspection, it's clear\nyou're not part of the Selectors.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0056",
+    "original": "..............................\nVery well.\nThis is the last 'Ginseng' I have.\nYou may take it.",
+    "translation": "..............................\nVery well.\nThis is the last 'Ginseng' I have.\nYou may take it.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0057",
+    "original": "Obtained a Key Item!\n^i",
+    "translation": "Obtained a Key Item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0058",
+    "original": "It's not good for someone to be\nin a DigiComa for a long time.\nI suggest you hurry.\n\nI pray everything works out.",
+    "translation": "It's not good for someone to be\nin a DigiComa for a long time.\nI suggest you hurry.\n\nI pray everything works out.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0059",
+    "original": "Oh, ^P!\nHave you got the 'Ginseng'?!",
+    "translation": "Oh, ^P!\nHave you got the 'Ginseng'?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0060",
+    "original": "I see!\nI knew you would, ^P!",
+    "translation": "I see!\nI knew you would, ^P!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0061",
+    "original": "You should use the 'Ginseng' on\nthe girl right away.",
+    "translation": "You should use the 'Ginseng' on\nthe girl right away.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0062",
+    "original": "W-why?!\n\nNothing happened?!\nShe's not waking up!",
+    "translation": "W-why?!\n\nNothing happened?!\nShe's not waking up!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0063",
+    "original": "Don't panic, kid.\nJust give it time to work.",
+    "translation": "Don't panic, kid.\nJust give it time to work.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0064",
+    "original": "Y...Yui...?\n\nWake up, Yui! Please...!",
+    "translation": "Y...Yui...?\n\nWake up, Yui! Please...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0065",
+    "original": "Alright!\n\nYui's awake!",
+    "translation": "Alright!\n\nYui's awake!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0066",
+    "original": "Are you OK, Yui?\nDo you remember where we are?\nCan you say my name?!",
+    "translation": "Are you OK, Yui?\nDo you remember where we are?\nCan you say my name?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0067",
+    "original": "Taku...to...",
+    "translation": "Taku...to...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0068",
+    "original": "T-that's it! \nWhat about your own name...?",
+    "translation": "T-that's it! \nWhat about your own name...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0069",
+    "original": "Takuto...",
+    "translation": "Takuto...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0070",
+    "original": "It didn't... work...?",
+    "translation": "It didn't... work...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0071",
+    "original": "Ta...Takuto...\nTakuto, Takuto! Takuto!\n......................\n\nI'm sorry... I caused you so much\ntrouble...",
+    "translation": "Ta...Takuto...\nTakuto, Takuto! Takuto!\n......................\n\nI'm sorry... I caused you so much\ntrouble...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0072",
+    "original": "You scared me...!\nLooks like the medicine did work...",
+    "translation": "You scared me...!\nLooks like the medicine did work...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0073",
+    "original": "W-what are you saying...\nThat's embarassing...\nI really didn't... do much at all...\n\nHahahaha...♪",
+    "translation": "W-what are you saying...\nThat's embarassing...\nI really didn't... do much at all...\n\nHahahaha...♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0074",
+    "original": "I could hear you the entire time, \nyou know?\nYou kept telling me, \"It'll be alright,\nit'll be alright,\" and stayed with me.\nThank you for everything, Takuto.",
+    "translation": "I could hear you the entire time, \nyou know?\nYou kept telling me, \"It'll be alright,\nit'll be alright,\" and stayed with me.\nThank you for everything, Takuto.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0075",
+    "original": "...Ah!",
+    "translation": "...Ah!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0076",
+    "original": "A...! As I said...! (sniff!)\nIt- it- it was... no... no big... deal!\n(sniff) Buahahahah...♪",
+    "translation": "A...! As I said...! (sniff!)\nIt- it- it was... no... no big... deal!\n(sniff) Buahahahah...♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0077",
+    "original": "Take it easy, kid.\n\nYou look like you're on the verge\nof tears, there.",
+    "translation": "Take it easy, kid.\n\nYou look like you're on the verge\nof tears, there.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0078",
+    "original": "My Tamer as not been able to \n'Take it easy' in a very long time.\nRather, he has been fighting tooth\nand nail this entire time.\nWith Yui not waking up, and the\nSelectors attacking...\nWithout a soul in this world he \ncould trust...\nWhen we first met, he belived \neveryone was an enemy.\nHe's probably still struggling \nwith that way of thinking, now...",
+    "translation": "My Tamer as not been able to \n'Take it easy' in a very long time.\nRather, he has been fighting tooth\nand nail this entire time.\nWith Yui not waking up, and the\nSelectors attacking...\nWithout a soul in this world he \ncould trust...\nWhen we first met, he belived \neveryone was an enemy.\nHe's probably still struggling \nwith that way of thinking, now...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0079",
+    "original": "Hmmm...\n\nKid may be small, but he's still\na man, I guess...",
+    "translation": "Hmmm...\n\nKid may be small, but he's still\na man, I guess...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0080",
+    "original": "Hey, Takuto... Let's go back,\nalright?\nTo where everyone else is...",
+    "translation": "Hey, Takuto... Let's go back,\nalright?\nTo where everyone else is...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0081",
+    "original": "............................\n\n...Yeah...",
+    "translation": "............................\n\n...Yeah...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0082",
+    "original": "^P...\n\nCould you please take us to where\neveryone else is waiting?",
+    "translation": "^P...\n\nCould you please take us to where\neveryone else is waiting?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0083",
+    "original": "I'm glad. \nThat's a weight off my shoulders.",
+    "translation": "I'm glad. \nThat's a weight off my shoulders.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0084",
+    "original": "Good for you, kid.\nAnd for you too, ^P...\nWe're gonna stick around here \na while longer, so...\nIf you run into any trouble, don't\nhesitate to call us, alright?",
+    "translation": "Good for you, kid.\nAnd for you too, ^P...\nWe're gonna stick around here \na while longer, so...\nIf you run into any trouble, don't\nhesitate to call us, alright?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0085",
+    "original": "YUIIIIIIIII!",
+    "translation": "YUIIIIIIIII!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0086",
+    "original": "I'm so glad you're okkk!\n(snifffffff)\nI was so worried about youuu!\n(sniff-sniffffffff)",
+    "translation": "I'm so glad you're okkk!\n(snifffffff)\nI was so worried about youuu!\n(sniff-sniffffffff)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0087",
+    "original": "You're so annoying! \nAnd gross!\nCan't you blow your nose instead\nof letting snot drip everywhere?!",
+    "translation": "You're so annoying! \nAnd gross!\nCan't you blow your nose instead\nof letting snot drip everywhere?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0088",
+    "original": "But I'm so glad to see you two\nback safe and sound.",
+    "translation": "But I'm so glad to see you two\nback safe and sound.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0089",
+    "original": "It was thanks to everyone\nsupporting and helping Takuto!",
+    "translation": "It was thanks to everyone\nsupporting and helping Takuto!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0090",
+    "original": "I know a lot has happened, but I'm\nglad you can relax now.\nLooks like Takuto's unexpectedly\nreliable when push comes to shove.",
+    "translation": "I know a lot has happened, but I'm\nglad you can relax now.\nLooks like Takuto's unexpectedly\nreliable when push comes to shove.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0091",
+    "original": "That's not... true at all...\nI was constantly scared...\nI had no clue what was going on\naround me, and in the end...\nI ended up becoming unable to\ntrust anyone around me...\nI'm so sorry, everyone...",
+    "translation": "That's not... true at all...\nI was constantly scared...\nI had no clue what was going on\naround me, and in the end...\nI ended up becoming unable to\ntrust anyone around me...\nI'm so sorry, everyone...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0092",
+    "original": "That reminds me... We know \nwhat happened with Takuto,\nAnd we found out Yui suffered \nfrom a DigiComa...\nBut what on earth caused Asuka to\ngo all weird earlier...?",
+    "translation": "That reminds me... We know \nwhat happened with Takuto,\nAnd we found out Yui suffered \nfrom a DigiComa...\nBut what on earth caused Asuka to\ngo all weird earlier...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0093",
+    "original": "Hmmm...\n\nI have no clue... I have absolutely\nno memories of that time...\nI guess I suffered the same as \nwhat happened to Yui?\nAfter all... my heart is pure too!",
+    "translation": "Hmmm...\n\nI have no clue... I have absolutely\nno memories of that time...\nI guess I suffered the same as \nwhat happened to Yui?\nAfter all... my heart is pure too!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0094",
+    "original": "H-hey, what's up with this change\nin atmosphere...?",
+    "translation": "H-hey, what's up with this change\nin atmosphere...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0095",
+    "original": "While it was similar to DigiComa...\nIt was also completely different...\nIt's most likely you became\nsynchronised with your Digimon...",
+    "translation": "While it was similar to DigiComa...\nIt was also completely different...\nIt's most likely you became\nsynchronised with your Digimon...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0096",
+    "original": "Ummm.. That was... I...",
+    "translation": "Ummm.. That was... I...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0097",
+    "original": "Hmm... call it purity... or maybe\nsimplicity...?\nOr maybe it's just that she has a \npersonality similar to a Digimon...?",
+    "translation": "Hmm... call it purity... or maybe\nsimplicity...?\nOr maybe it's just that she has a \npersonality similar to a Digimon...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0098",
+    "original": "Congratulations!\nThat was marvelous, ^P!\nYou've finally managed to defeat\nthe Champion of North City!\nTruly a spectacular effort!\n\n^P, I'm sure you've got\npotential to be a powerful Tamer!\nYou must come to Graphics Board\nCentral. Everyone's waiting for you!\nThat is, the strongest Tamers, and \nbest Digimon are waiting there!\nFarewell!♪",
+    "translation": "Congratulations!\nThat was marvelous, ^P!\nYou've finally managed to defeat\nthe Champion of North City!\nTruly a spectacular effort!\n\n^P, I'm sure you've got\npotential to be a powerful Tamer!\nYou must come to Graphics Board\nCentral. Everyone's waiting for you!\nThat is, the strongest Tamers, and \nbest Digimon are waiting there!\nFarewell!♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0099",
+    "original": "Obtained a Key Item!\n^i",
+    "translation": "Obtained a Key Item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0100",
+    "original": "Hey, ^P, does this mean...\n\nYou've been invited to the\nChampionship...?",
+    "translation": "Hey, ^P, does this mean...\n\nYou've been invited to the\nChampionship...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0101",
+    "original": "The Colosseum's a pretty \nincredible place, right?\nSince everyone's safe and sound, \nwith nothing else to worry about...\nWhy not enter the competition \nafter all?\n",
+    "translation": "The Colosseum's a pretty \nincredible place, right?\nSince everyone's safe and sound, \nwith nothing else to worry about...\nWhy not enter the competition \nafter all?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0102",
+    "original": "It'd be the ideal place to test your\nskills as a Tamer.\nYou really should go!",
+    "translation": "It'd be the ideal place to test your\nskills as a Tamer.\nYou really should go!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0103",
+    "original": "After all those battles against the\nSelectors,\nIt's pretty clear that you have\nnatural talent as a Tamer.\nIt makes you wonder just how far\nthose skills can take you, right?\nEveryone's keen to see that♪",
+    "translation": "After all those battles against the\nSelectors,\nIt's pretty clear that you have\nnatural talent as a Tamer.\nIt makes you wonder just how far\nthose skills can take you, right?\nEveryone's keen to see that♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0104",
+    "original": "That Kernel guy seems pretty\nhooked on the idea, too.\nWhy don't you give it a try,\n^P?",
+    "translation": "That Kernel guy seems pretty\nhooked on the idea, too.\nWhy don't you give it a try,\n^P?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0105",
+    "original": "Yeah! That's the spirit!\n\nWould it be OK for us to go to \nthe Colosseum, too?",
+    "translation": "Yeah! That's the spirit!\n\nWould it be OK for us to go to \nthe Colosseum, too?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0106",
+    "original": "It looks like it's restricted to \ninvited Tamers and Digimon only.\nBut if I can build a link to the \nGraphics Board Continent server, \nI think we should be able to \nwatch the competition from here?",
+    "translation": "It looks like it's restricted to \ninvited Tamers and Digimon only.\nBut if I can build a link to the \nGraphics Board Continent server, \nI think we should be able to \nwatch the competition from here?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0107",
+    "original": "That's great! We'll all be cheering\nfor you!♪",
+    "translation": "That's great! We'll all be cheering\nfor you!♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0108",
+    "original": "I've got no doubt you can win this, \n^P!",
+    "translation": "I've got no doubt you can win this, \n^P!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0109",
+    "original": "I think so too! Good luck out there,\n^P!",
+    "translation": "I think so too! Good luck out there,\n^P!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0110",
+    "original": "Now that that's sorted...\nYui! Takuto!",
+    "translation": "Now that that's sorted...\nYui! Takuto!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0111",
+    "original": "What's wrong, big bro? What's \nwith that weird look on your face?",
+    "translation": "What's wrong, big bro? What's \nwith that weird look on your face?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0112",
+    "original": "You two must be exhausted, right?\nYou should go take a nap!\nI can even sing you a lullaby!",
+    "translation": "You two must be exhausted, right?\nYou should go take a nap!\nI can even sing you a lullaby!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0113",
+    "original": "I think it'd be impossible to fall\nasleep to your voice, Hiroyuki...\nThat noisy and off-tune voice of \nyours would drive us nuts...",
+    "translation": "I think it'd be impossible to fall\nasleep to your voice, Hiroyuki...\nThat noisy and off-tune voice of \nyours would drive us nuts...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0114",
+    "original": "No excuses! Come on, let's go!",
+    "translation": "No excuses! Come on, let's go!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0115",
+    "original": "Ohhhh big bro, you haven't changed\na bit...!",
+    "translation": "Ohhhh big bro, you haven't changed\na bit...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0116",
+    "original": "H-hey, hold on...!\n\nIf Yui's going, then I'm going, too!",
+    "translation": "H-hey, hold on...!\n\nIf Yui's going, then I'm going, too!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0117",
+    "original": "It looks like Takuto's finally\nback to his old self, isn't he?",
+    "translation": "It looks like Takuto's finally\nback to his old self, isn't he?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0118",
+    "original": "You must be tired too, right? \nWhy don't you take a break?\nYou really saved all of us, after all.\nIt must have been tough...\nThank you, ^P.\n\nAnd I'm sure it's not just us \nwho're thankful, either.\nI'm sure other Digimon and \nTamers also feel the same♪",
+    "translation": "You must be tired too, right? \nWhy don't you take a break?\nYou really saved all of us, after all.\nIt must have been tough...\nThank you, ^P.\n\nAnd I'm sure it's not just us \nwho're thankful, either.\nI'm sure other Digimon and \nTamers also feel the same♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0119",
+    "original": "Good morning, ^P,\ndid you sleep well?",
+    "translation": "Good morning, ^P,\ndid you sleep well?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0120",
+    "original": "You must have been exhausted.\nYou were out like a light!\n...well, I guess that's not much \nof a surprise, though.",
+    "translation": "You must have been exhausted.\nYou were out like a light!\n...well, I guess that's not much \nof a surprise, though.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0121",
+    "original": "After everything that happened,\nwe're all safe and sound.\nAnd it's all thanks to you, all\nthe trouble you went through...\n^P, I want to thank you \nagain for everything you did.",
+    "translation": "After everything that happened,\nwe're all safe and sound.\nAnd it's all thanks to you, all\nthe trouble you went through...\n^P, I want to thank you \nagain for everything you did.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0122",
+    "original": "I gotta thank you for saving Yui and\nTakuto, too.\nThanks, ^P.",
+    "translation": "I gotta thank you for saving Yui and\nTakuto, too.\nThanks, ^P.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0123",
+    "original": "Okay, it's time! This is your chance\nto show your strength, ^P.\nGive it your all at the Colosseum! \nDon't hold back now!",
+    "translation": "Okay, it's time! This is your chance\nto show your strength, ^P.\nGive it your all at the Colosseum! \nDon't hold back now!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0124",
+    "original": "Yeah! Do your best, ^P!",
+    "translation": "Yeah! Do your best, ^P!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0125",
+    "original": "Asuka and the others have been\nwaiting for you to wake up.\nBe sure to go check on them at\nthe Entrance later, got it?",
+    "translation": "Asuka and the others have been\nwaiting for you to wake up.\nBe sure to go check on them at\nthe Entrance later, got it?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0126",
+    "original": "Hm? Could it be..? You're...\n^P...?\nDo you remember me? I'm Lumor.\nWe fought at West City.",
+    "translation": "Hm? Could it be..? You're...\n^P...?\nDo you remember me? I'm Lumor.\nWe fought at West City.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0127",
+    "original": "You know everyone here's \nwatching you closely, right?\nThey say you've got the most \npromise as future World Champion!\nBut I mean, I knew you were\nChampion material all along!\nIt was pretty easy to tell from\nour battle!\nI have no doubt you'll make your\nway through this...\nAnd earn the rank of \nPlatinum Tamer!",
+    "translation": "You know everyone here's \nwatching you closely, right?\nThey say you've got the most \npromise as future World Champion!\nBut I mean, I knew you were\nChampion material all along!\nIt was pretty easy to tell from\nour battle!\nI have no doubt you'll make your\nway through this...\nAnd earn the rank of \nPlatinum Tamer!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0128",
+    "original": "If you're wondering what's so\nspecial about this Championship...\nIt's that they're using this \nColosseum itself, copied from\nthe system of the original \nTamer Union!\nHere, winning battles repeatedly\nraises your Tamer Ranking.\nAnd to get certified and recognised\nby the Tamer Union...\nThat's the ultimate honor for \na Tamer!",
+    "translation": "If you're wondering what's so\nspecial about this Championship...\nIt's that they're using this \nColosseum itself, copied from\nthe system of the original \nTamer Union!\nHere, winning battles repeatedly\nraises your Tamer Ranking.\nAnd to get certified and recognised\nby the Tamer Union...\nThat's the ultimate honor for \na Tamer!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0129",
+    "original": "When you're ready to register for\nthe Championship,\nJust talk to Minomon at the\ncounter over there.\nBut he won't let you enter if you \ndon't have enough Tamer Points.\nYou've not been assigned a Tamer\nRank yet, have you, ^P?\nOkay, then you'll need to win \nthe first round...\nDo that, and you'll earn your first\nrank - Bronze Rank!\n",
+    "translation": "When you're ready to register for\nthe Championship,\nJust talk to Minomon at the\ncounter over there.\nBut he won't let you enter if you \ndon't have enough Tamer Points.\nYou've not been assigned a Tamer\nRank yet, have you, ^P?\nOkay, then you'll need to win \nthe first round...\nDo that, and you'll earn your first\nrank - Bronze Rank!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0130",
+    "original": "You should really go speak to the \nDarkdramon behind the counter too.\nI hear you'll be able to receive \nsome really cool rewards,\nIf you win your match and officially\nraise your rank! \n\n\n",
+    "translation": "You should really go speak to the \nDarkdramon behind the counter too.\nI hear you'll be able to receive \nsome really cool rewards,\nIf you win your match and officially\nraise your rank! \n\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0131",
+    "original": "Oh, and since the matches take place\nback-to-back with no breaks, \nBe careful not to waste your MP\nwhile battling, okay?\nMake sure to stock up on healing \nitems with Pandamon over there, \nAnd prepare thoroughly before you\nhead in to your match!",
+    "translation": "Oh, and since the matches take place\nback-to-back with no breaks, \nBe careful not to waste your MP\nwhile battling, okay?\nMake sure to stock up on healing \nitems with Pandamon over there, \nAnd prepare thoroughly before you\nhead in to your match!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0132",
+    "original": "Once you've completed your entry \nfor the Championship...\nSpeak to the Guide Staff, and they\nwill bring you to the Battle Stage. ",
+    "translation": "Once you've completed your entry \nfor the Championship...\nSpeak to the Guide Staff, and they\nwill bring you to the Battle Stage. ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0133",
+    "original": "I really should warn you, though...\n\nOnce you're registered, you can't \nleave the Colosseum until it's over.\nIf you want to leave the area,\nyou need to talk to Minomon again.",
+    "translation": "I really should warn you, though...\n\nOnce you're registered, you can't \nleave the Colosseum until it's over.\nIf you want to leave the area,\nyou need to talk to Minomon again.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0134",
+    "original": "Alright then, good luck out there!",
+    "translation": "Alright then, good luck out there!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0135",
+    "original": "Hi there! This is the Entry Desk for\nthe World Championship, \nWhich doubles as the Tamer \nRanking Battle Series!\nWould you like to challenge the\nWorld Championship?",
+    "translation": "Hi there! This is the Entry Desk for\nthe World Championship, \nWhich doubles as the Tamer \nRanking Battle Series!\nWould you like to challenge the\nWorld Championship?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0136",
+    "original": "^P! You've gotta help, \nwe're under attack by Erasers!\nYou're a Platinum Tamer, so...\nyou can save everyone, right?\nRight?!",
+    "translation": "^P! You've gotta help, \nwe're under attack by Erasers!\nYou're a Platinum Tamer, so...\nyou can save everyone, right?\nRight?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0137",
+    "original": "Would you like to enter Round 1\nof the Championship?",
+    "translation": "Would you like to enter Round 1\nof the Championship?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0138",
+    "original": "Enter",
+    "translation": "Enter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0139",
+    "original": "Don't enter",
+    "translation": "Don't enter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0140",
+    "original": "\nWould you like to enter Round 2\nof the Championship?\n",
+    "translation": "\nWould you like to enter Round 2\nof the Championship?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0141",
+    "original": "Enter",
+    "translation": "Enter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0142",
+    "original": "Don't enter",
+    "translation": "Don't enter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0143",
+    "original": "Would you like to enter Round 3,\nthe Championship Semifinals?",
+    "translation": "Would you like to enter Round 3,\nthe Championship Semifinals?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0144",
+    "original": "Enter",
+    "translation": "Enter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0145",
+    "original": "Don't enter",
+    "translation": "Don't enter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0146",
+    "original": "\nEnter the Final Round \nof the Championships?\n",
+    "translation": "\nEnter the Final Round \nof the Championships?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0147",
+    "original": "Enter",
+    "translation": "Enter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0148",
+    "original": "Don't enter",
+    "translation": "Don't enter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0149",
+    "original": "You're looking for a Rank Up Battle\nfor higher than Platinum Tamer...?\nThere seems to be a Rank called\nLegend Tamer, but...\nNo Tamers have entered, and there\nare no opponents to fight...\nIt looks like that rank hasn't been\nopened in a very long time.\nIn other words, even the rank\nitself is little more than a legend.\nI heard that a legend sleeps on\nArchive Island, but...\nI don't think anyone knows the \ndetails behind it...",
+    "translation": "You're looking for a Rank Up Battle\nfor higher than Platinum Tamer...?\nThere seems to be a Rank called\nLegend Tamer, but...\nNo Tamers have entered, and there\nare no opponents to fight...\nIt looks like that rank hasn't been\nopened in a very long time.\nIn other words, even the rank\nitself is little more than a legend.\nI heard that a legend sleeps on\nArchive Island, but...\nI don't think anyone knows the \ndetails behind it...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0150",
+    "original": "Would you like to enter the Rank Up\nBattle for Legend Tamer Rank?",
+    "translation": "Would you like to enter the Rank Up\nBattle for Legend Tamer Rank?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0151",
+    "original": "Enter",
+    "translation": "Enter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0152",
+    "original": "Don't enter",
+    "translation": "Don't enter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0153",
+    "original": "Huh? You're the Legendary Tamer,\n^P, aren't you?\nYou know you can't enter more \nRank Up Battles here, right?\nThere's no rank higher than yours, \nafter all.",
+    "translation": "Huh? You're the Legendary Tamer,\n^P, aren't you?\nYou know you can't enter more \nRank Up Battles here, right?\nThere's no rank higher than yours, \nafter all.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0154",
+    "original": "Hm? Looks like you don't have\nenough Tamer Points.\nIn order to challenge Round 1 of the\nChampionship,\nAnd to take part in the Bronze\nRank Up Battle,\nYou need at least 25,000 Tamer\nPoints, okay?",
+    "translation": "Hm? Looks like you don't have\nenough Tamer Points.\nIn order to challenge Round 1 of the\nChampionship,\nAnd to take part in the Bronze\nRank Up Battle,\nYou need at least 25,000 Tamer\nPoints, okay?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0155",
+    "original": "Hm? Looks like you don't have\nenough Tamer Points.\nIn order to challenge Round 2 of the\nChampionship,\nAnd to take part in the Silver\nRank Up Battle,\nYou need at least 27,500 Tamer\nPoints, alright?\n",
+    "translation": "Hm? Looks like you don't have\nenough Tamer Points.\nIn order to challenge Round 2 of the\nChampionship,\nAnd to take part in the Silver\nRank Up Battle,\nYou need at least 27,500 Tamer\nPoints, alright?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0156",
+    "original": "Hm? Looks like you don't have\nenough Tamer Points.\nIn order to challenge Round 3, the \nSemifinals of the Championship,\nAnd to take part in the Gold\nRank Up Battle,\nYou need at least 37,500 Tamer\nPoints, got that?\n",
+    "translation": "Hm? Looks like you don't have\nenough Tamer Points.\nIn order to challenge Round 3, the \nSemifinals of the Championship,\nAnd to take part in the Gold\nRank Up Battle,\nYou need at least 37,500 Tamer\nPoints, got that?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0157",
+    "original": "Hm? Looks like you don't have\nenough Tamer Points.\nIn order to challenge the Final\nRound of the Championship,\nAnd to take part in the Platinum\nRank Up Battle,\nYou need at least 57,500 Tamer\nPoints, you see?\n",
+    "translation": "Hm? Looks like you don't have\nenough Tamer Points.\nIn order to challenge the Final\nRound of the Championship,\nAnd to take part in the Platinum\nRank Up Battle,\nYou need at least 57,500 Tamer\nPoints, you see?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0158",
+    "original": "Hm? Looks like you don't have\nenough Tamer Points.\nIn order to take part in the\nPlatinum Rank Up Battle,\nThe amount of Tamer Points\nyou need is...\n127,500 Points, okay?\n",
+    "translation": "Hm? Looks like you don't have\nenough Tamer Points.\nIn order to take part in the\nPlatinum Rank Up Battle,\nThe amount of Tamer Points\nyou need is...\n127,500 Points, okay?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0159",
+    "original": "Come again when you're ready\nfor the challenge, alright?",
+    "translation": "Come again when you're ready\nfor the challenge, alright?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0160",
+    "original": "Alright! I'll enter you into the \nsystem now, okay?\n.............................\n.............................\nOkay, entry processed!\n\nDon't forget, while you're entered \nyou cannot exit the Colosseum.\nDon't go forgetting now, okay?",
+    "translation": "Alright! I'll enter you into the \nsystem now, okay?\n.............................\n.............................\nOkay, entry processed!\n\nDon't forget, while you're entered \nyou cannot exit the Colosseum.\nDon't go forgetting now, okay?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0161",
+    "original": "Good luck!",
+    "translation": "Good luck!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0162",
+    "original": "Huh...?\n\nYou'd like to cancel your entry?",
+    "translation": "Huh...?\n\nYou'd like to cancel your entry?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0163",
+    "original": "Would you like to cancel your\nentry?",
+    "translation": "Would you like to cancel your\nentry?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0164",
+    "original": "Cancel it",
+    "translation": "Cancel it",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0165",
+    "original": "Don't cancel it",
+    "translation": "Don't cancel it",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0166",
+    "original": "Talk to me whenever you want to\ncancel your entry, alright?",
+    "translation": "Talk to me whenever you want to\ncancel your entry, alright?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0167",
+    "original": "Okay! I'll cancel your entry right\naway...\n..............................\n..............................\nCancellation processed!\n\nWhen you want to try again,\njust come back here, alright?",
+    "translation": "Okay! I'll cancel your entry right\naway...\n..............................\n..............................\nCancellation processed!\n\nWhen you want to try again,\njust come back here, alright?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0168",
+    "original": "Wait a minute!",
+    "translation": "Wait a minute!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0169",
+    "original": "You can't leave here!\n\nCompetitors with upcoming battles\ncan't exit the Colosseum...\nIf you want to leave, you've gotta\ngo cancel your entry, remember?",
+    "translation": "You can't leave here!\n\nCompetitors with upcoming battles\ncan't exit the Colosseum...\nIf you want to leave, you've gotta\ngo cancel your entry, remember?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0170",
+    "original": "The only ones allowed to pass here\nand enter the Battle Stage...\nAre those Tamers who have\nregistered for the Championships.",
+    "translation": "The only ones allowed to pass here\nand enter the Battle Stage...\nAre those Tamers who have\nregistered for the Championships.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0171",
+    "original": "It looks like you've signed up for\nthe Championships.",
+    "translation": "It looks like you've signed up for\nthe Championships.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0172",
+    "original": "Are you ready to go?",
+    "translation": "Are you ready to go?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0173",
+    "original": "Ready to enter the Battle Stage?",
+    "translation": "Ready to enter the Battle Stage?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0174",
+    "original": "Let's go!",
+    "translation": "Let's go!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0175",
+    "original": "Wait",
+    "translation": "Wait",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0176",
+    "original": "Understood.\n\nWhen you've finished preparing,\njust come talk to me.",
+    "translation": "Understood.\n\nWhen you've finished preparing,\njust come talk to me.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0177",
+    "original": "Then please, come this way.",
+    "translation": "Then please, come this way.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0178",
+    "original": "Using this portal, you can make \nyour way to the Battle Stage.\nGood luck!",
+    "translation": "Using this portal, you can make \nyour way to the Battle Stage.\nGood luck!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0179",
+    "original": "This portal is currently in use.\nIf you want to access the Stage,\nCould you please use the portal\non the opposite side?",
+    "translation": "This portal is currently in use.\nIf you want to access the Stage,\nCould you please use the portal\non the opposite side?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0180",
+    "original": "So you've come, ^P!\n\nAllow me to check your data!",
+    "translation": "So you've come, ^P!\n\nAllow me to check your data!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0181",
+    "original": "Congratulations! With this, you've\nachieved the rank of Bronze Tamer!\nHere's a reward from the new \nTamer Union for your achievement!",
+    "translation": "Congratulations! With this, you've\nachieved the rank of Bronze Tamer!\nHere's a reward from the new \nTamer Union for your achievement!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0182",
+    "original": "You did it! You got that Silver\nTamer rank in no time!\nHere's a reward from the new \nTamer Union for your achievement!",
+    "translation": "You did it! You got that Silver\nTamer rank in no time!\nHere's a reward from the new \nTamer Union for your achievement!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0183",
+    "original": "That's amazing! You've achieved \nthe rank of Gold Tamer!\nHere's a reward from the new \nTamer Union for your achievement!",
+    "translation": "That's amazing! You've achieved \nthe rank of Gold Tamer!\nHere's a reward from the new \nTamer Union for your achievement!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0184",
+    "original": "Incredible! You've finally \nreached Platinum Tamer rank!\nHere's a reward from the new \nTamer Union for your achievement!",
+    "translation": "Incredible! You've finally \nreached Platinum Tamer rank!\nHere's a reward from the new \nTamer Union for your achievement!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0185",
+    "original": "I... can't believe it... You've \nachieved Legend Tamer rank...\nHere's a reward from the new \nTamer Union for your achievement!",
+    "translation": "I... can't believe it... You've \nachieved Legend Tamer rank...\nHere's a reward from the new \nTamer Union for your achievement!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0186",
+    "original": "Hey, you're already a Legend\nTamer, aren't you?\nI don't have anything else to give\nyou... really, it's your turn now!",
+    "translation": "Hey, you're already a Legend\nTamer, aren't you?\nI don't have anything else to give\nyou... really, it's your turn now!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0187",
+    "original": "I don't have any rewards to give\nyou...\nCome again some other time...",
+    "translation": "I don't have any rewards to give\nyou...\nCome again some other time...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0188",
+    "original": "Obtained a piece of Equipment!\n^i",
+    "translation": "Obtained a piece of Equipment!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0189",
+    "original": "Obtained a piece of Equipment!\n^i",
+    "translation": "Obtained a piece of Equipment!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0190",
+    "original": "Obtained a piece of Equipment!\n^i",
+    "translation": "Obtained a piece of Equipment!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0191",
+    "original": "Obtained a piece of Equipment!\n^i",
+    "translation": "Obtained a piece of Equipment!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0192",
+    "original": "Obtained a piece of Equipment!\n^i",
+    "translation": "Obtained a piece of Equipment!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0193",
+    "original": "Well done! Keep it up!",
+    "translation": "Well done! Keep it up!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0194",
+    "original": "Sorry, but we don't have any\nrewards for a Novice Tamer.\nCome back when you've achieved\nBronze Tamer or higher!",
+    "translation": "Sorry, but we don't have any\nrewards for a Novice Tamer.\nCome back when you've achieved\nBronze Tamer or higher!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0195",
+    "original": "This is Pandamon's Item shop!\n\nNeed anything?",
+    "translation": "This is Pandamon's Item shop!\n\nNeed anything?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0196",
+    "original": "If you're ever in need of items,\ndon't hesitate to come back!",
+    "translation": "If you're ever in need of items,\ndon't hesitate to come back!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0197",
+    "original": "Here it is! Round 1 of the World\nChampionships!\nThe winning Tamer will rank up and\nbecome a Bronze Rank Tamer!\nTamers, please step onto the \nBattle Stage!",
+    "translation": "Here it is! Round 1 of the World\nChampionships!\nThe winning Tamer will rank up and\nbecome a Bronze Rank Tamer!\nTamers, please step onto the \nBattle Stage!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0198",
+    "original": "First we have the Fiery Rookie,\nthe up-and-coming ^P!\nAnd their opponent will be the\nveteran Tamer, Crear!\nHe's making a special appearance \nas the only Senior Class Tamer!",
+    "translation": "First we have the Fiery Rookie,\nthe up-and-coming ^P!\nAnd their opponent will be the\nveteran Tamer, Crear!\nHe's making a special appearance \nas the only Senior Class Tamer!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0006_0199",
+    "original": "You better not have forgotten \nabout me, brat!\nI may have allowed you the grace of\nwinning back in East City...\nHowever, I, the King Tamer, will \nnot be holding back this time.\nEntering this Championship was\na cakewalk!\nIf you dare to underestimate me,\nyou're in for a world of hurt!",
+    "translation": "You better not have forgotten \nabout me, brat!\nI may have allowed you the grace of\nwinning back in East City...\nHowever, I, the King Tamer, will \nnot be holding back this time.\nEntering this Championship was\na cakewalk!\nIf you dare to underestimate me,\nyou're in for a world of hurt!",
+    "stage": 1,
+    "context": ""
+  }
+]

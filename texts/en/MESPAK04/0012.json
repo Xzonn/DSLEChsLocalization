@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK04_0012_0000",
+    "original": "Bombards the enemy to a crisp \nwith dark energy.",
+    "translation": "Bombards the enemy to a crisp \nwith dark energy.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0001",
+    "original": "Bombards the enemy with space-\ntime-destroying dark energy.",
+    "translation": "Bombards the enemy with space-\ntime-destroying dark energy.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0002",
+    "original": "Slashes the enemy with claws engulfed \nin the power of darkness. \n★Poison",
+    "translation": "Slashes the enemy with claws engulfed \nin the power of darkness. \n★Poison",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0003",
+    "original": "Slashes the enemy with sharp claws engulfed\nin the power of darkness. \n★Poison",
+    "translation": "Slashes the enemy with sharp claws engulfed\nin the power of darkness. \n★Poison",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0004",
+    "original": "Slashes at the enemy with claws engulfed in\npowerful dark energy. \n★Poison",
+    "translation": "Slashes at the enemy with claws engulfed in\npowerful dark energy. \n★Poison",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0005",
+    "original": "Slashes at the enemy with cursed claws.\n★Sleep",
+    "translation": "Slashes at the enemy with cursed claws.\n★Sleep",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0006",
+    "original": "Slashes at the enemy with claws engulfed in\nchaotic energy. \n★Confusion",
+    "translation": "Slashes at the enemy with claws engulfed in\nchaotic energy. \n★Confusion",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0007",
+    "original": "Slashes at the enemy with claws of jet-black\nevil energy.\n★Death",
+    "translation": "Slashes at the enemy with claws of jet-black\nevil energy.\n★Death",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0008",
+    "original": "Throws poop at the enemy in a fearsome\nattack.",
+    "translation": "Throws poop at the enemy in a fearsome\nattack.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0009",
+    "original": "Throws numerous poops at the enemy in the\nultimate attack.",
+    "translation": "Throws numerous poops at the enemy in the\nultimate attack.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0010",
+    "original": "Sets up a barrier, increasing the allies\ndefence. \n★Stun",
+    "translation": "Sets up a barrier, increasing the allies\ndefence. \n★Stun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0011",
+    "original": "Uses mythical power to summon and encase\nthe opponent in a pyramid of light.",
+    "translation": "Uses mythical power to summon and encase\nthe opponent in a pyramid of light.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0012",
+    "original": "Attacks with the power of evil and lowers the\nenemys defence.",
+    "translation": "Attacks with the power of evil and lowers the\nenemys defence.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0013",
+    "original": "Lowers the enemy's defence by \nperforming a dark ritual. \n★Stun",
+    "translation": "Lowers the enemy's defence by \nperforming a dark ritual. \n★Stun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0014",
+    "original": "Spits bubbles of light energy at the\nopponent.",
+    "translation": "Spits bubbles of light energy at the\nopponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0015",
+    "original": "Spits bubbles of dark energy at the\nopponent.",
+    "translation": "Spits bubbles of dark energy at the\nopponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0016",
+    "original": "Fires tiny balls of dark energy at the\nopponent.",
+    "translation": "Fires tiny balls of dark energy at the\nopponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0017",
+    "original": "Attacks with a tiny shot of water.",
+    "translation": "Attacks with a tiny shot of water.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0018",
+    "original": "Shoots powerful glimmering balls of light at\nthe opponent.",
+    "translation": "Shoots powerful glimmering balls of light at\nthe opponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0019",
+    "original": "Shoots powerful balls packed full of dark\nenergy.",
+    "translation": "Shoots powerful balls packed full of dark\nenergy.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0020",
+    "original": "Shoots powerful balls of blazing fire at the\nopponent.",
+    "translation": "Shoots powerful balls of blazing fire at the\nopponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0021",
+    "original": "Summons a powerful tsunami.",
+    "translation": "Summons a powerful tsunami.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0022",
+    "original": "Shoots a ball of shining rainbow- colored fire\nat the opponent.",
+    "translation": "Shoots a ball of shining rainbow- colored fire\nat the opponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0023",
+    "original": "Shoots a powerful ball of shining \nrainbow-colored fire at the opponent.",
+    "translation": "Shoots a powerful ball of shining \nrainbow-colored fire at the opponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0024",
+    "original": "Shoots electrifed needles at the opponent.\n★Paralysis",
+    "translation": "Shoots electrifed needles at the opponent.\n★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0025",
+    "original": "Shoots a ball of burning blue fire at the\nopponent.",
+    "translation": "Shoots a ball of burning blue fire at the\nopponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0026",
+    "original": "Smashes the opponent with an iron ball\ncovered in spikes. \n★Confusion",
+    "translation": "Smashes the opponent with an iron ball\ncovered in spikes. \n★Confusion",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0027",
+    "original": "Unleashes a barrage of electrified bullets at\nthe opponent. \n★Paralysis",
+    "translation": "Unleashes a barrage of electrified bullets at\nthe opponent. \n★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0028",
+    "original": "Unleashes throwing stars aimed at the\nopponents vital spots. \n★Death",
+    "translation": "Unleashes throwing stars aimed at the\nopponents vital spots. \n★Death",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0029",
+    "original": "Unleashes powerful bolts of blue lightning\nupon the opponent.",
+    "translation": "Unleashes powerful bolts of blue lightning\nupon the opponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0030",
+    "original": "Uses the power of flames to increase an\nally's attack.",
+    "translation": "Uses the power of flames to increase an\nally's attack.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0031",
+    "original": "Uses the power of intense flames to increase\nan ally's attack.",
+    "translation": "Uses the power of intense flames to increase\nan ally's attack.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0032",
+    "original": "Uses the power of incredibly intense flames\nto increase an ally's attack.",
+    "translation": "Uses the power of incredibly intense flames\nto increase an ally's attack.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0033",
+    "original": "Releases a mysterious secretion that zaps\nthe opponents willpower, lowering their\nattack.",
+    "translation": "Releases a mysterious secretion that zaps\nthe opponents willpower, lowering their\nattack.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0034",
+    "original": "Calls upon the power of water to raise an\nally's defense.",
+    "translation": "Calls upon the power of water to raise an\nally's defense.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0035",
+    "original": "Calls upon the power of water to raise an\nally's defense greatly.",
+    "translation": "Calls upon the power of water to raise an\nally's defense greatly.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0036",
+    "original": "Calls upon the power of water to raise an\nally's defense incredibly.",
+    "translation": "Calls upon the power of water to raise an\nally's defense incredibly.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0037",
+    "original": "Unleashes a barrage of nanomachines that\ndestroys the opponent from the inside.",
+    "translation": "Unleashes a barrage of nanomachines that\ndestroys the opponent from the inside.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0038",
+    "original": "Calls upon the power of light to increase an\nally's Speed.",
+    "translation": "Calls upon the power of light to increase an\nally's Speed.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0039",
+    "original": "Calls upon the power of light to increase an\nally's Speed greatly.",
+    "translation": "Calls upon the power of light to increase an\nally's Speed greatly.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0040",
+    "original": "Calls upon the power of light to increase an\nally's Speed incredibly.",
+    "translation": "Calls upon the power of light to increase an\nally's Speed incredibly.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0041",
+    "original": "Confuses the opponent with dark honeyed\nwords. \n★Confusion",
+    "translation": "Confuses the opponent with dark honeyed\nwords. \n★Confusion",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0042",
+    "original": "Looks into the opponents heart to read and\nmatch their movements. Increases an ally's\nSpeed.",
+    "translation": "Looks into the opponents heart to read and\nmatch their movements. Increases an ally's\nSpeed.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0043",
+    "original": "Uses the power of machinery to increase an\nally's Speed.",
+    "translation": "Uses the power of machinery to increase an\nally's Speed.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0044",
+    "original": "An attack that freezes the ground solid,\nincreasing the user's Speed.",
+    "translation": "An attack that freezes the ground solid,\nincreasing the user's Speed.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0045",
+    "original": "Attacks with a net made from electricity,\nincreasing the user's Speed. \n★Stun",
+    "translation": "Attacks with a net made from electricity,\nincreasing the user's Speed. \n★Stun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0046",
+    "original": "Calls upon the power of glimmering light to\ngive an ally the Counter effect.",
+    "translation": "Calls upon the power of glimmering light to\ngive an ally the Counter effect.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0047",
+    "original": "Calls upon the power of freezing darkness to\ngive an ally the Counter effect.",
+    "translation": "Calls upon the power of freezing darkness to\ngive an ally the Counter effect.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0048",
+    "original": "Calls upon the power of blazing fire to give\nan ally the Counter effect.",
+    "translation": "Calls upon the power of blazing fire to give\nan ally the Counter effect.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0012_0049",
+    "original": "Confuses the opponent by shining light on the\ndarkness in their heart.",
+    "translation": "Confuses the opponent by shining light on the\ndarkness in their heart.",
+    "stage": 1,
+    "context": ""
+  }
+]

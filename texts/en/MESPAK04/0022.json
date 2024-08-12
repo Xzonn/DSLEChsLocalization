@@ -1,0 +1,170 @@
+[
+  {
+    "key": "MESPAK04_0022_0026",
+    "original": "Restores a Digimon's HP by 300.",
+    "translation": "Restores a Digimon's HP by 300.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0027",
+    "original": "Restores a Digimon's HP by 1000.",
+    "translation": "Restores a Digimon's HP by 1000.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0028",
+    "original": "Restores a row of Digimons' HP by 300.",
+    "translation": "Restores a row of Digimons' HP by 300.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0029",
+    "original": "Restores a row of Digimons' HP by 1000.",
+    "translation": "Restores a row of Digimons' HP by 1000.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0030",
+    "original": "Restores a row of Digimons' HP by 2000.",
+    "translation": "Restores a row of Digimons' HP by 2000.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0031",
+    "original": "Restores a Digimon's MP by 500.",
+    "translation": "Restores a Digimon's MP by 500.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0032",
+    "original": "Restores a Digimon's MP by 1000.",
+    "translation": "Restores a Digimon's MP by 1000.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0033",
+    "original": "Restores a row of Digimons' MP by 500.",
+    "translation": "Restores a row of Digimons' MP by 500.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0034",
+    "original": "Restores a row of Digimons' MP by\n1000.",
+    "translation": "Restores a row of Digimons' MP by\n1000.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0035",
+    "original": "Restores a row of Digimons' MP by \n2000.",
+    "translation": "Restores a row of Digimons' MP by \n2000.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0036",
+    "original": "Fully restores a single Digimon's HP, \nMP and Status.",
+    "translation": "Fully restores a single Digimon's HP, \nMP and Status.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0037",
+    "original": "Fully restores a row of Digimons' HP, \nMP and Status.",
+    "translation": "Fully restores a row of Digimons' HP, \nMP and Status.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0038",
+    "original": "Cures Confusion for one currently \nbattling Digimon.",
+    "translation": "Cures Confusion for one currently \nbattling Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0039",
+    "original": "Cures Paralysis for one currently battling \nDigimon.",
+    "translation": "Cures Paralysis for one currently battling \nDigimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0040",
+    "original": "Cures Poison for one currently battling \nDigimon.",
+    "translation": "Cures Poison for one currently battling \nDigimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0041",
+    "original": "Cures Sleep for one currently battling \nDigimon.",
+    "translation": "Cures Sleep for one currently battling \nDigimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0042",
+    "original": "Fully cures one currently battling \nDigimon of all status effects.",
+    "translation": "Fully cures one currently battling \nDigimon of all status effects.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0043",
+    "original": "Revives one currently battling Digimon.",
+    "translation": "Revives one currently battling Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0044",
+    "original": "Use this to be instantly \ntransported to the DigiBase.",
+    "translation": "Use this to be instantly \ntransported to the DigiBase.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0045",
+    "original": "The shell of a recently born Digimon's \negg. There are no uses for this.",
+    "translation": "The shell of a recently born Digimon's \negg. There are no uses for this.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0046",
+    "original": "A DigiPlate with a lower score than \nothers you possess. There is no use for \nthis DigiPlate.",
+    "translation": "A DigiPlate with a lower score than \nothers you possess. There is no use for \nthis DigiPlate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0047",
+    "original": "Use this during battle and it'll increase all \nparticipants' EXP by 500.",
+    "translation": "Use this during battle and it'll increase all \nparticipants' EXP by 500.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0048",
+    "original": "Use this during battle and it'll increase all\nparticipants' EXP by 2000.",
+    "translation": "Use this during battle and it'll increase all\nparticipants' EXP by 2000.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0022_0049",
+    "original": "Use this during battle and it'll increase all\nparticipants' EXP by 8000.",
+    "translation": "Use this during battle and it'll increase all\nparticipants' EXP by 8000.",
+    "stage": 1,
+    "context": ""
+  }
+]

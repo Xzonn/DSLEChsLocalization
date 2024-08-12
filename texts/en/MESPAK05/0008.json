@@ -1,0 +1,702 @@
+[
+  {
+    "key": "MESPAK05_0008_0000",
+    "original": "Oh, this is a Digimon Keychain...\n\nLooks quite interesting.\nI think I'll give it a try...",
+    "translation": "Oh, this is a Digimon Keychain...\n\nLooks quite interesting.\nI think I'll give it a try...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0001",
+    "original": "It's reminicent of raising a child,\nhow fun...\nMy Friendship level increased a little.",
+    "translation": "It's reminicent of raising a child,\nhow fun...\nMy Friendship level increased a little.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0002",
+    "original": "I-It's fun, but a little difficult,\nI must admit...",
+    "translation": "I-It's fun, but a little difficult,\nI must admit...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0003",
+    "original": "Oh, if it isn't a Mobile Phone!\n\nI wonder if I can send an email\nto ^P...?",
+    "translation": "Oh, if it isn't a Mobile Phone!\n\nI wonder if I can send an email\nto ^P...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0004",
+    "original": "Oh! ^P sent me a reply!\n\nMy Friendship level increased a lot!",
+    "translation": "Oh! ^P sent me a reply!\n\nMy Friendship level increased a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0005",
+    "original": "I never received a reply...\nI must say, I'm disappointed...",
+    "translation": "I never received a reply...\nI must say, I'm disappointed...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0006",
+    "original": "Oh, a Digital Camera!\nIt must be ^P's...\nI'll take a photo of myself!",
+    "translation": "Oh, a Digital Camera!\nIt must be ^P's...\nI'll take a photo of myself!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0007",
+    "original": "It worked! The picture came out\nbeautifully!\nMy Friendship level increased a lot!",
+    "translation": "It worked! The picture came out\nbeautifully!\nMy Friendship level increased a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0008",
+    "original": "Oh no, I didn't make it in time...",
+    "translation": "Oh no, I didn't make it in time...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0009",
+    "original": "There's even a Flaming Wheel here,\nhuh?\nI-it's a little scary, I must say...\nBut I'll give it a try.",
+    "translation": "There's even a Flaming Wheel here,\nhuh?\nI-it's a little scary, I must say...\nBut I'll give it a try.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0010",
+    "original": "Haaah... I somehow managed.\nI'm so relieved...\nMy EXP increased a bit.",
+    "translation": "Haaah... I somehow managed.\nI'm so relieved...\nMy EXP increased a bit.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0011",
+    "original": "Whoa! I can't do it! It's impossible!",
+    "translation": "Whoa! I can't do it! It's impossible!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0012",
+    "original": "This is a Fiery Road, correct?\n\nYou're not expecting me to be able\nto cross it... are you?",
+    "translation": "This is a Fiery Road, correct?\n\nYou're not expecting me to be able\nto cross it... are you?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0013",
+    "original": "Whoa! It was hot, but I managed\nto get through!\nMy EXP increased.",
+    "translation": "Whoa! It was hot, but I managed\nto get through!\nMy EXP increased.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0014",
+    "original": "Whoa! I-It's so hot!\nI can't keep going!",
+    "translation": "Whoa! I-It's so hot!\nI can't keep going!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0015",
+    "original": "Oh, these are Fireworks...\n\nIt'd be a waste to just leave them\nhere, so...",
+    "translation": "Oh, these are Fireworks...\n\nIt'd be a waste to just leave them\nhere, so...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0016",
+    "original": "They sure are a sight to behold!\n\nMy EXP increased a lot!",
+    "translation": "They sure are a sight to behold!\n\nMy EXP increased a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0017",
+    "original": "O-oh, they didn't go off...?\nBut they seemed in working order.",
+    "translation": "O-oh, they didn't go off...?\nBut they seemed in working order.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0018",
+    "original": "Oh, this ball sure is big...\n\nYou're implying I should try\nbalancing atop it...",
+    "translation": "Oh, this ball sure is big...\n\nYou're implying I should try\nbalancing atop it...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0019",
+    "original": "I managed to balance quite well!\nThis was a lot of fun...\nMy EXP increased a little.",
+    "translation": "I managed to balance quite well!\nThis was a lot of fun...\nMy EXP increased a little.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0020",
+    "original": "I-I'm swaying too much, \nit's too dangerous...!",
+    "translation": "I-I'm swaying too much, \nit's too dangerous...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0021",
+    "original": "T-this is a Tightrope...\n\nI-I'm not very confident in this...\nBut I'll give it a try...",
+    "translation": "T-this is a Tightrope...\n\nI-I'm not very confident in this...\nBut I'll give it a try...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0022",
+    "original": "I-I did it...\nI somehow succeeded!\nMy EXP increased.",
+    "translation": "I-I did it...\nI somehow succeeded!\nMy EXP increased.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0023",
+    "original": "I-I knew it, I'm too scared!\nI apologise...",
+    "translation": "I-I knew it, I'm too scared!\nI apologise...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0024",
+    "original": "If I'm not mistaken, this is a\nCircus Tent...\nI wonder if I'll learn something if I\ngo inside?",
+    "translation": "If I'm not mistaken, this is a\nCircus Tent...\nI wonder if I'll learn something if I\ngo inside?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0025",
+    "original": "They praised me, saying my\ntechniques were great!\nMy EXP increased a lot!",
+    "translation": "They praised me, saying my\ntechniques were great!\nMy EXP increased a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0026",
+    "original": "U-unfortunately it seems I don't\nhave any talent for this...",
+    "translation": "U-unfortunately it seems I don't\nhave any talent for this...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0027",
+    "original": "Oh, this is a Mini-Shower...\n\nThat looks nice!\nI really love a good shower!",
+    "translation": "Oh, this is a Mini-Shower...\n\nThat looks nice!\nI really love a good shower!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0028",
+    "original": "Ahh, that was refreshing!\nI feel reborn anew!\nMy EXP increased a little.",
+    "translation": "Ahh, that was refreshing!\nI feel reborn anew!\nMy EXP increased a little.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0029",
+    "original": "B-but, it's an outdoor shower...\nI'm too embarassed...",
+    "translation": "B-but, it's an outdoor shower...\nI'm too embarassed...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0030",
+    "original": "Oh, this is a Mini-Pond used for\nfishing.\nI wonder if I have any talent when\nit comes to fishing?",
+    "translation": "Oh, this is a Mini-Pond used for\nfishing.\nI wonder if I have any talent when\nit comes to fishing?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0031",
+    "original": "I did it! I caught some fish!\nThis was a lot of fun!\nMy EXP increased.",
+    "translation": "I did it! I caught some fish!\nThis was a lot of fun!\nMy EXP increased.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0032",
+    "original": "I couldn't catch a thing...\nI guess I'm just no good.",
+    "translation": "I couldn't catch a thing...\nI guess I'm just no good.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0033",
+    "original": "There's even a Giant Waterfall\nin this place?\nI know if I stand under it, my\nspirit is suppose to strengthen.",
+    "translation": "There's even a Giant Waterfall\nin this place?\nI know if I stand under it, my\nspirit is suppose to strengthen.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0034",
+    "original": "I was able to deeply meditate!\nI feel my soul is at peace...\nMy EXP increased a lot!",
+    "translation": "I was able to deeply meditate!\nI feel my soul is at peace...\nMy EXP increased a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0035",
+    "original": "I-it hurts, I can't keep this up!",
+    "translation": "I-it hurts, I can't keep this up!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0036",
+    "original": "Oh, what's this pleasant scent?\n\nIt appears to be coming from this\nflower...",
+    "translation": "Oh, what's this pleasant scent?\n\nIt appears to be coming from this\nflower...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0037",
+    "original": "Ah, the more I look at it, the more\nbeautiful it seems...\nMy EXP increased a little.",
+    "translation": "Ah, the more I look at it, the more\nbeautiful it seems...\nMy EXP increased a little.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0038",
+    "original": "Whoa! There's a bug?!\nDisgusting!",
+    "translation": "Whoa! There's a bug?!\nDisgusting!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0039",
+    "original": "This is a Treehouse.\nIt looks quite nice.\nTo tell the truth, I've always \ndreamed of living in such a place...!",
+    "translation": "This is a Treehouse.\nIt looks quite nice.\nTo tell the truth, I've always \ndreamed of living in such a place...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0040",
+    "original": "Ahhh... This truly is an excellent\nhouse!\nMy EXP increased a lot!",
+    "translation": "Ahhh... This truly is an excellent\nhouse!\nMy EXP increased a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0041",
+    "original": "Ahhh... actually living in it proves\nto be quite troublesome...",
+    "translation": "Ahhh... actually living in it proves\nto be quite troublesome...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0042",
+    "original": "Oh, this is a Computer.\n\nI'll attempt to get on the internet,\nI think!",
+    "translation": "Oh, this is a Computer.\n\nI'll attempt to get on the internet,\nI think!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0043",
+    "original": "There's such a wealth of \nknowledge here! What fun!\nMy EXP increased a little.",
+    "translation": "There's such a wealth of \nknowledge here! What fun!\nMy EXP increased a little.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0044",
+    "original": "Oh no, it looks like it's infected \nwith a virus...",
+    "translation": "Oh no, it looks like it's infected \nwith a virus...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0045",
+    "original": "This... is a Solar Panel, correct?\n\nI hear I can get electricity from \nthis using the sun's light...",
+    "translation": "This... is a Solar Panel, correct?\n\nI hear I can get electricity from \nthis using the sun's light...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0046",
+    "original": "Oh, it's true. I can feel the \nelectricity flowing!\nMy EXP increased.",
+    "translation": "Oh, it's true. I can feel the \nelectricity flowing!\nMy EXP increased.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0047",
+    "original": "Whoa! I can feel a jolt shoot\nthrough my body!",
+    "translation": "Whoa! I can feel a jolt shoot\nthrough my body!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0048",
+    "original": "This appears to be a Pinball \nMachine...\nI'm not exactly skilled at such\nthings...",
+    "translation": "This appears to be a Pinball \nMachine...\nI'm not exactly skilled at such\nthings...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0049",
+    "original": "Oh, I believe I've got the hang \nof it...!\nMy EXP increased a lot!",
+    "translation": "Oh, I believe I've got the hang \nof it...!\nMy EXP increased a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0050",
+    "original": "As expected, I'm no good. \nI already received a game over...",
+    "translation": "As expected, I'm no good. \nI already received a game over...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0051",
+    "original": "This looks like a Birdhouse...\n\nI wonder if there are any birds?\nI think I'll take a peek inside.",
+    "translation": "This looks like a Birdhouse...\n\nI wonder if there are any birds?\nI think I'll take a peek inside.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0052",
+    "original": "There are chicks sleeping inside!\nThey look so cute!\nMy EXP increased a little.",
+    "translation": "There are chicks sleeping inside!\nThey look so cute!\nMy EXP increased a little.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0053",
+    "original": "Oh, there was nothing inside.\nI must admit, I'm disappointed...",
+    "translation": "Oh, there was nothing inside.\nI must admit, I'm disappointed...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0054",
+    "original": "There's a High Jump pole over\nthere...\nI do wonder if I can actually jump\nthat high, however...",
+    "translation": "There's a High Jump pole over\nthere...\nI do wonder if I can actually jump\nthat high, however...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0055",
+    "original": "Whoa! I did it! That's the first time\nI jumped so high!\nMy EXP increased!",
+    "translation": "Whoa! I did it! That's the first time\nI jumped so high!\nMy EXP increased!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0056",
+    "original": "I knew I couldn't do it.\nThat's unfortunate.",
+    "translation": "I knew I couldn't do it.\nThat's unfortunate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0057",
+    "original": "This is a Diving Board, correct?\n\nDo you really believe I can dive\noff this thing...?",
+    "translation": "This is a Diving Board, correct?\n\nDo you really believe I can dive\noff this thing...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0058",
+    "original": "I-I did it! But I really believed I was\nabout to die back there...!\nMy EXP increased a lot!",
+    "translation": "I-I did it! But I really believed I was\nabout to die back there...!\nMy EXP increased a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0059",
+    "original": "As expected, I just can't do it...\nI apologise...",
+    "translation": "As expected, I just can't do it...\nI apologise...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0060",
+    "original": "Indeed, this is what they call\na Phonograph...\nJust looking at it, you can tell it's \npretty old...",
+    "translation": "Indeed, this is what they call\na Phonograph...\nJust looking at it, you can tell it's \npretty old...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0061",
+    "original": "Huh, it actually has quite the nice\ntone to it.\nMy EXP increased a little.",
+    "translation": "Huh, it actually has quite the nice\ntone to it.\nMy EXP increased a little.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0062",
+    "original": "It's broken, I suspected as such.\nThat's unfortunate.",
+    "translation": "It's broken, I suspected as such.\nThat's unfortunate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0063",
+    "original": "This is a Holy Bell, now isn't it?\nWhat a beautiful item.\nSince it's here, I think I'll give\nit a ring...!",
+    "translation": "This is a Holy Bell, now isn't it?\nWhat a beautiful item.\nSince it's here, I think I'll give\nit a ring...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0064",
+    "original": "Ahhh... as I expected, what a\nbeautiful echoing sound...\nMy EXP increased.",
+    "translation": "Ahhh... as I expected, what a\nbeautiful echoing sound...\nMy EXP increased.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0065",
+    "original": "Ah... there's no sound...\nCan't say I'm not disappointed...",
+    "translation": "Ah... there's no sound...\nCan't say I'm not disappointed...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0066",
+    "original": "If I'm not mistaken, this appears\nto be Stonehenge.\nI wonder what could happen if I\npass through it...?",
+    "translation": "If I'm not mistaken, this appears\nto be Stonehenge.\nI wonder what could happen if I\npass through it...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0067",
+    "original": "Ah! I can feel an incredibly \npowerful Holy energy!\nMy EXP increased a lot!",
+    "translation": "Ah! I can feel an incredibly \npowerful Holy energy!\nMy EXP increased a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0068",
+    "original": "Nothing happened...\nI must admit, I'm disappointed...",
+    "translation": "Nothing happened...\nI must admit, I'm disappointed...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0069",
+    "original": "Something appears to be \nsimmering inside...",
+    "translation": "Something appears to be \nsimmering inside...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0070",
+    "original": "Whoa! T-this is Dark Medicine!\n\nMy EXP increased a little.",
+    "translation": "Whoa! T-this is Dark Medicine!\n\nMy EXP increased a little.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0071",
+    "original": "I-I can't...! This stench is just \ntoo much for me to bare!",
+    "translation": "I-I can't...! This stench is just \ntoo much for me to bare!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0072",
+    "original": "I can't help but feel a mysterious\npresence...\nC-could this be... a Cursed Chest?",
+    "translation": "I can't help but feel a mysterious\npresence...\nC-could this be... a Cursed Chest?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0073",
+    "original": "Whoa! This is some incredible\nDark Energy...!\nMy EXP increased.",
+    "translation": "Whoa! This is some incredible\nDark Energy...!\nMy EXP increased.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0074",
+    "original": "I can't remove the lid...\nI must admit, I'm disappointed...",
+    "translation": "I can't remove the lid...\nI must admit, I'm disappointed...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0075",
+    "original": "Could this be a real deal\nDark Tower...?\nI think I'll get closer and investigate\na little more...",
+    "translation": "Could this be a real deal\nDark Tower...?\nI think I'll get closer and investigate\na little more...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0076",
+    "original": "Whoa! I can feel incredible Dark\nPower flowing within me...!\nMy EXP increased a lot!",
+    "translation": "Whoa! I can feel incredible Dark\nPower flowing within me...!\nMy EXP increased a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0077",
+    "original": "Nothing happened. Looks like I\nmade a mistake.",
+    "translation": "Nothing happened. Looks like I\nmade a mistake.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0078",
+    "original": "...Hm? What's this?\n\nI can smell something wonderful\nnearby...",
+    "translation": "...Hm? What's this?\n\nI can smell something wonderful\nnearby...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0079",
+    "original": "Oh! This must be ^P's\nscent!\nNext time they visit, I'd enjoy\nspending some time with them.\nMy Friendship level increased a little.",
+    "translation": "Oh! This must be ^P's\nscent!\nNext time they visit, I'd enjoy\nspending some time with them.\nMy Friendship level increased a little.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0080",
+    "original": "I always find myself thinking\nabout it...\nThe fact I'm able to live such\na peaceful life here...\nIt's all thanks to ^P.\n\nIndeed. I must let ^P\nknow how much I appreciate them!",
+    "translation": "I always find myself thinking\nabout it...\nThe fact I'm able to live such\na peaceful life here...\nIt's all thanks to ^P.\n\nIndeed. I must let ^P\nknow how much I appreciate them!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0081",
+    "original": "\"Dearest ^P.\nThank you very much.\nWe here are all so thankful \nfor everything you do.\"\nI wonder if my feelings will\nget through?\nMy Friendship level skyrocketed!",
+    "translation": "\"Dearest ^P.\nThank you very much.\nWe here are all so thankful \nfor everything you do.\"\nI wonder if my feelings will\nget through?\nMy Friendship level skyrocketed!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0082",
+    "original": "Oh? What's this?",
+    "translation": "Oh? What's this?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0083",
+    "original": "Oh! This is 100 Bit.\n\nI should deliver this straight to\n^P!\nI hope they appreciate it!",
+    "translation": "Oh! This is 100 Bit.\n\nI should deliver this straight to\n^P!\nI hope they appreciate it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0084",
+    "original": "Oh? What's this?\n",
+    "translation": "Oh? What's this?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0085",
+    "original": "Oh! This is 500 Bit.\n\nI should deliver this straight to\n^P!\nThey might appreciate it!\n",
+    "translation": "Oh! This is 500 Bit.\n\nI should deliver this straight to\n^P!\nThey might appreciate it!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0086",
+    "original": "Oh? What's this?\n",
+    "translation": "Oh? What's this?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0087",
+    "original": "Oh! This is 1000 Bit.\n\nI should deliver this straight to\n^P!\nI'm sure they'll appreciate it!\n",
+    "translation": "Oh! This is 1000 Bit.\n\nI should deliver this straight to\n^P!\nI'm sure they'll appreciate it!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0088",
+    "original": "Oh, there are some delicious\nWild Strawberries here.\nI think I'll try a few.",
+    "translation": "Oh, there are some delicious\nWild Strawberries here.\nI think I'll try a few.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0089",
+    "original": "The sweet freshness of the fruit\nwas delicious!\nMy EXP increased.",
+    "translation": "The sweet freshness of the fruit\nwas delicious!\nMy EXP increased.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0090",
+    "original": "They're too sour, I can't consume\nany of these...",
+    "translation": "They're too sour, I can't consume\nany of these...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0091",
+    "original": "Oh, this Tree looks climbable.",
+    "translation": "Oh, this Tree looks climbable.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0092",
+    "original": "I did it!\nI was able to climb successfully!\nMy EXP increased a little.",
+    "translation": "I did it!\nI was able to climb successfully!\nMy EXP increased a little.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0093",
+    "original": "I apologise, but I'm just too tired.",
+    "translation": "I apologise, but I'm just too tired.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0094",
+    "original": "That there is a Stump, isn't it?",
+    "translation": "That there is a Stump, isn't it?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0095",
+    "original": "This is quite the comfortable\nstump, I must admit.\nMy EXP increased.",
+    "translation": "This is quite the comfortable\nstump, I must admit.\nMy EXP increased.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0096",
+    "original": "I apologise, but it's just too\nuncomfortable.",
+    "translation": "I apologise, but it's just too\nuncomfortable.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0097",
+    "original": "Oh, there's some Delicious Sap...\n\nI think I'll have a taste.",
+    "translation": "Oh, there's some Delicious Sap...\n\nI think I'll have a taste.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0098",
+    "original": "Huh! It's truly delicious!\n\nMy EXP increased a lot!",
+    "translation": "Huh! It's truly delicious!\n\nMy EXP increased a lot!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK05_0008_0099",
+    "original": "I-it's so bitter...!\nThis is no good at all!",
+    "translation": "I-it's so bitter...!\nThis is no good at all!",
+    "stage": 1,
+    "context": ""
+  }
+]

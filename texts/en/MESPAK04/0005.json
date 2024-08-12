@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK04_0005_0000",
+    "original": "Required Digivolution Level: 36\nRevived MetalTyrannomon\nAttack: 160\nMax Level: 40",
+    "translation": "Required Digivolution Level: 36\nRevived MetalTyrannomon\nAttack: 160\nMax Level: 40",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0001",
+    "original": "Required Digivolution Level: 36\nRevived Wisemon\nAttack: 140\nSpeed: 150",
+    "translation": "Required Digivolution Level: 36\nRevived Wisemon\nAttack: 140\nSpeed: 150",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0002",
+    "original": "Required Digivolution Level: 28\nRevived Mermaimon\nAttack: 115\nSpeed: 90",
+    "translation": "Required Digivolution Level: 28\nRevived Mermaimon\nAttack: 115\nSpeed: 90",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0003",
+    "original": "Required Digivolution Level: 36\nRevived Butenmon\nAttack: 140\nDefense: 105",
+    "translation": "Required Digivolution Level: 36\nRevived Butenmon\nAttack: 140\nDefense: 105",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0004",
+    "original": "Required Digivolution Level: 40\nRevived HerculesKabuterimon\nDefense: 140\nSpeed: 130\nFriendship: 100",
+    "translation": "Required Digivolution Level: 40\nRevived HerculesKabuterimon\nDefense: 140\nSpeed: 130\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0005",
+    "original": "Required Digivolution Level: 39\nRevived Saberleomon\nBefriended Leomon\nSpeed: 170",
+    "translation": "Required Digivolution Level: 39\nRevived Saberleomon\nBefriended Leomon\nSpeed: 170",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0006",
+    "original": "Required Digivolution Level: 38\nMax Level: 45\nAbility: 3\nFriendship: 100",
+    "translation": "Required Digivolution Level: 38\nMax Level: 45\nAbility: 3\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0007",
+    "original": "Required Digivolution Level: 44\nRevived GigaSeadramon\nDefense: 170\nMax Level: 66",
+    "translation": "Required Digivolution Level: 44\nRevived GigaSeadramon\nDefense: 170\nMax Level: 66",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0008",
+    "original": "Required Digivolution Level: 47\nRevived Piedmon\nAttack: 175\nSpeed: 165",
+    "translation": "Required Digivolution Level: 47\nRevived Piedmon\nAttack: 175\nSpeed: 165",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0009",
+    "original": "Required Digivolution Level: 50\nAttack: 280\nDefense: 255\nAbility: 6",
+    "translation": "Required Digivolution Level: 50\nAttack: 280\nDefense: 255\nAbility: 6",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0010",
+    "original": "Required Digivolution Level: 43\nRevived Phoenixmon\nAttack: 150\nSpeed: 170\nFriendship: 100",
+    "translation": "Required Digivolution Level: 43\nRevived Phoenixmon\nAttack: 150\nSpeed: 170\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0011",
+    "original": "Required Digivolution Level: 46\nRevived Puppetmon\nBefriended Cherrymon\nAttack: 180",
+    "translation": "Required Digivolution Level: 46\nRevived Puppetmon\nBefriended Cherrymon\nAttack: 180",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0012",
+    "original": "Required Digivolution Level: 42\nAttack: 160\nSpeed: 130\nFriendship: 100",
+    "translation": "Required Digivolution Level: 42\nAttack: 160\nSpeed: 130\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0013",
+    "original": "Required Digivolution Level: 40\nRevived WarGreymon\nBefriended Agumon\nFriendship: 100",
+    "translation": "Required Digivolution Level: 40\nRevived WarGreymon\nBefriended Agumon\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0014",
+    "original": "Required Digivolution Level: 40\nRevived MetalGarurumon\nBefriended Gabumon\nFriendship: 100",
+    "translation": "Required Digivolution Level: 40\nRevived MetalGarurumon\nBefriended Gabumon\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0015",
+    "original": "Required Digivolution Level: 47\nRevived Machinedramon\nAttack: 230\nDefense: 170",
+    "translation": "Required Digivolution Level: 47\nRevived Machinedramon\nAttack: 230\nDefense: 170",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0016",
+    "original": "Required Digivolution Level: 38\nBefriended DemiDevimon\nAttack: 155\nDefense: 150",
+    "translation": "Required Digivolution Level: 38\nBefriended DemiDevimon\nAttack: 155\nDefense: 150",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0017",
+    "original": "Required Digivolution Level: 41\nAttack: 160\nSpeed: 140\nFriendship: 100",
+    "translation": "Required Digivolution Level: 41\nAttack: 160\nSpeed: 140\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0018",
+    "original": "Required Digivolution Level: 39\nRevived Ghoulmon\nAttack: 220\nAbility: 6",
+    "translation": "Required Digivolution Level: 39\nRevived Ghoulmon\nAttack: 220\nAbility: 6",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0019",
+    "original": "Required Digivolution Level: 41\nRevived Seraphimon\nAttack: 155\nSpeed: 165\nFriendship: 100",
+    "translation": "Required Digivolution Level: 41\nRevived Seraphimon\nAttack: 155\nSpeed: 165\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0020",
+    "original": "Required Digivolution Level: 44\nRevived HiAndromon\nBefriended Boltmon\nAttack: 180\nFriendship: 100",
+    "translation": "Required Digivolution Level: 44\nRevived HiAndromon\nBefriended Boltmon\nAttack: 180\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0021",
+    "original": "Required Digivolution Level: 38\nAttack: 220\nDefense: 170\nAbility: 7",
+    "translation": "Required Digivolution Level: 38\nAttack: 220\nDefense: 170\nAbility: 7",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0022",
+    "original": "Required Digivolution Level: 41\nRevived Cherubimon Good\nBefriended Cherubimon Evil\nAttack: 260\nAbility: 4",
+    "translation": "Required Digivolution Level: 41\nRevived Cherubimon Good\nBefriended Cherubimon Evil\nAttack: 260\nAbility: 4",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0023",
+    "original": "Required Digivolution Level: 38\nAttack: 230\nAbility: 2",
+    "translation": "Required Digivolution Level: 38\nAttack: 230\nAbility: 2",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0024",
+    "original": "Required Digivolution Level: 43\nRevived Gallantmon\nBefriended Guilmon\nBefriended Megidramon\nFriendship: 100",
+    "translation": "Required Digivolution Level: 43\nRevived Gallantmon\nBefriended Guilmon\nBefriended Megidramon\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0025",
+    "original": "Required Digivolution Level: 42\nRevived MegaGargomon\nBefriended Terriermon\nAttack: 150\nFriendship: 100",
+    "translation": "Required Digivolution Level: 42\nRevived MegaGargomon\nBefriended Terriermon\nAttack: 150\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0026",
+    "original": "Required Digivolution Level: 42\nRevived Sakuyamon\nBefriended Renamon\nSpeed: 170\nFriendship: 100",
+    "translation": "Required Digivolution Level: 42\nRevived Sakuyamon\nBefriended Renamon\nSpeed: 170\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0027",
+    "original": "Required Digivolution Level: 38\nRevived Diaboromon\nBefriended Kuramon\nAttack: 170",
+    "translation": "Required Digivolution Level: 38\nRevived Diaboromon\nBefriended Kuramon\nAttack: 170",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0028",
+    "original": "Required Digivolution Level: 45\nRevived Neptunemon\nAttack: 170\nSpeed: 130",
+    "translation": "Required Digivolution Level: 45\nRevived Neptunemon\nAttack: 170\nSpeed: 130",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0029",
+    "original": "Required Digivolution Level: 39\nAttack: 200\nDefense: 230\nAbility: 3",
+    "translation": "Required Digivolution Level: 39\nAttack: 200\nDefense: 230\nAbility: 3",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0030",
+    "original": "Required Digivolution Level: 38\nDefense: 180\nSpeed: 160",
+    "translation": "Required Digivolution Level: 38\nDefense: 180\nSpeed: 160",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0031",
+    "original": "Required Digivolution Level: 39\nBefriended Andromon\nAttack: 150\nDefense: 150",
+    "translation": "Required Digivolution Level: 39\nBefriended Andromon\nAttack: 150\nDefense: 150",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0032",
+    "original": "Required Digivolution Level: 40\nRevived PrinceMamemon\nDefense: 170\nAbility: 6",
+    "translation": "Required Digivolution Level: 40\nRevived PrinceMamemon\nDefense: 170\nAbility: 6",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0033",
+    "original": "Required Digivolution Level: 41\nRevived Ophanimon\nDefense: 130\nSpeed: 150\nFriendship: 100",
+    "translation": "Required Digivolution Level: 41\nRevived Ophanimon\nDefense: 130\nSpeed: 150\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0034",
+    "original": "Required Digivolution Level: 39\nRevived Zanbamon\nRevived Musyamon\nAttack: 190\nSpeed: 140",
+    "translation": "Required Digivolution Level: 39\nRevived Zanbamon\nRevived Musyamon\nAttack: 190\nSpeed: 140",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0035",
+    "original": "Required Digivolution Level: 38\nDefense: 170\nMax Level: 60\nAbility: 5",
+    "translation": "Required Digivolution Level: 38\nDefense: 170\nMax Level: 60\nAbility: 5",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0036",
+    "original": "Required Digivolution Level: 38\nAttack: 180\nMax Level: 60\nAbility: 5",
+    "translation": "Required Digivolution Level: 38\nAttack: 180\nMax Level: 60\nAbility: 5",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0037",
+    "original": "Required Digivolution Level: 41\nRevived Anubismon\nAttack: 200\nSpeed: 210\nAbility: 4",
+    "translation": "Required Digivolution Level: 41\nRevived Anubismon\nAttack: 200\nSpeed: 210\nAbility: 4",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0038",
+    "original": "Required Digivolution Level: 38\nBefriended Dokugumon\nSpeed: 170",
+    "translation": "Required Digivolution Level: 38\nBefriended Dokugumon\nSpeed: 170",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0039",
+    "original": "Required Digivolution Level: 41\nRevived SlashAngemon\nAttack: 150\nSpeed: 140",
+    "translation": "Required Digivolution Level: 41\nRevived SlashAngemon\nAttack: 150\nSpeed: 140",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0040",
+    "original": "Required Digivolution Level: 39\nRevived Eaglemon\nDefense: 200\nAbility: 4",
+    "translation": "Required Digivolution Level: 39\nRevived Eaglemon\nDefense: 200\nAbility: 4",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0041",
+    "original": "Required Digivolution Level: 44\nRevived Dorugoramon\nAttack: 165\nDefense: 125\nFriendship: 100",
+    "translation": "Required Digivolution Level: 44\nRevived Dorugoramon\nAttack: 165\nDefense: 125\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0042",
+    "original": "Required Digivolution Level: 43\nRevived Beelzemon\nBefriended Impmon\nAttack: 150",
+    "translation": "Required Digivolution Level: 43\nRevived Beelzemon\nBefriended Impmon\nAttack: 150",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0043",
+    "original": "Required Digivolution Level: 45\nRevived BanchoLeomon\nDefense: 240\nMax Level: 65\nFriendship: 100",
+    "translation": "Required Digivolution Level: 45\nRevived BanchoLeomon\nDefense: 240\nMax Level: 65\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0044",
+    "original": "Required Digivolution Level: 43\nRevived Darkdramon\nAttack: 210\nSpeed: 160",
+    "translation": "Required Digivolution Level: 43\nRevived Darkdramon\nAttack: 210\nSpeed: 160",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0045",
+    "original": "Required Digivolution Level: 39\nAttack: 210\nAbility: 5",
+    "translation": "Required Digivolution Level: 39\nAttack: 210\nAbility: 5",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0046",
+    "original": "Required Digivolution Level: 44\nRevived Goldramon\nAttack: 180\nDefense: 170\nMax Level: 65",
+    "translation": "Required Digivolution Level: 44\nRevived Goldramon\nAttack: 180\nDefense: 170\nMax Level: 65",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0047",
+    "original": "Required Digivolution Level: 46\nRevived MetalSeadramon\nAttack: 140\nSpeed: 130",
+    "translation": "Required Digivolution Level: 46\nRevived MetalSeadramon\nAttack: 140\nSpeed: 130",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0048",
+    "original": "Required Digivolution Level: 39\nAttack: 150\nSpeed: 170",
+    "translation": "Required Digivolution Level: 39\nAttack: 150\nSpeed: 170",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0005_0049",
+    "original": "Required Digivolution Level: 39\nRevived Justimon\nBefriended Monodramon\nSpeed: 150\nFriendship: 100",
+    "translation": "Required Digivolution Level: 39\nRevived Justimon\nBefriended Monodramon\nSpeed: 150\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  }
+]

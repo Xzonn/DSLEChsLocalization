@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK04_0018_0000",
+    "original": "Swings its huge claws, resulting in a shock\nwave that slashes the opponent.",
+    "translation": "Swings its huge claws, resulting in a shock\nwave that slashes the opponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0001",
+    "original": "Throws tiny bombs in the shape of flowers,\nresulting in many explosions. \n★Sleep",
+    "translation": "Throws tiny bombs in the shape of flowers,\nresulting in many explosions. \n★Sleep",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0002",
+    "original": "Throws small fireballs at high Speeds,\nresulting in a direct hit.",
+    "translation": "Throws small fireballs at high Speeds,\nresulting in a direct hit.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0003",
+    "original": "Summons a tiny tornado that engulfs all that\nhappens to be nearby.",
+    "translation": "Summons a tiny tornado that engulfs all that\nhappens to be nearby.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0004",
+    "original": "Throws its bone club in a fierce barrage of\nhits.",
+    "translation": "Throws its bone club in a fierce barrage of\nhits.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0005",
+    "original": "Screeches with intense ultrasonic waves.",
+    "translation": "Screeches with intense ultrasonic waves.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0006",
+    "original": "Unleashes its wild instincts and shreds the\nopponent.",
+    "translation": "Unleashes its wild instincts and shreds the\nopponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0007",
+    "original": "Unleashes a massive powerful tornado from\nits mouth.",
+    "translation": "Unleashes a massive powerful tornado from\nits mouth.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0008",
+    "original": "Concentrates heat into fireballs, which it\nlaunches at the opponent.",
+    "translation": "Concentrates heat into fireballs, which it\nlaunches at the opponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0009",
+    "original": "Fires huge metal balls from its mouth at the\nopponent.",
+    "translation": "Fires huge metal balls from its mouth at the\nopponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0010",
+    "original": "Rains gunfire upon the opponent with the\nguns on each arm.",
+    "translation": "Rains gunfire upon the opponent with the\nguns on each arm.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0011",
+    "original": "Crushes the opponent with its massive body.",
+    "translation": "Crushes the opponent with its massive body.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0012",
+    "original": "Fiercely attacks the opponent with its fangs\nembued with sub-zero ice energy.",
+    "translation": "Fiercely attacks the opponent with its fangs\nembued with sub-zero ice energy.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0013",
+    "original": "Slashes the opponent with its beloved sword\n'Shishioumaru', embued with lions strength.",
+    "translation": "Slashes the opponent with its beloved sword\n'Shishioumaru', embued with lions strength.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0014",
+    "original": "Shoots bubble-like objects embued with dark\nenergy at the opponent.",
+    "translation": "Shoots bubble-like objects embued with dark\nenergy at the opponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0015",
+    "original": "Scratches the opponent with tiny claws\nembued with dark energy.",
+    "translation": "Scratches the opponent with tiny claws\nembued with dark energy.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0016",
+    "original": "Fires balls of dark energy that destroys data\nat the opponent. \n★Poison",
+    "translation": "Fires balls of dark energy that destroys data\nat the opponent. \n★Poison",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0017",
+    "original": "Fires balls of dark firey energy born from\nevil.",
+    "translation": "Fires balls of dark firey energy born from\nevil.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0018",
+    "original": "Slashes the opponent with cursed claws\nembued with dark energy. \n★MP Drain ★Poison",
+    "translation": "Slashes the opponent with cursed claws\nembued with dark energy. \n★MP Drain ★Poison",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0019",
+    "original": "Throws dark darts at the opponent. \n★HP Drain",
+    "translation": "Throws dark darts at the opponent. \n★HP Drain",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0020",
+    "original": "Slashes at the opponent with its evil nails\nembued with dark energy. \n★Poison",
+    "translation": "Slashes at the opponent with its evil nails\nembued with dark energy. \n★Poison",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0021",
+    "original": "Calls forth thunder clouds that rain \nlightning upon the opponent. \n★Confusion",
+    "translation": "Calls forth thunder clouds that rain \nlightning upon the opponent. \n★Confusion",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0022",
+    "original": "Slashes at the opponent with countless \nsharp tentacles. \n★Freeze ★MP Drain ★Paralysis",
+    "translation": "Slashes at the opponent with countless \nsharp tentacles. \n★Freeze ★MP Drain ★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0023",
+    "original": "Performs a finishing slash embued \nwith dark energy. \n★HP Drain",
+    "translation": "Performs a finishing slash embued \nwith dark energy. \n★HP Drain",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0024",
+    "original": "Fires a powerful red-hot lazer from its\nmouth.",
+    "translation": "Fires a powerful red-hot lazer from its\nmouth.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0025",
+    "original": "Attacks using bubbles that lull the opponent\nto sleep. \n★Sleep",
+    "translation": "Attacks using bubbles that lull the opponent\nto sleep. \n★Sleep",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0026",
+    "original": "Fires tiny electric balls that shock the\nopponent. \n★Paralysis",
+    "translation": "Fires tiny electric balls that shock the\nopponent. \n★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0027",
+    "original": "Slashes the opponent with vine whips\nembedded with paralysing poison. \n★Paralysis",
+    "translation": "Slashes the opponent with vine whips\nembedded with paralysing poison. \n★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0028",
+    "original": "Dances around the battlefield, shooting sharp\narrows made from clean water frozen into\nice. ★Death",
+    "translation": "Dances around the battlefield, shooting sharp\narrows made from clean water frozen into\nice. ★Death",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0029",
+    "original": "Lunges at the opponent with incredible \nSpeed, slashing ferociously. \n★Paralysis",
+    "translation": "Lunges at the opponent with incredible \nSpeed, slashing ferociously. \n★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0030",
+    "original": "Skewers the opponent with energy spikes\ncoming out of its arms. \n★Death",
+    "translation": "Skewers the opponent with energy spikes\ncoming out of its arms. \n★Death",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0031",
+    "original": "Attacks with dangerous razor sharp\npoisonous spikes. \n★MP Drain ★Poison",
+    "translation": "Attacks with dangerous razor sharp\npoisonous spikes. \n★MP Drain ★Poison",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0032",
+    "original": "Stabs the opponent with its arm, absorbing\nits HP. \n★HP Drain",
+    "translation": "Stabs the opponent with its arm, absorbing\nits HP. \n★HP Drain",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0033",
+    "original": "Gathers sunlight, turning it into a powerful\nbeam of energy.",
+    "translation": "Gathers sunlight, turning it into a powerful\nbeam of energy.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0034",
+    "original": "Slams the opponent with a series of\nspike-covered punches. \n★Paralysis",
+    "translation": "Slams the opponent with a series of\nspike-covered punches. \n★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0035",
+    "original": "Unleashes a huge ball of electricity, shocking\nthe opponent. \n★Paralysis",
+    "translation": "Unleashes a huge ball of electricity, shocking\nthe opponent. \n★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0036",
+    "original": "Bashes the opponent in a rage with rocks\nshot out from its head.",
+    "translation": "Bashes the opponent in a rage with rocks\nshot out from its head.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0037",
+    "original": "Slashes the opponent with its powerful\nscissors clad in electrical energy. \n★Paralysis",
+    "translation": "Slashes the opponent with its powerful\nscissors clad in electrical energy. \n★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0038",
+    "original": "Attacks with the electrified net that\nsurrounds its body.",
+    "translation": "Attacks with the electrified net that\nsurrounds its body.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0039",
+    "original": "Fiercely slashes at the opponent with sharp\nclaws clad in electricity. \n★Paralysis",
+    "translation": "Fiercely slashes at the opponent with sharp\nclaws clad in electricity. \n★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0040",
+    "original": "Gathers the power of darkness into its\ncrimson red claws and slashes at the\nopponent. ★Paralysis",
+    "translation": "Gathers the power of darkness into its\ncrimson red claws and slashes at the\nopponent. ★Paralysis",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0041",
+    "original": "Throws a massive punch.",
+    "translation": "Throws a massive punch.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0042",
+    "original": "Throws numerous kunai-like feathers at the\nopponent.",
+    "translation": "Throws numerous kunai-like feathers at the\nopponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0043",
+    "original": "Fires missiles that cause massive explosions.",
+    "translation": "Fires missiles that cause massive explosions.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0044",
+    "original": "Betting its pride on its fast-drawing ability,\nit fires bullets of justice at the opponent",
+    "translation": "Betting its pride on its fast-drawing ability,\nit fires bullets of justice at the opponent",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0045",
+    "original": "Unleashes a massive bombardment of gunfire\nfrom its cannon.",
+    "translation": "Unleashes a massive bombardment of gunfire\nfrom its cannon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0046",
+    "original": "Taking control over time, it destroys the flow\nof time within the opponents body. \n★Sleep",
+    "translation": "Taking control over time, it destroys the flow\nof time within the opponents body. \n★Sleep",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0047",
+    "original": "Unleashes a diffusion lazer in order to\nintimidate intruders. \n★Freeze",
+    "translation": "Unleashes a diffusion lazer in order to\nintimidate intruders. \n★Freeze",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0048",
+    "original": "Shoots a tiny ball of air at the opponent.",
+    "translation": "Shoots a tiny ball of air at the opponent.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0018_0049",
+    "original": "Fires heart-shaped balls of energy, causing\nferocious electric shocks. \n★Confusion",
+    "translation": "Fires heart-shaped balls of energy, causing\nferocious electric shocks. \n★Confusion",
+    "stage": 1,
+    "context": ""
+  }
+]

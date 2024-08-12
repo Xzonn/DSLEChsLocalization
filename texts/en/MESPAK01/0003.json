@@ -1,0 +1,555 @@
+[
+  {
+    "key": "MESPAK01_0003_0000",
+    "original": "DigiPort",
+    "translation": "DigiPort",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0001",
+    "original": "Motherboard Continent",
+    "translation": "Motherboard Continent",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0002",
+    "original": "Graphics Board Continent",
+    "translation": "Graphics Board Continent",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0003",
+    "original": "Heritage Cape",
+    "translation": "Heritage Cape",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0004",
+    "original": "Patch Prairie",
+    "translation": "Patch Prairie",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0005",
+    "original": "Packet Coast",
+    "translation": "Packet Coast",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0006",
+    "original": "Login Mountain",
+    "translation": "Login Mountain",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0007",
+    "original": "Chip Forest",
+    "translation": "Chip Forest",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0008",
+    "original": "Label Forest",
+    "translation": "Label Forest",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0009",
+    "original": "Loop Swamp",
+    "translation": "Loop Swamp",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0010",
+    "original": "Magnet Mine",
+    "translation": "Magnet Mine",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0011",
+    "original": "Pallet Amazon",
+    "translation": "Pallet Amazon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0012",
+    "original": "Register Jungle",
+    "translation": "Register Jungle",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0013",
+    "original": "Limit Valley",
+    "translation": "Limit Valley",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0014",
+    "original": "Palace Laboratory",
+    "translation": "Palace Laboratory",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0015",
+    "original": "Pixel Desert",
+    "translation": "Pixel Desert",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0016",
+    "original": "Shadow Hell",
+    "translation": "Shadow Hell",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0017",
+    "original": "Task Canyon",
+    "translation": "Task Canyon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0018",
+    "original": "Thriller Ruins",
+    "translation": "Thriller Ruins",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0019",
+    "original": "Access Glacier",
+    "translation": "Access Glacier",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0020",
+    "original": "Proxy Island",
+    "translation": "Proxy Island",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0021",
+    "original": "Graphics Board Central",
+    "translation": "Graphics Board Central",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0022",
+    "original": "Wizard Temple",
+    "translation": "Wizard Temple",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0023",
+    "original": "Angler Tunnel",
+    "translation": "Angler Tunnel",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0024",
+    "original": "Risk Factory",
+    "translation": "Risk Factory",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0025",
+    "original": "Chrome Mine",
+    "translation": "Chrome Mine",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0026",
+    "original": "Class Desert",
+    "translation": "Class Desert",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0027",
+    "original": "North Marine",
+    "translation": "North Marine",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0028",
+    "original": "North Cave",
+    "translation": "North Cave",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0029",
+    "original": "South Cave",
+    "translation": "South Cave",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0030",
+    "original": "Graphics Board Cave",
+    "translation": "Graphics Board Cave",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0031",
+    "original": "Graphics Board Marine",
+    "translation": "Graphics Board Marine",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0032",
+    "original": "Risk Cave",
+    "translation": "Risk Cave",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0033",
+    "original": "Entrance Room",
+    "translation": "Entrance Room",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0034",
+    "original": "Private Room",
+    "translation": "Private Room",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0035",
+    "original": "Yggdrasil Room",
+    "translation": "Yggdrasil Room",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0036",
+    "original": "Digibase Front",
+    "translation": "Digibase Front",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0037",
+    "original": "Tamer Town",
+    "translation": "Tamer Town",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0038",
+    "original": "Union Room",
+    "translation": "Union Room",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0039",
+    "original": "East City",
+    "translation": "East City",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0040",
+    "original": "East Shop",
+    "translation": "East Shop",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0041",
+    "original": "East Leader Room",
+    "translation": "East Leader Room",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0042",
+    "original": "South City",
+    "translation": "South City",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0043",
+    "original": "South Leader Room",
+    "translation": "South Leader Room",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0044",
+    "original": "West City",
+    "translation": "West City",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0045",
+    "original": "West Leader Room",
+    "translation": "West Leader Room",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0046",
+    "original": "West Shop",
+    "translation": "West Shop",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0047",
+    "original": "North City",
+    "translation": "North City",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0048",
+    "original": "North Leader Room",
+    "translation": "North Leader Room",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0049",
+    "original": "Central Shop",
+    "translation": "Central Shop",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0050",
+    "original": "Colosseum Lobby",
+    "translation": "Colosseum Lobby",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0051",
+    "original": "Audience Gallery",
+    "translation": "Audience Gallery",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0052",
+    "original": "Battle Stage",
+    "translation": "Battle Stage",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0053",
+    "original": "Digibase Port",
+    "translation": "Digibase Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0054",
+    "original": "Login Mountain Port",
+    "translation": "Login Mountain Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0055",
+    "original": "Chip Forest Port",
+    "translation": "Chip Forest Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0056",
+    "original": "Label Forest Port",
+    "translation": "Label Forest Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0057",
+    "original": "Loop Swamp Port",
+    "translation": "Loop Swamp Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0058",
+    "original": "Magnet Mine Port",
+    "translation": "Magnet Mine Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0059",
+    "original": "Pallet Amazon Port",
+    "translation": "Pallet Amazon Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0060",
+    "original": "Tamer Town Port",
+    "translation": "Tamer Town Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0061",
+    "original": "Register Jungle Port",
+    "translation": "Register Jungle Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0062",
+    "original": "Limit Valley Port",
+    "translation": "Limit Valley Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0063",
+    "original": "Pixel Desert Port",
+    "translation": "Pixel Desert Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0064",
+    "original": "Shadow Hell Port",
+    "translation": "Shadow Hell Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0065",
+    "original": "Task Canyon North Port",
+    "translation": "Task Canyon North Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0066",
+    "original": "Task Canyon South Port",
+    "translation": "Task Canyon South Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0067",
+    "original": "Thriller Ruins East Port",
+    "translation": "Thriller Ruins East Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0068",
+    "original": "Thriller Ruins West Port",
+    "translation": "Thriller Ruins West Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0069",
+    "original": "Access Glacier South Port",
+    "translation": "Access Glacier South Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0070",
+    "original": "Access Glacier North Port",
+    "translation": "Access Glacier North Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0071",
+    "original": "Proxy Island West Port",
+    "translation": "Proxy Island West Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0072",
+    "original": "Proxy Island East Port",
+    "translation": "Proxy Island East Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0073",
+    "original": "Angler Tunnel Port",
+    "translation": "Angler Tunnel Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0074",
+    "original": "Wizard Temple Port",
+    "translation": "Wizard Temple Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0075",
+    "original": "Graphics Board Central Port",
+    "translation": "Graphics Board Central Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0076",
+    "original": "Risk Factory Port",
+    "translation": "Risk Factory Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0077",
+    "original": "Chrome Mine Port",
+    "translation": "Chrome Mine Port",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0003_0078",
+    "original": "Class Desert Port",
+    "translation": "Class Desert Port",
+    "stage": 1,
+    "context": ""
+  }
+]

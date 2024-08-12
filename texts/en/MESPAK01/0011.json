@@ -1,0 +1,429 @@
+[
+  {
+    "key": "MESPAK01_0011_0000",
+    "original": "Select a Digimon for Matching. \nYou can confirm by checking the Digimon List.",
+    "translation": "Select a Digimon for Matching. \nYou can confirm by checking the Digimon List.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0001",
+    "original": "^0's Farm Islands.\nPlease select the Farm Island \nyou would like to visit.",
+    "translation": "^0's Farm Islands.\nPlease select the Farm Island \nyou would like to visit.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0002",
+    "original": "Exit Matching Digimon?",
+    "translation": "Exit Matching Digimon?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0003",
+    "original": "Match ^1 and ^2?",
+    "translation": "Match ^1 and ^2?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0004",
+    "original": "Exit Matching Digimon?",
+    "translation": "Exit Matching Digimon?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0005",
+    "original": "Yes",
+    "translation": "Yes",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0006",
+    "original": "Exit",
+    "translation": "Exit",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0007",
+    "original": "Exit",
+    "translation": "Exit",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0008",
+    "original": "Don't exit",
+    "translation": "Don't exit",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0009",
+    "original": "Choose another",
+    "translation": "Choose another",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0010",
+    "original": "Don't exit",
+    "translation": "Don't exit",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0011",
+    "original": "ATK",
+    "translation": "ATK",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0012",
+    "original": "DEF",
+    "translation": "DEF",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0013",
+    "original": "SPD",
+    "translation": "SPD",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0014",
+    "original": "Brains",
+    "translation": "Brains",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0015",
+    "original": "Max Level",
+    "translation": "Max Level",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0016",
+    "original": "FND",
+    "translation": "FND",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0017",
+    "original": "Traits",
+    "translation": "Traits",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0018",
+    "original": "Personality",
+    "translation": "Personality",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0019",
+    "original": "Type",
+    "translation": "Type",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0020",
+    "original": "Resistance",
+    "translation": "Resistance",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0021",
+    "original": "Weakness",
+    "translation": "Weakness",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0022",
+    "original": "Level",
+    "translation": "Level",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0023",
+    "original": "Stage",
+    "translation": "Stage",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0024",
+    "original": "Species",
+    "translation": "Species",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0025",
+    "original": "Family",
+    "translation": "Family",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0026",
+    "original": "Skill",
+    "translation": "Skill",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0027",
+    "original": "EXP Points",
+    "translation": "EXP Points",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0028",
+    "original": "Next level",
+    "translation": "Next level",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0029",
+    "original": "ＥＸＰ",
+    "translation": "ＥＸＰ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0030",
+    "original": "Close Menu",
+    "translation": "Close Menu",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0031",
+    "original": "Menu",
+    "translation": "Menu",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0032",
+    "original": "View own DigiEgg Record.",
+    "translation": "View own DigiEgg Record.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0033",
+    "original": "View own Digimon List.",
+    "translation": "View own Digimon List.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0034",
+    "original": "Perform Matching",
+    "translation": "Perform Matching",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0035",
+    "original": "View Family Tree",
+    "translation": "View Family Tree",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0036",
+    "original": "View Stats",
+    "translation": "View Stats",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0037",
+    "original": "List Order",
+    "translation": "List Order",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0038",
+    "original": "Sort by Group",
+    "translation": "Sort by Group",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0039",
+    "original": "Sort by Level",
+    "translation": "Sort by Level",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0040",
+    "original": "Sort by Species",
+    "translation": "Sort by Species",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0041",
+    "original": "Sort by Name",
+    "translation": "Sort by Name",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0042",
+    "original": "Present Digimon",
+    "translation": "Present Digimon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0043",
+    "original": "2nd generation Digimon",
+    "translation": "2nd generation Digimon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0044",
+    "original": "3rd generation Digimon",
+    "translation": "3rd generation Digimon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0045",
+    "original": "Tamer",
+    "translation": "Tamer",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0046",
+    "original": "You cannot perform Matching with \na DigiEgg.",
+    "translation": "You cannot perform Matching with \na DigiEgg.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0047",
+    "original": "Group",
+    "translation": "Group",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0048",
+    "original": "Currently saving。。。 \nPlease do not turn off the power。。。",
+    "translation": "Currently saving。。。 \nPlease do not turn off the power。。。",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0049",
+    "original": "Save complete!",
+    "translation": "Save complete!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0050",
+    "original": "Disconnecting from Wi-Fi.",
+    "translation": "Disconnecting from Wi-Fi.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0051",
+    "original": "Disconnected from Wi-Fi.",
+    "translation": "Disconnected from Wi-Fi.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0052",
+    "original": "Digimon",
+    "translation": "Digimon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0053",
+    "original": "Goods",
+    "translation": "Goods",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0054",
+    "original": "Terrain Board",
+    "translation": "Terrain Board",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0055",
+    "original": "BGM Board",
+    "translation": "BGM Board",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0056",
+    "original": "Recommended",
+    "translation": "Recommended",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0057",
+    "original": "Cannot perform Matching with \ncurrently training Digimon.",
+    "translation": "Cannot perform Matching with \ncurrently training Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0058",
+    "original": "Currently have too many Digimon, \nplease decrease the number of \nDigimon.",
+    "translation": "Currently have too many Digimon, \nplease decrease the number of \nDigimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0059",
+    "original": "Cannot perform Matching with \ncurrently training Digimon.",
+    "translation": "Cannot perform Matching with \ncurrently training Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0011_0060",
+    "original": "Select a Digimon for Matching.",
+    "translation": "Select a Digimon for Matching.",
+    "stage": 1,
+    "context": ""
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "key": "MESPAK03_0013_0000",
+    "original": "There are some nasty Digimon at\nAngler Tunnel...\nPlease hurry and bring them back...\nI'm counting on you.",
+    "translation": "There are some nasty Digimon at\nAngler Tunnel...\nPlease hurry and bring them back...\nI'm counting on you.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0001",
+    "original": "Is that so...\nThey've grown up so much...\nI guess I can't treat them like\nchildren forever, huh?\nThanks, ^P.\nI'll continue to watch over them.\nHere is your reward for taking on\nthis request.",
+    "translation": "Is that so...\nThey've grown up so much...\nI guess I can't treat them like\nchildren forever, huh?\nThanks, ^P.\nI'll continue to watch over them.\nHere is your reward for taking on\nthis request.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0002",
+    "original": "Still... To grow that strong simply \nthrough rivalry...\nRivals truly are very important,\naren't they?\n",
+    "translation": "Still... To grow that strong simply \nthrough rivalry...\nRivals truly are very important,\naren't they?\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0003",
+    "original": "Hm?\nYou met with Andromon??\nOh? Andromon wants us to\nmake up and be friends again??\nWell, if Puttmon apologizes,\nthen I'll forgive them.\nOkay, I'll wait inside for that\napology. Bye bye!",
+    "translation": "Hm?\nYou met with Andromon??\nOh? Andromon wants us to\nmake up and be friends again??\nWell, if Puttmon apologizes,\nthen I'll forgive them.\nOkay, I'll wait inside for that\napology. Bye bye!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0004",
+    "original": "Puttmon will say sorry, right??",
+    "translation": "Puttmon will say sorry, right??",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0005",
+    "original": "Bounce bounce... \nWhat is it?\nAndromon is worried?\nReally??\nThen I'll go home, once Gigimon\napologizes to me.\nI'll wait for that apology inside.\nSee you later!",
+    "translation": "Bounce bounce... \nWhat is it?\nAndromon is worried?\nReally??\nThen I'll go home, once Gigimon\napologizes to me.\nI'll wait for that apology inside.\nSee you later!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0006",
+    "original": "Gigimon will apologize, right??",
+    "translation": "Gigimon will apologize, right??",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0007",
+    "original": "Good day, ^P.\n\nI recently received a letter from\nMonzaemon.\nHowever, I got careless and lost\nthe letter while I was playing...\nI'm in trouble...\nI don't remember the contents...\nI wrote a letter requesting a new\nletter,\nSo could you please deliver this to\nMonzaemon at Task Canyon?",
+    "translation": "Good day, ^P.\n\nI recently received a letter from\nMonzaemon.\nHowever, I got careless and lost\nthe letter while I was playing...\nI'm in trouble...\nI don't remember the contents...\nI wrote a letter requesting a new\nletter,\nSo could you please deliver this to\nMonzaemon at Task Canyon?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0008",
+    "original": "Obtained a Key Item!\nRequest Letter A",
+    "translation": "Obtained a Key Item!\nRequest Letter A",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0009",
+    "original": "Monzaemon is pretty careless, too.\n\nIf only I could remember the \ncontents of the letter...\nPlease pass this letter onto\nMonzaemon at Task Canyon.",
+    "translation": "Monzaemon is pretty careless, too.\n\nIf only I could remember the \ncontents of the letter...\nPlease pass this letter onto\nMonzaemon at Task Canyon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0010",
+    "original": "Welcome back, ^P.\n\nOh! A reply from Monzaemon??\nThank you! I'll read it right away!",
+    "translation": "Welcome back, ^P.\n\nOh! A reply from Monzaemon??\nThank you! I'll read it right away!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0011",
+    "original": "Handed over Key Item\nReply Letter",
+    "translation": "Handed over Key Item\nReply Letter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0012",
+    "original": "Hm, hmmm...\nI see... I see...\nOh, right, I haven't given you my\nthanks yet, ^P.\nPlease, take this.\n",
+    "translation": "Hm, hmmm...\nI see... I see...\nOh, right, I haven't given you my\nthanks yet, ^P.\nPlease, take this.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0013",
+    "original": "It'd be more reliable if we talked \ndirectly rather than using letters...",
+    "translation": "It'd be more reliable if we talked \ndirectly rather than using letters...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0014",
+    "original": "What is it?\nA letter from ExTyrannomon?\nLet me see...\n",
+    "translation": "What is it?\nA letter from ExTyrannomon?\nLet me see...\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0015",
+    "original": "Handed over Key Item\nRequest Letter A",
+    "translation": "Handed over Key Item\nRequest Letter A",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0016",
+    "original": "...Oh no!\n\nI opened the letter so eagerly, \nI accidently tore it up!\nThis isn't good...\nI can't read the contents like this...\n...Oh, I know!\n\nI'll have Pandamon in Task \nCanyon fix the letter!\nI'll just write a request letter to\nPandamon...\nHere! Take this!\n",
+    "translation": "...Oh no!\n\nI opened the letter so eagerly, \nI accidently tore it up!\nThis isn't good...\nI can't read the contents like this...\n...Oh, I know!\n\nI'll have Pandamon in Task \nCanyon fix the letter!\nI'll just write a request letter to\nPandamon...\nHere! Take this!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0017",
+    "original": "Obtained a Key Item!\nRequest Letter B",
+    "translation": "Obtained a Key Item!\nRequest Letter B",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0018",
+    "original": "I'm sure Pandamon can fix this\nletter!",
+    "translation": "I'm sure Pandamon can fix this\nletter!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0019",
+    "original": "Oh-ho? A reply from Pandamon\nhas arrived!\nLet's see, let's see...\n",
+    "translation": "Oh-ho? A reply from Pandamon\nhas arrived!\nLet's see, let's see...\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0020",
+    "original": "Handed over Key Item\nRequest Letter C",
+    "translation": "Handed over Key Item\nRequest Letter C",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0021",
+    "original": "W-what the?! My hand slipped and\nthe letter fell into a puddle!\nHmmm... I can't read the letter\nlike this... What a mess...\nHey, sorry about this, but...\n\nCould you get a new letter with the\nsame contents from Pandamon?\nI'll write another request letter.\nHere, take this.",
+    "translation": "W-what the?! My hand slipped and\nthe letter fell into a puddle!\nHmmm... I can't read the letter\nlike this... What a mess...\nHey, sorry about this, but...\n\nCould you get a new letter with the\nsame contents from Pandamon?\nI'll write another request letter.\nHere, take this.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0022",
+    "original": "Obtained a Key Item!\nRequest Letter D",
+    "translation": "Obtained a Key Item!\nRequest Letter D",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0023",
+    "original": "I can't remember the contents...\nWhat did it say, again...?",
+    "translation": "I can't remember the contents...\nWhat did it say, again...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0024",
+    "original": "Oh! ^P!\nIs that Pandamon's reply letter?!\nBut it's no longer necessary!\n\nI remembered the contents of the\nletter I gave to ExTyrannomon!\nGive me a minute,\nI'll write a reply right away!\nAlso, you no longer need that\nrequest letter, so I'll keep it.\nHere, this is my reply for\nExTyrannomon.",
+    "translation": "Oh! ^P!\nIs that Pandamon's reply letter?!\nBut it's no longer necessary!\n\nI remembered the contents of the\nletter I gave to ExTyrannomon!\nGive me a minute,\nI'll write a reply right away!\nAlso, you no longer need that\nrequest letter, so I'll keep it.\nHere, this is my reply for\nExTyrannomon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0025",
+    "original": "Handed over Key Item\nRequest Letter E",
+    "translation": "Handed over Key Item\nRequest Letter E",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0026",
+    "original": "Obtained a Key Item!\nReply Letter",
+    "translation": "Obtained a Key Item!\nReply Letter",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0027",
+    "original": "Go deliver that letter to \nExTyrannomon.\nI'm counting on you.",
+    "translation": "Go deliver that letter to \nExTyrannomon.\nI'm counting on you.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0028",
+    "original": "I'm not senile yet!\nI still remember!\nGo deliver that letter to \nExTyrannomon.",
+    "translation": "I'm not senile yet!\nI still remember!\nGo deliver that letter to \nExTyrannomon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0029",
+    "original": "A letter from Monzaemon??\nI wonder what's the problem...?",
+    "translation": "A letter from Monzaemon??\nI wonder what's the problem...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0030",
+    "original": "Handed over Key Item\nRequest Letter B",
+    "translation": "Handed over Key Item\nRequest Letter B",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0031",
+    "original": "Oh no! Damn it!\nI absent-mindedly tore it up!\nThis is no good...\nI can't read it like this...\nHey you... Sorry about this, but...\n\nCould you ask Monzaemon to send\nme another letter?\nI'll write a letter of apology, too.\nOkay, here, take this.",
+    "translation": "Oh no! Damn it!\nI absent-mindedly tore it up!\nThis is no good...\nI can't read it like this...\nHey you... Sorry about this, but...\n\nCould you ask Monzaemon to send\nme another letter?\nI'll write a letter of apology, too.\nOkay, here, take this.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0032",
+    "original": "Obtained a Key Item!\nRequest Letter C",
+    "translation": "Obtained a Key Item!\nRequest Letter C",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0033",
+    "original": "Give that letter to Monzaemon.\nI'm counting on you!",
+    "translation": "Give that letter to Monzaemon.\nI'm counting on you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0034",
+    "original": "A reply from Monzaemon, huh?\nGive it to me!",
+    "translation": "A reply from Monzaemon, huh?\nGive it to me!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0035",
+    "original": "Handed over Key Item\nRequest Letter D",
+    "translation": "Handed over Key Item\nRequest Letter D",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0036",
+    "original": "Oh no! Damn it!\nThe letter got dirty!\nI was doing calligraphy until now...\nSo I smudged the writing...\nHmmm... This isn't good...\nI can't read it like this...\nWhat should I do?\nCan you send one more letter?",
+    "translation": "Oh no! Damn it!\nThe letter got dirty!\nI was doing calligraphy until now...\nSo I smudged the writing...\nHmmm... This isn't good...\nI can't read it like this...\nWhat should I do?\nCan you send one more letter?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0037",
+    "original": "...Just one more.",
+    "translation": "...Just one more.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0038",
+    "original": "What?? I'm tired...",
+    "translation": "What?? I'm tired...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0039",
+    "original": "Don't be like that!\nJust one more time, please!",
+    "translation": "Don't be like that!\nJust one more time, please!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0040",
+    "original": "Thank you!\nI'm counting on you!",
+    "translation": "Thank you!\nI'm counting on you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0041",
+    "original": "Obtained a Key Item!\nRequest Letter E",
+    "translation": "Obtained a Key Item!\nRequest Letter E",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0042",
+    "original": "You're a great person, you know?\nSay hi to Monzaemon for me!",
+    "translation": "You're a great person, you know?\nSay hi to Monzaemon for me!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0043",
+    "original": "^P, it seems like \nDracmon's at it again...\nSeems they've stolen DigiPlates\nfrom various Digimon...\nCould you look into this problem?\nSorry for bothering you.\nDracmon should be at Access \nGlacier.\nThank you!\n",
+    "translation": "^P, it seems like \nDracmon's at it again...\nSeems they've stolen DigiPlates\nfrom various Digimon...\nCould you look into this problem?\nSorry for bothering you.\nDracmon should be at Access \nGlacier.\nThank you!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0044",
+    "original": "Luckily, my DigiPlate hasn't been\nstolen.\nApparently the Devil Species are\nbeing targeted, in particular.\nHurry to Access Glacier and teach\nDracmon a lesson.",
+    "translation": "Luckily, my DigiPlate hasn't been\nstolen.\nApparently the Devil Species are\nbeing targeted, in particular.\nHurry to Access Glacier and teach\nDracmon a lesson.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0045",
+    "original": "So Dracmon is just really obsessed\nwith Digivolving...\nHmmm... I wonder if they're okay?\nI have a bad feeling...\nBut for now, you really helped out!\nThank you!\nHere's an expression of my \ngratitude, your reward!",
+    "translation": "So Dracmon is just really obsessed\nwith Digivolving...\nHmmm... I wonder if they're okay?\nI have a bad feeling...\nBut for now, you really helped out!\nThank you!\nHere's an expression of my \ngratitude, your reward!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0046",
+    "original": "We don't have to be obsessed \nwith Digivolving, right? Hmmm...",
+    "translation": "We don't have to be obsessed \nwith Digivolving, right? Hmmm...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0047",
+    "original": "You sure are persistent! Chasing \nme all across the world!\nAre you making fun of me because\nI can't Digivolve?!\nI'm strong as I am, you know!\nGuess I'll show you with my claws!",
+    "translation": "You sure are persistent! Chasing \nme all across the world!\nAre you making fun of me because\nI can't Digivolve?!\nI'm strong as I am, you know!\nGuess I'll show you with my claws!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0048",
+    "original": "Ugh... Grrr!\nIf only I could Digivolve...\nThen I'd make everyone become my\nfollower... I wouldn't be alone...\nNo matter what I have to do,\nI WILL Digivolve...!\nGo away, or I'll bite you...!\n",
+    "translation": "Ugh... Grrr!\nIf only I could Digivolve...\nThen I'd make everyone become my\nfollower... I wouldn't be alone...\nNo matter what I have to do,\nI WILL Digivolve...!\nGo away, or I'll bite you...!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0049",
+    "original": "I'll beat you when I become the\nworld's strongest Digimon...!\nGo away, or I'll bite you...!",
+    "translation": "I'll beat you when I become the\nworld's strongest Digimon...!\nGo away, or I'll bite you...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0050",
+    "original": "Hey, ^P,\nI had a brilliant idea!\nTadaaah!\n\nLet's make snow cones over at\nAccess Glacier!\nIsn't it just genius?!\nHelp me out, ^P!\nGo get some Ice Flakes and\nGiant Ice right away!\nThey're over at Access Glacier!\nHurry!",
+    "translation": "Hey, ^P,\nI had a brilliant idea!\nTadaaah!\n\nLet's make snow cones over at\nAccess Glacier!\nIsn't it just genius?!\nHelp me out, ^P!\nGo get some Ice Flakes and\nGiant Ice right away!\nThey're over at Access Glacier!\nHurry!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0051",
+    "original": "What's up? Once you bring the \nitems, you can try a cone, too!\nThe Ice Flakes and Giant Ice are\nat Access Glacier!\nFind those two items and bring \nthem here, please!",
+    "translation": "What's up? Once you bring the \nitems, you can try a cone, too!\nThe Ice Flakes and Giant Ice are\nat Access Glacier!\nFind those two items and bring \nthem here, please!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0052",
+    "original": "I knew you could do it,\ngreat job ^P!\nJust gotta shave the Giant Ice \nwith the Ice Flakes...\nAnd with this tool, I'll make a Snow\nCone!\nI'll let you know when its done!\n\nOkay, here's your reward,\ngo ahead and take it!",
+    "translation": "I knew you could do it,\ngreat job ^P!\nJust gotta shave the Giant Ice \nwith the Ice Flakes...\nAnd with this tool, I'll make a Snow\nCone!\nI'll let you know when its done!\n\nOkay, here's your reward,\ngo ahead and take it!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0053",
+    "original": "Handed over Key Item\nGiant Ice",
+    "translation": "Handed over Key Item\nGiant Ice",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0054",
+    "original": "Handed over Key Item\nIce Flakes",
+    "translation": "Handed over Key Item\nIce Flakes",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0055",
+    "original": "First I gotta practice!\n\nLet's start by crushing this Giant\nIce!",
+    "translation": "First I gotta practice!\n\nLet's start by crushing this Giant\nIce!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0056",
+    "original": "What do you want?\nThis ice...?\nI was also looking for this piece\nof ice, earlier, but...\nIt's simply too big...\nHey, how about we split it?\nHmm... It's pretty hard, but if I\ntrain a little, I can break it!\nHave a quick match with me!\n",
+    "translation": "What do you want?\nThis ice...?\nI was also looking for this piece\nof ice, earlier, but...\nIt's simply too big...\nHey, how about we split it?\nHmm... It's pretty hard, but if I\ntrain a little, I can break it!\nHave a quick match with me!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0057",
+    "original": "Look! The ice broke!\nIt split right in half!\nAlright, I'll take this half, and you\ncan have the other half.",
+    "translation": "Look! The ice broke!\nIt split right in half!\nAlright, I'll take this half, and you\ncan have the other half.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0058",
+    "original": "Obtained a Key Item!\nGiant Ice",
+    "translation": "Obtained a Key Item!\nGiant Ice",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0059",
+    "original": "Training is the best way you can\nmanage to break tough things!\nThat's a good lesson to remember!\n",
+    "translation": "Training is the best way you can\nmanage to break tough things!\nThat's a good lesson to remember!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0060",
+    "original": "With this ice, I can keep my\nnoodles cold!",
+    "translation": "With this ice, I can keep my\nnoodles cold!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0061",
+    "original": "Obtained a Key Item!\nIce Flakes",
+    "translation": "Obtained a Key Item!\nIce Flakes",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0062",
+    "original": "U-ummm... ^P...\nCould you listen to my request...?\nI was in a state of despair earlier,\nand while at Wizard Temple...\nI accidently threw away three \ndifferent rings...\nBut now I really need to get them\nback...\nPlease! Can you help me find \nthose rings!",
+    "translation": "U-ummm... ^P...\nCould you listen to my request...?\nI was in a state of despair earlier,\nand while at Wizard Temple...\nI accidently threw away three \ndifferent rings...\nBut now I really need to get them\nback...\nPlease! Can you help me find \nthose rings!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0063",
+    "original": "I brought ruby, onyx and diamond\nrings to Wizard Temple...\nAnd then I just... tossed them \naway... just like that...",
+    "translation": "I brought ruby, onyx and diamond\nrings to Wizard Temple...\nAnd then I just... tossed them \naway... just like that...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0064",
+    "original": "Oh, ^P...\nW-welcome back...\nYou've collected all three of the\nrings I lost...!\nWith these, I can make a brand\nnew ring!\nThanks, ^P...!\nThis is a token of my gratitude!",
+    "translation": "Oh, ^P...\nW-welcome back...\nYou've collected all three of the\nrings I lost...!\nWith these, I can make a brand\nnew ring!\nThanks, ^P...!\nThis is a token of my gratitude!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0065",
+    "original": "Handed over Key Item\nRuby Ring",
+    "translation": "Handed over Key Item\nRuby Ring",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0066",
+    "original": "Handed over Key Item\nOnyx Ring",
+    "translation": "Handed over Key Item\nOnyx Ring",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0067",
+    "original": "Handed over Key Item\nDiamond Ring",
+    "translation": "Handed over Key Item\nDiamond Ring",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0068",
+    "original": "N-next time I won't throw my\nstuff away in such a huff...",
+    "translation": "N-next time I won't throw my\nstuff away in such a huff...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0069",
+    "original": "Wow!\nI picked up something good!\nWhat?\nSomething wrong??\n...It's too late to say 'give it back',\nyou know...\nAlright then... If you beat me, I'll\ngive them to you!\nHere I come!",
+    "translation": "Wow!\nI picked up something good!\nWhat?\nSomething wrong??\n...It's too late to say 'give it back',\nyou know...\nAlright then... If you beat me, I'll\ngive them to you!\nHere I come!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0070",
+    "original": "Hmmm... You're strong!\nI surrender! I surrender!\nHere, I'll give you the ring.\n",
+    "translation": "Hmmm... You're strong!\nI surrender! I surrender!\nHere, I'll give you the ring.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0071",
+    "original": "Obtained a Key Item!\nDiamond Ring",
+    "translation": "Obtained a Key Item!\nDiamond Ring",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0072",
+    "original": "I'm not happy about this, but I did\nmake a promise.",
+    "translation": "I'm not happy about this, but I did\nmake a promise.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0073",
+    "original": "If you want to throw anything else\naway, just call for me!",
+    "translation": "If you want to throw anything else\naway, just call for me!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0074",
+    "original": "Obtained a Key Item!\nRuby Ring",
+    "translation": "Obtained a Key Item!\nRuby Ring",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0075",
+    "original": "Obtained a Key Item!\nOnyx Ring",
+    "translation": "Obtained a Key Item!\nOnyx Ring",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0076",
+    "original": "You're here, ^P.\nI have something to discuss.\nIt seems someone's been doing \nbad things using my name...\nI can't stay quiet and overlook\nsomething like this.\nPlease go to Thriller Ruins and\ncatch that imposter!",
+    "translation": "You're here, ^P.\nI have something to discuss.\nIt seems someone's been doing \nbad things using my name...\nI can't stay quiet and overlook\nsomething like this.\nPlease go to Thriller Ruins and\ncatch that imposter!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0077",
+    "original": "It seems some faker is doing evil\nthings at Thriller Ruins...\nUsing my name, of all people...!",
+    "translation": "It seems some faker is doing evil\nthings at Thriller Ruins...\nUsing my name, of all people...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0078",
+    "original": "I see, so the faker turned out to\nbe Merukimon...\nI wanted to teach them a lesson\nfor what they did, but...\nIt seems Merukimon is reflecting\non their actions, so it's fine.\nI won't pursue this any further.\n\nI appreciate your help,\n^P. Please take this.",
+    "translation": "I see, so the faker turned out to\nbe Merukimon...\nI wanted to teach them a lesson\nfor what they did, but...\nIt seems Merukimon is reflecting\non their actions, so it's fine.\nI won't pursue this any further.\n\nI appreciate your help,\n^P. Please take this.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0079",
+    "original": "Seems like the fake me is reflecting\non their actions.\nThank you, ^P.",
+    "translation": "Seems like the fake me is reflecting\non their actions.\nThank you, ^P.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0080",
+    "original": "Hm? Hey, you! You were staring\nat me just then, weren't you?!\nDon't lie!\nYou absolutely were staring!\nYou're looking for a fake?\nAnd you're saying I'M the fake?!\nYou incomprehensible fool!\nNow I'm annoyed! You'll pay!",
+    "translation": "Hm? Hey, you! You were staring\nat me just then, weren't you?!\nDon't lie!\nYou absolutely were staring!\nYou're looking for a fake?\nAnd you're saying I'M the fake?!\nYou incomprehensible fool!\nNow I'm annoyed! You'll pay!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0081",
+    "original": "I'm so annoyed!\nWhy was I the one to lose?!\nI'm telling you!\nI don't know any fake!\nYou're completely mistaken!\n\nBut I did see someone similar to\nme before.\nMaybe you're mistaking me for\nthem?",
+    "translation": "I'm so annoyed!\nWhy was I the one to lose?!\nI'm telling you!\nI don't know any fake!\nYou're completely mistaken!\n\nBut I did see someone similar to\nme before.\nMaybe you're mistaking me for\nthem?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0082",
+    "original": "It's not me! I'm telling you, \nyou've made a mistake!",
+    "translation": "It's not me! I'm telling you, \nyou've made a mistake!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0083",
+    "original": "I'm WereGarurumon!\nHand over all your coins!\nWhat? You're saying I'm a \nfake WereGarurumon...?\nWahaha! How interesting!\nWhy don't you try and find out!",
+    "translation": "I'm WereGarurumon!\nHand over all your coins!\nWhat? You're saying I'm a \nfake WereGarurumon...?\nWahaha! How interesting!\nWhy don't you try and find out!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0084",
+    "original": "Damn! I can't believe it's a request\nfrom the real WereGarurumon!\nI messed up! \nI won't use their name again!\nI promise!\nSo please, spare me!",
+    "translation": "Damn! I can't believe it's a request\nfrom the real WereGarurumon!\nI messed up! \nI won't use their name again!\nI promise!\nSo please, spare me!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0085",
+    "original": "I'll stop pretending to be\nWereGarurumon. Let them know.",
+    "translation": "I'll stop pretending to be\nWereGarurumon. Let them know.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0086",
+    "original": "^P...\nPlease listen to my request...\nThere's a Digimon that I really\nlook up to...\nI want to borrow the shotgun that\nthey carry with them...\nTheir name is Beelzemon,\nthey live in Angler Tunnel.\nLiving there must be...\nSo cool...\n^P,\nI'm counting on you.",
+    "translation": "^P...\nPlease listen to my request...\nThere's a Digimon that I really\nlook up to...\nI want to borrow the shotgun that\nthey carry with them...\nTheir name is Beelzemon,\nthey live in Angler Tunnel.\nLiving there must be...\nSo cool...\n^P,\nI'm counting on you.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0087",
+    "original": "The shotgun that Beelzemon at\nAngler Tunnel carries...\nThat's what I long for...\nI'm counting on you, ^P.",
+    "translation": "The shotgun that Beelzemon at\nAngler Tunnel carries...\nThat's what I long for...\nI'm counting on you, ^P.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0088",
+    "original": "This is Beelzemon's...\nIt's so awesome!\nI'll be sure to return this later...!\n\nI'll become a Digimon suited to\ncarry this shotgun!\n^P,\nHere's my promised reward.",
+    "translation": "This is Beelzemon's...\nIt's so awesome!\nI'll be sure to return this later...!\n\nI'll become a Digimon suited to\ncarry this shotgun!\n^P,\nHere's my promised reward.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0089",
+    "original": "Handed over Key Item\nSpare Gun",
+    "translation": "Handed over Key Item\nSpare Gun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0090",
+    "original": "The Digimon suited for this \nshotgun... Is Beelzemon, for sure.",
+    "translation": "The Digimon suited for this \nshotgun... Is Beelzemon, for sure.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0091",
+    "original": "You want to borrow my \nshotgun...?\nI can lend you my spare gun once\nyou find it.\nHowever...\n\nI need to test whether you're fit\nto entrust the gun to.",
+    "translation": "You want to borrow my \nshotgun...?\nI can lend you my spare gun once\nyou find it.\nHowever...\n\nI need to test whether you're fit\nto entrust the gun to.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0092",
+    "original": "First, find and bring my spare gun\nto me.\nIt's somewhere inside Angler \nTunnel, I'm sure.",
+    "translation": "First, find and bring my spare gun\nto me.\nIt's somewhere inside Angler \nTunnel, I'm sure.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0093",
+    "original": "That's right, this is my spare\nshotgun...\nMy shotgun is my life...\n\nWhether or not you're fit enough \nfor me to entrust it to you...\nThat's the question.\nI will test you on that!\n",
+    "translation": "That's right, this is my spare\nshotgun...\nMy shotgun is my life...\n\nWhether or not you're fit enough \nfor me to entrust it to you...\nThat's the question.\nI will test you on that!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0094",
+    "original": "Very well. I shall lend this to you.\nTreasure it, and get going!",
+    "translation": "Very well. I shall lend this to you.\nTreasure it, and get going!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0095",
+    "original": "A shotgun is one's life blood...\nDo not forget that.",
+    "translation": "A shotgun is one's life blood...\nDo not forget that.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0096",
+    "original": "Obtained a Key Item!\nSpare Gun",
+    "translation": "Obtained a Key Item!\nSpare Gun",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0097",
+    "original": "Greetings, ^P!\n\nToday I'd like to introduce you to\nmy family!\n...Is what I'd like to say,\nhowever...\nNobody is here yet...\n\nI'm sure they're somewhere at\nProxy Island,\nSo could you help find them\nand tell them to gather here.\nThere are four family members\nin total. Good luck!",
+    "translation": "Greetings, ^P!\n\nToday I'd like to introduce you to\nmy family!\n...Is what I'd like to say,\nhowever...\nNobody is here yet...\n\nI'm sure they're somewhere at\nProxy Island,\nSo could you help find them\nand tell them to gather here.\nThere are four family members\nin total. Good luck!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0098",
+    "original": "My family are all on vacation at\nProxy Island.\nThere are four of them, so make \nsure you find all of them.",
+    "translation": "My family are all on vacation at\nProxy Island.\nThere are four of them, so make \nsure you find all of them.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0099",
+    "original": "Thanks, ^P.\nSo you met with all of them?\nI'm happy you were able to\nfind them all!\nHere's your reward,\nthanks for helping me.",
+    "translation": "Thanks, ^P.\nSo you met with all of them?\nI'm happy you were able to\nfind them all!\nHere's your reward,\nthanks for helping me.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0100",
+    "original": "Next time, I hope I can gather\neveryone together myself!",
+    "translation": "Next time, I hope I can gather\neveryone together myself!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0101",
+    "original": "Oh! Long time no see! Thanks for \nyour help back at Loop Swamp!\nUncle Hawkmon is doing well, too!\n\nHm? Big Bro Buraimon is looking\nfor me?\nGot it! I'll go back together with\neveryone after you've found them!",
+    "translation": "Oh! Long time no see! Thanks for \nyour help back at Loop Swamp!\nUncle Hawkmon is doing well, too!\n\nHm? Big Bro Buraimon is looking\nfor me?\nGot it! I'll go back together with\neveryone after you've found them!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0102",
+    "original": "I'm not some lost child!\nI'm an adult now, remember?\nYou're such a worrywart!",
+    "translation": "I'm not some lost child!\nI'm an adult now, remember?\nYou're such a worrywart!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0103",
+    "original": "Buraimon's looking for me?\nWas I supposed to do something...?\nOh, now I remember!\nI was supposed to be meeting you!\nWell, now I've already met you,\nso the mission's complete, huh?",
+    "translation": "Buraimon's looking for me?\nWas I supposed to do something...?\nOh, now I remember!\nI was supposed to be meeting you!\nWell, now I've already met you,\nso the mission's complete, huh?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0104",
+    "original": "I'll meet with everyone else later,\nplease let them know that.",
+    "translation": "I'll meet with everyone else later,\nplease let them know that.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0105",
+    "original": "What?!\nBig Bro Buraimon's looking for me?!\nThat guy can be so inattentive!\nThings just don't get through.\n^P, was it?\nThanks for coming all this way.\nMake sure big bro properly gives\nhis thanks to you, too.",
+    "translation": "What?!\nBig Bro Buraimon's looking for me?!\nThat guy can be so inattentive!\nThings just don't get through.\n^P, was it?\nThanks for coming all this way.\nMake sure big bro properly gives\nhis thanks to you, too.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0106",
+    "original": "Did you tell my other family \nmembers, too?\nYou're such a good person!\nI'm counting on you!",
+    "translation": "Did you tell my other family \nmembers, too?\nYou're such a good person!\nI'm counting on you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0107",
+    "original": "What's that?\nYou want something of me?\nOh, you're ^P?\nJeez, that Buraimon...\nAsking you to do such a thing,\nhe can really be a pain...\nThank you for all your trouble.\nLet's all meet up together later.",
+    "translation": "What's that?\nYou want something of me?\nOh, you're ^P?\nJeez, that Buraimon...\nAsking you to do such a thing,\nhe can really be a pain...\nThank you for all your trouble.\nLet's all meet up together later.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0108",
+    "original": "Have you already met everyone?",
+    "translation": "Have you already met everyone?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0109",
+    "original": "^P...\nThis has become quite the problem.\nI just received a love letter from\nMummymon...\nBut I don't like him back...\n\nWhy don't I like him?\nBecause he's just so dry!\nI can't stand those kinds of\npeople! I really can't!\nSo I've got a favor to ask!\n\nPlease go to Graphics Board\nCentral and say sorry to him for me...",
+    "translation": "^P...\nThis has become quite the problem.\nI just received a love letter from\nMummymon...\nBut I don't like him back...\n\nWhy don't I like him?\nBecause he's just so dry!\nI can't stand those kinds of\npeople! I really can't!\nSo I've got a favor to ask!\n\nPlease go to Graphics Board\nCentral and say sorry to him for me...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0110",
+    "original": "If only he weren't so dry...\n\nMummymon's waiting over at\nGraphics Board Central.",
+    "translation": "If only he weren't so dry...\n\nMummymon's waiting over at\nGraphics Board Central.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0111",
+    "original": "Welcome back, ^P!\n\nA petition from Mummymon...?\nUmmm... I guess I'll take it...\nFor now, I'll just tell him to start\nby exchanging letters...!\nThank you, ^P!\nHere's your reward, as promised.\nIf I run into any other issues,\nI'll be sure to come to you!",
+    "translation": "Welcome back, ^P!\n\nA petition from Mummymon...?\nUmmm... I guess I'll take it...\nFor now, I'll just tell him to start\nby exchanging letters...!\nThank you, ^P!\nHere's your reward, as promised.\nIf I run into any other issues,\nI'll be sure to come to you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0112",
+    "original": "Handed over Key Item\nPetition",
+    "translation": "Handed over Key Item\nPetition",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0113",
+    "original": "But I really can't stand the idea\nof being so dry...\nWithout moisture, I just can't \nsurvive!",
+    "translation": "But I really can't stand the idea\nof being so dry...\nWithout moisture, I just can't \nsurvive!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0114",
+    "original": "A reply from Mermaimon?!\nI've been waiting!\nQuick, hurry and tell me!\nIt's a yes, isn't it?! I bet it is!\n\n...It's a no...?\nA no?!\nThat's impossible!\nWhat's the reason?!\nI'll force it out of you!",
+    "translation": "A reply from Mermaimon?!\nI've been waiting!\nQuick, hurry and tell me!\nIt's a yes, isn't it?! I bet it is!\n\n...It's a no...?\nA no?!\nThat's impossible!\nWhat's the reason?!\nI'll force it out of you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0115",
+    "original": "It's a no?!\nSo it really is a no...?!\nI need to do something about this!\n...But what...?\n...I know!\nHere, give this to Mermaimon!",
+    "translation": "It's a no?!\nSo it really is a no...?!\nI need to do something about this!\n...But what...?\n...I know!\nHere, give this to Mermaimon!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0116",
+    "original": "Obtained a Key Item!\nPetition",
+    "translation": "Obtained a Key Item!\nPetition",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0117",
+    "original": "I believe that this will sway\nMermaimon, but...\nI'll leave the details to you,\n^P!",
+    "translation": "I believe that this will sway\nMermaimon, but...\nI'll leave the details to you,\n^P!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0118",
+    "original": "Wow, ^P!\nI'm so awesome!\nI thought of an incredible\ntraining menu!\nWith this, I'll get strong for sure!\nYou should try it out, too!\nFirst, go meet AncientSphinxmon\nover in Shadow Hell!",
+    "translation": "Wow, ^P!\nI'm so awesome!\nI thought of an incredible\ntraining menu!\nWith this, I'll get strong for sure!\nYou should try it out, too!\nFirst, go meet AncientSphinxmon\nover in Shadow Hell!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0119",
+    "original": "You're definitely fit for this\ntraining, too!\nGo meet AncientSphinxmon over in \nShadow Hell!",
+    "translation": "You're definitely fit for this\ntraining, too!\nGo meet AncientSphinxmon over in \nShadow Hell!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0120",
+    "original": "You have returned!\nAmazing!\nI'll give you a prize!\n",
+    "translation": "You have returned!\nAmazing!\nI'll give you a prize!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0121",
+    "original": "I'll keep up this training until even\nmy brain turns to muscle!",
+    "translation": "I'll keep up this training until even\nmy brain turns to muscle!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0122",
+    "original": "You have come, I see.\n\nThere are three Digimon scattered\nthroughout Shadow Hell.\nWin against all three, \nthat is the only rule.\nOnce you have defeated all three,\nreport back to me. That is all.",
+    "translation": "You have come, I see.\n\nThere are three Digimon scattered\nthroughout Shadow Hell.\nWin against all three, \nthat is the only rule.\nOnce you have defeated all three,\nreport back to me. That is all.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0123",
+    "original": "Once you have defeated all three,\nreport back to me. That is all.",
+    "translation": "Once you have defeated all three,\nreport back to me. That is all.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0124",
+    "original": "So you won against all three?\nNow that is true strength.\nNow I shall test you on how\nmuch you amount to!\nCome!\n",
+    "translation": "So you won against all three?\nNow that is true strength.\nNow I shall test you on how\nmuch you amount to!\nCome!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0125",
+    "original": "With this, my training is over.\nTrust your power and work harder!\nThat is all.\n",
+    "translation": "With this, my training is over.\nTrust your power and work harder!\nThat is all.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0126",
+    "original": "Training is over!\nDismissed!",
+    "translation": "Training is over!\nDismissed!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0127",
+    "original": "I am here.\nLet us fight!",
+    "translation": "I am here.\nLet us fight!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0128",
+    "original": "I lost.\nYou are strong.",
+    "translation": "I lost.\nYou are strong.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0129",
+    "original": "You have defeated all.\nGo fight AncientSphinxmon.",
+    "translation": "You have defeated all.\nGo fight AncientSphinxmon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0130",
+    "original": "What is your dream?!\n\nTraining?!\nIs it training?!\nThen allow me to fulfill your dream!",
+    "translation": "What is your dream?!\n\nTraining?!\nIs it training?!\nThen allow me to fulfill your dream!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0131",
+    "original": "Has your dream been fulfilled!?\nThen let's meet again someday!",
+    "translation": "Has your dream been fulfilled!?\nThen let's meet again someday!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0132",
+    "original": "I'll always support you!",
+    "translation": "I'll always support you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0133",
+    "original": "In a fight, there's a winner, and \nthere's a loser.\nThat's why it's so interesting!\nFight with me!\n",
+    "translation": "In a fight, there's a winner, and \nthere's a loser.\nThat's why it's so interesting!\nFight with me!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0134",
+    "original": "You have won. You have gained \nstrength by your own hand, alone.",
+    "translation": "You have won. You have gained \nstrength by your own hand, alone.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0135",
+    "original": "You are strong. But\nAncientSphinxmon is strong, too.",
+    "translation": "You are strong. But\nAncientSphinxmon is strong, too.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0136",
+    "original": "Hey, ^P,\nwhat do you think about beauty?\nBeauty Shampoo is common \nknowledge these days.\nBut lately, it seems Beauty Soap\nis also becoming popular...\nIt seems it can be found deep\nwithin Task Canyon.\n...I'm sure you know what I'm\ngetting at, don't you?\nPlease bring me the Beauty\nSoap as soon as you can.",
+    "translation": "Hey, ^P,\nwhat do you think about beauty?\nBeauty Shampoo is common \nknowledge these days.\nBut lately, it seems Beauty Soap\nis also becoming popular...\nIt seems it can be found deep\nwithin Task Canyon.\n...I'm sure you know what I'm\ngetting at, don't you?\nPlease bring me the Beauty\nSoap as soon as you can.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0137",
+    "original": "Beauty Soap is used to help\ngive you smoother skin.\nIt seems to be somewhere deep\nin Task Canyon.",
+    "translation": "Beauty Soap is used to help\ngive you smoother skin.\nIt seems to be somewhere deep\nin Task Canyon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0138",
+    "original": "Welcome back.\nThat's the Beauty Soap, isn't it?\nWhat a beautiful color...\nNow my skin'll be even smoother...\nHehehe... Thank you so much,\n^P.\nHere is my thanks, please take it.",
+    "translation": "Welcome back.\nThat's the Beauty Soap, isn't it?\nWhat a beautiful color...\nNow my skin'll be even smoother...\nHehehe... Thank you so much,\n^P.\nHere is my thanks, please take it.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0139",
+    "original": "Handed over Key Item\nBeauty Soap",
+    "translation": "Handed over Key Item\nBeauty Soap",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0140",
+    "original": "If you pay more attention to your\nappearance,\nI'm sure even you'll become more\nlovely, ^P!\n",
+    "translation": "If you pay more attention to your\nappearance,\nI'm sure even you'll become more\nlovely, ^P!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0141",
+    "original": "Are you looking for Beauty Soap?\nWhat a coincidence, me too!\nIt's fine and all, coming here after\nhearing such a rumor, but...\nWhen it comes to creating Beauty\nSoap, you need some Red Bubbles.\nWould you like to search for it,\ntogether?\nIf we can manage to find it,\nI'll share some soap with you!",
+    "translation": "Are you looking for Beauty Soap?\nWhat a coincidence, me too!\nIt's fine and all, coming here after\nhearing such a rumor, but...\nWhen it comes to creating Beauty\nSoap, you need some Red Bubbles.\nWould you like to search for it,\ntogether?\nIf we can manage to find it,\nI'll share some soap with you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0142",
+    "original": "When it comes to creating Beauty\nSoap, you need some Red Bubbles!\nI'll do the making, so you go search\nfor some Red Bubbles!\nI'm sure you can find some\nsomewhere on this mountain!",
+    "translation": "When it comes to creating Beauty\nSoap, you need some Red Bubbles!\nI'll do the making, so you go search\nfor some Red Bubbles!\nI'm sure you can find some\nsomewhere on this mountain!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0143",
+    "original": "Kya! This is it! This is it!\nYou found it!\nAlright!\nLet's make some soap!\nGive me a minute...\n\n.............\n\nPweh! It's done! With this, \nyou'll have lovely beautiful skin!\nHere you go, this is your\nportion.",
+    "translation": "Kya! This is it! This is it!\nYou found it!\nAlright!\nLet's make some soap!\nGive me a minute...\n\n.............\n\nPweh! It's done! With this, \nyou'll have lovely beautiful skin!\nHere you go, this is your\nportion.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0144",
+    "original": "Handed over Key Item\nRed Bubbles",
+    "translation": "Handed over Key Item\nRed Bubbles",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0145",
+    "original": ".............\n\nPweh! It's done! With this, \nyou'll have lovely beautiful skin!\nHere you go, this is your\nportion.",
+    "translation": ".............\n\nPweh! It's done! With this, \nyou'll have lovely beautiful skin!\nHere you go, this is your\nportion.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0146",
+    "original": "Obtained a Key Item!\nBeauty Soap",
+    "translation": "Obtained a Key Item!\nBeauty Soap",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0147",
+    "original": "What? Did you suspect I'd keep\nit all to myself?\nOf course not!\nIn the end, I'm the most beautiful!\nSo don't mind me!\n",
+    "translation": "What? Did you suspect I'd keep\nit all to myself?\nOf course not!\nIn the end, I'm the most beautiful!\nSo don't mind me!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0148",
+    "original": "I'll be getting magazine offer\nafter magazine offer, now! Ehehe!",
+    "translation": "I'll be getting magazine offer\nafter magazine offer, now! Ehehe!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0149",
+    "original": "Obtained a Key Item!\nRed Bubbles",
+    "translation": "Obtained a Key Item!\nRed Bubbles",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0150",
+    "original": "^P...\nWe've got trouble...\nIt seems Dracmon's been stealing\nItems and Bits...\nIt looks like he's being instructed\nby someone behind the scenes...\nCould you go check on him over\nat Graphics Board Central?",
+    "translation": "^P...\nWe've got trouble...\nIt seems Dracmon's been stealing\nItems and Bits...\nIt looks like he's being instructed\nby someone behind the scenes...\nCould you go check on him over\nat Graphics Board Central?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0151",
+    "original": "This isn't good...\nI'm worried about Dracmon...\nSomeone saw him over on Graphics\nBoard Central,\nPlease go and see what's going on,\n^P.",
+    "translation": "This isn't good...\nI'm worried about Dracmon...\nSomeone saw him over on Graphics\nBoard Central,\nPlease go and see what's going on,\n^P.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0152",
+    "original": "Welcome back,\n^P!\nDracmon was here earlier, and he\ndropped off a Blug Plate!\nHe wants the Plate inserted into\nthe Tree once it's repaired.\nHe could have asked you himself,\nbe he's just not that direct, is he?\nHere's a reward from the both\nof us.\nThank you very much,\n^P.",
+    "translation": "Welcome back,\n^P!\nDracmon was here earlier, and he\ndropped off a Blug Plate!\nHe wants the Plate inserted into\nthe Tree once it's repaired.\nHe could have asked you himself,\nbe he's just not that direct, is he?\nHere's a reward from the both\nof us.\nThank you very much,\n^P.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0153",
+    "original": "Obtained a Bug Plate!\nGranDracmon",
+    "translation": "Obtained a Bug Plate!\nGranDracmon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0154",
+    "original": "It seems Dracmon is happy that\nyou care about him, ^P.\nPlease continue to support him.",
+    "translation": "It seems Dracmon is happy that\nyou care about him, ^P.\nPlease continue to support him.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0155",
+    "original": "I saw Dracmon earlier.\n\nHe said he'd get a DigiPlate from\nGranDracmon, but...\nI doubt that GranDracmon will give\nhim one so easily.\nBecause despite being super \nstrong, he's not very nice.\nI hope Dracmon doesn't get\nshoved around too much...",
+    "translation": "I saw Dracmon earlier.\n\nHe said he'd get a DigiPlate from\nGranDracmon, but...\nI doubt that GranDracmon will give\nhim one so easily.\nBecause despite being super \nstrong, he's not very nice.\nI hope Dracmon doesn't get\nshoved around too much...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0156",
+    "original": "Dracmon said he was meeting \nsomeone at Graphics Board Central.",
+    "translation": "Dracmon said he was meeting \nsomeone at Graphics Board Central.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0157",
+    "original": "Ummm... ^P...\nC...can I talk to you...?\nH...have you heard the recent \nrumor about a Doppel-Digimon...?\nIf someone sees a similar looking\nDigimon, bad luck will follow...\nS...scary, isn't it... But... \nI'm curious about its true identity...\nI heard he appears somewhere\nin Chrome Mine...\nC...Could you go and investigate...?",
+    "translation": "Ummm... ^P...\nC...can I talk to you...?\nH...have you heard the recent \nrumor about a Doppel-Digimon...?\nIf someone sees a similar looking\nDigimon, bad luck will follow...\nS...scary, isn't it... But... \nI'm curious about its true identity...\nI heard he appears somewhere\nin Chrome Mine...\nC...Could you go and investigate...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0158",
+    "original": "A mysterious Doppel-Digimon \nsomewhere in Chrome Mine...\nS...scary, isn't it...\nCan you go investigate...?",
+    "translation": "A mysterious Doppel-Digimon \nsomewhere in Chrome Mine...\nS...scary, isn't it...\nCan you go investigate...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0159",
+    "original": "Oh... ^P, welcome back...\nHow'd it go...?\nEh...? The Doppel-Digimon was\nCherubimon...?\nB...but I was with Cherubimon\nat the time...\nWe came to the Farm and were\nplaying together...\nI... I'm scared...\nHere's your reward...",
+    "translation": "Oh... ^P, welcome back...\nHow'd it go...?\nEh...? The Doppel-Digimon was\nCherubimon...?\nB...but I was with Cherubimon\nat the time...\nWe came to the Farm and were\nplaying together...\nI... I'm scared...\nHere's your reward...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0160",
+    "original": "I... I'm sure that was not the\nCherubimon I know...\nI... I'm sure of it!\n...But if I'm wrong...",
+    "translation": "I... I'm sure that was not the\nCherubimon I know...\nI... I'm sure of it!\n...But if I'm wrong...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0161",
+    "original": ".......Heh...\n",
+    "translation": ".......Heh...\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0162",
+    "original": "W...we are...\nthe... same...",
+    "translation": "W...we are...\nthe... same...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0163",
+    "original": "Wait, ^P!\nI can't stand this any longer!\nThere's a guy who raids the ruins\nat Class Desert!\nThe ruins' relics are also being\nstolen one after the other!\nIsn't it terrible?\nI can't allow this to continue!\n^P! Get the treasures\nfrom Class Desert!\nFirst, find the Jewel Shard and \nthe Gold Shard!\nIf you follow the clues, it should\nlead you to the culprit!",
+    "translation": "Wait, ^P!\nI can't stand this any longer!\nThere's a guy who raids the ruins\nat Class Desert!\nThe ruins' relics are also being\nstolen one after the other!\nIsn't it terrible?\nI can't allow this to continue!\n^P! Get the treasures\nfrom Class Desert!\nFirst, find the Jewel Shard and \nthe Gold Shard!\nIf you follow the clues, it should\nlead you to the culprit!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0164",
+    "original": "First, find the Jewel Shard and \nthe Gold Shard!\nIf you follow the clues, it should\nlead you to the culprit!\nThey should be in Class Desert!\nPlease don't forget!",
+    "translation": "First, find the Jewel Shard and \nthe Gold Shard!\nIf you follow the clues, it should\nlead you to the culprit!\nThey should be in Class Desert!\nPlease don't forget!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0165",
+    "original": "Welcome back, ^P!\nI've been waiting!\nAnd you've managed to bring the\ntreasure back in one piece!\n...I bet you were tempted to take\nthese treasures for yourself...\n...Just kidding!\n\nYou, of all people, would never\ndo something like that!\nRight...?\n\nAlright, here's your reward!\nThanks, ^P!",
+    "translation": "Welcome back, ^P!\nI've been waiting!\nAnd you've managed to bring the\ntreasure back in one piece!\n...I bet you were tempted to take\nthese treasures for yourself...\n...Just kidding!\n\nYou, of all people, would never\ndo something like that!\nRight...?\n\nAlright, here's your reward!\nThanks, ^P!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0166",
+    "original": "Handed over Key Item\nJewel Shard",
+    "translation": "Handed over Key Item\nJewel Shard",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0167",
+    "original": "Handed over Key Item\nGold Shard\n",
+    "translation": "Handed over Key Item\nGold Shard\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0168",
+    "original": "Handed over Key Item\nGolden Mask\n",
+    "translation": "Handed over Key Item\nGolden Mask\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0169",
+    "original": "With this, I can finally relax!\n\nI knew you could do it, ^P!\nI'll be counting on you from now on!",
+    "translation": "With this, I can finally relax!\n\nI knew you could do it, ^P!\nI'll be counting on you from now on!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0170",
+    "original": "Obtained a Key Item!\nJewel Shard",
+    "translation": "Obtained a Key Item!\nJewel Shard",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0171",
+    "original": "Obtained a Key Item!\nGold Shard",
+    "translation": "Obtained a Key Item!\nGold Shard",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0172",
+    "original": "S...say, ^P...\nDo you know...?\nOnly specially selected Tamers\ncan take this... Special... training.\nIn addition to being special,\nit's also a crash course,\nSo it's called 'Special Crash\nTraining'.\nIt looks like... you were the \nspecially chosen Tamer, so...\nIf you feel like it, how about\ntrying out this training...?",
+    "translation": "S...say, ^P...\nDo you know...?\nOnly specially selected Tamers\ncan take this... Special... training.\nIn addition to being special,\nit's also a crash course,\nSo it's called 'Special Crash\nTraining'.\nIt looks like... you were the \nspecially chosen Tamer, so...\nIf you feel like it, how about\ntrying out this training...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0173",
+    "original": "It... It's alright.\nYou can do it, ^P...\nCoronamon is waiting for you at\nPalace Laboratory...\nS...so, good luck...",
+    "translation": "It... It's alright.\nYou can do it, ^P...\nCoronamon is waiting for you at\nPalace Laboratory...\nS...so, good luck...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0174",
+    "original": "Welcome back, ^P...!\n\n^P... Y...you really are\nstrong after all...\nYou look... far stronger than before\nyou took that crash training...\nI... I should work harder... too!\n\nH...here is your reward...\nPlease, take it...",
+    "translation": "Welcome back, ^P...!\n\n^P... Y...you really are\nstrong after all...\nYou look... far stronger than before\nyou took that crash training...\nI... I should work harder... too!\n\nH...here is your reward...\nPlease, take it...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0175",
+    "original": "M... maybe I'll have Coronamon\ntrain me, too...",
+    "translation": "M... maybe I'll have Coronamon\ntrain me, too...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0176",
+    "original": "I must also undergo special \ntraining so I won't lose to you!\nDon't forget to go back to the\nFarm and give that report, okay?",
+    "translation": "I must also undergo special \ntraining so I won't lose to you!\nDon't forget to go back to the\nFarm and give that report, okay?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0177",
+    "original": "^P!\nHear me out!\nLast night while I was staring\nat the stars...\nI saw something bright zoom\nright through the sky!\nCould it have possibly been...\nA DigiShip?\nMaybe another Tamer has come!\n\nIt looks like it landed somewhere\non Proxy Island...\nYou should really go and check\nit out!",
+    "translation": "^P!\nHear me out!\nLast night while I was staring\nat the stars...\nI saw something bright zoom\nright through the sky!\nCould it have possibly been...\nA DigiShip?\nMaybe another Tamer has come!\n\nIt looks like it landed somewhere\non Proxy Island...\nYou should really go and check\nit out!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0178",
+    "original": "It looks like some sort of DigiShip\ncame from the sky,\nAnd it landed somewhere on\nProxy Island!\nYou should really go and check\nit out!",
+    "translation": "It looks like some sort of DigiShip\ncame from the sky,\nAnd it landed somewhere on\nProxy Island!\nYou should really go and check\nit out!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0179",
+    "original": "Welcome back, ^P!\n\nHuh? It wasn't a DigiShip?\nThat's a shame...\nSo it was a false alarm thanks\nto Justimon, huh...\nIn any case, thanks for your\nefforts. Here, take this.",
+    "translation": "Welcome back, ^P!\n\nHuh? It wasn't a DigiShip?\nThat's a shame...\nSo it was a false alarm thanks\nto Justimon, huh...\nIn any case, thanks for your\nefforts. Here, take this.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0180",
+    "original": "In any case...\nHe collided with a shooting star...?\nJust what kind of training was\nthat guy doing...?",
+    "translation": "In any case...\nHe collided with a shooting star...?\nJust what kind of training was\nthat guy doing...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0181",
+    "original": "If you've come to see the shooting\nstars,\nThen I can give you something just\nas sparkling and awe-inspiring!\nIf you want it, you'll have to go\nask SlashAngemon what it is, first.\nHe's somewhere on Proxy Island.",
+    "translation": "If you've come to see the shooting\nstars,\nThen I can give you something just\nas sparkling and awe-inspiring!\nIf you want it, you'll have to go\nask SlashAngemon what it is, first.\nHe's somewhere on Proxy Island.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0182",
+    "original": "Obtained a Key Item!\n??? Fragments",
+    "translation": "Obtained a Key Item!\n??? Fragments",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0183",
+    "original": "Did a new Tamer come from the\nReal World, I wonder...?",
+    "translation": "Did a new Tamer come from the\nReal World, I wonder...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0184",
+    "original": "Something sparkling...?\n\nJustimon went looking and found\nsome of these fragments...?\nLet me take a look...\nSomethings written on them...\nIt says... 'Justimon'...",
+    "translation": "Something sparkling...?\n\nJustimon went looking and found\nsome of these fragments...?\nLet me take a look...\nSomethings written on them...\nIt says... 'Justimon'...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0185",
+    "original": "Are these fragments from a\nDigiShip...?",
+    "translation": "Are these fragments from a\nDigiShip...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0186",
+    "original": "Uwaaaaah!\nWhere is ittttttt?!\nCome on! Where is it?!\n\nYesterday while I was out \npracticing my kicks...\nI ended up getting hit by a falling\nstar, bam!\nIt broke my precious helmet...\n\nI've been looking for all the\npieces, \nBut I haven't managed to find\nall of them, yet...\nThey look like...\n\nJUST LIKE WHAT YOU'VE GOT!\n\nWhat?\nYou'll give them back to me?\nWhoa! Thank you so much!\nI owe you big time!",
+    "translation": "Uwaaaaah!\nWhere is ittttttt?!\nCome on! Where is it?!\n\nYesterday while I was out \npracticing my kicks...\nI ended up getting hit by a falling\nstar, bam!\nIt broke my precious helmet...\n\nI've been looking for all the\npieces, \nBut I haven't managed to find\nall of them, yet...\nThey look like...\n\nJUST LIKE WHAT YOU'VE GOT!\n\nWhat?\nYou'll give them back to me?\nWhoa! Thank you so much!\nI owe you big time!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0187",
+    "original": "Handed over Key Item\n??? Fragments",
+    "translation": "Handed over Key Item\n??? Fragments",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0188",
+    "original": "Boy am I glad I wrote my name\non my helmet!\nYou look frustrated!\nBut I'm totally satisfied!",
+    "translation": "Boy am I glad I wrote my name\non my helmet!\nYou look frustrated!\nBut I'm totally satisfied!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0189",
+    "original": "You're late, ^P!\nI've been waiting forever!\nMy shoulders have been aching\nsomething fierce!\nBut I heard that there are some\ngood hot springs in Chrome Mine.\nWould you go confirm that\nrumor for me?",
+    "translation": "You're late, ^P!\nI've been waiting forever!\nMy shoulders have been aching\nsomething fierce!\nBut I heard that there are some\ngood hot springs in Chrome Mine.\nWould you go confirm that\nrumor for me?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0190",
+    "original": "Hurry, please!\n\nI really want to check out the hot\nsprings everyone's talking about!\nWhat kind of hot spring is it,\nI wonder?!\nGeez, hurry up and find out for me,\nwill you?!",
+    "translation": "Hurry, please!\n\nI really want to check out the hot\nsprings everyone's talking about!\nWhat kind of hot spring is it,\nI wonder?!\nGeez, hurry up and find out for me,\nwill you?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0191",
+    "original": "Oh, welcome back!\nSo you found the hot spring...\nAnd you... brought it back...\nright...?\nWhat do you mean you didn't bring\nthe hot spring back??\nI don't believe you!\n\nCould you hurry up and bring back\nsome Hot Spring Water,\nAs well as some Bath Salts, \nplease?!",
+    "translation": "Oh, welcome back!\nSo you found the hot spring...\nAnd you... brought it back...\nright...?\nWhat do you mean you didn't bring\nthe hot spring back??\nI don't believe you!\n\nCould you hurry up and bring back\nsome Hot Spring Water,\nAs well as some Bath Salts, \nplease?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0192",
+    "original": "Make sure you bring back the\nHot Spring Water and Bath Salts\nfrom the hot spring in Chrome\nMine, got it?!",
+    "translation": "Make sure you bring back the\nHot Spring Water and Bath Salts\nfrom the hot spring in Chrome\nMine, got it?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0193",
+    "original": "Welcome back, ^P!\n\nSo you brought back what I asked\nthis time, right!\nEhehehe, thank you!\nThis should fix my shoulder!\nHere, take this for your troubles!\nThanks again!",
+    "translation": "Welcome back, ^P!\n\nSo you brought back what I asked\nthis time, right!\nEhehehe, thank you!\nThis should fix my shoulder!\nHere, take this for your troubles!\nThanks again!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0194",
+    "original": "Handed over Key Item\nHot Spring Water",
+    "translation": "Handed over Key Item\nHot Spring Water",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0195",
+    "original": "Handed over Key Item\nBath Salts",
+    "translation": "Handed over Key Item\nBath Salts",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0196",
+    "original": "You really are a reliable Tamer!\n\nIf you ever want to go to the hot\nsprings, let me know!",
+    "translation": "You really are a reliable Tamer!\n\nIf you ever want to go to the hot\nsprings, let me know!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0197",
+    "original": "Hot spring...? Well, the water is\nalways steaming hot...\nIt's out back...\nMaybe try telling her that...?",
+    "translation": "Hot spring...? Well, the water is\nalways steaming hot...\nIt's out back...\nMaybe try telling her that...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0198",
+    "original": "Hurry and go!",
+    "translation": "Hurry and go!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0013_0199",
+    "original": "You're back again? If you want\nmore water, you can have more.\nThe Bath Salts are just on the \nother side of this door, hurry now!",
+    "translation": "You're back again? If you want\nmore water, you can have more.\nThe Bath Salts are just on the \nother side of this door, hurry now!",
+    "stage": 1,
+    "context": ""
+  }
+]

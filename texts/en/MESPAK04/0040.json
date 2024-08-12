@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK04_0040_0000",
+    "original": "daiji_311 Explanation for a key item.",
+    "translation": "daiji_311 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0001",
+    "original": "daiji_312 Explanation for a key item.",
+    "translation": "daiji_312 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0002",
+    "original": "daiji_313 Explanation for a key item.",
+    "translation": "daiji_313 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0003",
+    "original": "daiji_314 Explanation for a key item.",
+    "translation": "daiji_314 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0004",
+    "original": "daiji_315 Explanation for a key item.",
+    "translation": "daiji_315 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0005",
+    "original": "daiji_316 Explanation for a key item.",
+    "translation": "daiji_316 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0006",
+    "original": "daiji_317 Explanation for a key item.",
+    "translation": "daiji_317 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0007",
+    "original": "daiji_318 Explanation for a key item.",
+    "translation": "daiji_318 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0008",
+    "original": "daiji_319 Explanation for a key item.",
+    "translation": "daiji_319 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0009",
+    "original": "daiji_320 Explanation for a key item.",
+    "translation": "daiji_320 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0010",
+    "original": "A repairing tool.  It can only file away small\nCrystal Bugs, but it's still very useful.",
+    "translation": "A repairing tool.  It can only file away small\nCrystal Bugs, but it's still very useful.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0011",
+    "original": "A repairing tool.  It can only destroy slightly\nbigger Crystal Bugs, but its still very useful.",
+    "translation": "A repairing tool.  It can only destroy slightly\nbigger Crystal Bugs, but its still very useful.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0012",
+    "original": "An incredibly useful repairing tool. It can\ndestroy large Crystal Bugs.",
+    "translation": "An incredibly useful repairing tool. It can\ndestroy large Crystal Bugs.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0013",
+    "original": "A repairing tool.  It can only fix small scuffs\nin a DigiPlate, but its still very useful.",
+    "translation": "A repairing tool.  It can only fix small scuffs\nin a DigiPlate, but its still very useful.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0014",
+    "original": "A very useful repairing tool.  It can file away\nputty much faster.",
+    "translation": "A very useful repairing tool.  It can file away\nputty much faster.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0015",
+    "original": "A useful repairing tool.  It can remove the\nputty from a DigiPlate.",
+    "translation": "A useful repairing tool.  It can remove the\nputty from a DigiPlate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0016",
+    "original": "A useful repairing tool. It can clean off the\ndirt from a DigiPlate.",
+    "translation": "A useful repairing tool. It can clean off the\ndirt from a DigiPlate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0017",
+    "original": "An incredibly useful repairing tool.  It can\nremove even the most stubborn  of stains on\na DigiPlate.",
+    "translation": "An incredibly useful repairing tool.  It can\nremove even the most stubborn  of stains on\na DigiPlate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0018",
+    "original": "A key that opens a DigiPort. It can open the\nLogin Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nLogin Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0019",
+    "original": "A key that opens a DigiPort. It can open the\nLoop Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nLoop Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0020",
+    "original": "A key that opens a DigiPort. It can open the\nMagnet Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nMagnet Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0021",
+    "original": "A key that opens a DigiPort. It can open the\nPallet Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nPallet Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0022",
+    "original": "A key that opens a DigiPort. It can open the\nTamer Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nTamer Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0023",
+    "original": "A key that opens a DigiPort. It can open the\nRegister Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nRegister Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0024",
+    "original": "A key that opens a DigiPort. It can open the\nLimit Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nLimit Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0025",
+    "original": "A key that opens a DigiPort. It can open the\nPixel Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nPixel Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0026",
+    "original": "A key that opens a DigiPort. It can open the\nShadow Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nShadow Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0027",
+    "original": "A key that opens a DigiPort. It can open the\nTask Port South gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nTask Port South gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0028",
+    "original": "A key that opens a DigiPort. It can open the\nThriller Port East gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nThriller Port East gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0029",
+    "original": "A key that opens a DigiPort. It can open the\nThriller Port West gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nThriller Port West gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0030",
+    "original": "A key that opens a DigiPort. It can open the\nAccess Port South gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nAccess Port South gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0031",
+    "original": "A key that opens a DigiPort. It can open the\nAccess Port North gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nAccess Port North gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0032",
+    "original": "A key that opens a DigiPort. It can open the\nProxy Port East gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nProxy Port East gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0033",
+    "original": "A key that opens a DigiPort. It can open the\nProxy Port West gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nProxy Port West gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0034",
+    "original": "A key that opens a DigiPort. It can open the\nAngler Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nAngler Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0035",
+    "original": "A key that opens a DigiPort. It can open the\nWizard Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nWizard Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0036",
+    "original": "A key that opens a DigiPort. It can open the\nChrome Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nChrome Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0037",
+    "original": "A key that opens a DigiPort. It can open the\nClass Port gate.",
+    "translation": "A key that opens a DigiPort. It can open the\nClass Port gate.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0038",
+    "original": "daiji_520 Explanation for a key item.",
+    "translation": "daiji_520 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0039",
+    "original": "daiji_521 Explanation for a key item.",
+    "translation": "daiji_521 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0040",
+    "original": "daiji_522 Explanation for a key item.",
+    "translation": "daiji_522 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0041",
+    "original": "daiji_523 Explanation for a key item.",
+    "translation": "daiji_523 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0042",
+    "original": "daiji_524 Explanation for a key item.",
+    "translation": "daiji_524 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0043",
+    "original": "daiji_525 Explanation for a key item.",
+    "translation": "daiji_525 Explanation for a key item.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0044",
+    "original": "A switch gate card key. The key for the\nswitch gate in Login Mountain.",
+    "translation": "A switch gate card key. The key for the\nswitch gate in Login Mountain.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0045",
+    "original": "A switch gate card key. The key for the\nswitch gate in Register Jungle.",
+    "translation": "A switch gate card key. The key for the\nswitch gate in Register Jungle.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0046",
+    "original": "A switch gate card key. The key for the\nswitch gate in Limit Valley.",
+    "translation": "A switch gate card key. The key for the\nswitch gate in Limit Valley.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0047",
+    "original": "A switch gate card key. The key for the\nswitch gate in Task Canyon.",
+    "translation": "A switch gate card key. The key for the\nswitch gate in Task Canyon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0048",
+    "original": "A switch gate card key. The key for the\nswitch gate in Thriller Ruins.",
+    "translation": "A switch gate card key. The key for the\nswitch gate in Thriller Ruins.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0040_0049",
+    "original": "A switch gate card key. The key for the\nswitch gate in Angler Tunnel.",
+    "translation": "A switch gate card key. The key for the\nswitch gate in Angler Tunnel.",
+    "stage": 1,
+    "context": ""
+  }
+]

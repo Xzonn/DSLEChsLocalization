@@ -1,0 +1,1402 @@
+[
+  {
+    "key": "MESPAK03_0004_0000",
+    "original": "So you're ^P? I've \nheard of you from Hiroyuki.\nMy name's Kizuna. Nice to \nmeet you.\nI'll take you to Hiroyuki so you can\nsee each other again.",
+    "translation": "So you're ^P? I've \nheard of you from Hiroyuki.\nMy name's Kizuna. Nice to \nmeet you.\nI'll take you to Hiroyuki so you can\nsee each other again.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0001",
+    "original": "So you're the one Hiroyuki's been\ntalking about, ^P?\nThe name's Shuu, nice to meet you.\n\nI'll take you to Hiroyuki so you guys\ncan catch up!\n",
+    "translation": "So you're the one Hiroyuki's been\ntalking about, ^P?\nThe name's Shuu, nice to meet you.\n\nI'll take you to Hiroyuki so you guys\ncan catch up!\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0002",
+    "original": "This is where we live. It's called\nTamer Town.",
+    "translation": "This is where we live. It's called\nTamer Town.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0003",
+    "original": "This is Tamer Town, it's where we\nlive.",
+    "translation": "This is Tamer Town, it's where we\nlive.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0004",
+    "original": "It's called 'Tamer Town', but I'm\nthe only Tamer here now.\nThere used to be a bunch of us \na long time ago, but not anymore.",
+    "translation": "It's called 'Tamer Town', but I'm\nthe only Tamer here now.\nThere used to be a bunch of us \na long time ago, but not anymore.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0005",
+    "original": "Though it's called Tamer Town, \nthere aren't any other Tamers left.\nThere used to be a lot of them a\nlong time ago, though.",
+    "translation": "Though it's called Tamer Town, \nthere aren't any other Tamers left.\nThere used to be a lot of them a\nlong time ago, though.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0006",
+    "original": "This place was wrought with \nwaves of Selectors attacking.\nThey stole everyone's Digivices, and\ncaptured Tamers never returned.\nOver time, one by one, everyone\njust disappeared...\n",
+    "translation": "This place was wrought with \nwaves of Selectors attacking.\nThey stole everyone's Digivices, and\ncaptured Tamers never returned.\nOver time, one by one, everyone\njust disappeared...\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0007",
+    "original": "We suffered waves of constant\nattacks by the Selectors...\nThey took Digivices, and anyone\nwho left never returned.\nEventually, over time, everyone\nwas gone...",
+    "translation": "We suffered waves of constant\nattacks by the Selectors...\nThey took Digivices, and anyone\nwho left never returned.\nEventually, over time, everyone\nwas gone...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0008",
+    "original": "Oh... I'm sorry. I ended up going \noff on a a depressing tangent...\nHiroyuki's here somewhere,\nwhy don't you go find him?",
+    "translation": "Oh... I'm sorry. I ended up going \noff on a a depressing tangent...\nHiroyuki's here somewhere,\nwhy don't you go find him?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0009",
+    "original": "Ah, sorry, I didn't mean to bring\nup something so depressing...\nHiroyuki's around here somewhere,\nhow about you go take a look?",
+    "translation": "Ah, sorry, I didn't mean to bring\nup something so depressing...\nHiroyuki's around here somewhere,\nhow about you go take a look?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0010",
+    "original": "This place has lots of stores,\ntoo. Be sure to check them out.",
+    "translation": "This place has lots of stores,\ntoo. Be sure to check them out.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0011",
+    "original": "There are a bunch of different \nstores here to check out, too.",
+    "translation": "There are a bunch of different \nstores here to check out, too.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0012",
+    "original": "If you get lost, don't hesitate to\nask someone, alright?",
+    "translation": "If you get lost, don't hesitate to\nask someone, alright?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0013",
+    "original": "If there's anything you don't know,\njust ask.",
+    "translation": "If there's anything you don't know,\njust ask.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0014",
+    "original": "I wonder what everyones doing \nright now? I bet Asuka's mad...",
+    "translation": "I wonder what everyones doing \nright now? I bet Asuka's mad...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0015",
+    "original": "...Well, I'll worry about that\nlater...\nThe current problem is how I'm \ngoing to beat this boredom.\nShould I try fishing...? Nah, that's\nkinda difficult, I can't be bothered.",
+    "translation": "...Well, I'll worry about that\nlater...\nThe current problem is how I'm \ngoing to beat this boredom.\nShould I try fishing...? Nah, that's\nkinda difficult, I can't be bothered.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0016",
+    "original": "...Oh, I just thought of a good\nidea!\nI'll register a Digimon and let it fish \nfor me instead. \nNow, I just need a Digivice...",
+    "translation": "...Oh, I just thought of a good\nidea!\nI'll register a Digimon and let it fish \nfor me instead. \nNow, I just need a Digivice...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0017",
+    "original": "Oh, ^P! You came for me?!",
+    "translation": "Oh, ^P! You came for me?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0018",
+    "original": "I got really reaaaaally lost, \nyou know!\nAs soon as I got here, a red \nDigimon suddenly chased after me!\nI ran away, but ended up getting \nlost and finding this place.\n...Hey wait, where's Asuka? Isn't\nshe with you?\n...Huh!? She was kidnapped?!\nBy who?!\nWarGrowlmon and Kuwagamon...?\n\nCould they be... the red Digimon\nfrom before...!?",
+    "translation": "I got really reaaaaally lost, \nyou know!\nAs soon as I got here, a red \nDigimon suddenly chased after me!\nI ran away, but ended up getting \nlost and finding this place.\n...Hey wait, where's Asuka? Isn't\nshe with you?\n...Huh!? She was kidnapped?!\nBy who?!\nWarGrowlmon and Kuwagamon...?\n\nCould they be... the red Digimon\nfrom before...!?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0019",
+    "original": "......Hey, ^P.\nI came here because I heard a\nrumor.\nThere was a small tamer seen \narguing with the Selectors.\nAt a place known as Limit Valley, \nhere in South Bridge,\nI just had to see... if it was Yui...\nThat's what caused me to act, but I\njust ended up in this sorry state...\nSo I'm relying on you, ^P!\n\nCould you take me to that \nLimit Valley place?",
+    "translation": "......Hey, ^P.\nI came here because I heard a\nrumor.\nThere was a small tamer seen \narguing with the Selectors.\nAt a place known as Limit Valley, \nhere in South Bridge,\nI just had to see... if it was Yui...\nThat's what caused me to act, but I\njust ended up in this sorry state...\nSo I'm relying on you, ^P!\n\nCould you take me to that \nLimit Valley place?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0020",
+    "original": "Oh, that reminds me, ^P.\n\nWhenever you want to go back,\nhere's the DigiPort address.\nBe sure to put it in your Digivice,\nyou got that?",
+    "translation": "Oh, that reminds me, ^P.\n\nWhenever you want to go back,\nhere's the DigiPort address.\nBe sure to put it in your Digivice,\nyou got that?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0021",
+    "original": "Obtained a Key Item!\n^i",
+    "translation": "Obtained a Key Item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0022",
+    "original": "Alright now! Let's head to Limit\nValley, ^P!",
+    "translation": "Alright now! Let's head to Limit\nValley, ^P!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0023",
+    "original": "H-hey... wait, ^P?! \nWhere are you right now?!\nA-A-azu is! Ashuka is! She's-?!",
+    "translation": "H-hey... wait, ^P?! \nWhere are you right now?!\nA-A-azu is! Ashuka is! She's-?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0024",
+    "original": "Whoa now Terriermon, calm down\nfor a second...\nHave you figured out where Asuka\nwas taken...?",
+    "translation": "Whoa now Terriermon, calm down\nfor a second...\nHave you figured out where Asuka\nwas taken...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0025",
+    "original": "Huh?! Hiroyuki?! Why are you there\nwith ^P?!\n...Forget about that, this is more \nimportant!\nAsuka, she's being targeted...\n\n...By a super scary Digimon!",
+    "translation": "Huh?! Hiroyuki?! Why are you there\nwith ^P?!\n...Forget about that, this is more \nimportant!\nAsuka, she's being targeted...\n\n...By a super scary Digimon!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0026",
+    "original": "Targeted? By who? And why\nAsuka??\nI'd get it if they were after \n^P, being the Tamer, but...",
+    "translation": "Targeted? By who? And why\nAsuka??\nI'd get it if they were after \n^P, being the Tamer, but...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0027",
+    "original": "I don't understand it, myself! \nBut you see, that Digimon...\nIt's going around beating up red\nDigimon...\nAnd then asking each of them for\nAsuka's whereabouts!",
+    "translation": "I don't understand it, myself! \nBut you see, that Digimon...\nIt's going around beating up red\nDigimon...\nAnd then asking each of them for\nAsuka's whereabouts!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0028",
+    "original": "Things keep getting weirder... Just\nwhat kind of Digimon is this?",
+    "translation": "Things keep getting weirder... Just\nwhat kind of Digimon is this?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0029",
+    "original": "A scary looking one. It's quite \nfierce towards the other Digimon.\nI only have a faint memory of what \nit looks like...\nIt's super strong! And fast! And \nquite ferocious!\n...Hey, ^P! Asuka's in \nreal danger, here!\nYou need to hurry and find her \nbefore that Digimon does!",
+    "translation": "A scary looking one. It's quite \nfierce towards the other Digimon.\nI only have a faint memory of what \nit looks like...\nIt's super strong! And fast! And \nquite ferocious!\n...Hey, ^P! Asuka's in \nreal danger, here!\nYou need to hurry and find her \nbefore that Digimon does!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0030",
+    "original": "Alright, got it. Leave it to us, \nTerriermon!\nWe'll find her and bring her back, \ndon't you worry!",
+    "translation": "Alright, got it. Leave it to us, \nTerriermon!\nWe'll find her and bring her back, \ndon't you worry!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0031",
+    "original": "Yeah! I know that ^P is \nvery reliable in that regard!\nIf you find any new information, \njust contact me, alright?\nAnd Hiroyuki, don't go getting in\n^P's way, now!",
+    "translation": "Yeah! I know that ^P is \nvery reliable in that regard!\nIf you find any new information, \njust contact me, alright?\nAnd Hiroyuki, don't go getting in\n^P's way, now!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0032",
+    "original": "Huh?! Oh... Yeah... I'll do my best.\n\nUhhh... ummm... huh?\n\nHey now, what's with such a \ndifference in tone between us...\nIt's a little harsh, isn't it? \n^P...?",
+    "translation": "Huh?! Oh... Yeah... I'll do my best.\n\nUhhh... ummm... huh?\n\nHey now, what's with such a \ndifference in tone between us...\nIt's a little harsh, isn't it? \n^P...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0033",
+    "original": "I found you!!!",
+    "translation": "I found you!!!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0034",
+    "original": "You really surprised us, jeez...!\nWhat are you doing around here?!",
+    "translation": "You really surprised us, jeez...!\nWhat are you doing around here?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0035",
+    "original": "Where is Asuka?! Who took her,\nand where did they go?!?!\nWhat are you planning on doing\nto her?!",
+    "translation": "Where is Asuka?! Who took her,\nand where did they go?!?!\nWhat are you planning on doing\nto her?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0036",
+    "original": "Hold on, I have no clue what\nyou're going on about...\nBut... you must be that Digimon\nTerriermon told us about...!\nWhat do you plan on doing once\nyou find Asuka?!",
+    "translation": "Hold on, I have no clue what\nyou're going on about...\nBut... you must be that Digimon\nTerriermon told us about...!\nWhat do you plan on doing once\nyou find Asuka?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0037",
+    "original": "What are you going on about, you\nfool!? \nIt's not what I'm planning on doing,\nit's what you're planning on doing!",
+    "translation": "What are you going on about, you\nfool!? \nIt's not what I'm planning on doing,\nit's what you're planning on doing!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0038",
+    "original": "Huh...!?\n\nI don't get this at all... Just who \nare you?!",
+    "translation": "Huh...!?\n\nI don't get this at all... Just who \nare you?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0039",
+    "original": "Who on earth is this Digimon?",
+    "translation": "Who on earth is this Digimon?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0040",
+    "original": "The Devimon Asuka knows.",
+    "translation": "The Devimon Asuka knows.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0041",
+    "original": "A strange, unknown Digimon.",
+    "translation": "A strange, unknown Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0042",
+    "original": "I thought as much, this guy sure\nis a strange one.\nShould we just ignore him...?\n\nBut... just how on earth does this\nguy know Asuka...?\nDon't you think something's off?",
+    "translation": "I thought as much, this guy sure\nis a strange one.\nShould we just ignore him...?\n\nBut... just how on earth does this\nguy know Asuka...?\nDon't you think something's off?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0043",
+    "original": "Huh? 'From before'... wait, you \nmean that DemiDevimon?\nSo it evolved into Devimon, and then\nagain into VenomMyotismon?\nYou sure know a lot about Digimon,\n^P!\n………\n………",
+    "translation": "Huh? 'From before'... wait, you \nmean that DemiDevimon?\nSo it evolved into Devimon, and then\nagain into VenomMyotismon?\nYou sure know a lot about Digimon,\n^P!\n………\n………",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0044",
+    "original": "...Wait a minute?!\nThen this guy...!\nHe's searching for Asuka because\nhe's worried about her?!\nYou've gotta be kidding me!",
+    "translation": "...Wait a minute?!\nThen this guy...!\nHe's searching for Asuka because\nhe's worried about her?!\nYou've gotta be kidding me!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0045",
+    "original": "Why you...!\nI'll send you flying...!!!",
+    "translation": "Why you...!\nI'll send you flying...!!!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0046",
+    "original": "Wait, what?! Why?!",
+    "translation": "Wait, what?! Why?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0047",
+    "original": "So you're the one who's been going\naround beating up Digimon?\nJust what exactly are you trying to\ndo?",
+    "translation": "So you're the one who's been going\naround beating up Digimon?\nJust what exactly are you trying to\ndo?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0048",
+    "original": "Shut up, you spineless humans!\nWhat were YOU doing?!\nWhy didn't you protect her?!\nWhy didn't you chase after them?!\nWhat are you doing just messing\naround out here?!\nYou need to hurry and go find her,\nyou brainless idiots!",
+    "translation": "Shut up, you spineless humans!\nWhat were YOU doing?!\nWhy didn't you protect her?!\nWhy didn't you chase after them?!\nWhat are you doing just messing\naround out here?!\nYou need to hurry and go find her,\nyou brainless idiots!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0049",
+    "original": "...Hey, that was harsh. You don't\nneed to yell so much.\nOn top of that, why are you so \nworried about Asuka?",
+    "translation": "...Hey, that was harsh. You don't\nneed to yell so much.\nOn top of that, why are you so \nworried about Asuka?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0050",
+    "original": "I don't know!",
+    "translation": "I don't know!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0051",
+    "original": "What...?",
+    "translation": "What...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0052",
+    "original": "I can't answer what I don't know!\nWhat does it matter!?",
+    "translation": "I can't answer what I don't know!\nWhat does it matter!?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0053",
+    "original": "Now now, there's no need to lash\nout...",
+    "translation": "Now now, there's no need to lash\nout...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0054",
+    "original": "You just be quiet!",
+    "translation": "You just be quiet!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0055",
+    "original": "I can't count on guys like you! I'll \nsearch for her myself!\nFirst I need to identify the red \nDigimon who kidnapped her!\nSo I'm beating up every red \nDigimon that I can find!\nIf I continue to do that, \neventually...\nEventually I'll find the one who \nkidnapped Asuka!",
+    "translation": "I can't count on guys like you! I'll \nsearch for her myself!\nFirst I need to identify the red \nDigimon who kidnapped her!\nSo I'm beating up every red \nDigimon that I can find!\nIf I continue to do that, \neventually...\nEventually I'll find the one who \nkidnapped Asuka!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0056",
+    "original": "That may be true, but... we already\nknow who kidnapped her.\nIt'd be fine if he could just go beat\nup WarGrowlmon and Kuwagamon!\nIt'll be troublesome if he continues\nto beat up every red Digimon, huh?\n………",
+    "translation": "That may be true, but... we already\nknow who kidnapped her.\nIt'd be fine if he could just go beat\nup WarGrowlmon and Kuwagamon!\nIt'll be troublesome if he continues\nto beat up every red Digimon, huh?\n………",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0057",
+    "original": "Hey, ^P, I just noticed \nsomething...\n...Isn't he also red...?",
+    "translation": "Hey, ^P, I just noticed \nsomething...\n...Isn't he also red...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0058",
+    "original": "Priority orders received.\nOrder is to capture the Numbers.\nUnder the following reasons:\nStealing a DigiShip.\nDestroying the escape pod.\nAiding in Lost Digimon's escape.\nLeaking confidential information.\nAltering Defrag Data.\nAnd 13 further incidents.\nOrder is to capture the Numbers.",
+    "translation": "Priority orders received.\nOrder is to capture the Numbers.\nUnder the following reasons:\nStealing a DigiShip.\nDestroying the escape pod.\nAiding in Lost Digimon's escape.\nLeaking confidential information.\nAltering Defrag Data.\nAnd 13 further incidents.\nOrder is to capture the Numbers.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0059",
+    "original": "Don't act so full of yourselves, \nhaven't you figured it out yet?\nOnce you've lost your usefulness\nto them,\nYou'll be hunted down and erased, \ntoo, you know?\nI'm sure you can recall what \nhappened to Numbers 4 through 7?",
+    "translation": "Don't act so full of yourselves, \nhaven't you figured it out yet?\nOnce you've lost your usefulness\nto them,\nYou'll be hunted down and erased, \ntoo, you know?\nI'm sure you can recall what \nhappened to Numbers 4 through 7?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0060",
+    "original": "Number 04, whereabouts unknown.\nNumber 05, whereabouts unknown.\nNumber 06, whereabouts unknown.\nNumber 07, whereabouts unknown.\n\n",
+    "translation": "Number 04, whereabouts unknown.\nNumber 05, whereabouts unknown.\nNumber 06, whereabouts unknown.\nNumber 07, whereabouts unknown.\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0061",
+    "original": "Numbers are Numbers,\nErasers are Erasers.\nOur job is to simply erase what\nis selected for us by the Selectors.",
+    "translation": "Numbers are Numbers,\nErasers are Erasers.\nOur job is to simply erase what\nis selected for us by the Selectors.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0062",
+    "original": "So that's how it is, huh?\n\nIt appears that the whereabouts\nof your brain is also unkown.",
+    "translation": "So that's how it is, huh?\n\nIt appears that the whereabouts\nof your brain is also unkown.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0063",
+    "original": "We found you, Bandits! Where are\nYui and Takuto!?\nWe know you're working together \nwith the Selectors!\nSo just confess and nothing bad\nwill happen to you!",
+    "translation": "We found you, Bandits! Where are\nYui and Takuto!?\nWe know you're working together \nwith the Selectors!\nSo just confess and nothing bad\nwill happen to you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0064",
+    "original": "How annoying. I'm getting really \nfed up with all this.\nEvery last one of you...",
+    "translation": "How annoying. I'm getting really \nfed up with all this.\nEvery last one of you...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0065",
+    "original": "We don't have time to mess \naround! Answer me, Bandits!\nThere was a small Tamer here\nfighting the Selectors, right!?\nSome of our friends were sure\nthey saw it!\nSo where did that small Tamer go!?",
+    "translation": "We don't have time to mess \naround! Answer me, Bandits!\nThere was a small Tamer here\nfighting the Selectors, right!?\nSome of our friends were sure\nthey saw it!\nSo where did that small Tamer go!?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0066",
+    "original": "We know someone very well, with\na small body,\nLacking in guts, lacking in ability...\n\nSo tell me... Which 'small Tamer'\nare you looking for, exactly?",
+    "translation": "We know someone very well, with\na small body,\nLacking in guts, lacking in ability...\n\nSo tell me... Which 'small Tamer'\nare you looking for, exactly?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0067",
+    "original": "Wait... No... You don't mean...",
+    "translation": "Wait... No... You don't mean...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0068",
+    "original": "That's right, the ones fighting the\nSelectors were us.\nAnd the small Tamer they saw was\nmost probably Tres.\nNow enough of your games. Just\ngo back to your own world already.\nI'll even be kind enough to give you\nthe address, so just get going.",
+    "translation": "That's right, the ones fighting the\nSelectors were us.\nAnd the small Tamer they saw was\nmost probably Tres.\nNow enough of your games. Just\ngo back to your own world already.\nI'll even be kind enough to give you\nthe address, so just get going.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0069",
+    "original": "We can't just go and leave our \nfriends stuck here!",
+    "translation": "We can't just go and leave our \nfriends stuck here!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0070",
+    "original": "Your friends won't be coming\nback.\nThey probably aren't even the \nfriends you know, anymore.\nYou need to leave soon, or you'll\nbe met with the same fate.\nJust stop trying so hard and go\nhome.",
+    "translation": "Your friends won't be coming\nback.\nThey probably aren't even the \nfriends you know, anymore.\nYou need to leave soon, or you'll\nbe met with the same fate.\nJust stop trying so hard and go\nhome.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0071",
+    "original": "What...?",
+    "translation": "What...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0072",
+    "original": "H-hey... wait!",
+    "translation": "H-hey... wait!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0073",
+    "original": "I don't really get what he was\ngoing on about, but...\nConsidering how insistent he was,\nthere's gotta be something ahead.\nLet's go check it out, ^P!",
+    "translation": "I don't really get what he was\ngoing on about, but...\nConsidering how insistent he was,\nthere's gotta be something ahead.\nLet's go check it out, ^P!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0074",
+    "original": "I'm warning you now, turn back \nand go home.\nI cannot allow anyone to proceed\nany further.",
+    "translation": "I'm warning you now, turn back \nand go home.\nI cannot allow anyone to proceed\nany further.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0075",
+    "original": "What's with everyone? 'Go home,'\n'go back,' 'go away.'\n...Hey, wait a minute...\n\nHey, ^P, that guy looks\nfamiliar...\nThe Digimon who attacked me in\nPalette Amazon...\nCould it be this guy...? And the one \nwho kidnapped Asuka...",
+    "translation": "What's with everyone? 'Go home,'\n'go back,' 'go away.'\n...Hey, wait a minute...\n\nHey, ^P, that guy looks\nfamiliar...\nThe Digimon who attacked me in\nPalette Amazon...\nCould it be this guy...? And the one \nwho kidnapped Asuka...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0076",
+    "original": "You're the WarGrowlmon from\nbefore!",
+    "translation": "You're the WarGrowlmon from\nbefore!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0077",
+    "original": "I must protect this place, under \norders from my Tamer.\nLeave, now. This is the last time I \nwill warn you.",
+    "translation": "I must protect this place, under \norders from my Tamer.\nLeave, now. This is the last time I \nwill warn you.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0078",
+    "original": "Leave, you say, but where do you \nexpect us to go?\nWithout our friends, we don't have\nanywhere to go back to.\nPlus, who exactly is this Tamer\nyou keep talking about?",
+    "translation": "Leave, you say, but where do you \nexpect us to go?\nWithout our friends, we don't have\nanywhere to go back to.\nPlus, who exactly is this Tamer\nyou keep talking about?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0079",
+    "original": "I have no reason to answer to the\nenemy!",
+    "translation": "I have no reason to answer to the\nenemy!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0080",
+    "original": "Hey, wait, are you running away?!",
+    "translation": "Hey, wait, are you running away?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0081",
+    "original": "My Tamer is calling for me...\n\nI don't need to delay you any \nlonger.\nI'm sure we will fight again \nsomeday.\nWhen that time comes, I won't go\nso easy on you...",
+    "translation": "My Tamer is calling for me...\n\nI don't need to delay you any \nlonger.\nI'm sure we will fight again \nsomeday.\nWhen that time comes, I won't go\nso easy on you...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0082",
+    "original": "He doesn't need to delay us \nanymore?\nDoes he mean him fighting us was\nsimply a delay tactic?\nWhat on earth is going on? I just\ndon't have a clue anymore...",
+    "translation": "He doesn't need to delay us \nanymore?\nDoes he mean him fighting us was\nsimply a delay tactic?\nWhat on earth is going on? I just\ndon't have a clue anymore...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0083",
+    "original": "Takuto?! You're safe!\n\nHey... Where's Yui? Isn't she with\nyou?",
+    "translation": "Takuto?! You're safe!\n\nHey... Where's Yui? Isn't she with\nyou?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0084",
+    "original": "She's with me, of course...\n\nI've hidden her in a safe place.",
+    "translation": "She's with me, of course...\n\nI've hidden her in a safe place.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0085",
+    "original": "Is that so... Thank you for taking\ncare of her, Takuto!\nI bet it's been pretty dangerous \nand scary for you, huh?",
+    "translation": "Is that so... Thank you for taking\ncare of her, Takuto!\nI bet it's been pretty dangerous \nand scary for you, huh?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0086",
+    "original": "Indeed, I've met with many \ndangerous things.\nBut I managed to defeat every last\none of them.\nMe...",
+    "translation": "Indeed, I've met with many \ndangerous things.\nBut I managed to defeat every last\none of them.\nMe...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0087",
+    "original": "And this WarGrowlmon, here!",
+    "translation": "And this WarGrowlmon, here!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0088",
+    "original": "Did you call for me... My Tamer?",
+    "translation": "Did you call for me... My Tamer?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0089",
+    "original": "Do whatever you need to do in \norder to stop these two.\nWe absolutely cannot allow them to\ncontinue any further.",
+    "translation": "Do whatever you need to do in \norder to stop these two.\nWe absolutely cannot allow them to\ncontinue any further.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0090",
+    "original": "Understood, my Tamer. \nI will stop them, here and now.",
+    "translation": "Understood, my Tamer. \nI will stop them, here and now.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0091",
+    "original": "W...What are you talking about?!\nYou're just messing around, right?!",
+    "translation": "W...What are you talking about?!\nYou're just messing around, right?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0092",
+    "original": "...As I expected.\n\n^P really is the most \ntroublesome.\nAble to defeat anyone, serious, \nobedient, and also quite smart.\nAs a Tamer, you are indeed \nthe perfect specimen.",
+    "translation": "...As I expected.\n\n^P really is the most \ntroublesome.\nAble to defeat anyone, serious, \nobedient, and also quite smart.\nAs a Tamer, you are indeed \nthe perfect specimen.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0093",
+    "original": "Hey, stop messing around, Takuto!\nJust what are you doing!?\nAttacking us, kidnapping Asuka...\nWas that all your doing too?!",
+    "translation": "Hey, stop messing around, Takuto!\nJust what are you doing!?\nAttacking us, kidnapping Asuka...\nWas that all your doing too?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0094",
+    "original": "Indeed. But what matters right \nnow...\nIs that a strong Tamer like you \nis nothing but a danger to Yui.\nIf you aren't going to be our ally, \nthen you should leave us alone.",
+    "translation": "Indeed. But what matters right \nnow...\nIs that a strong Tamer like you \nis nothing but a danger to Yui.\nIf you aren't going to be our ally, \nthen you should leave us alone.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0095",
+    "original": "Why would being a strong Tamer\nput Yui in danger...?\nWe've come all this way in order\nto find and help you...",
+    "translation": "Why would being a strong Tamer\nput Yui in danger...?\nWe've come all this way in order\nto find and help you...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0096",
+    "original": "Even if I explained it, you still \nwouldn't understand.\nMore importantly, I don't need your\nhelp.\nRather, your getting in the way is\nquite troublesome.\nIf you continue further, I'll be \nforced to see you as an enemy.\nAnd who knows what may happen \nafter that.",
+    "translation": "Even if I explained it, you still \nwouldn't understand.\nMore importantly, I don't need your\nhelp.\nRather, your getting in the way is\nquite troublesome.\nIf you continue further, I'll be \nforced to see you as an enemy.\nAnd who knows what may happen \nafter that.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0097",
+    "original": "Hey, wait, Takuto!?",
+    "translation": "Hey, wait, Takuto!?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0098",
+    "original": "Oh, you've managed to make\nit this far...? It's too bad...\nThis is as far as you'll go, teehee♪",
+    "translation": "Oh, you've managed to make\nit this far...? It's too bad...\nThis is as far as you'll go, teehee♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0099",
+    "original": "Hearing Asuka say 'teehee' is \nodd no matter how you look at it.\nThat...is Asuka... isn't it?",
+    "translation": "Hearing Asuka say 'teehee' is \nodd no matter how you look at it.\nThat...is Asuka... isn't it?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0100",
+    "original": "Don't let your guard down, \n^P.\nI've got a bad feeling about this...\nConsidering all that's happened,\nsomething's gotta be up...",
+    "translation": "Don't let your guard down, \n^P.\nI've got a bad feeling about this...\nConsidering all that's happened,\nsomething's gotta be up...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0101",
+    "original": "I had no idea fighting was so much\nfun...\nFlames and light across the field,\nelectricity and ice through the air.\nTo win over and over, everything \nbursting and spilling apart.\nDestroying everything until nothing \nbut dust remains...\nIsn't it just exhilarating?",
+    "translation": "I had no idea fighting was so much\nfun...\nFlames and light across the field,\nelectricity and ice through the air.\nTo win over and over, everything \nbursting and spilling apart.\nDestroying everything until nothing \nbut dust remains...\nIsn't it just exhilarating?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0102",
+    "original": "What on earth is she going on \nabout...?\nDid she eat something weird earlier\nor something??",
+    "translation": "What on earth is she going on \nabout...?\nDid she eat something weird earlier\nor something??",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0103",
+    "original": "Acquiring strength... \ngaining power...\nDon't you get it? Weak, easily \nbreakable things...\nDeserve to be broken.",
+    "translation": "Acquiring strength... \ngaining power...\nDon't you get it? Weak, easily \nbreakable things...\nDeserve to be broken.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0104",
+    "original": "And that's why... I'm gonna go \nahead and break everyone here♪",
+    "translation": "And that's why... I'm gonna go \nahead and break everyone here♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0105",
+    "original": "What's up with her? \"I'll break \neveryone\", pah!\nThe one being broken is you, Asuka!\nJust what is going on with all of \nyou? First Takuto, now Asuka...",
+    "translation": "What's up with her? \"I'll break \neveryone\", pah!\nThe one being broken is you, Asuka!\nJust what is going on with all of \nyou? First Takuto, now Asuka...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0106",
+    "original": "...How boring.\n\nWhen I say power, I mean\npowerful Digimon.\nThis one's just no good... I don't \nneed you anymore.",
+    "translation": "...How boring.\n\nWhen I say power, I mean\npowerful Digimon.\nThis one's just no good... I don't \nneed you anymore.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0107",
+    "original": "Huuuuh!? What's up with you?!\n\nYou're abandoning this Digimon? \nAren't you guys partners!?",
+    "translation": "Huuuuh!? What's up with you?!\n\nYou're abandoning this Digimon? \nAren't you guys partners!?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0108",
+    "original": "Huh... Where... am I?",
+    "translation": "Huh... Where... am I?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0109",
+    "original": "Where is my Tamer?",
+    "translation": "Where is my Tamer?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0110",
+    "original": "Unfortunately, it's just us here\nright now...",
+    "translation": "Unfortunately, it's just us here\nright now...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0111",
+    "original": "...Where did my Tamer go...?\n\nThey promised they'd always stay \nby my side...",
+    "translation": "...Where did my Tamer go...?\n\nThey promised they'd always stay \nby my side...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0112",
+    "original": "Hey, where are you going?",
+    "translation": "Hey, where are you going?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0113",
+    "original": "I don't know... But I must find my\nTamer.\nNothing will come of me remaining\nhere.",
+    "translation": "I don't know... But I must find my\nTamer.\nNothing will come of me remaining\nhere.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0114",
+    "original": "I don't get what's going on, but \nwe can't just leave things be!\nFor now, we need to go after \nAsuka!",
+    "translation": "I don't get what's going on, but \nwe can't just leave things be!\nFor now, we need to go after \nAsuka!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0115",
+    "original": "Hey guys! Welcome to the\nUnion Room!♪\nThough the Tamer Union is gone,\nplease make yourselves at home!♪\nMy name is Kernel! People usually\ncall me 'Kernel The...'",
+    "translation": "Hey guys! Welcome to the\nUnion Room!♪\nThough the Tamer Union is gone,\nplease make yourselves at home!♪\nMy name is Kernel! People usually\ncall me 'Kernel The...'",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0116",
+    "original": "We don't have time for that, and \nwe don't plan on sticking around.\nWe're busy looking for a friend.\n\nDid you happen to see a tough-\nlooking girl pass by here?",
+    "translation": "We don't have time for that, and \nwe don't plan on sticking around.\nWe're busy looking for a friend.\n\nDid you happen to see a tough-\nlooking girl pass by here?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0117",
+    "original": "Ah-ha! I see, I see!♪\n\nDid it happen to be Asuka? I know\nher very well!♪\nSo that means you guys must \nbe...\n^P and Hiroyuki, am I \ncorrect?♪\nNice to meet you two at last!♪",
+    "translation": "Ah-ha! I see, I see!♪\n\nDid it happen to be Asuka? I know\nher very well!♪\nSo that means you guys must \nbe...\n^P and Hiroyuki, am I \ncorrect?♪\nNice to meet you two at last!♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0118",
+    "original": "What's with this guy! What's \ngoing on this time...\nWhy can't we ever find someone\nwho's normal around here?!",
+    "translation": "What's with this guy! What's \ngoing on this time...\nWhy can't we ever find someone\nwho's normal around here?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0119",
+    "original": "Ah-ha! Now, now, calm down for\na moment, my friends!♪\nAsuka has returned to the Home \nArea!\nYou two are also quite welcome \nthere, you know?!♪",
+    "translation": "Ah-ha! Now, now, calm down for\na moment, my friends!♪\nAsuka has returned to the Home \nArea!\nYou two are also quite welcome \nthere, you know?!♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0120",
+    "original": "Home Area...?",
+    "translation": "Home Area...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0121",
+    "original": "Indeed! In order for us to create a\nnew Tamer Union,\nWe're all gathering together here in\nthe Home Area!♪\nMany Tamers throughout the world\nare participating, you know!♪\nHowever, in order to join, each \nTamer must first prove their worth.\nAnd ^P, it appears you'll\nget your chance right now!♪\nAnd that's because-!",
+    "translation": "Indeed! In order for us to create a\nnew Tamer Union,\nWe're all gathering together here in\nthe Home Area!♪\nMany Tamers throughout the world\nare participating, you know!♪\nHowever, in order to join, each \nTamer must first prove their worth.\nAnd ^P, it appears you'll\nget your chance right now!♪\nAnd that's because-!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0122",
+    "original": "We've been discovered by the \nSelectors...\nAnd I just so happened to have \nforgotten my Digivice!♪\nMy apologies, ^P, but \ncould you take care of this?♪",
+    "translation": "We've been discovered by the \nSelectors...\nAnd I just so happened to have \nforgotten my Digivice!♪\nMy apologies, ^P, but \ncould you take care of this?♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0123",
+    "original": "Digivice detected!\nUndercover Tamer discovered!\nDigivice detected!\nUndercover Tamer discovered!",
+    "translation": "Digivice detected!\nUndercover Tamer discovered!\nDigivice detected!\nUndercover Tamer discovered!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0124",
+    "original": "Confirm Tamer's ability.\nP-Rank potential is 71%.\nConfirm Tamer's ability.\nP-Rank potential is 71%.",
+    "translation": "Confirm Tamer's ability.\nP-Rank potential is 71%.\nConfirm Tamer's ability.\nP-Rank potential is 71%.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0125",
+    "original": "Remove limiter!\nRemove limiter!",
+    "translation": "Remove limiter!\nRemove limiter!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0126",
+    "original": "Those guys are difficult when they\ntransform into Monster Mode!♪\nGood luck, ^P, \nI'm counting on you!♪",
+    "translation": "Those guys are difficult when they\ntransform into Monster Mode!♪\nGood luck, ^P, \nI'm counting on you!♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0127",
+    "original": "Amazing, ^P! \nAbsolutely magnificent!♪\nYou simply must join our cause!♪\n\nThat's right! I need to give you our \nDigiPort Address!♪\nOur wonderful Home Area, \nyou see...\nIt's on Graphics Board Continent!♪",
+    "translation": "Amazing, ^P! \nAbsolutely magnificent!♪\nYou simply must join our cause!♪\n\nThat's right! I need to give you our \nDigiPort Address!♪\nOur wonderful Home Area, \nyou see...\nIt's on Graphics Board Continent!♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0128",
+    "original": "Obtained a Key Item!\nTask North Address",
+    "translation": "Obtained a Key Item!\nTask North Address",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0129",
+    "original": "Obtained a Key Item!\nEast City Key",
+    "translation": "Obtained a Key Item!\nEast City Key",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0130",
+    "original": "Graphics Board Continent has four\nareas and four cities.♪\nIn those four cities are four \nchampions protecting their title.\nIf you defeat all four, the\ncolosseum will allow you entry...\nInto a competition to decide the \ntop Tamer in the Digital World...\nThat is what is known as the \nWorld Championship!♪\nWhat I just gave you is the address\nto Graphics Board Continent...\nAs well the key to the first city,\nEast City!\nBeat the champion there, and you\ncan move onto the next city!♪",
+    "translation": "Graphics Board Continent has four\nareas and four cities.♪\nIn those four cities are four \nchampions protecting their title.\nIf you defeat all four, the\ncolosseum will allow you entry...\nInto a competition to decide the \ntop Tamer in the Digital World...\nThat is what is known as the \nWorld Championship!♪\nWhat I just gave you is the address\nto Graphics Board Continent...\nAs well the key to the first city,\nEast City!\nBeat the champion there, and you\ncan move onto the next city!♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0131",
+    "original": "Defeat? Colosseum? \nChampionship...??\nWhat's with that carefree attitude \nyou've got??\nIf you're gathering Tamers, then\nshouldn't you stop the Selectors!?",
+    "translation": "Defeat? Colosseum? \nChampionship...??\nWhat's with that carefree attitude \nyou've got??\nIf you're gathering Tamers, then\nshouldn't you stop the Selectors!?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0132",
+    "original": "My, my, you just don't understand,\nmy dear Hiroyuki!♪\nIn order to stand even a chance\nagainst the Selectors,\nWe need Tamers of Silver or\npreferrably higher rank!♪\nThere's no point in gathering\nweak Tamers, you know!♪\nAnd that's where the \nDigiColosseum comes into play!\nWe were able to restore it using\nold leftover data!♪\nNow, thanks to that, the Tamer\nranking system has been revived!\nUsing that, we can measure a \nTamer's strength and potential!\nIt's all for the sake of the new \nTamer Union's victory♪",
+    "translation": "My, my, you just don't understand,\nmy dear Hiroyuki!♪\nIn order to stand even a chance\nagainst the Selectors,\nWe need Tamers of Silver or\npreferrably higher rank!♪\nThere's no point in gathering\nweak Tamers, you know!♪\nAnd that's where the \nDigiColosseum comes into play!\nWe were able to restore it using\nold leftover data!♪\nNow, thanks to that, the Tamer\nranking system has been revived!\nUsing that, we can measure a \nTamer's strength and potential!\nIt's all for the sake of the new \nTamer Union's victory♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0133",
+    "original": "Now then, I shall be awaiting you \nat Graphics Board Continent!\nFarewell, my friends!♪",
+    "translation": "Now then, I shall be awaiting you \nat Graphics Board Continent!\nFarewell, my friends!♪",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0134",
+    "original": "What on earth was that about...?\n\nBoth he, and what he spoke about\nworry me a bit...\nI guess we should check out this \nnew address back at the DigiBase!",
+    "translation": "What on earth was that about...?\n\nBoth he, and what he spoke about\nworry me a bit...\nI guess we should check out this \nnew address back at the DigiBase!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0135",
+    "original": "Great job, ^P!\n\nWe'll start investigating this \nGraphics Board Continent address!",
+    "translation": "Great job, ^P!\n\nWe'll start investigating this \nGraphics Board Continent address!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0136",
+    "original": "More importantly, about that \nKernel guy...\nDon't you think there was \nsomething... off about him?",
+    "translation": "More importantly, about that \nKernel guy...\nDon't you think there was \nsomething... off about him?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0137",
+    "original": "Wasn't he fighting against the \nSelectors too, though?\nEven if he is a bit strange, I don't \nthink he's any threat to us...",
+    "translation": "Wasn't he fighting against the \nSelectors too, though?\nEven if he is a bit strange, I don't \nthink he's any threat to us...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0138",
+    "original": "Enemy or not, there's something\nabout him that creeps me out!\nIt felt like he didn't truly mean\nanything he was saying...\nAll the while giving that polite smile.\nIt was totally weird, wasn't it?!",
+    "translation": "Enemy or not, there's something\nabout him that creeps me out!\nIt felt like he didn't truly mean\nanything he was saying...\nAll the while giving that polite smile.\nIt was totally weird, wasn't it?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0139",
+    "original": "However, I am interested in this\nGraphics Board Continent...\nIt sounded like there were quite a\nfew Tamers there.\nIf what he was saying is true...\n\nDoes that mean Asuka, Yui and \nTakuto are there, too?",
+    "translation": "However, I am interested in this\nGraphics Board Continent...\nIt sounded like there were quite a\nfew Tamers there.\nIf what he was saying is true...\n\nDoes that mean Asuka, Yui and \nTakuto are there, too?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0140",
+    "original": "We'll do our best to investigate \nthings further.\nCan you wait a little longer?\n\n",
+    "translation": "We'll do our best to investigate \nthings further.\nCan you wait a little longer?\n\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0141",
+    "original": "Yeah, that's alright with us.\n\nIn the meantime, why don't we do\nsome Quests?\nWe probably won't get a chance to\ndo more for a little while.",
+    "translation": "Yeah, that's alright with us.\n\nIn the meantime, why don't we do\nsome Quests?\nWe probably won't get a chance to\ndo more for a little while.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0142",
+    "original": "Then why don't you go check the\nQuest PC?",
+    "translation": "Then why don't you go check the\nQuest PC?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0143",
+    "original": "Oh, ^P! Great timing!\n\nI have something I'd like to discuss\nwith you, if you don't mind?",
+    "translation": "Oh, ^P! Great timing!\n\nI have something I'd like to discuss\nwith you, if you don't mind?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0144",
+    "original": "Gatomon has checked the Graphics\nBoard Continent address.\nIt appears to be on a different\nserver.",
+    "translation": "Gatomon has checked the Graphics\nBoard Continent address.\nIt appears to be on a different\nserver.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0145",
+    "original": "A different... server...?",
+    "translation": "A different... server...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0146",
+    "original": "Well, to put it simply... it's like a\ndifferent world.\nThe Digital World itself exists \nwithin the Network, \nso the more servers that are \nconnected, the larger it grows. ",
+    "translation": "Well, to put it simply... it's like a\ndifferent world.\nThe Digital World itself exists \nwithin the Network, \nso the more servers that are \nconnected, the larger it grows. ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0147",
+    "original": "A different world...?\nThat sounds really amazing...\nWhat kind of place is Graphics\nBoard Continent, anyway?",
+    "translation": "A different world...?\nThat sounds really amazing...\nWhat kind of place is Graphics\nBoard Continent, anyway?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0148",
+    "original": "It appears to have copied data\nfrom a range of different servers.\nIt contains geographical data \nfound in the Digital World...\nAnd has built itself off that data, \nwith small changes here and there.\nWe're not picking up any detectable\ntraps on our scans.\nOn top of that, there are no \nsigns of any Selectors,\nSo at the very least, it doesn't \nseem to be a Selector trap.",
+    "translation": "It appears to have copied data\nfrom a range of different servers.\nIt contains geographical data \nfound in the Digital World...\nAnd has built itself off that data, \nwith small changes here and there.\nWe're not picking up any detectable\ntraps on our scans.\nOn top of that, there are no \nsigns of any Selectors,\nSo at the very least, it doesn't \nseem to be a Selector trap.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0149",
+    "original": "So there won't be any nasty \nsurprises waiting for us?",
+    "translation": "So there won't be any nasty \nsurprises waiting for us?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0150",
+    "original": "I can't guarantee that. We really \ndon't have enough information.\nOriginally, that server was merely a\ncopy of ours,\nBut when you compare data size, \nit's much bigger than here.\nIt's so big and vast that anything\ncould be hidden there...\nIt's dangerous for you, Hiroyuki,\nso why don't you stay here?",
+    "translation": "I can't guarantee that. We really \ndon't have enough information.\nOriginally, that server was merely a\ncopy of ours,\nBut when you compare data size, \nit's much bigger than here.\nIt's so big and vast that anything\ncould be hidden there...\nIt's dangerous for you, Hiroyuki,\nso why don't you stay here?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0151",
+    "original": "Really? Well, if you say so... \nGood luck, ^P! Be careful!",
+    "translation": "Really? Well, if you say so... \nGood luck, ^P! Be careful!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0152",
+    "original": "I'm sure whatever happens, \n^P can handle it.\nAfter all, they've protected us\nthis entire time, right?",
+    "translation": "I'm sure whatever happens, \n^P can handle it.\nAfter all, they've protected us\nthis entire time, right?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0153",
+    "original": "Hm? Are you a newbie Tamer...?",
+    "translation": "Hm? Are you a newbie Tamer...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0154",
+    "original": "I see. It appears you aren't very\nknowledgeable yet.\nThat's quite convenient for me.\n\nFor you see, I was once feared as\nthe former Tamer King...\nAnd I shall teach you the \nunforgiving life of a Tamer!",
+    "translation": "I see. It appears you aren't very\nknowledgeable yet.\nThat's quite convenient for me.\n\nFor you see, I was once feared as\nthe former Tamer King...\nAnd I shall teach you the \nunforgiving life of a Tamer!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0155",
+    "original": "Y-you're the one who's \nunforgiving!\nW-Why don't you just tone \nthings down a little!?\nGet out of here!",
+    "translation": "Y-you're the one who's \nunforgiving!\nW-Why don't you just tone \nthings down a little!?\nGet out of here!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0156",
+    "original": "Argh, fine! I'll allow you to pass\nthrough here!\nGrrr, and I was once the fearsome\nTamer King,\nNow I'm falling behind a bunch of\npathetic children...!",
+    "translation": "Argh, fine! I'll allow you to pass\nthrough here!\nGrrr, and I was once the fearsome\nTamer King,\nNow I'm falling behind a bunch of\npathetic children...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0157",
+    "original": "Hm? You know those pathetic kids?\n\nThey totally blasted through this\narea with ease, and are now the\nLocal Champions of South City, in\nGraphics Board South just nearby.",
+    "translation": "Hm? You know those pathetic kids?\n\nThey totally blasted through this\narea with ease, and are now the\nLocal Champions of South City, in\nGraphics Board South just nearby.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0158",
+    "original": "If you continue on at this rate, you'll\nprobably fight them, too.\nThey're absurdly strong, those \nkids. Almost unfairly powerful.\nThey were strong enough to shock \neven me, the Tamer King.\nWell, I mean I guess you garnered \nthe same reaction from me.\nIt's possible you may be able to win\nagainst them... good luck.",
+    "translation": "If you continue on at this rate, you'll\nprobably fight them, too.\nThey're absurdly strong, those \nkids. Almost unfairly powerful.\nThey were strong enough to shock \neven me, the Tamer King.\nWell, I mean I guess you garnered \nthe same reaction from me.\nIt's possible you may be able to win\nagainst them... good luck.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0159",
+    "original": "What's that, you bastard?! Say \nthat one more time, I dare you!",
+    "translation": "What's that, you bastard?! Say \nthat one more time, I dare you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0160",
+    "original": "Like I said, if you really wanna go\noff and fight, then do it yourself!\nGet your giant bony ass outta \nhere, SkullBaluchimon!\nUhyohyohyohyo...!",
+    "translation": "Like I said, if you really wanna go\noff and fight, then do it yourself!\nGet your giant bony ass outta \nhere, SkullBaluchimon!\nUhyohyohyohyo...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0161",
+    "original": "Just who do you think you are,\nscrewing with me like that?!",
+    "translation": "Just who do you think you are,\nscrewing with me like that?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0162",
+    "original": "Look, we've got a guest.\nOff you go, I'll watch over you.\nYou can always yell out 'Help me!' \nif things get too tough for you!\nUhyohyohyohyo...!",
+    "translation": "Look, we've got a guest.\nOff you go, I'll watch over you.\nYou can always yell out 'Help me!' \nif things get too tough for you!\nUhyohyohyohyo...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0163",
+    "original": "I don't need your help anyway, so\njust stay out of my way.",
+    "translation": "I don't need your help anyway, so\njust stay out of my way.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0164",
+    "original": "You bet I'll stay back and watch,\nlittle SkullBaluchimon.\nWatch your pathetic loss, that is♪\nUhyohyohyohyo...!",
+    "translation": "You bet I'll stay back and watch,\nlittle SkullBaluchimon.\nWatch your pathetic loss, that is♪\nUhyohyohyohyo...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0165",
+    "original": "Remember this, you idiot...\n\nOnce I'm done with this kid, you're\nnext!",
+    "translation": "Remember this, you idiot...\n\nOnce I'm done with this kid, you're\nnext!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0166",
+    "original": "Oh nooo, you lost... \nIsn't that just too baaad...\nUhyohyohyohyo...!",
+    "translation": "Oh nooo, you lost... \nIsn't that just too baaad...\nUhyohyohyohyo...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0167",
+    "original": "Damn it...!\nI can't do this anymore!",
+    "translation": "Damn it...!\nI can't do this anymore!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0168",
+    "original": "Well, I saw it coming. You\nwere too conceited, after all.\nThis little SkullBaluchimon is \nsimply a replacement partner.\nIf my real partner was here...\n\nWe'd be able to defeat you in but\na single strike, you know?",
+    "translation": "Well, I saw it coming. You\nwere too conceited, after all.\nThis little SkullBaluchimon is \nsimply a replacement partner.\nIf my real partner was here...\n\nWe'd be able to defeat you in but\na single strike, you know?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0169",
+    "original": "Aren't you the one who's gotten \ntoo full of himself, Bibir...?",
+    "translation": "Aren't you the one who's gotten \ntoo full of himself, Bibir...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0170",
+    "original": "I see you're still a good-for-nothing\npiece of trash.\nKeep going like that, and you'll be\ngetting a personal beating from me.",
+    "translation": "I see you're still a good-for-nothing\npiece of trash.\nKeep going like that, and you'll be\ngetting a personal beating from me.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0171",
+    "original": "Uhyohyohyohyo...!\nIt's been forever!\nDid you finally find that present I\nleft for you?",
+    "translation": "Uhyohyohyohyo...!\nIt's been forever!\nDid you finally find that present I\nleft for you?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0172",
+    "original": "Shut your mouth, fool.\n\nYou just step aside and keep hold\nof that Digivice of yours.",
+    "translation": "Shut your mouth, fool.\n\nYou just step aside and keep hold\nof that Digivice of yours.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0173",
+    "original": "Now that's the little Devi that I\nknow!\nHey, here's an idea. Why don't\nwe show that Tamer over there...\nJust how powerful of a team we\ncan be!\nIt'll be a revenge match for\nSkullBaluchimon!\nUhyohyohyohyo...!",
+    "translation": "Now that's the little Devi that I\nknow!\nHey, here's an idea. Why don't\nwe show that Tamer over there...\nJust how powerful of a team we\ncan be!\nIt'll be a revenge match for\nSkullBaluchimon!\nUhyohyohyohyo...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0174",
+    "original": "A revenge match...? Enough\nscrewing around...\nYou're the one who tripped up\nSkullBaluchimon in the end, after all!",
+    "translation": "A revenge match...? Enough\nscrewing around...\nYou're the one who tripped up\nSkullBaluchimon in the end, after all!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0175",
+    "original": "Well... seeing as I wouldn't go as \nfar as to call us friends now... \nCould you just go along with \nthis for a little bit?",
+    "translation": "Well... seeing as I wouldn't go as \nfar as to call us friends now... \nCould you just go along with \nthis for a little bit?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0176",
+    "original": "Look at you, acting all high and\nmighty, but you still couldn't win!\nUhyohyohyohyo...!",
+    "translation": "Look at you, acting all high and\nmighty, but you still couldn't win!\nUhyohyohyohyo...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0177",
+    "original": "What are you doing, you fool?! Isn't\nthat the HP Charge?!\nPffffhahahaha...!",
+    "translation": "What are you doing, you fool?! Isn't\nthat the HP Charge?!\nPffffhahahaha...!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0178",
+    "original": "Let's go, one more round! I can \nfeel it all coming back to me!\nThis time will be the real deal! \nThe deciding match!",
+    "translation": "Let's go, one more round! I can \nfeel it all coming back to me!\nThis time will be the real deal! \nThe deciding match!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0179",
+    "original": "Oh yeah!\n\nDefeating a Tamer like this isn't\nsatisfiying!\nWith this momentum, I'm sure we\ncan defeat the Local Champion!",
+    "translation": "Oh yeah!\n\nDefeating a Tamer like this isn't\nsatisfiying!\nWith this momentum, I'm sure we\ncan defeat the Local Champion!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0180",
+    "original": "Uhyohyohyohyo...!♪\n\nThat's the spirit, little Devi!\nLet's do this!\nYou can do it, right? Right?!\nLet's finish this in a single strike!",
+    "translation": "Uhyohyohyohyo...!♪\n\nThat's the spirit, little Devi!\nLet's do this!\nYou can do it, right? Right?!\nLet's finish this in a single strike!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0181",
+    "original": "...What's up with you noisy punks?\n\nYou're so weak, you're not even \nworth my time.",
+    "translation": "...What's up with you noisy punks?\n\nYou're so weak, you're not even \nworth my time.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0182",
+    "original": "Uhyo...hyohyohyohyo... ...♪\nDamn it..... how...?",
+    "translation": "Uhyo...hyohyohyohyo... ...♪\nDamn it..... how...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0183",
+    "original": "Pffha... haha... ha...\nWe were utterly destroyed...",
+    "translation": "Pffha... haha... ha...\nWe were utterly destroyed...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0184",
+    "original": "Despite losing, you're still laughing.\nYou guys are insane...",
+    "translation": "Despite losing, you're still laughing.\nYou guys are insane...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0185",
+    "original": "Once you've lost, you can feel free\nto laugh all you want, too.",
+    "translation": "Once you've lost, you can feel free\nto laugh all you want, too.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0186",
+    "original": "Even if one loses, they still\nsomehow enjoy it.\nMaybe because they have a partner\nthey can grow stronger with, huh?\nI won't ever forget this feeling.",
+    "translation": "Even if one loses, they still\nsomehow enjoy it.\nMaybe because they have a partner\nthey can grow stronger with, huh?\nI won't ever forget this feeling.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0187",
+    "original": "Now then, please leave me.\nPlay time's over.",
+    "translation": "Now then, please leave me.\nPlay time's over.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0188",
+    "original": "You're no longer of any use to me.\n\nAs am I no longer any use to you,\neither, right?\nAfter all...\n\nWe are no longer the Champions of \nthis town.",
+    "translation": "You're no longer of any use to me.\n\nAs am I no longer any use to you,\neither, right?\nAfter all...\n\nWe are no longer the Champions of \nthis town.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0189",
+    "original": "If you have any plan of continuing\nonwards to the next town,\nYou're going to need this key.\n\nUse it to enter South City. That's \nwhere the next Local Champion is.",
+    "translation": "If you have any plan of continuing\nonwards to the next town,\nYou're going to need this key.\n\nUse it to enter South City. That's \nwhere the next Local Champion is.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0190",
+    "original": "Obtained a Key Item!\n^i",
+    "translation": "Obtained a Key Item!\n^i",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0191",
+    "original": "As Local Champion, you're now \nfree to stay here as you wish.\nSince you are this... city's new...\nlo...cal... Cham...\n\npi... on...",
+    "translation": "As Local Champion, you're now \nfree to stay here as you wish.\nSince you are this... city's new...\nlo...cal... Cham...\n\npi... on...",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0192",
+    "original": "Huh...?\n\nHey, ^P... Where are we?",
+    "translation": "Huh...?\n\nHey, ^P... Where are we?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0193",
+    "original": "ASUKAAAA!",
+    "translation": "ASUKAAAA!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0194",
+    "original": "Pfffffhahahaha...!\nYou finally woke up!\nI never expected you'd be the \nLocal Champion, I was shocked!\nI ended up letting my guard down\nand got totally defeated by you!",
+    "translation": "Pfffffhahahaha...!\nYou finally woke up!\nI never expected you'd be the \nLocal Champion, I was shocked!\nI ended up letting my guard down\nand got totally defeated by you!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0195",
+    "original": "Who are you...?",
+    "translation": "Who are you...?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0196",
+    "original": "What's with you, Little Devi? \nDo you know this Champion?",
+    "translation": "What's with you, Little Devi? \nDo you know this Champion?",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0197",
+    "original": "Little Devi...? Could you be... \nTHAT Little Devi?!",
+    "translation": "Little Devi...? Could you be... \nTHAT Little Devi?!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0198",
+    "original": "That's right, it's me!\n\nI've been looking for the red \nDigimon that kidnapped you!\nAlong the way I ran into this super\nuncool partner, here!",
+    "translation": "That's right, it's me!\n\nI've been looking for the red \nDigimon that kidnapped you!\nAlong the way I ran into this super\nuncool partner, here!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK03_0004_0199",
+    "original": "Kidnapped...?\n\nI remember talking to a strange \nDigimon back in Palette Amazon...\nHuh...? What happened after\nthat, again...? It's all fuzzy...",
+    "translation": "Kidnapped...?\n\nI remember talking to a strange \nDigimon back in Palette Amazon...\nHuh...? What happened after\nthat, again...? It's all fuzzy...",
+    "stage": 1,
+    "context": ""
+  }
+]

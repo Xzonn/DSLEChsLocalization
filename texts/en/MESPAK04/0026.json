@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK04_0026_0000",
+    "original": "Defense +148\nEscape Chance +15%\nPoison Resist +30%\nConfusion Resist +30%",
+    "translation": "Defense +148\nEscape Chance +15%\nPoison Resist +30%\nConfusion Resist +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0001",
+    "original": "Defense +198\nSpeed +70\nParalysis Resist +30%\nSleep Resist +30%",
+    "translation": "Defense +198\nSpeed +70\nParalysis Resist +30%\nSleep Resist +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0002",
+    "original": "Defense +278\nSpeed +130\nParalysis Resist +50%\nSleep Resist +50%",
+    "translation": "Defense +278\nSpeed +130\nParalysis Resist +50%\nSleep Resist +50%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0003",
+    "original": "Defense +358\nConfusion Resist +40%\nParalysis Resist +40%\nSleep Resist +40%",
+    "translation": "Defense +358\nConfusion Resist +40%\nParalysis Resist +40%\nSleep Resist +40%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0004",
+    "original": "Defense +418\nConfusion Resist +50%\nParalysis Resist +40%\nSleep Resist +40%",
+    "translation": "Defense +418\nConfusion Resist +50%\nParalysis Resist +40%\nSleep Resist +40%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0005",
+    "original": "Attack +100\nDefense +488\nPoison Resist +50%",
+    "translation": "Attack +100\nDefense +488\nPoison Resist +50%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0006",
+    "original": "Attack +110\nDefense +548\nPoison Resist +80%",
+    "translation": "Attack +110\nDefense +548\nPoison Resist +80%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0007",
+    "original": "Attack +120\nDefense +628\nSpeed +150\nDeath Resist +20%",
+    "translation": "Attack +120\nDefense +628\nSpeed +150\nDeath Resist +20%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0008",
+    "original": "Attack +140\nDefense +788\nSpeed +180\nDeath Resist +30%",
+    "translation": "Attack +140\nDefense +788\nSpeed +180\nDeath Resist +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0009",
+    "original": "Defense +72\nSpeed +80\nPoison Resist +30%\nSleep Resist +30%",
+    "translation": "Defense +72\nSpeed +80\nPoison Resist +30%\nSleep Resist +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0010",
+    "original": "Defense +132\nSpeed +120\nPoison Resist +50%\nSleep Resist +50%",
+    "translation": "Defense +132\nSpeed +120\nPoison Resist +50%\nSleep Resist +50%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0011",
+    "original": "Attack +90\nDefense +172\nConfusion Resist +30%",
+    "translation": "Attack +90\nDefense +172\nConfusion Resist +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0012",
+    "original": "Attack +110\nDefense +242\nConfusion Resist +40%",
+    "translation": "Attack +110\nDefense +242\nConfusion Resist +40%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0013",
+    "original": "Defense +312\nSpeed +190\nConfusion Resist +40%\nParalysis Resist +40%",
+    "translation": "Defense +312\nSpeed +190\nConfusion Resist +40%\nParalysis Resist +40%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0014",
+    "original": "Defense +372\nSpeed +240\nConfusion Resist +50%\nParalysis Resist +50%",
+    "translation": "Defense +372\nSpeed +240\nConfusion Resist +50%\nParalysis Resist +50%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0015",
+    "original": "Attack +130\nDefense +442\nAccuracy +10%\nDeath Resist +30%",
+    "translation": "Attack +130\nDefense +442\nAccuracy +10%\nDeath Resist +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0016",
+    "original": "Attack +170\nDefense +502\nAccuracy +25%\nDeath Resist +30%",
+    "translation": "Attack +170\nDefense +502\nAccuracy +25%\nDeath Resist +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0017",
+    "original": "Attack +200\nDefense +582\nDamage Bonus +10%",
+    "translation": "Attack +200\nDefense +582\nDamage Bonus +10%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0018",
+    "original": "Defense +712\nSpeed +300\nConfusion Resist +80%\nSleep Resist +80%",
+    "translation": "Defense +712\nSpeed +300\nConfusion Resist +80%\nSleep Resist +80%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0019",
+    "original": "Evasion Rate +20%",
+    "translation": "Evasion Rate +20%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0020",
+    "original": "Evasion Rate +25%",
+    "translation": "Evasion Rate +25%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0021",
+    "original": "Evasion Rate +30%",
+    "translation": "Evasion Rate +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0022",
+    "original": "Evasion Rate +35%",
+    "translation": "Evasion Rate +35%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0023",
+    "original": "Evasion Rate +40%",
+    "translation": "Evasion Rate +40%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0024",
+    "original": "Evasion Rate +34%\nEscape Chance +25%\nParalysis Resist +50%",
+    "translation": "Evasion Rate +34%\nEscape Chance +25%\nParalysis Resist +50%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0025",
+    "original": "Evasion Rate +39%\nPoison Resist +60%\nParalysis Resist +60%",
+    "translation": "Evasion Rate +39%\nPoison Resist +60%\nParalysis Resist +60%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0026",
+    "original": "Attack +100\nEvasion Rate +44%\nConfusion Resist +60%\nSleep Resist +60%",
+    "translation": "Attack +100\nEvasion Rate +44%\nConfusion Resist +60%\nSleep Resist +60%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0027",
+    "original": "Evasion Rate +49%\nAccuracy +10%\nCritical +5%\nConfusion Resist +70%",
+    "translation": "Evasion Rate +49%\nAccuracy +10%\nCritical +5%\nConfusion Resist +70%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0028",
+    "original": "Evasion Rate +54%\nPoison Resist +80%\nDeath Resist +50%",
+    "translation": "Evasion Rate +54%\nPoison Resist +80%\nDeath Resist +50%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0029",
+    "original": "Evasion +32%\nPoison Resist +50%\nSleep Resist +50%",
+    "translation": "Evasion +32%\nPoison Resist +50%\nSleep Resist +50%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0030",
+    "original": "Evasion Rate +37%\nEscape Chance +30%\nConfusion Resist +60%",
+    "translation": "Evasion Rate +37%\nEscape Chance +30%\nConfusion Resist +60%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0031",
+    "original": "Evasion Rate +42%\nParalysis Resist +60%\nSleep Resist +60%",
+    "translation": "Evasion Rate +42%\nParalysis Resist +60%\nSleep Resist +60%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0032",
+    "original": "Evasion Rate +47%\nParalysis Resist +80%",
+    "translation": "Evasion Rate +47%\nParalysis Resist +80%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0033",
+    "original": "Attack +100\nSpeed +130\nEvasion Rate +52%\nCritical +5%",
+    "translation": "Attack +100\nSpeed +130\nEvasion Rate +52%\nCritical +5%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0034",
+    "original": "Speed +10\nEvasion Rate +36%\nPoison Resist +50%\nSleep Resist +50%",
+    "translation": "Speed +10\nEvasion Rate +36%\nPoison Resist +50%\nSleep Resist +50%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0035",
+    "original": "Defense +50\nEvasion Rate +41%\nConfusion Resist +60%",
+    "translation": "Defense +50\nEvasion Rate +41%\nConfusion Resist +60%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0036",
+    "original": "Speed +80\nEvasion Rate +46%\nConfusion Resist +70%\nParalysis Resist +70%",
+    "translation": "Speed +80\nEvasion Rate +46%\nConfusion Resist +70%\nParalysis Resist +70%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0037",
+    "original": "Attack +110\nEvasion Rate +51%\nAccuracy +15%\nDeath Resist +30%",
+    "translation": "Attack +110\nEvasion Rate +51%\nAccuracy +15%\nDeath Resist +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0038",
+    "original": "Attack +150\nSpeed +200\nEvasion Rate +56%",
+    "translation": "Attack +150\nSpeed +200\nEvasion Rate +56%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0039",
+    "original": "Defense +163\nEvasion Rate +12%\nEXP Bonus +30%",
+    "translation": "Defense +163\nEvasion Rate +12%\nEXP Bonus +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0040",
+    "original": "Defense +173\nEvasion Rate +13%\nbit Bonus +30%",
+    "translation": "Defense +173\nEvasion Rate +13%\nbit Bonus +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0041",
+    "original": "Defense +183\nEvasion Rate +15%\nEscape Chance +25%",
+    "translation": "Defense +183\nEvasion Rate +15%\nEscape Chance +25%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0042",
+    "original": "Defense +83\nAccuracy +20%\nDamage Bonus +50%",
+    "translation": "Defense +83\nAccuracy +20%\nDamage Bonus +50%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0043",
+    "original": "Defense +333\nConfusion Resist +80%\nParalysis Resist +80%\nSleep Resist +80%",
+    "translation": "Defense +333\nConfusion Resist +80%\nParalysis Resist +80%\nSleep Resist +80%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0044",
+    "original": "Defense +103\nEvasion Rate +11%\nBit Bonus +20%\nEXP Bonus +20%",
+    "translation": "Defense +103\nEvasion Rate +11%\nBit Bonus +20%\nEXP Bonus +20%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0045",
+    "original": "Defense +193\nConfusion Resist +30%\nParalysis Resist +30%\nSleep Resist +30%",
+    "translation": "Defense +193\nConfusion Resist +30%\nParalysis Resist +30%\nSleep Resist +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0046",
+    "original": "Attack +170\nDefense +203\nAccuracy +30%\nCritical +30%",
+    "translation": "Attack +170\nDefense +203\nAccuracy +30%\nCritical +30%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0047",
+    "original": "Defense +223\nEvasion Rate +22%\nBit Bonus +50%\nEXP Bonus +50%",
+    "translation": "Defense +223\nEvasion Rate +22%\nBit Bonus +50%\nEXP Bonus +50%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0048",
+    "original": "Defense +123\nSpeed +240\nCritical +20%\nEscape Chance +40%",
+    "translation": "Defense +123\nSpeed +240\nCritical +20%\nEscape Chance +40%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0026_0049",
+    "original": "Defense +153\nSpeed +180\nCritical +20%\nDeath Resist +80%",
+    "translation": "Defense +153\nSpeed +180\nCritical +20%\nDeath Resist +80%",
+    "stage": 1,
+    "context": ""
+  }
+]

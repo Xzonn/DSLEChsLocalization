@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK04_0027_0000",
+    "original": "Defense +143\nSpeed +200\nCritical +20%\nParalysis Resist +80%",
+    "translation": "Defense +143\nSpeed +200\nCritical +20%\nParalysis Resist +80%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0001",
+    "original": "Defense +133\nSpeed +220\nCritical +20%\nPoison Resist +80%",
+    "translation": "Defense +133\nSpeed +220\nCritical +20%\nPoison Resist +80%",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0002",
+    "original": "Increases max HP by 4.",
+    "translation": "Increases max HP by 4.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0003",
+    "original": "Increases max HP by 8.",
+    "translation": "Increases max HP by 8.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0004",
+    "original": "Increases max HP by 16.",
+    "translation": "Increases max HP by 16.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0005",
+    "original": "Increases max MP by 4.",
+    "translation": "Increases max MP by 4.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0006",
+    "original": "Increases max MP by 8.",
+    "translation": "Increases max MP by 8.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0007",
+    "original": "Increases max MP by 16.",
+    "translation": "Increases max MP by 16.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0008",
+    "original": "Increases Attack by 2.",
+    "translation": "Increases Attack by 2.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0009",
+    "original": "Increases Attack by 4.",
+    "translation": "Increases Attack by 4.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0010",
+    "original": "Increases Attack by 8.",
+    "translation": "Increases Attack by 8.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0011",
+    "original": "Increases Defense by 2.",
+    "translation": "Increases Defense by 2.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0012",
+    "original": "Increases Defense by 4.",
+    "translation": "Increases Defense by 4.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0013",
+    "original": "Increases Defense by 8.",
+    "translation": "Increases Defense by 8.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0014",
+    "original": "Increases Speed by 2.",
+    "translation": "Increases Speed by 2.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0015",
+    "original": "Increases Speed by 4.",
+    "translation": "Increases Speed by 4.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0016",
+    "original": "Increases Speed by 8.",
+    "translation": "Increases Speed by 8.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0017",
+    "original": "Increases Friendship by 1.",
+    "translation": "Increases Friendship by 1.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0018",
+    "original": "Increases Friendship by 3.",
+    "translation": "Increases Friendship by 3.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0019",
+    "original": "Increases Friendship by 5.",
+    "translation": "Increases Friendship by 5.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0020",
+    "original": "Increases recieved EXP by 12.\n24 for Mythical Beast Digimon.",
+    "translation": "Increases recieved EXP by 12.\n24 for Mythical Beast Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0021",
+    "original": "Increases recieved EXP by 30.\n60 for Mythical Beast Digimon.",
+    "translation": "Increases recieved EXP by 30.\n60 for Mythical Beast Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0022",
+    "original": "Increases recieved EXP by 125.\n250 for Mythical Beast Digimon.",
+    "translation": "Increases recieved EXP by 125.\n250 for Mythical Beast Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0023",
+    "original": "Increases recieved EXP by 12.\n24 for Beast Digimon.",
+    "translation": "Increases recieved EXP by 12.\n24 for Beast Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0024",
+    "original": "Increases recieved EXP by 30.\n60 for Beast Digimon.",
+    "translation": "Increases recieved EXP by 30.\n60 for Beast Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0025",
+    "original": "Increases recieved EXP by 125.\n250 for Beast Digimon.",
+    "translation": "Increases recieved EXP by 125.\n250 for Beast Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0026",
+    "original": "Increases recieved EXP by 12.\n24 for Seraph Digimon.",
+    "translation": "Increases recieved EXP by 12.\n24 for Seraph Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0027",
+    "original": "Increases recieved EXP by 30.\n60 for Seraph Digimon.",
+    "translation": "Increases recieved EXP by 30.\n60 for Seraph Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0028",
+    "original": "Increases recieved EXP by 125.\n250 for Seraph Digimon.",
+    "translation": "Increases recieved EXP by 125.\n250 for Seraph Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0029",
+    "original": "Increases recieved EXP by 12.\n24 for Demon Digimon.",
+    "translation": "Increases recieved EXP by 12.\n24 for Demon Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0030",
+    "original": "Increases recieved EXP by 30.\n60 for Demon Digimon.",
+    "translation": "Increases recieved EXP by 30.\n60 for Demon Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0031",
+    "original": "Increases recieved EXP by 125.\n250 for Demon Digimon.",
+    "translation": "Increases recieved EXP by 125.\n250 for Demon Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0032",
+    "original": "Increases recieved EXP by 12.\n24 for Machine Digimon.",
+    "translation": "Increases recieved EXP by 12.\n24 for Machine Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0033",
+    "original": "Increases recieved EXP by 30.\n60 for Machine Digimon.",
+    "translation": "Increases recieved EXP by 30.\n60 for Machine Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0034",
+    "original": "Increases recieved EXP by 125.\n250 for Machine Digimon.",
+    "translation": "Increases recieved EXP by 125.\n250 for Machine Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0035",
+    "original": "Increases recieved EXP by 12.\n24 for Aquatic Digimon.",
+    "translation": "Increases recieved EXP by 12.\n24 for Aquatic Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0036",
+    "original": "Increases recieved EXP by 30.\n60 for Aquatic Digimon.",
+    "translation": "Increases recieved EXP by 30.\n60 for Aquatic Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0037",
+    "original": "Increases recieved EXP by 125.\n250 for Aquatic Digimon.",
+    "translation": "Increases recieved EXP by 125.\n250 for Aquatic Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0038",
+    "original": "Increases recieved EXP by 12.\n24 for Bird Digimon.",
+    "translation": "Increases recieved EXP by 12.\n24 for Bird Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0039",
+    "original": "Increases recieved EXP by 30.\n60 for Bird Digimon.",
+    "translation": "Increases recieved EXP by 30.\n60 for Bird Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0040",
+    "original": "Increases recieved EXP by 125.\n250 for Bird Digimon.",
+    "translation": "Increases recieved EXP by 125.\n250 for Bird Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0041",
+    "original": "Increases recieved EXP by 12.\n24 for Bug Digimon.",
+    "translation": "Increases recieved EXP by 12.\n24 for Bug Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0042",
+    "original": "Increases recieved EXP by 30.\n60 for Bug Digimon.",
+    "translation": "Increases recieved EXP by 30.\n60 for Bug Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0043",
+    "original": "Increases recieved EXP by 125.\n250 for Bug Digimon.",
+    "translation": "Increases recieved EXP by 125.\n250 for Bug Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0044",
+    "original": "Increases recieved EXP by 12.\n24 for Plant Digimon.",
+    "translation": "Increases recieved EXP by 12.\n24 for Plant Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0045",
+    "original": "Increases recieved EXP by 30.\n60 for Plant Digimon.",
+    "translation": "Increases recieved EXP by 30.\n60 for Plant Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0046",
+    "original": "Increases recieved EXP by 125.\n250 for Plant Digimon.",
+    "translation": "Increases recieved EXP by 125.\n250 for Plant Digimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0047",
+    "original": "None",
+    "translation": "None",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0048",
+    "original": "None",
+    "translation": "None",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0027_0049",
+    "original": "None",
+    "translation": "None",
+    "stage": 1,
+    "context": ""
+  }
+]

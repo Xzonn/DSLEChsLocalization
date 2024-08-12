@@ -1,0 +1,548 @@
+[
+  {
+    "key": "MESPAK01_0007_0000",
+    "original": "Mythical",
+    "translation": "Mythical",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0001",
+    "original": "Beast",
+    "translation": "Beast",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0002",
+    "original": "Angel",
+    "translation": "Angel",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0003",
+    "original": "Demon",
+    "translation": "Demon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0004",
+    "original": "Water",
+    "translation": "Water",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0005",
+    "original": "Machine",
+    "translation": "Machine",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0006",
+    "original": "Bird",
+    "translation": "Bird",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0007",
+    "original": "Insect",
+    "translation": "Insect",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0008",
+    "original": "Plant",
+    "translation": "Plant",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0009",
+    "original": "Purchase Price",
+    "translation": "Purchase Price",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0010",
+    "original": "Selling Price",
+    "translation": "Selling Price",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0011",
+    "original": "On hand",
+    "translation": "On hand",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0012",
+    "original": "Remaining",
+    "translation": "Remaining",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0013",
+    "original": "On hand",
+    "translation": "On hand",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0014",
+    "original": "Equipment",
+    "translation": "Equipment",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0015",
+    "original": "All Digimon",
+    "translation": "All Digimon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0016",
+    "original": "Ongoing Effect",
+    "translation": "Ongoing Effect",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0017",
+    "original": "Max Points",
+    "translation": "Max Points",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0018",
+    "original": "Maximum Grade",
+    "translation": "Maximum Grade",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0019",
+    "original": " Points",
+    "translation": " Points",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0020",
+    "original": "Evolution Tree",
+    "translation": "Evolution Tree",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0021",
+    "original": "EXP",
+    "translation": "EXP",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0022",
+    "original": "Auto",
+    "translation": "Auto",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0023",
+    "original": "Digimon",
+    "translation": "Digimon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0024",
+    "original": "Farm Goods",
+    "translation": "Farm Goods",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0025",
+    "original": "Terrain Board",
+    "translation": "Terrain Board",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0026",
+    "original": "BGM Board",
+    "translation": "BGM Board",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0027",
+    "original": "Body",
+    "translation": "Body",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0028",
+    "original": "Amount",
+    "translation": "Amount",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0029",
+    "original": "Ｌｖ",
+    "translation": "Ｌｖ",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0030",
+    "original": "Attribute",
+    "translation": "Attribute",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0031",
+    "original": "Effect",
+    "translation": "Effect",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0032",
+    "original": "Category",
+    "translation": "Category",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0033",
+    "original": "Range",
+    "translation": "Range",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0034",
+    "original": "MP",
+    "translation": "MP",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0035",
+    "original": "Level attained",
+    "translation": "Level attained",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0036",
+    "original": "Attack",
+    "translation": "Attack",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0037",
+    "original": "Support",
+    "translation": "Support",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0038",
+    "original": "Recover",
+    "translation": "Recover",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0039",
+    "original": "Selected Equipment",
+    "translation": "Selected Equipment",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0040",
+    "original": "Selected Consumable Item",
+    "translation": "Selected Consumable Item",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0041",
+    "original": "Selected Farm Goods",
+    "translation": "Selected Farm Goods",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0042",
+    "original": "Selected Bug Plate",
+    "translation": "Selected Bug Plate",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0043",
+    "original": "Evolution Tree Name",
+    "translation": "Evolution Tree Name",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0044",
+    "original": "Amount of EXP attained per day",
+    "translation": "Amount of EXP attained per day",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0045",
+    "original": "Selected Repairing Tool",
+    "translation": "Selected Repairing Tool",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0046",
+    "original": "Selected Farm Island",
+    "translation": "Selected Farm Island",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0047",
+    "original": "Selected Skill",
+    "translation": "Selected Skill",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0048",
+    "original": "Selected DigiPlate",
+    "translation": "Selected DigiPlate",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0049",
+    "original": "Farm Goods used for training",
+    "translation": "Farm Goods used for training",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0050",
+    "original": "Equipment created",
+    "translation": "Equipment created",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0051",
+    "original": "Maximum HP",
+    "translation": "Maximum HP",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0052",
+    "original": "ATK",
+    "translation": "ATK",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0053",
+    "original": "DEF",
+    "translation": "DEF",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0054",
+    "original": "SPD",
+    "translation": "SPD",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0055",
+    "original": "FND",
+    "translation": "FND",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0056",
+    "original": "EXP Points",
+    "translation": "EXP Points",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0057",
+    "original": "Maximum MP",
+    "translation": "Maximum MP",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0058",
+    "original": "Equipment found",
+    "translation": "Equipment found",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0059",
+    "original": "Consumables found",
+    "translation": "Consumables found",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0060",
+    "original": "Bug Plates found",
+    "translation": "Bug Plates found",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0061",
+    "original": "Did not create anything",
+    "translation": "Did not create anything",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0062",
+    "original": "Did not find anything",
+    "translation": "Did not find anything",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0063",
+    "original": "Digimon's Bonds",
+    "translation": "Digimon's Bonds",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0064",
+    "original": "Thankful feelings",
+    "translation": "Thankful feelings",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0065",
+    "original": "Small discovery",
+    "translation": "Small discovery",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0066",
+    "original": "Exciting discovery",
+    "translation": "Exciting discovery",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0067",
+    "original": "Treasure discovered",
+    "translation": "Treasure discovered",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0068",
+    "original": "Completion level",
+    "translation": "Completion level",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0069",
+    "original": "Learnable Skills",
+    "translation": "Learnable Skills",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0070",
+    "original": "Learned Skills",
+    "translation": "Learned Skills",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0071",
+    "original": "Power",
+    "translation": "Power",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0072",
+    "original": "Range",
+    "translation": "Range",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0073",
+    "original": "MP",
+    "translation": "MP",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0074",
+    "original": "Choose a skill to master. \nThe listed skill will be forgotten.",
+    "translation": "Choose a skill to master. \nThe listed skill will be forgotten.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0075",
+    "original": "Choose a skill to replace.",
+    "translation": "Choose a skill to replace.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0076",
+    "original": "There is nothing to display.",
+    "translation": "There is nothing to display.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0007_0077",
+    "original": "You have no Digimon here.",
+    "translation": "You have no Digimon here.",
+    "stage": 1,
+    "context": ""
+  }
+]

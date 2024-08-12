@@ -1,0 +1,212 @@
+[
+  {
+    "key": "MESPAK01_0017_0000",
+    "original": "Maximum HP raised by 5.\n(～5,000 until MAX)",
+    "translation": "Maximum HP raised by 5.\n(～5,000 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0001",
+    "original": "Maximum HP raised by 20.\n(～9,999 until MAX)",
+    "translation": "Maximum HP raised by 20.\n(～9,999 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0002",
+    "original": "Maximum MP raised by 5.\n(～5,000 until MAX)",
+    "translation": "Maximum MP raised by 5.\n(～5,000 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0003",
+    "original": "Maximum MP raised by 20.\n(～9,999 until MAX)",
+    "translation": "Maximum MP raised by 20.\n(～9,999 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0004",
+    "original": "Maximum Attack raised by 1.\n(～500 until MAX)",
+    "translation": "Maximum Attack raised by 1.\n(～500 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0005",
+    "original": "Maximum Attack raised by 4.\n(～999 until MAX)",
+    "translation": "Maximum Attack raised by 4.\n(～999 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0006",
+    "original": "Maximum Defence raised by 1.\n(～500 until MAX)",
+    "translation": "Maximum Defence raised by 1.\n(～500 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0007",
+    "original": "Maximum Defence raised by 4.\n(～999 until MAX)",
+    "translation": "Maximum Defence raised by 4.\n(～999 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0008",
+    "original": "Maximum Speed raised by 1.\n(～500 until MAX)",
+    "translation": "Maximum Speed raised by 1.\n(～500 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0009",
+    "original": "Maximum Speed raised by 4.\n(～999 until MAX)",
+    "translation": "Maximum Speed raised by 4.\n(～999 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0010",
+    "original": "Maximum Friendship raised by 5.\n(～100 until MAX)",
+    "translation": "Maximum Friendship raised by 5.\n(～100 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0011",
+    "original": "Maximum Friendship raised by 25.\n(～100 until MAX)",
+    "translation": "Maximum Friendship raised by 25.\n(～100 until MAX)",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0012",
+    "original": "Received EXP raised by 25. \nMythical Digimon receive double.",
+    "translation": "Received EXP raised by 25. \nMythical Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0013",
+    "original": "Received EXP raised by 150. \nMythical Digimon receive double.",
+    "translation": "Received EXP raised by 150. \nMythical Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0014",
+    "original": "Received EXP raised by 25. \nBeast Digimon receive double.",
+    "translation": "Received EXP raised by 25. \nBeast Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0015",
+    "original": "Received EXP raised by 150.\nBeast Digimon receive double.",
+    "translation": "Received EXP raised by 150.\nBeast Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0016",
+    "original": "Received EXP raised by 25. \nAngel Digimon receive double.",
+    "translation": "Received EXP raised by 25. \nAngel Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0017",
+    "original": "Received EXP raised by 150. \nAngel Digimon receive double.",
+    "translation": "Received EXP raised by 150. \nAngel Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0018",
+    "original": "Received EXP raised by 25. \nDemon Digimon receive double.",
+    "translation": "Received EXP raised by 25. \nDemon Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0019",
+    "original": "Received EXP raised by 150. \nDemon Digimon receive double.",
+    "translation": "Received EXP raised by 150. \nDemon Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0020",
+    "original": "Received EXP raised by 25. \nMachine Digimon receive double.",
+    "translation": "Received EXP raised by 25. \nMachine Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0021",
+    "original": "Received EXP raised by 150. \nMachine Digimon receive double.",
+    "translation": "Received EXP raised by 150. \nMachine Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0022",
+    "original": "Received EXP raised by 25. \nAquatic Digimon receive double.",
+    "translation": "Received EXP raised by 25. \nAquatic Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0023",
+    "original": "Received EXP raised by 150.\nAquatic Digimon receive double.",
+    "translation": "Received EXP raised by 150.\nAquatic Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0024",
+    "original": "Received EXP raised by 25. \nBird Digimon receive double.",
+    "translation": "Received EXP raised by 25. \nBird Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0025",
+    "original": "Received EXP raised by 150. \nBird Digimon receive double.",
+    "translation": "Received EXP raised by 150. \nBird Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0026",
+    "original": "Received EXP raised by 25. \nInsect Digimon receive double.",
+    "translation": "Received EXP raised by 25. \nInsect Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0027",
+    "original": "Received EXP raised by 150. \nInsect Digimon receive double.",
+    "translation": "Received EXP raised by 150. \nInsect Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0028",
+    "original": "Received EXP raised by 25. \nPlant Digimon receive double.",
+    "translation": "Received EXP raised by 25. \nPlant Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0017_0029",
+    "original": "Received EXP raised by 150. \nPlant Digimon receive double.",
+    "translation": "Received EXP raised by 150. \nPlant Digimon receive double.",
+    "stage": 1,
+    "context": ""
+  }
+]

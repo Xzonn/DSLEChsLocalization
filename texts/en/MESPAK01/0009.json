@@ -1,0 +1,44 @@
+[
+  {
+    "key": "MESPAK01_0009_0000",
+    "original": "DigiConvert!",
+    "translation": "DigiConvert!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0009_0001",
+    "original": "^0 Digivolves to",
+    "translation": "^0 Digivolves to",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0009_0002",
+    "original": "^0  Degenerates to",
+    "translation": "^0  Degenerates to",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0009_0003",
+    "original": "^0 Digimon",
+    "translation": "^0 Digimon",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0009_0004",
+    "original": "^0 was born!",
+    "translation": "^0 was born!",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK01_0009_0005",
+    "original": "^0!",
+    "translation": "^0!",
+    "stage": 1,
+    "context": ""
+  }
+]

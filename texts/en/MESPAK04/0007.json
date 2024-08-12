@@ -1,0 +1,352 @@
+[
+  {
+    "key": "MESPAK04_0007_0000",
+    "original": "Required Digivolution Level: 61\nRevived Apocalymon\nRevived Piedmon\nRevived Machinedramon\nAbility: 7",
+    "translation": "Required Digivolution Level: 61\nRevived Apocalymon\nRevived Piedmon\nRevived Machinedramon\nAbility: 7",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0001",
+    "original": "Required Digivolution Level: 58\nRevived ZeedMillenniumon\nBefriended MoonMillenniummon\nAttack: 300",
+    "translation": "Required Digivolution Level: 58\nRevived ZeedMillenniumon\nBefriended MoonMillenniummon\nAttack: 300",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0002",
+    "original": "Required Digivolution Level: 51\nAttack: 250\nMax Level: 62",
+    "translation": "Required Digivolution Level: 51\nAttack: 250\nMax Level: 62",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0003",
+    "original": "Required Digivolution Level: 63\nRevived Susanoomon\nRevived AncientGreymon\nRevived AncientGarurumon\nMax Level: 70",
+    "translation": "Required Digivolution Level: 63\nRevived Susanoomon\nRevived AncientGreymon\nRevived AncientGarurumon\nMax Level: 70",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0004",
+    "original": "Required Digivolution Level: 51\nDefense: 210\nAbility: 2",
+    "translation": "Required Digivolution Level: 51\nDefense: 210\nAbility: 2",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0005",
+    "original": "Required Digivolution Level: 53\nRevived Valdurmon\nDefense: 230\nSpeed: 250",
+    "translation": "Required Digivolution Level: 53\nRevived Valdurmon\nDefense: 230\nSpeed: 250",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0006",
+    "original": "Required Digivolution Level: 55\nRevived ShineGreymon BM\nBefriended ShineGreymon RM\nFriendship: 100",
+    "translation": "Required Digivolution Level: 55\nRevived ShineGreymon BM\nBefriended ShineGreymon RM\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0007",
+    "original": "Required Digivolution Level: 50\nAttack: 255\nSpeed: 185",
+    "translation": "Required Digivolution Level: 50\nAttack: 255\nSpeed: 185",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0008",
+    "original": "Required Digivolution Level: 55\nRevived MirageGaogamon BM\nAttack: 250\nDefense: 250\nFriendship: 100",
+    "translation": "Required Digivolution Level: 55\nRevived MirageGaogamon BM\nAttack: 250\nDefense: 250\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0009",
+    "original": "Required Digivolution Level: 54\nRevived Ravemon BM\nSpeed: 240\nFriendship: 100",
+    "translation": "Required Digivolution Level: 54\nRevived Ravemon BM\nSpeed: 240\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0010",
+    "original": "Required Digivolution Level: 57\nRevived Beelzemon Blast Mode\nBefriended Leomon\nAttack: 210\nFriendship: 100",
+    "translation": "Required Digivolution Level: 57\nRevived Beelzemon Blast Mode\nBefriended Leomon\nAttack: 210\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0011",
+    "original": "Required Digivolution Level: 54\nRevived Rosemon BM\nAttack: 220\nFriendship: 100",
+    "translation": "Required Digivolution Level: 54\nRevived Rosemon BM\nAttack: 220\nFriendship: 100",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0012",
+    "original": "Required Digivolution Level: 60\nRevived Chaosmon\nRevived Darkdramon\nRevived BanchoLeomon\nSpeed: 350",
+    "translation": "Required Digivolution Level: 60\nRevived Chaosmon\nRevived Darkdramon\nRevived BanchoLeomon\nSpeed: 350",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0013",
+    "original": "Required Digivolution Level: 62\nRevived Azulongmon\nAttack: 310\nDefense: 320\nAbility: 10",
+    "translation": "Required Digivolution Level: 62\nRevived Azulongmon\nAttack: 310\nDefense: 320\nAbility: 10",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0014",
+    "original": "Required Digivolution Level: 61\nRevived Baihumon\nAttack: 360\nSpeed: 300\nAbility: 10",
+    "translation": "Required Digivolution Level: 61\nRevived Baihumon\nAttack: 360\nSpeed: 300\nAbility: 10",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0015",
+    "original": "Required Digivolution Level: 61\nRevived Zhuqiaomon\nAttack: 330\nSpeed: 320\nAbility: 10",
+    "translation": "Required Digivolution Level: 61\nRevived Zhuqiaomon\nAttack: 330\nSpeed: 320\nAbility: 10",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0016",
+    "original": "Required Digivolution Level: 62\nRevived Ebonwumon\nAttack: 270\nDefense: 360\nAbility: 10",
+    "translation": "Required Digivolution Level: 62\nRevived Ebonwumon\nAttack: 270\nDefense: 360\nAbility: 10",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0017",
+    "original": "Required Digivolution Level: 60\nRevived Aegisdramon\nBefriended Aegisdramon\nBefriended MegaSeadramon\nAttack: 330",
+    "translation": "Required Digivolution Level: 60\nRevived Aegisdramon\nBefriended Aegisdramon\nBefriended MegaSeadramon\nAttack: 330",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0018",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nAgumon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nAgumon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0019",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nAgumon.",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nAgumon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0020",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Beast Digimon,\nGabumon.",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Beast Digimon,\nGabumon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0021",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Beast Digimon,\nGaomon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Beast Digimon,\nGaomon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0022",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Demon Digimon,\nDevimon.",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Demon Digimon,\nDevimon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0023",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Seraph Digimon,\nPatamon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Seraph Digimon,\nPatamon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0024",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Bug Digimon,\nTentomon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Bug Digimon,\nTentomon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0025",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Beast Digimon,\nTerriermon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Beast Digimon,\nTerriermon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0026",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Seraph Digimon,\nShakkoumon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Seraph Digimon,\nShakkoumon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0027",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Demon Digimon, \nLucemon FM.",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Demon Digimon, \nLucemon FM.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0028",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Demon Digimon,\nKimeramon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Demon Digimon,\nKimeramon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0029",
+    "original": "An Evolution Tree that contains \nthe Demon Digimon, Apocalymon.",
+    "translation": "An Evolution Tree that contains \nthe Demon Digimon, Apocalymon.",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0030",
+    "original": "An Evolution Tree that contains \nthe Mythical Digimon, Chaosmon.\n",
+    "translation": "An Evolution Tree that contains \nthe Mythical Digimon, Chaosmon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0031",
+    "original": "An Evolution Tree that contains\nthe Mythical Digimon, Omnimon.\n",
+    "translation": "An Evolution Tree that contains\nthe Mythical Digimon, Omnimon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0032",
+    "original": "An Evolution Tree that contains\nthe Seraph Digimon, Susanoomon.\n",
+    "translation": "An Evolution Tree that contains\nthe Seraph Digimon, Susanoomon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0033",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nVeemon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nVeemon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0034",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Bug Digimon,\nWormmon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Bug Digimon,\nWormmon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0035",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nGuilmon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nGuilmon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0036",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Demon Digimon,\nImpmon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Demon Digimon,\nImpmon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0037",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nDorumon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nDorumon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0038",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Demon Digimon,\nKeramon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Demon Digimon,\nKeramon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0039",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nBetamon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Mythical Digimon,\nBetamon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0040",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Aquatic Digimon,\nSyakomon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Aquatic Digimon,\nSyakomon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0041",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Machine Digimon,\nHagurumon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Machine Digimon,\nHagurumon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0042",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Machine Digimon,\nToyAgumon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Machine Digimon,\nToyAgumon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0043",
+    "original": "An Evolution Tree that focuses on\nthe Mythical Digimon,\nPaildramonmon.\n",
+    "translation": "An Evolution Tree that focuses on\nthe Mythical Digimon,\nPaildramonmon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0044",
+    "original": "An Evolution Tree that focuses on\nevolutions of Aegisdramon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of Aegisdramon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0045",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Beast Digimon,\nCoronamon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Beast Digimon,\nCoronamon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0046",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Beast Digimon,\nLunamon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Beast Digimon,\nLunamon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0047",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Bird Digimon,\nHyokomon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Bird Digimon,\nHyokomon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0048",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Seraph Digimon,\nSalamon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Seraph Digimon,\nSalamon.\n",
+    "stage": 1,
+    "context": ""
+  },
+  {
+    "key": "MESPAK04_0007_0049",
+    "original": "An Evolution Tree that focuses on\nevolutions of the Bird Digimon,\nBiyomon.\n",
+    "translation": "An Evolution Tree that focuses on\nevolutions of the Bird Digimon,\nBiyomon.\n",
+    "stage": 1,
+    "context": ""
+  }
+]
