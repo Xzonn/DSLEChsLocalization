@@ -6918,14 +6918,14 @@
   {
     "key": "MESPAK00_0000_0988",
     "original": "ソニックボイス",
-    "translation": "音速之音",
+    "translation": "音速声波",
     "stage": 1,
     "context": "机翻辅助：\n\n超音波\n\n索尼克之音\n\n音响"
   },
   {
     "key": "MESPAK00_0000_0989",
     "original": "ハイソニックボイス",
-    "translation": "音速之高音",
+    "translation": "超音速声波",
     "stage": 1,
     "context": "机翻辅助：\n\n超音波\n\n高音\n\n高音调"
   },
@@ -9732,113 +9732,113 @@
   {
     "key": "MESPAK00_0000_1390",
     "original": "ＤＪシューター",
-    "translation": "DJ射手",
-    "stage": 1,
+    "translation": "DJ射击",
+    "stage": 0,
     "context": "机翻辅助：\n\nDJ射击"
   },
   {
     "key": "MESPAK00_0000_1391",
     "original": "ハープーンバルカン",
-    "translation": "赫丰巴尔干",
-    "stage": 1,
+    "translation": "鱼叉火神炮",
+    "stage": 0,
     "context": "机翻辅助：\n\n鱼叉火神炮"
   },
   {
     "key": "MESPAK00_0000_1392",
     "original": "スティッカーＢＬＤ",
-    "translation": "斯蒂克BLD",
-    "stage": 1,
+    "translation": "突刺刃",
+    "stage": 0,
     "context": "机翻辅助：\n\n突刺刃"
   },
   {
     "key": "MESPAK00_0000_1393",
     "original": "ヴァリアブルダーツ",
-    "translation": "瓦利亚布尔德",
-    "stage": 1,
+    "translation": "变异飞镖",
+    "stage": 0,
     "context": "机翻辅助：\n\n变异飞镖"
   },
   {
     "key": "MESPAK00_0000_1394",
     "original": "フラワーボム",
-    "translation": "花卉范",
+    "translation": "花朵炸弹",
     "stage": 1,
     "context": "机翻辅助：\n\n百花炸弹。\n\n花饰\n\n花卉范"
   },
   {
     "key": "MESPAK00_0000_1395",
     "original": "ゴブリストライク",
-    "translation": "五强好球",
-    "stage": 1,
+    "translation": "哥布林强袭",
+    "stage": 0,
     "context": "机翻辅助：\n\n哥布林强袭"
   },
   {
     "key": "MESPAK00_0000_1396",
     "original": "プチツイスター",
-    "translation": "小明星",
-    "stage": 1,
+    "translation": "小龙卷",
+    "stage": 0,
     "context": "机翻辅助：\n\n小龙卷"
   },
   {
     "key": "MESPAK00_0000_1397",
     "original": "ストロングモール",
-    "translation": "strongmall",
+    "translation": "强壮痛殴",
     "stage": 1,
     "context": "机翻辅助：\n\nSTRONG MALL\n\n斯特朗莫尔\n\nstrongmall"
   },
   {
     "key": "MESPAK00_0000_1398",
     "original": "デストロイドボイス",
-    "translation": "毁灭之声",
-    "stage": 1,
+    "translation": "毁灭声波",
+    "stage": 0,
     "context": "机翻辅助：\n\n毁灭声波"
   },
   {
     "key": "MESPAK00_0000_1399",
     "original": "アンブッシュＣＲＨ",
-    "translation": "安布什CRH",
+    "translation": "粉碎冲杀",
     "stage": 1,
     "context": "机翻辅助：\n\n伏杀"
   },
   {
     "key": "MESPAK00_0000_1400",
     "original": "スパイラルブロー",
-    "translation": "螺旋吹风",
-    "stage": 1,
+    "translation": "螺旋吹袭",
+    "stage": 0,
     "context": "机翻辅助：\n\n螺旋吹袭"
   },
   {
     "key": "MESPAK00_0000_1401",
     "original": "メガバースト",
-    "translation": "眼爆",
-    "stage": 1,
+    "translation": "超级爆裂",
+    "stage": 0,
     "context": "机翻辅助：\n\n超级爆裂"
   },
   {
     "key": "MESPAK00_0000_1402",
     "original": "パワーメタル",
-    "translation": "力量金属",
+    "translation": "强力金属",
     "stage": 1,
     "context": "机翻辅助：\n\n威力金属球"
   },
   {
     "key": "MESPAK00_0000_1403",
     "original": "ガトリングアーム",
-    "translation": "加特林格",
+    "translation": "加特林臂",
     "stage": 1,
     "context": "机翻辅助：\n\n加特林武装"
   },
   {
     "key": "MESPAK00_0000_1404",
     "original": "メガトンプレス",
-    "translation": "巨型冲床",
-    "stage": 1,
+    "translation": "百万吨重压",
+    "stage": 0,
     "context": "机翻辅助：\n\n百万吨重压"
   },
   {
     "key": "MESPAK00_0000_1405",
     "original": "フリーズファング",
-    "translation": "弗里斯芬",
-    "stage": 1,
+    "translation": "冰冻獠牙",
+    "stage": 0,
     "context": "机翻辅助：\n\n冰冻獠牙\n\n冷冻粉\n\n弗里斯芬"
   },
   {
@@ -9851,141 +9851,141 @@
   {
     "key": "MESPAK00_0000_1407",
     "original": "グレアーアイ",
-    "translation": "灰眼",
-    "stage": 1,
+    "translation": "闪耀之眼",
+    "stage": 0,
     "context": "机翻辅助：\n\n闪耀之眼"
   },
   {
     "key": "MESPAK00_0000_1408",
     "original": "ネイルスクラッチ",
-    "translation": "指甲划痕",
-    "stage": 1,
+    "translation": "指爪切斩",
+    "stage": 0,
     "context": "机翻辅助：\n\n指爪切斩"
   },
   {
     "key": "MESPAK00_0000_1409",
     "original": "クレイジーギグル",
-    "translation": "疯狂齿轮",
-    "stage": 1,
+    "translation": "狂笑",
+    "stage": 0,
     "context": "机翻辅助：\n\n狂笑"
   },
   {
     "key": "MESPAK00_0000_1410",
     "original": "ナイトファイアー",
-    "translation": "夜火",
+    "translation": "暗夜之炎",
     "stage": 1,
     "context": "机翻辅助：\n\nNIGHTFIRE\n\n夜间火焰\n\n夜火"
   },
   {
     "key": "MESPAK00_0000_1411",
     "original": "デスチャーム",
-    "translation": "死亡魅力",
-    "stage": 1,
+    "translation": "死亡魅惑",
+    "stage": 0,
     "context": "机翻辅助：\n\n死亡魅惑"
   },
   {
     "key": "MESPAK00_0000_1412",
     "original": "ピコダーツ",
-    "translation": "皮科飞镖",
-    "stage": 1,
+    "translation": "小型飞镖",
+    "stage": 0,
     "context": "机翻辅助：\n\n小型飞镖"
   },
   {
     "key": "MESPAK00_0000_1413",
     "original": "デスクロウ",
-    "translation": "死苦",
-    "stage": 1,
+    "translation": "死亡之爪",
+    "stage": 0,
     "context": "机翻辅助：\n\n死亡之爪"
   },
   {
     "key": "MESPAK00_0000_1414",
     "original": "サンダークラウド",
-    "translation": "霹雳云",
-    "stage": 1,
+    "translation": "雷云",
+    "stage": 0,
     "context": "机翻辅助：\n\n雷云"
   },
   {
     "key": "MESPAK00_0000_1415",
     "original": "データクラッシャー",
-    "translation": "数据分离器",
-    "stage": 1,
+    "translation": "数据粉碎者",
+    "stage": 0,
     "context": "机翻辅助：\n\n数据粉碎者"
   },
   {
     "key": "MESPAK00_0000_1416",
     "original": "きりすてごめん",
-    "translation": "对不起，把你扔了",
+    "translation": "格杀勿论",
     "stage": 1,
     "context": "机翻辅助：\n\n对不起，弃坑了。\n\n截断对不起\n\n对不起，把你扔了"
   },
   {
     "key": "MESPAK00_0000_1417",
     "original": "ファイアーブラスト",
-    "translation": "火钳",
-    "stage": 1,
+    "translation": "火焰爆风",
+    "stage": 0,
     "context": "机翻辅助：\n\n火焰爆风"
   },
   {
     "key": "MESPAK00_0000_1418",
     "original": "ムーンナイトボム",
-    "translation": "月之夜范",
+    "translation": "月光炸弹",
     "stage": 1,
     "context": "机翻辅助：\n\n月夜水弹"
   },
   {
     "key": "MESPAK00_0000_1419",
     "original": "プチサンダー",
-    "translation": "小雷霆",
-    "stage": 1,
+    "translation": "小型雷电",
+    "stage": 0,
     "context": "机翻辅助：\n\n小型雷电"
   },
   {
     "key": "MESPAK00_0000_1420",
     "original": "ポイズンアイビー",
-    "translation": "常青藤",
+    "translation": "毒蔓藤",
     "stage": 1,
     "context": "机翻辅助：\n\n毒藤蔓"
   },
   {
     "key": "MESPAK00_0000_1421",
     "original": "アイスアーチェリー",
-    "translation": "冰上射箭",
-    "stage": 1,
+    "translation": "寒冰之矢",
+    "stage": 0,
     "context": "机翻辅助：\n\n寒冰之矢"
   },
   {
     "key": "MESPAK00_0000_1422",
     "original": "イガいあいじゅつ",
-    "translation": "医外艺术",
+    "translation": "伊贺居合术",
     "stage": 1,
     "context": "机翻辅助：\n\n异能者\n\n医外艺术\n\n易位技术"
   },
   {
     "key": "MESPAK00_0000_1423",
     "original": "スパイキングＦＮ",
-    "translation": "间谍之王FN",
-    "stage": 1,
+    "translation": "终结刺钉",
+    "stage": 0,
     "context": "机翻辅助：\n\n终结刺钉"
   },
   {
     "key": "MESPAK00_0000_1424",
     "original": "ポイズンスティング",
-    "translation": "毒丸",
+    "translation": "毒刺",
     "stage": 1,
     "context": "机翻辅助：\n\nPoison sting\n\n后硬化\n\n毒丸"
   },
   {
     "key": "MESPAK00_0000_1425",
     "original": "ブランチドレイン",
-    "translation": "白兰地漏",
-    "stage": 1,
+    "translation": "枯木吸取",
+    "stage": 0,
     "context": "机翻辅助：\n\n枯木吸取"
   },
   {
     "key": "MESPAK00_0000_1426",
     "original": "サンシャインビーム",
-    "translation": "阳光光束",
-    "stage": 1,
+    "translation": "太阳光束",
+    "stage": 0,
     "context": "机翻辅助：\n\n太阳光束"
   },
   {
@@ -9998,14 +9998,14 @@
   {
     "key": "MESPAK00_0000_1428",
     "original": "メガブラスター",
-    "translation": "巨型胸罩",
-    "stage": 1,
+    "translation": "百万冲击波",
+    "stage": 0,
     "context": "机翻辅助：\n\n百万冲击波"
   },
   {
     "key": "MESPAK00_0000_1429",
     "original": "アングリーロック",
-    "translation": "愤怒的摇滚",
+    "translation": "愤怒巨岩",
     "stage": 1,
     "context": "机翻辅助：\n\n愤怒之石"
   },
@@ -10026,133 +10026,133 @@
   {
     "key": "MESPAK00_0000_1432",
     "original": "マイティＴＤクロー",
-    "translation": "麦蒂·TD·克洛",
+    "translation": "神威雷爪",
     "stage": 1,
     "context": "机翻辅助：\n\n猛力泰山式手刀。\n\n麦蒂·TD·克洛\n\n我的TD时钟"
   },
   {
     "key": "MESPAK00_0000_1433",
     "original": "クリムゾンネイル",
-    "translation": "克里姆森美甲",
-    "stage": 1,
+    "translation": "真红之爪",
+    "stage": 0,
     "context": "机翻辅助：\n\n真红之爪"
   },
   {
     "key": "MESPAK00_0000_1434",
     "original": "パワフルパンチ",
-    "translation": "有力的出拳",
-    "stage": 1,
+    "translation": "强力拳击",
+    "stage": 0,
     "context": "机翻辅助：\n\n强力拳击\n\n强力冲头\n\n有力的出拳"
   },
   {
     "key": "MESPAK00_0000_1435",
     "original": "くないばね",
-    "translation": "不疼的话",
-    "stage": 1,
+    "translation": "苦无羽",
+    "stage": 0,
     "context": "机翻辅助：\n\n苦无羽"
   },
   {
     "key": "MESPAK00_0000_1436",
     "original": "ハイパーキャノン",
-    "translation": "高加农炮",
-    "stage": 1,
+    "translation": "超强加农炮",
+    "stage": 0,
     "context": "机翻辅助：\n\n超强加农炮"
   },
   {
     "key": "MESPAK00_0000_1437",
     "original": "ジャスティスＢＬＴ",
-    "translation": "正义BLT",
+    "translation": "正义爆破",
     "stage": 1,
     "context": "机翻辅助：\n\n正义B.L.T.\n\n正义BLT"
   },
   {
     "key": "MESPAK00_0000_1438",
     "original": "キャプテンキャノン",
-    "translation": "卡农队长",
-    "stage": 1,
+    "translation": "船长大炮",
+    "stage": 0,
     "context": "机翻辅助：\n\n船长大炮"
   },
   {
     "key": "MESPAK00_0000_1439",
     "original": "クロノブレーカー",
-    "translation": "黑刀片",
-    "stage": 1,
+    "translation": "时空破坏者",
+    "stage": 0,
     "context": "机翻辅助：\n\n时空破坏者"
   },
   {
     "key": "MESPAK00_0000_1440",
     "original": "ワーニングレーザー",
-    "translation": "工作激光",
+    "translation": "警报镭射光",
     "stage": 1,
     "context": "机翻辅助：\n\n警告激光\n\n工作激光"
   },
   {
     "key": "MESPAK00_0000_1441",
     "original": "エアショット",
-    "translation": "空气镜头",
-    "stage": 1,
+    "translation": "空气炮",
+    "stage": 0,
     "context": "机翻辅助：\n\n空气炮"
   },
   {
     "key": "MESPAK00_0000_1442",
     "original": "ラブリーインパクト",
-    "translation": "爱情冲击",
+    "translation": "爱心冲击",
     "stage": 1,
     "context": "机翻辅助：\n\nLovely Impact\n\n爱情冲击"
   },
   {
     "key": "MESPAK00_0000_1443",
     "original": "ブラストレーザー",
-    "translation": "喷砂激光",
+    "translation": "爆裂镭射",
     "stage": 1,
     "context": "机翻辅助：\n\n爆风激光"
   },
   {
     "key": "MESPAK00_0000_1444",
     "original": "フェザースラッシュ",
-    "translation": "飞毛腿",
-    "stage": 1,
+    "translation": "飞羽斩",
+    "stage": 0,
     "context": "机翻辅助：\n\n飞羽斩"
   },
   {
     "key": "MESPAK00_0000_1445",
     "original": "メテオウイング",
-    "translation": "梅特奥翼",
-    "stage": 1,
+    "translation": "陨石巨翼",
+    "stage": 0,
     "context": "机翻辅助：\n\n陨石巨翼"
   },
   {
     "key": "MESPAK00_0000_1446",
     "original": "ダークストローム",
-    "translation": "暗闪",
-    "stage": 1,
+    "translation": "黑暗漩涡",
+    "stage": 0,
     "context": "机翻辅助：\n\n黑暗漩涡"
   },
   {
     "key": "MESPAK00_0000_1447",
     "original": "グレイブボーン",
-    "translation": "格雷夫本",
-    "stage": 1,
+    "translation": "坟墓之骨",
+    "stage": 0,
     "context": "机翻辅助：\n\n坟墓之骨"
   },
   {
     "key": "MESPAK00_0000_1448",
     "original": "Ｓスラッシュレイン",
-    "translation": "S射线",
-    "stage": 1,
+    "translation": "音速斩雨",
+    "stage": 0,
     "context": "机翻辅助：\n\n音速斩雨"
   },
   {
     "key": "MESPAK00_0000_1449",
     "original": "サウザンドフィスト",
-    "translation": "绍森德菲斯特",
-    "stage": 1,
+    "translation": "千重拳打",
+    "stage": 0,
     "context": "机翻辅助：\n\n千重拳打"
   },
   {
     "key": "MESPAK00_0000_1450",
     "original": "りんかざん",
-    "translation": "磷化山",
+    "translation": "燐火斩",
     "stage": 1,
     "context": "机翻辅助：\n\n凛子小姐。\n\n磷化山\n\n磷火山"
   },

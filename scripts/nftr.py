@@ -247,9 +247,9 @@ class CMAP:
 
     self.char_map: dict[int, int] = {}
     if self.type_section == 0:
-      offset, = struct.unpack("<H", reader.read(0x02))
-      for char_code in range(first_char_code, last_char_code + 1):
-        char_index = offset + char_code - first_char_code
+      first_char_index, = struct.unpack("<H", reader.read(0x02))
+      for i in range(last_char_code - first_char_code + 1):
+        char_index = first_char_index + i
         self.char_map[char_index] = char_code
     elif self.type_section == 1:
       length = last_char_code - first_char_code + 1
@@ -279,12 +279,12 @@ class CMAP:
     sorted_keys = sorted(char_map.keys())
     body = bytearray()
     if self.type_section == 0:
-      for char_index, char_code in self.char_map.items():
-        offset = char_index - char_code + self.first_char_code
-        body = struct.pack("<H", offset)
+      for char_index, char_code in char_map.items():
+        body += struct.pack("<H", char_index)
+        break
     elif self.type_section == 1:
       length = self.last_char_code - self.first_char_code + 1
-      char_code_to_index = {v: k for k, v in self.char_map.items()}
+      char_code_to_index = {v: k for k, v in char_map.items()}
       for i in range(length):
         char_code = self.first_char_code + i
         char_index = char_code_to_index.get(char_code, 0xffff)
