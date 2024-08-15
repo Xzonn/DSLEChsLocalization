@@ -250,15 +250,14 @@ class CMAP:
       first_char_index, = struct.unpack("<H", reader.read(0x02))
       for i in range(last_char_code - first_char_code + 1):
         char_index = first_char_index + i
-        self.char_map[char_index] = char_code
+        self.char_map[char_index] = first_char_code + i
     elif self.type_section == 1:
       length = last_char_code - first_char_code + 1
       for i in range(length):
-        char_code = first_char_code + i
         char_index, = struct.unpack("<H", reader.read(0x02))
         if char_index == 0xffff:
           continue
-        self.char_map[char_index] = char_code
+        self.char_map[char_index] = first_char_code + i
     elif self.type_section == 2:
       num_chars, = struct.unpack("<H", reader.read(0x02))
       for i in range(num_chars):

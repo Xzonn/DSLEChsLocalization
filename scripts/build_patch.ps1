@@ -26,6 +26,8 @@ python scripts\convert_json_to_messages.py
 
 python scripts\create_font.py
 
+python scripts\convert_png_to_bg.py
+
 python scripts\import_arm9.py
 python scripts\recompress_arm9.py
 python scripts\repack_pak.py

@@ -6,7 +6,7 @@ from typing import Callable
 
 from PIL import Image, ImageDraw, ImageFont
 
-from helper import CHAR_TABLE_PATH, DIR_CSV_ROOT, DIR_IMPORT_ROOT, DIR_FONT_BIN_ROOT, DIR_JSON_ROOT, DIR_UNPACKED_FILES, get_used_characters
+from helper import CHAR_TABLE_PATH, DIR_TEXT_FILES, DIR_TEMP_IMPORT, DIR_DATA_FONT, DIR_TEMP_JSON, DIR_UNPACKED_FILES, get_used_characters
 from nftr import CMAP, NFTR, CGLPTile
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
@@ -245,16 +245,16 @@ def create_font():
   with open(CHAR_TABLE_PATH, "r", -1, "utf8") as reader:
     char_table: dict[str, str] = json.load(reader)
 
-  os.makedirs(f"{DIR_IMPORT_ROOT}/{DIR_FONT_BIN_ROOT}", exist_ok=True)
-  for file_name in os.listdir(f"{DIR_UNPACKED_FILES}/{DIR_FONT_BIN_ROOT}"):
+  os.makedirs(f"{DIR_TEMP_IMPORT}/{DIR_DATA_FONT}", exist_ok=True)
+  for file_name in os.listdir(f"{DIR_UNPACKED_FILES}/{DIR_DATA_FONT}"):
     font_index = int(file_name.split(".")[0])
     if font_index not in FONT_CONFIG:
-      shutil.copy(f"{DIR_UNPACKED_FILES}/{DIR_FONT_BIN_ROOT}/{file_name}",
-                  f"{DIR_IMPORT_ROOT}/{DIR_FONT_BIN_ROOT}/{font_index:04d}.bin")
+      shutil.copy(f"{DIR_UNPACKED_FILES}/{DIR_DATA_FONT}/{file_name}",
+                  f"{DIR_TEMP_IMPORT}/{DIR_DATA_FONT}/{font_index:04d}.bin")
       continue
 
-    characters = get_used_characters(f"{DIR_CSV_ROOT}/{LANGUAGE}", font_index)
-    nftr = NFTR(f"{DIR_UNPACKED_FILES}/{DIR_FONT_BIN_ROOT}/{file_name}")
+    characters = get_used_characters(f"{DIR_TEXT_FILES}/{LANGUAGE}", font_index)
+    nftr = NFTR(f"{DIR_UNPACKED_FILES}/{DIR_DATA_FONT}/{file_name}")
     config = FONT_CONFIG[font_index]
 
     handle: Callable[[NFTR], NFTR] = config.get("handle")
@@ -298,7 +298,7 @@ def create_font():
     nftr.char_map = new_char_map
 
     new_bytes = nftr.get_bytes()
-    with open(f"{DIR_IMPORT_ROOT}/{DIR_FONT_BIN_ROOT}/{font_index:04d}.bin", "wb") as writer:
+    with open(f"{DIR_TEMP_IMPORT}/{DIR_DATA_FONT}/{font_index:04d}.bin", "wb") as writer:
       writer.write(new_bytes)
 
     print(f"Saved font {font_index:04d}.bin ({len(new_char_map):4d} characters, {len(new_bytes) / 1024:2.2f} KiB)")

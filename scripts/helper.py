@@ -5,15 +5,22 @@ import os
 import re
 
 DIR_ORIGINAL_FILES = "original_files"
-DIR_UNPACKED_FILES = "temp/unpacked"
+DIR_FONT_FILES = "files/fonts"
+DIR_IMAGES_BG_FILES = "files/images/BG"
+DIR_IMAGES_SPR_FILES = "files/images/BG"
+DIR_TEXT_FILES = "texts"
 DIR_MESSAGES = "data/MSG"
-DIR_FONT_BIN_ROOT = "data/FONT_NFTR/"
-DIR_FONT_FILES_ROOT = "files/fonts"
-DIR_JSON_ROOT = "temp/json"
-DIR_IMPORT_ROOT = "temp/import"
-DIR_CSV_ROOT = "texts"
+DIR_BG_NCGR = "data/BG_NCGR"
+DIR_BG_NCLR = "data/BG_NCLR"
+DIR_BG_NSCR = "data/BG_NSCR"
+DIR_DATA_FONT = "data/FONT_NFTR"
+DIR_UNPACKED_FILES = "temp/unpacked"
+DIR_TEMP_JSON = "temp/json"
+DIR_TEMP_IMPORT = "temp/import"
+DIR_TEMP_IMAGES_BG = "temp/images/BG"
+DIR_TEMP_IMAGES_SPR = "temp/images/SPR"
 DIR_OUT = "out"
-DIR_XLSX_ROOT = "out/xlsx"
+DIR_XLSX = "out/xlsx"
 
 OLD_CHAR_TABLE_PATH = "files/char_table.json"
 CHAR_TABLE_PATH = "out/char_table.json"
@@ -73,9 +80,9 @@ def load_csv(path: str) -> list[dict[str, str]]:
 def get_used_characters(json_root: str, font_index: int = None) -> set[str]:
   keys = []
   if font_index is not None:
-    key_list_path = f"{DIR_FONT_FILES_ROOT}/key_list_{font_index:04d}.txt"
+    key_list_path = f"{DIR_FONT_FILES}/key_list_{font_index:04d}.txt"
     if os.path.exists(key_list_path):
-      with open(f"{DIR_FONT_FILES_ROOT}/key_list_{font_index:04d}.txt", "r", -1, "utf8") as reader:
+      with open(f"{DIR_FONT_FILES}/key_list_{font_index:04d}.txt", "r", -1, "utf8") as reader:
         keys = reader.read().splitlines()
 
   characters = set()

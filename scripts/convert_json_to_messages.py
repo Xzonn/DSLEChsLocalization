@@ -1,7 +1,7 @@
 import json
 import os
 import struct
-from helper import DIR_JSON_ROOT, DIR_IMPORT_ROOT, DIR_MESSAGES
+from helper import DIR_TEMP_JSON, DIR_TEMP_IMPORT, DIR_MESSAGES
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
@@ -39,4 +39,4 @@ def convert_json_to_messages(json_root: str, output_root: str):
 
 
 if __name__ == "__main__":
-  convert_json_to_messages(f"{DIR_JSON_ROOT}/{LANGUAGE}", f"{DIR_IMPORT_ROOT}/{DIR_MESSAGES}")
+  convert_json_to_messages(f"{DIR_TEMP_JSON}/{LANGUAGE}", f"{DIR_TEMP_IMPORT}/{DIR_MESSAGES}")

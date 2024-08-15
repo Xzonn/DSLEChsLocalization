@@ -3,42 +3,42 @@
     "key": "MESPAK05_0009_0000",
     "original": "さいだいＨＰが　あがった！\n^6　→　^7",
     "translation": "HP最大值上升了！\n^6　→　^7",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nHP最大值上升了！\n^6→^7\n\n最大生命值上升了！\n^6→^7\n\n最大HP上升了！\n^6→^7"
   },
   {
     "key": "MESPAK05_0009_0001",
     "original": "さいだいＭＰが　あがった！\n^6　→　^7",
     "translation": "MP最大值上升了！\n^6　→　^7",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nMP最大值上升 burgeh了！\n^6→^7\n\n最大MP上来了！\n^6→^7\n\n最大MP上升了！\n^6→^7"
   },
   {
     "key": "MESPAK05_0009_0002",
     "original": "こうげきりょくが　あがった！\n^6　→　^7",
     "translation": "攻击力上升了！\n^6　→　^7",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n攻击威力上升了！\n^6→^7\n\n攻击力提高了！\n^6→^7\n\n攻击力上升了！\n^6→^7"
   },
   {
     "key": "MESPAK05_0009_0003",
     "original": "ぼうぎょりょくが　あがった！\n^6　→　^7",
     "translation": "防御力上升了！\n^6　→　^7",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n防御威力上升了！\n^6→^7\n\n提高了防御力！\n^6→^7\n\n防御力提高了！\n^6→^7"
   },
   {
     "key": "MESPAK05_0009_0004",
     "original": "すばやさが　あがった！\n^6　→　^7",
     "translation": "敏捷上升了！\n^6　→　^7",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n敏捷上升了！\n^6→^7\n\n速度提高了！\n^6→^7"
   },
   {
     "key": "MESPAK05_0009_0005",
     "original": "ゆうじょうが　あがった！\n^6　→　^7",
     "translation": "友情上升了！\n^6　→　^7",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n防御力上升了！\n^6→^7\n\n友情上升了！\n^6→^7\n\n上钩了！\n^6→^7"
   }
 ]

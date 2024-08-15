@@ -4,7 +4,7 @@ from openpyxl.formatting import Rule
 from openpyxl.styles import DEFAULT_FONT, Font, Alignment, PatternFill, Protection
 from openpyxl.styles.differential import DifferentialStyle
 
-from helper import DIR_CSV_ROOT, DIR_XLSX_ROOT, load_csv
+from helper import DIR_TEXT_FILES, DIR_XLSX, load_csv
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
@@ -108,4 +108,4 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
 
 
 if __name__ == "__main__":
-  convert_csv_to_xlsx(DIR_CSV_ROOT, LANGUAGE, f"{DIR_XLSX_ROOT}/{LANGUAGE}")
+  convert_csv_to_xlsx(DIR_TEXT_FILES, LANGUAGE, f"{DIR_XLSX}/{LANGUAGE}")

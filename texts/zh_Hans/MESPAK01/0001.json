@@ -177,8 +177,8 @@
   {
     "key": "MESPAK01_0001_0025",
     "original": "ＰＵＳＨ　ＳＴＡＲＴ　ＢＵＴＴＯＮ",
-    "translation": "PUSHSTARTBUTTON",
-    "stage": 0,
+    "translation": "PRESS START BUTTON",
+    "stage": 1,
     "context": "机翻辅助：\n\nPUSHSTARTBUTTON\n\nPUSH START BUTTON"
   },
   {

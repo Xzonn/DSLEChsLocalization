@@ -1,7 +1,7 @@
 import json
 import os
 from typing import Any
-from helper import ARM9_DECOMPRESSED_PATH, DIR_JSON_ROOT, HARDCODED_TEXTS_ARM9_BIN, TRASH_PATTERN
+from helper import ARM9_DECOMPRESSED_PATH, DIR_TEMP_JSON, HARDCODED_TEXTS_ARM9_BIN, TRASH_PATTERN
 
 
 def export_arm9(input_path: str, sheet_name: str, message_root: str, hardcoded_texts: list[tuple[str, str]]):
@@ -65,6 +65,6 @@ if __name__ == "__main__":
   export_arm9(
     ARM9_DECOMPRESSED_PATH,
     "arm9.bin",
-    f"{DIR_JSON_ROOT}/ja",
+    f"{DIR_TEMP_JSON}/ja",
     HARDCODED_TEXTS_ARM9_BIN,
   )

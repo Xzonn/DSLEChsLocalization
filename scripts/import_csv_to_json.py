@@ -1,7 +1,7 @@
 import json
 import os
 
-from helper import DIR_CSV_ROOT, DIR_JSON_ROOT, convert_zh_hans_to_shift_jis, load_translations
+from helper import DIR_TEXT_FILES, DIR_TEMP_JSON, convert_zh_hans_to_shift_jis, load_translations
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
@@ -35,4 +35,4 @@ def import_csv_to_json(csv_root: str, json_input_root: str, json_output_root: st
 
 
 if __name__ == "__main__":
-  import_csv_to_json(f"{DIR_CSV_ROOT}/{LANGUAGE}", f"{DIR_JSON_ROOT}/ja", f"{DIR_JSON_ROOT}/{LANGUAGE}")
+  import_csv_to_json(f"{DIR_TEXT_FILES}/{LANGUAGE}", f"{DIR_TEMP_JSON}/ja", f"{DIR_TEMP_JSON}/{LANGUAGE}")

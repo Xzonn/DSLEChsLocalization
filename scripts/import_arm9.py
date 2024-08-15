@@ -2,7 +2,7 @@ import json
 from logging import warning
 import os
 from typing import Any
-from helper import ARM9_MODIFIED_PATH, DIR_JSON_ROOT
+from helper import ARM9_MODIFIED_PATH, DIR_TEMP_JSON
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
@@ -36,6 +36,6 @@ if __name__ == "__main__":
   import_arm9(
     ARM9_MODIFIED_PATH,
     "arm9.bin",
-    f"{DIR_JSON_ROOT}/{LANGUAGE}",
+    f"{DIR_TEMP_JSON}/{LANGUAGE}",
     ARM9_MODIFIED_PATH,
   )

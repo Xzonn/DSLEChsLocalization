@@ -3,56 +3,56 @@
     "key": "MESPAK01_0003_0000",
     "original": "デジポート",
     "translation": "数码港口",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n数码港埠\n\n数字端口\n\n数码端口"
   },
   {
     "key": "MESPAK01_0003_0001",
     "original": "マザボたいりく",
     "translation": "主板大陆",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n母体能量\n\n母大陆\n\n马扎波大陆"
   },
   {
     "key": "MESPAK01_0003_0002",
     "original": "グラボたいりく",
     "translation": "显卡大陆",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n显卡经费\n\n抓斗\n\n格拉博大陆"
   },
   {
     "key": "MESPAK01_0003_0003",
     "original": "ヘリテージみさき",
     "translation": "遗产海角",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n赫奇萨美咲。\n\n测斜器\n\n美国传统港湾"
   },
   {
     "key": "MESPAK01_0003_0004",
     "original": "パッチプレーリー",
     "translation": "补丁草原",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nPatcher Prairie\n\n修补程序\n\n补丁草原"
   },
   {
     "key": "MESPAK01_0003_0005",
     "original": "パケットコースト",
     "translation": "封包海岸",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nPacket Coast\n\n分组编码\n\n分组海岸"
   },
   {
     "key": "MESPAK01_0003_0006",
     "original": "ログインマウンテン",
     "translation": "登录高山",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n登入困难重重\n\n登录山"
   },
   {
     "key": "MESPAK01_0003_0007",
     "original": "チップフォレスト",
     "translation": "芯片森林",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n森林芯片\n\n芯片森林"
   },
   {
@@ -66,21 +66,21 @@
     "key": "MESPAK01_0003_0009",
     "original": "ループぬま",
     "translation": "循环沼泽",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n卢普努玛\n\n环形涂层\n\n环形沼泽"
   },
   {
     "key": "MESPAK01_0003_0010",
     "original": "マグネこうざん",
     "translation": "磁力矿山",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n磁石矿渣\n\n马格纳高山\n\nマグネこうざん"
   },
   {
     "key": "MESPAK01_0003_0011",
     "original": "パレットアマゾン",
     "translation": "色板雨林",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n帕雷特亚马逊\n\n调色板亚马逊"
   },
   {
@@ -94,21 +94,21 @@
     "key": "MESPAK01_0003_0013",
     "original": "リミットバレー",
     "translation": "极限山谷",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n极限排球\n\n极限谷"
   },
   {
     "key": "MESPAK01_0003_0014",
     "original": "パレスラボラトリー",
     "translation": "宫殿研究室",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n帕雷史研究室\n\n巴勒斯实验室\n\n皇宫实验室"
   },
   {
     "key": "MESPAK01_0003_0015",
     "original": "ピクセルさばく",
     "translation": "像素沙漠",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n像素处理\n\n像素沙漠"
   },
   {
@@ -122,245 +122,245 @@
     "key": "MESPAK01_0003_0017",
     "original": "タスクキャニオン",
     "translation": "任务峡谷",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n达斯克峡谷\n\n任务峡谷"
   },
   {
     "key": "MESPAK01_0003_0018",
     "original": "スリラーいせき",
     "translation": "惊险遗迹",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n史里凡堤伊塞克\n\n惊险遗址\n\n斜绿泥石"
   },
   {
     "key": "MESPAK01_0003_0019",
     "original": "アクセスひょうが",
     "translation": "访问冰川",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n连接速度\n\n存取表\n\n访问评价"
   },
   {
     "key": "MESPAK01_0003_0020",
     "original": "プロキシアイランド",
     "translation": "代理岛",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nProxy Island\n\n比邻岛\n\n代理岛"
   },
   {
     "key": "MESPAK01_0003_0021",
     "original": "グラボセントラル",
     "translation": "显卡中央",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nGraphicsentral\n\n格拉沃中央\n\n格拉博中心"
   },
   {
     "key": "MESPAK01_0003_0022",
     "original": "ウィザードテンプル",
     "translation": "向导寺庙",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nWizard Temple\n\n圣女圣殿\n\n向导模板"
   },
   {
     "key": "MESPAK01_0003_0023",
     "original": "アングラトンネル",
     "translation": "地下隧道",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nUnderground Tunnel\n\n安格拉隧道\n\n地下隧道"
   },
   {
     "key": "MESPAK01_0003_0024",
     "original": "リスクファクトリー",
     "translation": "风险工厂",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nRis Factory\n\n风险工厂"
   },
   {
     "key": "MESPAK01_0003_0025",
     "original": "クロンこうざん",
     "translation": "克隆矿山",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nKuronozan\n\n克隆酶\n\n克隆山"
   },
   {
     "key": "MESPAK01_0003_0026",
     "original": "クラスデザート",
     "translation": "分类沙漠",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nClass Dessert\n\nclass甜点\n\n班级甜点"
   },
   {
     "key": "MESPAK01_0003_0027",
     "original": "ノースマリン",
     "translation": "北部海洋",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nNoth Marine\n\n北马林"
   },
   {
     "key": "MESPAK01_0003_0028",
     "original": "ノースケイブ",
     "translation": "北部洞窟",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nNoth Cave\n\n无警卫\n\n北凯布"
   },
   {
     "key": "MESPAK01_0003_0029",
     "original": "サウスケイブ",
     "translation": "南部洞窟",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nSouth Cave\n\n南凯夫\n\n左卫部"
   },
   {
     "key": "MESPAK01_0003_0030",
     "original": "グラボケイブ",
     "translation": "显卡洞窟",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nGraphics Cave\n\n抓斗\n\n格拉博警署"
   },
   {
     "key": "MESPAK01_0003_0031",
     "original": "グラボマリン",
     "translation": "显卡海洋",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nGraphics Marine\n\n石墨马林\n\n格列波马林"
   },
   {
     "key": "MESPAK01_0003_0032",
     "original": "リスクケイブ",
     "translation": "风险山谷",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nRisks Cave\n\n风险警\n\n风险凯夫"
   },
   {
     "key": "MESPAK01_0003_0033",
     "original": "エントランスルーム",
     "translation": "入口房间",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nEntrance Room\n\n入口室"
   },
   {
     "key": "MESPAK01_0003_0034",
     "original": "プライベートルーム",
     "translation": "私有房间",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nPrivate Room\n\n私人房间"
   },
   {
     "key": "MESPAK01_0003_0035",
     "original": "イグドラルーム",
     "translation": "世界树房间",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nIgual Room\n\n点火室\n\n伊格德拉室"
   },
   {
     "key": "MESPAK01_0003_0036",
     "original": "デジベースフロント",
     "translation": "数码基地前线",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nDigiBase Front\n\n数码前线\n\n数字基座前"
   },
   {
     "key": "MESPAK01_0003_0037",
     "original": "テイマータウン",
     "translation": "驯兽师镇",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nTama Town\n\n市区\n\n泰默镇"
   },
   {
     "key": "MESPAK01_0003_0038",
     "original": "ユニオンルーム",
     "translation": "联盟房间",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nUnion Room\n\n联合房间\n\n联轴箱"
   },
   {
     "key": "MESPAK01_0003_0039",
     "original": "イーストシティ",
     "translation": "东部城市",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nEast City\n\n东城\n\n东部城市"
   },
   {
     "key": "MESPAK01_0003_0040",
     "original": "イーストショップ",
     "translation": "东部商店",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nEast Shop\n\n东商店\n\n东店"
   },
   {
     "key": "MESPAK01_0003_0041",
     "original": "Ｅリーダールーム",
     "translation": "E领导房间",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nE Leader Room\n\nE领导室\n\n电子阅读室"
   },
   {
     "key": "MESPAK01_0003_0042",
     "original": "サウスシティ",
     "translation": "南部城市",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nSouth City\n\n南城"
   },
   {
     "key": "MESPAK01_0003_0043",
     "original": "Ｓリーダールーム",
     "translation": "S领导房间",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nS Leader Room\n\nS阅读室\n\nS领导室"
   },
   {
     "key": "MESPAK01_0003_0044",
     "original": "ウェストシティ",
     "translation": "西部城市",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nWest City\n\n西部城市\n\n西城"
   },
   {
     "key": "MESPAK01_0003_0045",
     "original": "Ｗリーダールーム",
     "translation": "W领导房间",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nW Leader Room\n\nW领导室"
   },
   {
     "key": "MESPAK01_0003_0046",
     "original": "ウェストショップ",
     "translation": "西部商店",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nWest Shop\n\n西商店\n\n西店"
   },
   {
     "key": "MESPAK01_0003_0047",
     "original": "ノースシティ",
     "translation": "北部城市",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nNorth City\n\n北城"
   },
   {
     "key": "MESPAK01_0003_0048",
     "original": "Ｎリーダールーム",
     "translation": "N领导房间",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nN Leader Room\n\nN领导室\n\nN阅读室"
   },
   {
     "key": "MESPAK01_0003_0049",
     "original": "セントラルショップ",
     "translation": "中心商店",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nCentral Shop\n\n中央商店"
   },
   {
     "key": "MESPAK01_0003_0050",
     "original": "コロシアムロビー",
     "translation": "剧场大厅",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\nColosseum Lobby\n\n大剧场大厅\n\n剧场大厅"
   },
   {
     "key": "MESPAK01_0003_0051",
     "original": "かんきゃくせき",
     "translation": "观众席位",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n结果\n\n管座\n\n观众席位"
   },
   {
@@ -374,14 +374,14 @@
     "key": "MESPAK01_0003_0053",
     "original": "ベースポート",
     "translation": "基地端口",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n基本端口"
   },
   {
     "key": "MESPAK01_0003_0054",
     "original": "ログインポート",
     "translation": "登录端口",
-    "stage": 0,
+    "stage": 1,
     "context": "机翻辅助：\n\n登入端口\n\n日志导入\n\n登录端口"
   },
   {
