@@ -28,6 +28,9 @@ ARM9_PATH = "original_files/arm9.bin"
 ARM9_DECOMPRESSED_PATH = "src/arm9.bin"
 ARM9_MODIFIED_PATH = "temp/nitro/arm9.bin"
 ARM9_OUT_PATH = "out/arm9.bin"
+BANNER_PATH = "original_files/banner.bin"
+BANNER_OUT_PATH = "out/banner.bin"
+
 
 TRASH_PATTERN = re.compile(
   #r"^[0-9a-zA-Z０-９ａ-ｚＡ-Ｚ#\-/？~№－\?:＋％%\.．ⅠⅡ <>_＿;，。！：；\n\+]+$|１２３４５６７８９|０１２３４５６７８",

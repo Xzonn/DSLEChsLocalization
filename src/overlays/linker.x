@@ -1,14 +1,14 @@
 OUTPUT_ARCH(arm)
 
 SECTIONS {
-	
 
-	
+
+
 	.text : {
-	
-		
+
+
 		FILL (0x1234)
-		
+
 		__text_start = . ;
 		*(.init)
 		*(.text)
@@ -19,7 +19,7 @@ SECTIONS {
 		*(COMMON)
 		*(.data)
 		__text_end  = . ;
-		
+
 		__bss_start__ = . ;
 		*(.bss)
 		__bss_end__ = . ;

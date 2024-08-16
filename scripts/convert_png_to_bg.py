@@ -1,5 +1,4 @@
 import os
-import shutil
 import struct
 from nitrogfx.convert import *
 
@@ -23,18 +22,15 @@ with open(ARM9_DECOMPRESSED_PATH, "rb") as reader:
     ncgr_output_path = f"{DIR_TEMP_IMPORT}/{DIR_BG_NCGR}/{ncgr_index:04d}.bin"
 
     if not os.path.exists(image_path):
-      if not os.path.exists(nscr_output_path):
-        shutil.copy(nscr_input_path, nscr_output_path)
-      if not os.path.exists(ncgr_output_path):
-        shutil.copy(ncgr_input_path, ncgr_output_path)
       continue
 
     nscr: NSCR = NSCR.load_from(nscr_input_path)
     nclr: NCLR = NCLR.load_from(f"{DIR_UNPACKED_FILES}/{DIR_BG_NCLR}/{nclr_index:04d}.bin")
 
     image = Image.open(image_path)
-    if image.mode == "RGBA":
+    if image.mode in {"RGBA", "P"}:
       image = image.convert("RGB")
+
     colors = nclr_to_imgpal(nclr)
     palette = Image.new("P", (16, 16))
     if len(colors) == 48:
@@ -42,7 +38,7 @@ with open(ARM9_DECOMPRESSED_PATH, "rb") as reader:
     else:
       palette.putpalette(colors)
 
-    image_converted = image.quantize(palette=palette, method=Image.Quantize.LIBIMAGEQUANT)
+    image_converted = image.quantize(palette=palette)
     tileset = TilesetBuilder()
     tileset.add(Tile(b"\0" * 64))
 

@@ -1,6 +1,5 @@
 import json
 import os
-import shutil
 import struct
 from typing import Callable
 
@@ -249,8 +248,6 @@ def create_font():
   for file_name in os.listdir(f"{DIR_UNPACKED_FILES}/{DIR_DATA_FONT}"):
     font_index = int(file_name.split(".")[0])
     if font_index not in FONT_CONFIG:
-      shutil.copy(f"{DIR_UNPACKED_FILES}/{DIR_DATA_FONT}/{file_name}",
-                  f"{DIR_TEMP_IMPORT}/{DIR_DATA_FONT}/{font_index:04d}.bin")
       continue
 
     characters = get_used_characters(f"{DIR_TEXT_FILES}/{LANGUAGE}", font_index)

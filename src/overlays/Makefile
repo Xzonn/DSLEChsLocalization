@@ -46,17 +46,17 @@ export LD	:=	$(PREFIX)ld
 # DATA is a list of directories containing binary files embedded using bin2o
 # GRAPHICS is a list of directories containing image files to be converted with grit
 #---------------------------------------------------------------------------------
-TARGET		?=	
-BUILD		?=  build	
-SOURCES		?=	
+TARGET		?=
+BUILD		?=  build
+SOURCES		?=
 INCLUDES	:=	include
-DATA		:=	data  
-GRAPHICS	:=	gfx  
+DATA		:=	data
+GRAPHICS	:=	gfx
 
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------
-ARCH	:=	
+ARCH	:=
 
 CFLAGS	:=	-g -Wall -O2\
  		-march=armv5te -mtune=arm946e-s -fomit-frame-pointer\
@@ -72,7 +72,7 @@ SYMBOLST := -T $(shell dirname $(CURDIR))/$(shell dirname $(shell dirname $(SOUR
 NEWSYMT :=  -T $(shell dirname $(CURDIR))/$(NEWSYM)
 else
 SYMBOLST := -T $(shell dirname $(CURDIR))/$(shell dirname $(SOURCES))/symbols.x $(shell dirname $(CURDIR))/$(shell dirname $(SOURCES))/arm9_newcode.x
-NEWSYMT := 
+NEWSYMT :=
 endif
 LDFLAGS	=	$(SYMBOLST) -T $(shell dirname $(CURDIR))/linker.x $(NEWSYMT) -g $(ARCH) -Map newcode.map
 
@@ -84,13 +84,13 @@ endif
 # any extra libraries we wish to link with the project (order is important)
 #---------------------------------------------------------------------------------
 LIBS	:= -lnds9 -lc
- 
- 
+
+
 #---------------------------------------------------------------------------------
 # list of directories containing libraries, this must be the top level containing
 # include and lib
 #---------------------------------------------------------------------------------
-LIBDIRS	:=	$(LIBNDS)  $(DEVKITARM) $(DEVKITARM)/arm-none-eabi 
+LIBDIRS	:=	$(LIBNDS)  $(DEVKITARM) $(DEVKITARM)/arm-none-eabi
 
 #---------------------------------------------------------------------------------
 ifneq ($(BUILD),$(notdir $(CURDIR)))
@@ -113,21 +113,21 @@ BINFILES	:=	$(foreach dir,$(DATA),$(notdir $(wildcard $(dir)/*.*)))
 export OFILES	:=	$(addsuffix .o,$(BINFILES)) \
 					$(PNGFILES:.png=.o) \
 					$(CPPFILES:.cpp=.o) $(CFILES:.c=.o) $(SFILES:.s=.o)
- 
+
 export INCLUDE	:=	$(foreach dir,$(INCLUDES),-iquote $(CURDIR)/$(dir)) \
 					$(foreach dir,$(LIBDIRS),-I$(dir)/include) \
 					-I$(CURDIR)/$(BUILD)
- 
+
 export LIBPATHS	:=	$(foreach dir,$(LIBDIRS),-L$(dir)/lib)
 
- 
+
 .PHONY: $(BUILD) clean
-  
+
 #---------------------------------------------------------------------------------
 $(BUILD):
 	@[ -d $@ ] || mkdir -p $@
 	@make --no-print-directory -C $(BUILD) -f $(CURDIR)/Makefile
- 
+
 #---------------------------------------------------------------------------------
 clean:
 	@echo clean ...
@@ -135,7 +135,7 @@ clean:
 
 #---------------------------------------------------------------------------------
 else
- 
+
 #---------------------------------------------------------------------------------
 # main targets
 #---------------------------------------------------------------------------------
@@ -149,7 +149,7 @@ $(OUTPUT).bin : $(OUTPUT).elf
 $(OUTPUT).sym : $(OUTPUT).elf
 	$(OBJDUMP) -t $< > $@
 	@echo written the symbol table ... $(notdir $@)
-	
+
 #---------------------------------------------------------------------------------
 %.elf: $(OFILES)
 	@echo linking $(notdir $@)
@@ -160,17 +160,17 @@ $(OUTPUT).sym : $(OUTPUT).elf
 #---------------------------------------------------------------------------------
 	@echo $(notdir $<)
 	$(bin2o)
-	
+
 #---------------------------------------------------------------------------------
 %.o: %.cpp
 	@echo $(notdir $<)
 	$(CXX) -MMD -MP -MF $(DEPSDIR)/$*.d $(CXXFLAGS) -c $< -o $@ $(ERROR_FILTER)
-	
+
 #---------------------------------------------------------------------------------
 %.o: %.c
 	@echo $(notdir $<)
 	$(CC) -MMD -MP -MF $(DEPSDIR)/$*.d $(CFLAGS) -c $< -o $@ $(ERROR_FILTER)
-	
+
 #---------------------------------------------------------------------------------
 %.o: %.s
 	@echo $(notdir $<)
@@ -187,8 +187,7 @@ $(OUTPUT).sym : $(OUTPUT).elf
 	grit $< -fts -o$*
 
 -include $(DEPSDIR)/*.d
- 
+
 #---------------------------------------------------------------------------------------
 endif
 #---------------------------------------------------------------------------------------
-	

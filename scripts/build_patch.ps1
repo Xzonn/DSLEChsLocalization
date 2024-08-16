@@ -32,8 +32,7 @@ python scripts\import_arm9.py
 python scripts\recompress_arm9.py
 python scripts\repack_pak.py
 
-# dotnet script scripts/edit_arm9.csx
-dotnet script scripts/edit_banner.csx
+python scripts\edit_banner.py
 
 Compress-Archive -Path "out/data/", "out/arm9.bin", "out/banner.bin" -Destination "patch-ds.zip" -Force
 Move-Item -Path "patch-ds.zip" -Destination "out/patch-ds.xzp" -Force
