@@ -688,9 +688,9 @@
   {
     "key": "MESPAK01_0013_0098",
     "original": "セーブしました！",
-    "translation": "存档成功！",
+    "translation": "保存完毕！",
     "stage": 0,
-    "context": "机翻辅助：\n\n存档成功！\n\n救了！\n\n保存成功！"
+    "context": "机翻辅助：\n\n保存完毕！"
   },
   {
     "key": "MESPAK01_0013_0099",

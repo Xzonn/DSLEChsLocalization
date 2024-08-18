@@ -2,30 +2,30 @@
   {
     "key": "MESPAK01_0007_0000",
     "original": "ゲンジュウ",
-    "translation": "限界",
+    "translation": "幻兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n限界\n\n严惩\n\n龙胆"
+    "context": "机翻辅助：\n\n幻兽"
   },
   {
     "key": "MESPAK01_0007_0001",
     "original": "ケモノ",
-    "translation": "禽兽。",
+    "translation": "野兽",
     "stage": 0,
-    "context": "机翻辅助：\n\n禽兽。\n\n野兽\n\n兽类"
+    "context": "机翻辅助：\n\n野兽"
   },
   {
     "key": "MESPAK01_0007_0002",
     "original": "テンシ",
-    "translation": "天邪鬼",
+    "translation": "天使",
     "stage": 0,
-    "context": "机翻辅助：\n\n天邪鬼\n\n天使\n\n张力"
+    "context": "机翻辅助：\n\n天使"
   },
   {
     "key": "MESPAK01_0007_0003",
     "original": "アクマ",
     "translation": "恶魔",
     "stage": 0,
-    "context": "机翻辅助：\n\n恶魔\n\n阿克玛"
+    "context": "机翻辅助：\n\n恶魔"
   },
   {
     "key": "MESPAK01_0007_0004",
@@ -39,28 +39,28 @@
     "original": "キカイ",
     "translation": "机械",
     "stage": 0,
-    "context": "机翻辅助：\n\n机械\n\n木犀\n\n机器"
+    "context": "机翻辅助：\n\n机械"
   },
   {
     "key": "MESPAK01_0007_0006",
     "original": "トリ",
-    "translation": "鸟笼",
+    "translation": "鸟",
     "stage": 0,
-    "context": "机翻辅助：\n\n鸟笼\n\n压痕\n\n压轴"
+    "context": ""
   },
   {
     "key": "MESPAK01_0007_0007",
     "original": "コンチュウ",
-    "translation": "叩咚。",
+    "translation": "昆虫",
     "stage": 0,
-    "context": "机翻辅助：\n\n叩咚。\n\n昆虫\n\n孔丘"
+    "context": "机翻辅助：\n\n昆虫"
   },
   {
     "key": "MESPAK01_0007_0008",
     "original": "ショクブツ",
-    "translation": "道具",
+    "translation": "植物",
     "stage": 0,
-    "context": "机翻辅助：\n\n道具\n\n植物\n\n肖克布茨"
+    "context": "机翻辅助：\n\n植物"
   },
   {
     "key": "MESPAK01_0007_0009",
@@ -256,21 +256,21 @@
     "original": "こうげき",
     "translation": "攻击",
     "stage": 0,
-    "context": "机翻辅助：\n\n攻击\n\n冲击"
+    "context": "机翻辅助：\n\n攻击"
   },
   {
     "key": "MESPAK01_0007_0037",
     "original": "ほじょ",
-    "translation": "掘。",
+    "translation": "辅助",
     "stage": 0,
-    "context": "机翻辅助：\n\n掘。\n\n辅助\n\n补助"
+    "context": "机翻辅助：\n\n辅助"
   },
   {
     "key": "MESPAK01_0007_0038",
     "original": "かいふく",
-    "translation": "康复",
+    "translation": "回复",
     "stage": 0,
-    "context": "机翻辅助：\n\n康复\n\n恢复"
+    "context": "机翻辅助：\n\n回复"
   },
   {
     "key": "MESPAK01_0007_0039",
@@ -443,37 +443,37 @@
   {
     "key": "MESPAK01_0007_0063",
     "original": "デジモンのきずな",
-    "translation": "数码宝贝",
+    "translation": "数码宝贝的牵绊",
     "stage": 0,
-    "context": "机翻辅助：\n\n数码宝贝\n\n数码宝贝的纽带\n\n数码宝贝的羁绊"
+    "context": "机翻辅助：\n\n数码宝贝的牵绊"
   },
   {
     "key": "MESPAK01_0007_0064",
     "original": "かんしゃのキモチ",
-    "translation": "感恩的心",
+    "translation": "感谢的心情",
     "stage": 0,
-    "context": "机翻辅助：\n\n感恩的心\n\n柑橘的黄花鱼\n\n感谢的心情"
+    "context": "机翻辅助：\n\n感谢的心情"
   },
   {
     "key": "MESPAK01_0007_0065",
     "original": "ちいさなはっけん",
     "translation": "小小的发现",
     "stage": 0,
-    "context": "机翻辅助：\n\n小小的发现\n\n微小的探查"
+    "context": "机翻辅助：\n\n小小的发现"
   },
   {
     "key": "MESPAK01_0007_0066",
     "original": "うれしいはっけん",
-    "translation": "开心的发现",
+    "translation": "令人高兴的发现",
     "stage": 0,
-    "context": "机翻辅助：\n\n开心的发现\n\n高兴的发现\n\n令人高兴的发现"
+    "context": "机翻辅助：\n\n令人高兴的发现"
   },
   {
     "key": "MESPAK01_0007_0067",
     "original": "おタカラはっけん",
-    "translation": "珍宝的发现",
+    "translation": "发现宝藏",
     "stage": 0,
-    "context": "机翻辅助：\n\n珍宝的发现\n\n大头针探伤\n\n宝藏的发现"
+    "context": "机翻辅助：\n\n发现宝藏"
   },
   {
     "key": "MESPAK01_0007_0068",
