@@ -982,7 +982,7 @@
   {
     "key": "MESPAK03_0008_0140",
     "original": "でんせつのぶきを　てにいれた！\n^i",
-    "translation": "我得到了数字相机！\n^i",
+    "translation": "我得到了数码相机！\n^i",
     "stage": 0,
     "context": "机翻辅助：\n\n我得到了数字相机！\n^i\n\n把电灯泡放在手上了！\n^i\n\n得到了传说中的武器！\n^i"
   },
