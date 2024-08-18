@@ -1,7 +1,8 @@
 import json
-from logging import warning
 import os
+from logging import warning
 from typing import Any
+
 from helper import ARM9_MODIFIED_PATH, DIR_TEMP_JSON
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
@@ -25,7 +26,7 @@ def import_arm9(input_path: str, sheet_name: str, message_root: str, output_path
     elif len(text_bytes) < length:
       text_bytes += b"\0" * (length - len(text_bytes))
 
-    binary[offset:offset + length] = text_bytes
+    binary[offset : offset + length] = text_bytes
 
   os.makedirs(os.path.dirname(output_path), exist_ok=True)
   with open(output_path, "wb") as writer:

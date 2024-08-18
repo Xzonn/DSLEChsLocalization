@@ -1,25 +1,25 @@
 import json
 import os
 import struct
-from helper import DIR_TEXT_FILES, CHAR_TABLE_PATH, OLD_CHAR_TABLE_PATH, get_used_characters
 
 import pypinyin
+from helper import CHAR_TABLE_PATH, DIR_TEXT_FILES, OLD_CHAR_TABLE_PATH, get_used_characters
 from pypinyin import lazy_pinyin
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
 
 def generate_cp932(used_kanjis: set[str]):
-  for high in range(0x88, 0xa0):
-    for low in range(0x40, 0xfd):
-      if low == 0x7f:
+  for high in range(0x88, 0xA0):
+    for low in range(0x40, 0xFD):
+      if low == 0x7F:
         continue
       code = (high << 8) | low
       try:
         char = struct.pack(">H", code).decode("cp932")
         if char in used_kanjis:
           continue
-      except:
+      except UnicodeDecodeError:
         continue
       yield char
 
@@ -39,7 +39,7 @@ def generate_char_table(old_char_table: dict[str, str], json_root: str) -> dict[
     shift_jis_characters.add(shift_jis_char)
 
   for char in sorted(characters, key=lambda x: (lazy_pinyin(x, style=pypinyin.Style.TONE3), x)):
-    if 0x4e00 <= ord(char) <= 0x9fff:
+    if 0x4E00 <= ord(char) <= 0x9FFF:
       insert_char(char)
 
   char_table = {k: v for k, v in sorted(char_table.items(), key=lambda x: x[0].encode("cp932").rjust(2, b"\0"))}

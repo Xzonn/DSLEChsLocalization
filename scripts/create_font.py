@@ -3,10 +3,16 @@ import os
 import struct
 from typing import Callable
 
-from PIL import Image, ImageDraw, ImageFont
-
-from helper import CHAR_TABLE_PATH, DIR_TEXT_FILES, DIR_TEMP_IMPORT, DIR_DATA_FONT, DIR_TEMP_JSON, DIR_UNPACKED_FILES, get_used_characters
+from helper import (
+  CHAR_TABLE_PATH,
+  DIR_DATA_FONT,
+  DIR_TEMP_IMPORT,
+  DIR_TEXT_FILES,
+  DIR_UNPACKED_FILES,
+  get_used_characters,
+)
 from nftr import CMAP, NFTR, CGLPTile
+from PIL import Image, ImageDraw, ImageFont
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
@@ -17,10 +23,10 @@ def expand_font_0(old_font: NFTR) -> NFTR:
   old_font.cglp.tile_width = 12
   for tile in old_font.cglp.tiles:
     old_bitmap = tile.get_image()
-    new_bitmap = Image.new("L", (12, 16), 0xff)
+    new_bitmap = Image.new("L", (12, 16), 0xFF)
     for y in range(16):
       for x in range(8):
-        if old_bitmap.getpixel((x, y)) == 0xaa:
+        if old_bitmap.getpixel((x, y)) == 0xAA:
           new_bitmap.putpixel((x, y), 0x00)
     tile.width = 12
     tile.depth = 1
@@ -34,7 +40,7 @@ def expand_font_3(old_font: NFTR) -> NFTR:
   old_font.cglp.tile_width = 12
   for tile in old_font.cglp.tiles:
     old_bitmap = tile.get_image()
-    new_bitmap = Image.new("L", (12, 16), 0xff)
+    new_bitmap = Image.new("L", (12, 16), 0xFF)
     new_bitmap.paste(old_bitmap, (0, 0))
     tile.width = 12
     tile.raw_bytes = tile.get_bytes(new_bitmap)
@@ -46,10 +52,10 @@ def convert_font_4(old_font: NFTR) -> NFTR:
   old_font.cglp.depth = 1
   for tile in old_font.cglp.tiles:
     old_bitmap = tile.get_image()
-    new_bitmap = Image.new("L", (12, 16), 0xff)
+    new_bitmap = Image.new("L", (12, 16), 0xFF)
     for y in range(16):
       for x in range(12):
-        if old_bitmap.getpixel((x, y)) == 0xaa:
+        if old_bitmap.getpixel((x, y)) == 0xAA:
           new_bitmap.putpixel((x, y), 0x00)
     tile.depth = 1
     tile.raw_bytes = tile.get_bytes(new_bitmap)
@@ -73,7 +79,7 @@ def draw_char_3(bitmap: Image.Image, draw: ImageDraw.ImageDraw, font: ImageFont.
       draw.text(
         (1 + x, 11 + y),
         char,
-        0xcc,
+        0xCC,
         font,
         "ls",
       )
@@ -87,9 +93,9 @@ def draw_char_3(bitmap: Image.Image, draw: ImageDraw.ImageDraw, font: ImageFont.
   for y in range(4, 12):
     new_pixel = 0x93
     if y in [7, 8]:
-      new_pixel = 0x6f
+      new_pixel = 0x6F
     elif y in [10]:
-      new_pixel = 0xb7
+      new_pixel = 0xB7
     for x in range(0, 12):
       pixel: int = bitmap.getpixel((x, y))
       if pixel == 0x00:
@@ -124,7 +130,7 @@ def draw_char_6(bitmap: Image.Image, draw: ImageDraw.ImageDraw, font: ImageFont.
     font,
     "ls",
     stroke_width=1,
-    stroke_fill=0xcc,
+    stroke_fill=0xCC,
   )
 
 
@@ -136,7 +142,7 @@ def draw_char_7(bitmap: Image.Image, draw: ImageDraw.ImageDraw, font: ImageFont.
     font,
     "ls",
     stroke_width=1,
-    stroke_fill=0xcc,
+    stroke_fill=0xCC,
   )
 
 
@@ -194,8 +200,9 @@ def compress_cmap(char_map: dict[int, int]) -> list[CMAP]:
 
     code_index_diff = char_code - char_index
     window = 0x20
-    while char_index + window < char_map_len and \
-      char_map[char_index + window] - (char_index + window) == code_index_diff:
+    while (
+      char_index + window < char_map_len and char_map[char_index + window] - (char_index + window) == code_index_diff
+    ):
       window += 1
     if window > 0x20:
       cmap = CMAP.get_blank()
@@ -208,10 +215,8 @@ def compress_cmap(char_map: dict[int, int]) -> list[CMAP]:
       continue
 
     window = 0
-    while char_index + window < char_map_len and \
-      char_map[char_index + window] - char_code <= window * 2:
-      if char_index + window > 0 and \
-        char_map[char_index + window] - char_map[char_index + window - 1] > 0x10:
+    while char_index + window < char_map_len and char_map[char_index + window] - char_code <= window * 2:
+      if char_index + window > 0 and char_map[char_index + window] - char_map[char_index + window - 1] > 0x10:
         break
       window += 1
 
@@ -233,7 +238,7 @@ def compress_cmap(char_map: dict[int, int]) -> list[CMAP]:
   cmap = CMAP.get_blank()
   cmap.type_section = 2
   cmap.first_char_code = min(type_2_char_map.keys())
-  cmap.last_char_code = 0xffff
+  cmap.last_char_code = 0xFFFF
   cmap.char_map = type_2_char_map
   cmaps.append(cmap)
 
@@ -267,7 +272,7 @@ def create_font():
     new_char_map = {}
     for code in sorted(nftr.char_map.keys()):
       char = nftr.char_map[code]
-      if char < 0x889f:
+      if char < 0x889F:
         new_char_map[code] = char
       else:
         break
@@ -275,12 +280,12 @@ def create_font():
     nftr.cwdh.info = nftr.cwdh.info[:code]
     tile = nftr.cglp.tiles[0]
     for shift_jis, chs in char_table.items():
-      if not (chs in characters and 0x4e00 <= ord(chs) <= 0x9fff):
+      if not (chs in characters and 0x4E00 <= ord(chs) <= 0x9FFF):
         continue
 
       new_char_map[code] = struct.unpack(">H", shift_jis.encode("cp932"))[0]
 
-      bitmap = Image.new("L", (tile.width, tile.height), 0xff)
+      bitmap = Image.new("L", (tile.width, tile.height), 0xFF)
       draw = ImageDraw.Draw(bitmap)
       draw_char(bitmap, draw, font, chs)
       new_tile = CGLPTile(tile.width, tile.height, tile.depth, tile.get_bytes(bitmap))

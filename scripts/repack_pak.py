@@ -1,6 +1,7 @@
 import os
 import struct
-from helper import DIR_TEMP_IMPORT, DIR_ORIGINAL_FILES, DIR_OUT
+
+from helper import DIR_ORIGINAL_FILES, DIR_OUT, DIR_TEMP_IMPORT
 
 
 def repack_pak(original_path: str, input_path: str, output_path: str):

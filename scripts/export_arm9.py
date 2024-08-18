@@ -1,12 +1,14 @@
 import json
 import os
 from typing import Any
+
 from helper import ARM9_DECOMPRESSED_PATH, DIR_TEMP_JSON, HARDCODED_TEXTS_ARM9_BIN, TRASH_PATTERN
 
 
 def export_arm9(input_path: str, sheet_name: str, message_root: str, hardcoded_texts: list[tuple[str, str]]):
-
-  def find_strings(binary: bytes, output: dict[str, dict[str, Any]], start: str | bytes, end: str | bytes, start_index: int = 0):
+  def find_strings(
+    binary: bytes, output: dict[str, dict[str, Any]], start: str | bytes, end: str | bytes, start_index: int = 0
+  ):
     if type(start) is str:
       start_bytes = start.encode("cp932") + b"\0"
     else:

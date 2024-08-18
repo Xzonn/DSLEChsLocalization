@@ -1,8 +1,7 @@
-import csv
 import json
-from logging import warning
 import os
 import re
+from logging import warning
 
 DIR_ORIGINAL_FILES = "original_files"
 DIR_FONT_FILES = "files/fonts"
@@ -33,7 +32,7 @@ BANNER_OUT_PATH = "out/banner.bin"
 
 
 TRASH_PATTERN = re.compile(
-  #r"^[0-9a-zA-Z０-９ａ-ｚＡ-Ｚ#\-/？~№－\?:＋％%\.．ⅠⅡ <>_＿;，。！：；\n\+]+$|１２３４５６７８９|０１２３４５６７８",
+  # r"^[0-9a-zA-Z０-９ａ-ｚＡ-Ｚ#\-/？~№－\?:＋％%\.．ⅠⅡ <>_＿;，。！：；\n\+]+$|１２３４５６７８９|０１２３４５６７８",
   r"[＿]",
   re.DOTALL,
 )
@@ -128,7 +127,7 @@ def convert_zh_hans_to_shift_jis(zh_hans: str) -> str:
   while i < len(zh_hans):
     char = zh_hans[i]
     if char == "^":
-      output.append(zh_hans[i:i + 2])
+      output.append(zh_hans[i : i + 2])
       i += 2
       continue
     elif char == "％":

@@ -1,7 +1,8 @@
 import json
 import os
 import struct
-from helper import DIR_TEMP_JSON, DIR_TEMP_IMPORT, DIR_MESSAGES
+
+from helper import DIR_MESSAGES, DIR_TEMP_IMPORT, DIR_TEMP_JSON
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 

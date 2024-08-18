@@ -1,7 +1,8 @@
 import os
 import struct
-from helper import DIR_ORIGINAL_FILES, DIR_UNPACKED_FILES
+
 from decompress_lz import decompress_lz
+from helper import DIR_ORIGINAL_FILES, DIR_UNPACKED_FILES
 
 
 def unpack_pak(input_path: str, output_path: str):

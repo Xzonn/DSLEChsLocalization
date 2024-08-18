@@ -1,8 +1,8 @@
 import os
 import struct
-from nitrogfx.convert import *
 
 from helper import ARM9_DECOMPRESSED_PATH, DIR_BG_NCGR, DIR_BG_NCLR, DIR_BG_NSCR, DIR_TEMP_IMAGES_BG, DIR_UNPACKED_FILES
+from nitrogfx.convert import NCGR, NCLR, NSCR, nscr_to_img
 
 BG_INFO_OFFSET = 0x00151BF4
 BG_COUNT = 0x00F0

@@ -3,15 +3,18 @@ repos:
     rev: v4.6.0
     hooks:
       - id: mixed-line-ending
-        args:
-          - "--fix=lf"
+        args: [--fix=lf]
       - id: trailing-whitespace
       - id: end-of-file-fixer
         exclude: \.json
-  - repo: https://github.com/google/yapf
-    rev: v0.40.2
+  - repo: https://github.com/pycqa/isort
+    rev: 5.13.2
     hooks:
-      - id: yapf
-        args:
-          - "--style"
-          - "{based_on_style: google, column_limit: 120, indent_width: 2, continuation_indent_width: 2}"
+      - id: isort
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.6.1
+    hooks:
+      - id: ruff
+        args: [--fix, --exit-non-zero-on-fix]
+      - id: ruff-format
+        args: [--config, indent-width=2, --config, line-length=120]

@@ -1,19 +1,18 @@
 import os
-from openpyxl import Workbook
-from openpyxl.formatting import Rule
-from openpyxl.styles import DEFAULT_FONT, Font, Alignment, PatternFill, Protection
-from openpyxl.styles.differential import DifferentialStyle
 
 from helper import DIR_TEXT_FILES, DIR_XLSX, load_csv
+from openpyxl import Workbook
+from openpyxl.formatting import Rule
+from openpyxl.styles import DEFAULT_FONT, Alignment, Font, PatternFill, Protection
+from openpyxl.styles.differential import DifferentialStyle
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 
 
 def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root: str):
   _font = Font(name="微软雅黑", sz=10)
-  {k: setattr(DEFAULT_FONT, k, v) for k, v in _font.__dict__.items()}
-
-  bold = Font(name="微软雅黑", sz=10, b=True)
+  for k, v in _font.__dict__.items():
+    setattr(DEFAULT_FONT, k, v)
 
   center = Alignment(horizontal="center", vertical="center")
   center_wrap = Alignment(horizontal="center", vertical="center", wrap_text=True)
@@ -32,10 +31,14 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
       if not file_name.endswith(".json"):
         continue
 
-      sheet_name = os.path.relpath(
-        f"{root}/{file_name}",
-        f"{csv_root_without_language}/ja",
-      ).replace("\\", "/").removesuffix(".json")
+      sheet_name = (
+        os.path.relpath(
+          f"{root}/{file_name}",
+          f"{csv_root_without_language}/ja",
+        )
+        .replace("\\", "/")
+        .removesuffix(".json")
+      )
 
       original = load_csv(f"{root}/{file_name}")
       translated = load_csv(f"{csv_root_without_language}/{language}/{sheet_name}.json")
@@ -43,32 +46,36 @@ def convert_csv_to_xlsx(csv_root_without_language: str, language: str, xlsx_root
       workbook = Workbook()
       sheet = workbook.active
       sheet.protection.sheet = True
-      sheet.append((
-        "id",
-        "source",
-        "target",
-        "comment_1",
-        "comment_2",
-        "comment_3",
-        sheet_name,
-        "control_check",
-      ))
+      sheet.append(
+        (
+          "id",
+          "source",
+          "target",
+          "comment_1",
+          "comment_2",
+          "comment_3",
+          sheet_name,
+          "control_check",
+        )
+      )
 
       for i, (original_line, translated_line) in enumerate(zip(original, translated)):
         mt_translations = translated_line["context"]
         comments = ""
         if "\n\n评论：\n\n" in mt_translations:
           mt_translations, comments = mt_translations.split("\n\n评论：\n\n", 1)
-        sheet.append((
-          original_line["key"],
-          original_line["translation"],
-          translated_line["translation"],
-          original_line["context"],
-          mt_translations,
-          comments,
-          "",
-          f'=OR(LEN(B{i + 2})-LEN(SUBSTITUTE(SUBSTITUTE(B{i + 2},"[",""),"]",""))<>LEN(C{i + 2})-LEN(SUBSTITUTE(SUBSTITUTE(C{i + 2},"[",""),"]","")),LEN(C{i + 2})-LEN(SUBSTITUTE(C{i + 2},"[",""))<>LEN(C{i + 2})-LEN(SUBSTITUTE(C{i + 2},"]","")))',
-        ))
+        sheet.append(
+          (
+            original_line["key"],
+            original_line["translation"],
+            translated_line["translation"],
+            original_line["context"],
+            mt_translations,
+            comments,
+            "",
+            f'=OR(LEN(B{i + 2})-LEN(SUBSTITUTE(SUBSTITUTE(B{i + 2},"[",""),"]",""))<>LEN(C{i + 2})-LEN(SUBSTITUTE(SUBSTITUTE(C{i + 2},"[",""),"]","")),LEN(C{i + 2})-LEN(SUBSTITUTE(C{i + 2},"[",""))<>LEN(C{i + 2})-LEN(SUBSTITUTE(C{i + 2},"]","")))',
+          )
+        )
 
         for col in "ABCDEF":
           cell = sheet[f"{col}{i + 2}"]

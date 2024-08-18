@@ -2,7 +2,7 @@ import json
 import os
 import struct
 
-from helper import DIR_UNPACKED_FILES, DIR_MESSAGES, DIR_TEMP_JSON, TRASH_PATTERN
+from helper import DIR_MESSAGES, DIR_TEMP_JSON, DIR_UNPACKED_FILES, TRASH_PATTERN
 
 
 def convert_messages_to_json(input_root: str, output_root: str):

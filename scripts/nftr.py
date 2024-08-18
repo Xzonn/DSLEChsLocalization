@@ -1,13 +1,12 @@
-from io import BufferedReader
 import io
-from math import ceil
 import struct
+from io import BufferedReader
+from math import ceil
 
 from PIL import Image
 
 
 class FINF:
-
   def __init__(self, reader: BufferedReader):
     magic, block_size = struct.unpack("<4sI", reader.read(0x08))
     self.block_size: int = block_size
@@ -15,7 +14,8 @@ class FINF:
     assert magic == b"FNIF"
 
     unk1, height, null_char_index, default_start, default_width, default_length, encoding = struct.unpack(
-      "<2BH4B", reader.read(0x08))
+      "<2BH4B", reader.read(0x08)
+    )
     self.unk1: int = unk1
     self.height: int = height
     self.null_char_index: int = null_char_index
@@ -60,7 +60,6 @@ class FINF:
 
 
 class CGLPTile:
-
   def __init__(self, width: int, height: int, depth: int, raw_bytes: bytes):
     self.width = width
     self.height = height
@@ -71,7 +70,7 @@ class CGLPTile:
     bitmap = Image.new("L", (self.width, self.height))
     bits = []
     if self.depth == 1:
-      multiplier = 0xff
+      multiplier = 0xFF
       for byte in self.raw_bytes:
         for i in range(7, -1, -1):
           bits.append((byte >> i) & 0b1)
@@ -83,8 +82,8 @@ class CGLPTile:
     elif self.depth == 3:
       multiplier = 0x24
       for pos in range(0, len(self.raw_bytes), 3):
-        triple = self.raw_bytes[pos:pos + 3]
-        int_24, = struct.unpack(">I", b"\0" + triple)
+        triple = self.raw_bytes[pos : pos + 3]
+        (int_24,) = struct.unpack(">I", b"\0" + triple)
         for i in range(7, -1, -1):
           bits.append((int_24 >> 3 * i) & 0b111)
     elif self.depth == 4:
@@ -98,13 +97,13 @@ class CGLPTile:
       for x in range(self.width):
         bit = bits[pos]
         pos += 1
-        bitmap.putpixel((x, y), 0xff - bit * multiplier)
+        bitmap.putpixel((x, y), 0xFF - bit * multiplier)
 
     return bitmap
 
   def get_bytes(self, bitmap: Image.Image) -> bytes:
     if self.depth == 1:
-      multiplier = 0xff
+      multiplier = 0xFF
     elif self.depth == 2:
       multiplier = 0x55
     elif self.depth == 3:
@@ -116,7 +115,7 @@ class CGLPTile:
     for y in range(self.height):
       for x in range(self.width):
         pixel = bitmap.getpixel((x, y))
-        bits.append(round((0xff - pixel) / multiplier))
+        bits.append(round((0xFF - pixel) / multiplier))
 
     raw_bytes = bytearray()
     if self.depth == 1:
@@ -156,7 +155,6 @@ class CGLPTile:
 
 
 class CGLP:
-
   def __init__(self, reader: BufferedReader):
     magic, block_size = struct.unpack("<4sI", reader.read(0x08))
 
@@ -195,7 +193,6 @@ class CGLP:
 
 
 class CWDHInfo:
-
   def __init__(self, start: int, width: int, length: int):
     self.start: int = start
     self.width: int = width
@@ -206,7 +203,6 @@ class CWDHInfo:
 
 
 class CWDH:
-
   def __init__(self, reader: BufferedReader):
     magic, block_size = struct.unpack("<4sI", reader.read(0x08))
 
@@ -233,7 +229,6 @@ class CWDH:
 
 
 class CMAP:
-
   def __init__(self, reader: BufferedReader):
     magic, block_size = struct.unpack("<4sI", reader.read(0x08))
 
@@ -247,19 +242,19 @@ class CMAP:
 
     self.char_map: dict[int, int] = {}
     if self.type_section == 0:
-      first_char_index, = struct.unpack("<H", reader.read(0x02))
+      (first_char_index,) = struct.unpack("<H", reader.read(0x02))
       for i in range(last_char_code - first_char_code + 1):
         char_index = first_char_index + i
         self.char_map[char_index] = first_char_code + i
     elif self.type_section == 1:
       length = last_char_code - first_char_code + 1
       for i in range(length):
-        char_index, = struct.unpack("<H", reader.read(0x02))
-        if char_index == 0xffff:
+        (char_index,) = struct.unpack("<H", reader.read(0x02))
+        if char_index == 0xFFFF:
           continue
         self.char_map[char_index] = first_char_code + i
     elif self.type_section == 2:
-      num_chars, = struct.unpack("<H", reader.read(0x02))
+      (num_chars,) = struct.unpack("<H", reader.read(0x02))
       for i in range(num_chars):
         char_code, char_index = struct.unpack("<2H", reader.read(0x04))
         self.char_map[char_index] = char_code
@@ -286,7 +281,7 @@ class CMAP:
       char_code_to_index = {v: k for k, v in char_map.items()}
       for i in range(length):
         char_code = self.first_char_code + i
-        char_index = char_code_to_index.get(char_code, 0xffff)
+        char_index = char_code_to_index.get(char_code, 0xFFFF)
         body += struct.pack("<H", char_index)
     elif self.type_section == 2:
       body += struct.pack("<H", len(char_map))
@@ -308,14 +303,13 @@ class CMAP:
 
 
 class NFTR:
-
   def __init__(self, FONT_PATH: str):
     reader = open(FONT_PATH, "rb")
 
     magic, endianess, unk1, file_size, block_size, num_blocks = struct.unpack("<4sHHIHH", reader.read(0x10))
 
     assert magic == b"RTFN"
-    assert endianess == 0xfeff
+    assert endianess == 0xFEFF
     assert block_size == 0x10
 
     self.unk1: int = unk1
@@ -356,7 +350,7 @@ class NFTR:
 
     body = finf + cglp + cwdh + b"".join(cmaps)
 
-    head = struct.pack("<4sHHIHH", b"RTFN", 0xfeff, self.unk1, 0x10 + len(body), 0x10, 0x03 + len(cmaps))
+    head = struct.pack("<4sHHIHH", b"RTFN", 0xFEFF, self.unk1, 0x10 + len(body), 0x10, 0x03 + len(cmaps))
     return bytes(head + body)
 
 
