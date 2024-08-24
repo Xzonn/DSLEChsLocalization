@@ -1,7 +1,12 @@
 import json
 import os
 
-from helper import DIR_TEMP_JSON, DIR_TEXT_FILES, convert_zh_hans_to_shift_jis, load_translations
+from helper import (
+  DIR_TEMP_JSON,
+  DIR_TEXT_FILES,
+  convert_zh_hans_to_shift_jis,
+  load_translations,
+)
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
 

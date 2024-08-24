@@ -2,7 +2,7 @@
 #r "nuget: NitroHelper, 0.12.1"
 
 var banner = new NitroHelper.Banner("original_files/banner.bin");
-var title = "数码宝贝物语\n失落的进化\n万代南梦宫游戏";
+var title = "数码宝贝物语\n遗失的进化\n万代南梦宫游戏";
 banner.japaneseTitle = title;
 banner.englishTitle = title;
 banner.frenchTitle = title;

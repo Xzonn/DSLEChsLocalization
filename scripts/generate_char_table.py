@@ -3,7 +3,12 @@ import os
 import struct
 
 import pypinyin
-from helper import CHAR_TABLE_PATH, DIR_TEXT_FILES, OLD_CHAR_TABLE_PATH, get_used_characters
+from helper import (
+  CHAR_TABLE_PATH,
+  DIR_TEXT_FILES,
+  OLD_CHAR_TABLE_PATH,
+  get_used_characters,
+)
 from pypinyin import lazy_pinyin
 
 LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"

@@ -21,4 +21,4 @@ def edit_banner(input_path: str, output_path: str, new_text: str):
     writer.write(data)
 
 
-edit_banner(BANNER_PATH, BANNER_OUT_PATH, "数码宝贝物语\n失落的进化\n万代南梦宫游戏")
+edit_banner(BANNER_PATH, BANNER_OUT_PATH, "数码宝贝物语\n遗失的进化\n万代南梦宫游戏")
