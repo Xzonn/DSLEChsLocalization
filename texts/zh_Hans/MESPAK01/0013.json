@@ -9,7 +9,7 @@
   {
     "key": "MESPAK01_0013_0001",
     "original": "せいべつ",
-    "translation": "特殊",
+    "translation": "性别",
     "stage": 0,
     "context": "机翻辅助：\n\n特殊\n\n分类\n\n性别"
   },
@@ -37,7 +37,7 @@
   {
     "key": "MESPAK01_0013_0005",
     "original": "テイマーランク",
-    "translation": "驯兽师等级",
+    "translation": "驯兽师阶级",
     "stage": 0,
     "context": "机翻辅助：\n\n驯兽师等级\n\n泰马兰克\n\n品级"
   },
@@ -51,21 +51,21 @@
   {
     "key": "MESPAK01_0013_0007",
     "original": "ごうけいテイマーポイント",
-    "translation": "驯兽师点数",
+    "translation": "合计驯兽师点数",
     "stage": 0,
     "context": "机翻辅助：\n\n驯兽师点数\n\n合计积分\n\n合计风味点"
   },
   {
     "key": "MESPAK01_0013_0008",
     "original": "デジモンコンプリート率",
-    "translation": "数码宝贝数量",
+    "translation": "数码宝贝完成率",
     "stage": 0,
     "context": "机翻辅助：\n\n数码宝贝数量\n\n数码复制率\n\n数码宝贝完成率"
   },
   {
     "key": "MESPAK01_0013_0009",
     "original": "クエスト達成率",
-    "translation": "任务达成率",
+    "translation": "任务完成率",
     "stage": 0,
     "context": "机翻辅助：\n\n任务达成率\n\n任务完成率"
   },
@@ -86,21 +86,21 @@
   {
     "key": "MESPAK01_0013_0012",
     "original": "デジラボにはいった回数",
-    "translation": "进入数字实验室次数",
+    "translation": "进入数码研究所次数",
     "stage": 0,
     "context": "机翻辅助：\n\n进入数字实验室次数\n\n进入deilabo的次数\n\n进入数码实验室的次数"
   },
   {
     "key": "MESPAK01_0013_0013",
     "original": "マッチングした回数",
-    "translation": "配对次数",
+    "translation": "匹配次数",
     "stage": 0,
     "context": "机翻辅助：\n\n配对次数\n\n匹配次数\n\n匹配的次数"
   },
   {
     "key": "MESPAK01_0013_0014",
     "original": "セーブした回数",
-    "translation": "存档次数",
+    "translation": "保存次数",
     "stage": 0,
     "context": "机翻辅助：\n\n存档次数\n\n救球的次数\n\n保存次数"
   },
@@ -177,14 +177,14 @@
   {
     "key": "MESPAK01_0013_0025",
     "original": "とくいぞくせい",
-    "translation": "特别稀有",
+    "translation": "擅长属性",
     "stage": 0,
     "context": "机翻辅助：\n\n特别稀有\n\n特殊属性"
   },
   {
     "key": "MESPAK01_0013_0026",
     "original": "にがてぞくせい",
-    "translation": "稀有",
+    "translation": "不利属性",
     "stage": 0,
     "context": "机翻辅助：\n\n稀有\n\n二次属性\n\n不耐属性"
   },
@@ -198,42 +198,42 @@
   {
     "key": "MESPAK01_0013_0028",
     "original": "せだい",
-    "translation": "最强",
+    "translation": "世代",
     "stage": 0,
     "context": "机翻辅助：\n\n最强\n\n世代\n\n一代"
   },
   {
     "key": "MESPAK01_0013_0029",
     "original": "しゅるい",
-    "translation": "顺序",
+    "translation": "种类",
     "stage": 0,
     "context": "机翻辅助：\n\n顺序\n\n种类"
   },
   {
     "key": "MESPAK01_0013_0030",
     "original": "しゅもく",
-    "translation": "最终",
+    "translation": "项目",
     "stage": 0,
     "context": "机翻辅助：\n\n最终\n\n项目\n\n主目"
   },
   {
     "key": "MESPAK01_0013_0031",
     "original": "とくぎ",
-    "translation": "特别",
+    "translation": "特技",
     "stage": 0,
     "context": "机翻辅助：\n\n特别\n\n钉头\n\n特长"
   },
   {
     "key": "MESPAK01_0013_0032",
     "original": "けいけんち",
-    "translation": "攻城战",
+    "translation": "经验值",
     "stage": 0,
     "context": "机翻辅助：\n\n攻城战\n\n经验地\n\n经验值"
   },
   {
     "key": "MESPAK01_0013_0033",
     "original": "つぎのレベルまで",
-    "translation": "到下一级为止",
+    "translation": "到下一等级还需",
     "stage": 0,
     "context": "机翻辅助：\n\n到下一级为止\n\n到下一个水平"
   },
@@ -247,42 +247,42 @@
   {
     "key": "MESPAK01_0013_0035",
     "original": "とくせい１",
-    "translation": "特殊1",
+    "translation": "特性1",
     "stage": 0,
     "context": "机翻辅助：\n\n特殊1\n\n特性1"
   },
   {
     "key": "MESPAK01_0013_0036",
     "original": "とくせい２",
-    "translation": "特殊2",
+    "translation": "特性2",
     "stage": 0,
     "context": "机翻辅助：\n\n特殊2\n\n特性2"
   },
   {
     "key": "MESPAK01_0013_0037",
     "original": "とくせい３",
-    "translation": "特殊3",
+    "translation": "特性3",
     "stage": 0,
     "context": "机翻辅助：\n\n特殊3\n\n特性3"
   },
   {
     "key": "MESPAK01_0013_0038",
     "original": "とくせい４",
-    "translation": "特殊4",
+    "translation": "特性4",
     "stage": 0,
     "context": "机翻辅助：\n\n特殊4\n\n特性4"
   },
   {
     "key": "MESPAK01_0013_0039",
     "original": "サポートのうりょく",
-    "translation": "支援的效力",
+    "translation": "支援能力",
     "stage": 0,
     "context": "机翻辅助：\n\n支援的效力\n\n支持能力"
   },
   {
     "key": "MESPAK01_0013_0040",
     "original": "とくぎ",
-    "translation": "特别",
+    "translation": "特技",
     "stage": 0,
     "context": "机翻辅助：\n\n特别\n\n钉头\n\n特长"
   },
@@ -303,70 +303,70 @@
   {
     "key": "MESPAK01_0013_0043",
     "original": "^0コ",
-    "translation": "^0扣",
+    "translation": "^0个",
     "stage": 0,
     "context": "机翻辅助：\n\n^0扣\n\n^0"
   },
   {
     "key": "MESPAK01_0013_0044",
     "original": "えらんだワザ",
-    "translation": "选择的技能",
+    "translation": "可选招式",
     "stage": 0,
     "context": "机翻辅助：\n\n选择的技能\n\n凌乱的圈套\n\n选择的技巧"
   },
   {
     "key": "MESPAK01_0013_0045",
     "original": "えらんだぶき",
-    "translation": "选择的武器",
+    "translation": "可选武器",
     "stage": 0,
     "context": "机翻辅助：\n\n选择的武器\n\n所选的武器\n\n龙眼屋面"
   },
   {
     "key": "MESPAK01_0013_0046",
     "original": "えらんだぼうぐ",
-    "translation": "选择的书",
+    "translation": "可选防具",
     "stage": 0,
     "context": "机翻辅助：\n\n选择的书\n\n选择的工具\n\n拖曳工具"
   },
   {
     "key": "MESPAK01_0013_0047",
     "original": "えらんだのうりょく",
-    "translation": "选择的能力",
+    "translation": "可选能力",
     "stage": 0,
     "context": "机翻辅助：\n\n选择的能力\n\n所选择的能力\n\n拖曳能力"
   },
   {
     "key": "MESPAK01_0013_0048",
     "original": "えらんだアイテム",
-    "translation": "选择的道具",
+    "translation": "可选物品",
     "stage": 0,
     "context": "机翻辅助：\n\n选择的道具\n\n选择的项目\n\n优秀的项目"
   },
   {
     "key": "MESPAK01_0013_0049",
     "original": "えらんだファームグッズ",
-    "translation": "选择的周边商品",
+    "translation": "可选农场道具",
     "stage": 0,
     "context": "机翻辅助：\n\n选择的周边商品\n\n选择的农场商品\n\n漂亮的农场商品"
   },
   {
     "key": "MESPAK01_0013_0050",
     "original": "えらんだバグプレート",
-    "translation": "选择的BUG板",
+    "translation": "可选故障板块",
     "stage": 0,
     "context": "机翻辅助：\n\n选择的BUG板\n\n选择的bug板\n\n龙骨板"
   },
   {
     "key": "MESPAK01_0013_0051",
     "original": "えらんだデジプレート",
-    "translation": "选择的数字板",
+    "translation": "可选数码板块",
     "stage": 0,
     "context": "机翻辅助：\n\n选择的数字板\n\n龙眼数字板\n\n所选的数码牌"
   },
   {
     "key": "MESPAK01_0013_0052",
     "original": "えらんだだいじなもの",
-    "translation": "选择的重要物品",
+    "translation": "可选重要物品",
     "stage": 0,
     "context": "机翻辅助：\n\n选择的重要物品\n\n选择的重要的东西\n\n伟大的东西"
   },
@@ -380,14 +380,14 @@
   {
     "key": "MESPAK01_0013_0054",
     "original": "おぼえているワザ",
-    "translation": "记得的技能",
+    "translation": "学会的招式",
     "stage": 0,
     "context": "机翻辅助：\n\n记得的技能\n\n记得的技巧\n\n记得的圈套"
   },
   {
     "key": "MESPAK01_0013_0055",
     "original": "てもち",
-    "translation": "道具",
+    "translation": "持有",
     "stage": 0,
     "context": "机翻辅助：\n\n道具\n\n手杖\n\n手拿"
   },
@@ -422,21 +422,21 @@
   {
     "key": "MESPAK01_0013_0060",
     "original": "ぞくせい",
-    "translation": "正室",
+    "translation": "属性",
     "stage": 0,
     "context": "机翻辅助：\n\n正室\n\n属性"
   },
   {
     "key": "MESPAK01_0013_0061",
     "original": "レンジ",
-    "translation": "微波炉",
+    "translation": "范围",
     "stage": 0,
     "context": "机翻辅助：\n\n微波炉\n\n范围"
   },
   {
     "key": "MESPAK01_0013_0062",
     "original": "こうか",
-    "translation": "是这样吗？",
+    "translation": "效果",
     "stage": 0,
     "context": "机翻辅助：\n\n是这样吗？\n\n高化\n\n固化"
   },
@@ -450,14 +450,14 @@
   {
     "key": "MESPAK01_0013_0064",
     "original": "しゅべつ",
-    "translation": "咻砰。",
+    "translation": "种类",
     "stage": 0,
     "context": "机翻辅助：\n\n咻砰。\n\n种类\n\n分类"
   },
   {
     "key": "MESPAK01_0013_0065",
     "original": "しゅうとくレベル",
-    "translation": "修特级",
+    "translation": "学习等级",
     "stage": 0,
     "context": "机翻辅助：\n\n修特级\n\n学习水平\n\n增益电平"
   },
@@ -471,7 +471,7 @@
   {
     "key": "MESPAK01_0013_0067",
     "original": "こうにゅうかかく",
-    "translation": "攻击效果",
+    "translation": "购买价格",
     "stage": 0,
     "context": "机翻辅助：\n\n攻击效果\n\n购买价格\n\n输入角"
   },
@@ -499,21 +499,21 @@
   {
     "key": "MESPAK01_0013_0071",
     "original": "なにも　もっていません",
-    "translation": "我什么都没有",
+    "translation": "什么都没有",
     "stage": 0,
     "context": "机翻辅助：\n\n我什么都没有\n\n什么也没有\n\n我什么都没有。"
   },
   {
     "key": "MESPAK01_0013_0072",
     "original": "ライブイベントこうか",
-    "translation": "活动任务效果",
+    "translation": "活动事件效果",
     "stage": 0,
     "context": "机翻辅助：\n\n活动任务效果\n\n实时活动效应\n\n现场活动效果"
   },
   {
     "key": "MESPAK01_0013_0073",
     "original": "そのデジモンの　デジプレートは\nまだ　かんせい　していません",
-    "translation": "这只数码宝贝的数字板尚未完成\n",
+    "translation": "这只数码宝贝的数码板块尚未完成",
     "stage": 0,
     "context": "机翻辅助：\n\n这只数码宝贝的数字板尚未完成\n\n\n那个数码宝贝的数码板还没有完成。\n\n\n那个数码宝贝的数码板还没有调整"
   },
@@ -534,42 +534,42 @@
   {
     "key": "MESPAK01_0013_0076",
     "original": "かんせいど",
-    "translation": "完结章",
+    "translation": "完成度",
     "stage": 0,
     "context": "机翻辅助：\n\n完结章\n\n灵敏度\n\n完成制度"
   },
   {
     "key": "MESPAK01_0013_0077",
     "original": "バグプレートをみる",
-    "translation": "观看错误板",
+    "translation": "查看故障板块",
     "stage": 0,
     "context": "机翻辅助：\n\n观看错误板\n\n查看故障板\n\n查看臭虫板"
   },
   {
     "key": "MESPAK01_0013_0078",
     "original": "デジプレートをみる",
-    "translation": "观看数字板",
+    "translation": "查看数码板块",
     "stage": 0,
     "context": "机翻辅助：\n\n观看数字板\n\n看数码板"
   },
   {
     "key": "MESPAK01_0013_0079",
     "original": "ほうしゅうをみる",
-    "translation": "观看说明",
+    "translation": "查看报酬",
     "stage": 0,
     "context": "机翻辅助：\n\n观看说明\n\n看法术\n\n看报酬"
   },
   {
     "key": "MESPAK01_0013_0080",
     "original": "ソートきりかえ",
-    "translation": "重新排序",
+    "translation": "切换剑",
     "stage": 0,
     "context": "机翻辅助：\n\n重新排序\n\n分类转换\n\n排序转换"
   },
   {
     "key": "MESPAK01_0013_0081",
     "original": "デジタマランキング",
-    "translation": "数字蛋排名",
+    "translation": "数码蛋排名",
     "stage": 0,
     "context": "机翻辅助：\n\n数字蛋排名\n\n数字化\n\n数码排行榜"
   },
@@ -590,14 +590,14 @@
   {
     "key": "MESPAK01_0013_0084",
     "original": "リストのソートせんたく",
-    "translation": "名单排序",
+    "translation": "选择列表的剑",
     "stage": 0,
     "context": "机翻辅助：\n\n名单排序\n\n排序列表\n\n列表的排序选择"
   },
   {
     "key": "MESPAK01_0013_0085",
     "original": "マッチングじょうけん",
-    "translation": "配对条件",
+    "translation": "匹配条件",
     "stage": 0,
     "context": "机翻辅助：\n\n配对条件\n\n匹配条件"
   },
@@ -611,14 +611,14 @@
   {
     "key": "MESPAK01_0013_0087",
     "original": "そうぐうしたデジモン",
-    "translation": "已经狩猎过的数码宝贝",
+    "translation": "已遭遇过的数码宝贝",
     "stage": 0,
     "context": "机翻辅助：\n\n已经狩猎过的数码宝贝\n\n双子星数码宝贝\n\n遭遇的数码宝贝"
   },
   {
     "key": "MESPAK01_0013_0088",
     "original": "みかたにしたデジモン",
-    "translation": "已经收服过的数码宝贝",
+    "translation": "已成为同伴的数码宝贝",
     "stage": 0,
     "context": "机翻辅助：\n\n已经收服过的数码宝贝\n\n成为我的数码宝贝\n\n看到的数码宝贝"
   },
@@ -639,14 +639,14 @@
   {
     "key": "MESPAK01_0013_0091",
     "original": "まえのセーブないよう",
-    "translation": "没有上一次的记录",
+    "translation": "之前的保存内容",
     "stage": 0,
     "context": "机翻辅助：\n\n没有上一次的记录\n\n前面的保存\n\n之前的救球内容"
   },
   {
     "key": "MESPAK01_0013_0092",
     "original": "セーブしたじかん",
-    "translation": "记录时间",
+    "translation": "保存时间",
     "stage": 0,
     "context": "机翻辅助：\n\n记录时间\n\n救球的时间\n\n保存时间"
   },
@@ -660,28 +660,28 @@
   {
     "key": "MESPAK01_0013_0094",
     "original": "これまでのプレイをセーブしますか？",
-    "translation": "要记录目前为止的游玩过程吗？",
+    "translation": "要记录目前为止的游玩记录吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n要记录目前为止的游玩过程吗？\n\n你要保留到现在为止的比赛吗？\n\n保存到现在为止的游戏吗？"
   },
   {
     "key": "MESPAK01_0013_0095",
     "original": "はい　セーブします",
-    "translation": "好的存档",
+    "translation": "是，保存。",
     "stage": 0,
     "context": "机翻辅助：\n\n好的存档\n\n是保存\n\n好，我救了。"
   },
   {
     "key": "MESPAK01_0013_0096",
     "original": "いいえ　セーブしません",
-    "translation": "不我不存",
+    "translation": "不，不保存。",
     "stage": 0,
     "context": "机翻辅助：\n\n不我不存\n\n不保存\n\n不，我不保留。"
   },
   {
     "key": "MESPAK01_0013_0097",
     "original": "セーブちゅうです\nでんげんを　きらないでください",
-    "translation": "正在存档\n请勿按压电源",
+    "translation": "正在保存，\n请勿切断电源。",
     "stage": 0,
     "context": "机翻辅助：\n\n正在存档\n请勿按压电源\n\n请不要使用电源\n\n\n保存中。请不要切断电源。"
   },
@@ -695,14 +695,14 @@
   {
     "key": "MESPAK01_0013_0099",
     "original": "セーブできませんでした",
-    "translation": "无法记录",
+    "translation": "无法保存。",
     "stage": 0,
     "context": "机翻辅助：\n\n无法记录\n\n无法保存\n\n没能救下来。"
   },
   {
     "key": "MESPAK01_0013_0100",
     "original": "メニュー",
-    "translation": "选单",
+    "translation": "菜单",
     "stage": 0,
     "context": "机翻辅助：\n\n选单"
   },
@@ -716,7 +716,7 @@
   {
     "key": "MESPAK01_0013_0102",
     "original": "アイテム",
-    "translation": "道具",
+    "translation": "物品",
     "stage": 0,
     "context": "机翻辅助：\n\n道具"
   },
@@ -730,7 +730,7 @@
   {
     "key": "MESPAK01_0013_0104",
     "original": "デジファーム",
-    "translation": "数字农场",
+    "translation": "数码农场",
     "stage": 0,
     "context": "机翻辅助：\n\n数字农场\n\n数码农场"
   },
@@ -744,21 +744,21 @@
   {
     "key": "MESPAK01_0013_0106",
     "original": "デジタマずかん",
-    "translation": "数字蛋一览",
+    "translation": "数码蛋图鉴",
     "stage": 0,
     "context": "机翻辅助：\n\n数字蛋一览\n\n数码图鉴\n\n数字管"
   },
   {
     "key": "MESPAK01_0013_0107",
     "original": "デジモンずかん",
-    "translation": "数码宝贝一览",
+    "translation": "数码宝贝图鉴",
     "stage": 0,
     "context": "机翻辅助：\n\n数码宝贝一览\n\n数码图鉴\n\n数码宝贝"
   },
   {
     "key": "MESPAK01_0013_0108",
     "original": "セーブ",
-    "translation": "记录",
+    "translation": "保存",
     "stage": 0,
     "context": "机翻辅助：\n\n记录\n\n储存"
   },
@@ -1052,7 +1052,7 @@
   {
     "key": "MESPAK01_0013_0150",
     "original": "ワザ",
-    "translation": "这是故意的。",
+    "translation": "招式",
     "stage": 0,
     "context": "机翻辅助：\n\n这是故意的。\n\n技巧"
   },
@@ -1101,7 +1101,7 @@
   {
     "key": "MESPAK01_0013_0157",
     "original": "ファームグッズ",
-    "translation": "消耗品",
+    "translation": "农场道具",
     "stage": 0,
     "context": "机翻辅助：\n\n消耗品\n\n农场商品"
   },
@@ -1192,7 +1192,7 @@
   {
     "key": "MESPAK01_0013_0170",
     "original": "プロフィール",
-    "translation": "个人资料",
+    "translation": "简介",
     "stage": 0,
     "context": "机翻辅助：\n\n个人资料\n\n简介"
   },
@@ -1213,7 +1213,7 @@
   {
     "key": "MESPAK01_0013_0173",
     "original": "つよさをみる",
-    "translation": "看强度",
+    "translation": "查看状态",
     "stage": 0,
     "context": "机翻辅助：\n\n看强度\n\n看到强度"
   },
