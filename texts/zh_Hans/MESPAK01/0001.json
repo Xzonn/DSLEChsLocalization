@@ -79,21 +79,21 @@
   {
     "key": "MESPAK01_0001_0011",
     "original": "はい　いいです",
-    "translation": "是可以",
+    "translation": "是，可以。",
     "stage": 0,
     "context": "机翻辅助：\n\n是可以\n\n好的\n\n好，好。"
   },
   {
     "key": "MESPAK01_0001_0012",
     "original": "いいえ　つけなおします",
-    "translation": "否要重新设定",
+    "translation": "否，重新输入。",
     "stage": 0,
     "context": "机翻辅助：\n\n否要重新设定\n\n不，重新装。\n\n不，我重新给你"
   },
   {
     "key": "MESPAK01_0001_0013",
     "original": "しゅじんこうのなまえは",
-    "translation": "主人的名字",
+    "translation": "主人公的名字",
     "stage": 0,
     "context": "机翻辅助：\n\n主人的名字\n\n主人公的名字\n\n主人口的名字是"
   },
@@ -107,7 +107,7 @@
   {
     "key": "MESPAK01_0001_0015",
     "original": "ファーム島のなまえは",
-    "translation": "法姆岛的名字",
+    "translation": "农场岛的名字",
     "stage": 0,
     "context": "机翻辅助：\n\n法姆岛的名字\n\n农场岛的名字是"
   },
@@ -121,7 +121,7 @@
   {
     "key": "MESPAK01_0001_0017",
     "original": "ともだちコードは",
-    "translation": "朋友密码",
+    "translation": "朋友编号",
     "stage": 0,
     "context": "机翻辅助：\n\n朋友密码\n\n朋友代码\n\n朋友代码是"
   },
@@ -135,14 +135,14 @@
   {
     "key": "MESPAK01_0001_0019",
     "original": "つづきから",
-    "translation": "从继续开始",
+    "translation": "继续游戏",
     "stage": 0,
     "context": "机翻辅助：\n\n从继续开始\n\n从后面开始\n\n从下一个开始"
   },
   {
     "key": "MESPAK01_0001_0020",
     "original": "Ｗｉ－Ｆｉせってい",
-    "translation": "Wi-Fi设定",
+    "translation": "Wi-Fi设置",
     "stage": 0,
     "context": "机翻辅助：\n\nWi-Fi设定\n\nWi-Fi设置"
   },
@@ -163,14 +163,14 @@
   {
     "key": "MESPAK01_0001_0023",
     "original": "あたらしくセーブデータを　つくると",
-    "translation": "因为重新设定存档的话",
+    "translation": "因为重置保存数据的话，",
     "stage": 0,
     "context": "机翻辅助：\n\n因为重新设定存档的话\n\n当你建立新的存储数据时，\n\n如果你做一个新的存档数据"
   },
   {
     "key": "MESPAK01_0001_0024",
     "original": "Ｗｉ－Ｆｉじょうほうも　きえるからね！",
-    "translation": "Wi-Fi资讯也会消失！",
+    "translation": "Wi-Fi情报也会消失！",
     "stage": 0,
     "context": "机翻辅助：\n\nWi-Fi资讯也会消失！\n\n因为Wi-Fi信息也消失了！\n\n因为Wi-Fi信息也能听到！"
   },
@@ -184,7 +184,7 @@
   {
     "key": "MESPAK01_0001_0026",
     "original": "キミは　おとこのこかな？\nおんなのこかな？",
-    "translation": "你是男孩吗？\n还是女孩呢？",
+    "translation": "你是男生吗？\n还是女生呢？",
     "stage": 1,
     "context": "机翻辅助：\n\n你是男生吗？\n还是女生？\n\n你是男人吗？\n是女人吗？\n\n你是男生吗？\n是女孩子吗？"
   },
@@ -198,14 +198,14 @@
   {
     "key": "MESPAK01_0001_0028",
     "original": "はい　そうです",
-    "translation": "是的，没错",
+    "translation": "是，没错。",
     "stage": 1,
     "context": "机翻辅助：\n\n是没错\n\n是的是的\n\n是的"
   },
   {
     "key": "MESPAK01_0001_0029",
     "original": "いいえ　ちがいます",
-    "translation": "不对，搞错了",
+    "translation": "否，搞错了。",
     "stage": 1,
     "context": "机翻辅助：\n\n否不是\n\n不，不是的\n\n不，不是"
   },
@@ -219,7 +219,7 @@
   {
     "key": "MESPAK01_0001_0031",
     "original": "シュウ",
-    "translation": "修",
+    "translation": "周",
     "stage": 0,
     "context": ""
   },
@@ -233,7 +233,7 @@
   {
     "key": "MESPAK01_0001_0033",
     "original": "^0は\n^1で　いいですか？",
-    "translation": "^0\n是^1吗？",
+    "translation": "^0是\n^1可以吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n^0\n是^1吗？\n\n^0\n^1可以吗？"
   },
