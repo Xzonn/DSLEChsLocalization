@@ -212,7 +212,7 @@
   {
     "key": "MESPAK01_0013_0030",
     "original": "しゅもく",
-    "translation": "项目",
+    "translation": "种目",
     "stage": 0,
     "context": "机翻辅助：\n\n最终\n\n项目\n\n主目"
   },
@@ -450,7 +450,7 @@
   {
     "key": "MESPAK01_0013_0064",
     "original": "しゅべつ",
-    "translation": "种类",
+    "translation": "种别",
     "stage": 0,
     "context": "机翻辅助：\n\n咻砰。\n\n种类\n\n分类"
   },
@@ -506,7 +506,7 @@
   {
     "key": "MESPAK01_0013_0072",
     "original": "ライブイベントこうか",
-    "translation": "活动事件效果",
+    "translation": "实况事件效果",
     "stage": 0,
     "context": "机翻辅助：\n\n活动任务效果\n\n实时活动效应\n\n现场活动效果"
   },
@@ -562,7 +562,7 @@
   {
     "key": "MESPAK01_0013_0080",
     "original": "ソートきりかえ",
-    "translation": "切换剑",
+    "translation": "切换排序",
     "stage": 0,
     "context": "机翻辅助：\n\n重新排序\n\n分类转换\n\n排序转换"
   },
@@ -590,7 +590,7 @@
   {
     "key": "MESPAK01_0013_0084",
     "original": "リストのソートせんたく",
-    "translation": "选择列表的剑",
+    "translation": "选择列表的排序方法",
     "stage": 0,
     "context": "机翻辅助：\n\n名单排序\n\n排序列表\n\n列表的排序选择"
   },
@@ -765,42 +765,42 @@
   {
     "key": "MESPAK01_0013_0109",
     "original": "かくにんしたい　じょうほうの　コマンドを　えらんで　ください",
-    "translation": "请选择想要记录的情报指令",
+    "translation": "请选择想要确认的情报的指令",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要记录的情报指令\n\n请选择确认状态的命令\n\n请选择想确认的信息的指令。"
   },
   {
     "key": "MESPAK01_0013_0110",
     "original": "じょうほうを　みたり　ならびかえを　する　デジモンを\nえらんで　ください",
-    "translation": "请选择想要观看情报的数码宝贝\n",
+    "translation": "请选择想要查看情报或重新排序的数码宝贝",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要观看情报的数码宝贝\n\n\n\n请选择一个数码宝贝来查看信息和更换。\n\n请画出看信息或重新排列的数码宝贝"
   },
   {
     "key": "MESPAK01_0013_0111",
     "original": "デジモンの　しりたい　こうもくを　えらんで　ください",
-    "translation": "请选择想要知道关于数码宝贝的事情",
+    "translation": "请选择想要知道关于数码宝贝的项目",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要知道关于数码宝贝的事情\n\n请看数码宝贝的屁股\n\n选择你想知道的数码宝贝项目。"
   },
   {
     "key": "MESPAK01_0013_0112",
     "original": "じょうほうを　みたい　または　いどう　したい　ワザを\nえらんで　ください",
-    "translation": "请选择想要观看或者想要交换的技能\n",
+    "translation": "请选择想要查看并想要移动的招式",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要观看或者想要交换的技能\n\n\n\n请选择想要获取信息或想移动的技能\n\n请描绘出想看信息或想做什么的技巧"
   },
   {
     "key": "MESPAK01_0013_0113",
     "original": "いれかえたい　ばしょの　ワザを　えらんで　ください",
-    "translation": "请选择想要交换的地点",
+    "translation": "请选择想要替换位置的招式",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要交换的地点\n\n请给我换个地方的圈套\n\n请选择想更换的地方的技巧"
   },
   {
     "key": "MESPAK01_0013_0114",
     "original": "そうびの　こうもくを　えらんで　ください\nさいきょうは　つよい　そうびを　つけます",
-    "translation": "请选择想要装备的道具\n最强的装备可以提升能力",
+    "translation": "请选择装备的项目\n最强是指自动穿上强力的装备",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要装备的道具\n最强的装备可以提升能力\n\n请看一下装备的项目\n最近会戴上很强的装备\n\n请选择装备的项目。最好的是配备更强的装备。"
   },
@@ -821,133 +821,133 @@
   {
     "key": "MESPAK01_0013_0117",
     "original": "かくにんしたい　とくせいや　とくぎや　サポートのうりょくを\nえらんで　ください",
-    "translation": "请\n选择想要使用的特殊技能支援能力",
+    "translation": "请选择想要确认的特性或特技或支援能力",
     "stage": 0,
     "context": "机翻辅助：\n\n请\n选择想要使用的特殊技能支援能力\n\n\n选择你想确认的特长、技能和支持能力。\n\n想确认的特征和钉子和支持能力\n请选择"
   },
   {
     "key": "MESPAK01_0013_0118",
     "original": "かくにんしたい　アイテムの　コマンドを　えらんで　ください",
-    "translation": "请选择想要使用的道具",
+    "translation": "请选择想要确认的物品指令",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要使用的道具\n\n请选择要确认的项目的命令\n\n请选择想确认的项目的指令。"
   },
   {
     "key": "MESPAK01_0013_0119",
     "original": "つかいたい　しょうひアイテムを　えらんで　ください",
-    "translation": "请选择想要的奖励道具",
+    "translation": "请选择想要使用的消耗品",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要的奖励道具\n\n请选择想使用的消费品\n\n请选择想要使用的商品。"
   },
   {
     "key": "MESPAK01_0013_0120",
     "original": "アイテムを　つかう　デジモンを　えらんで　ください",
-    "translation": "请选择要使用的数码宝贝",
+    "translation": "请选择要使用物品的数码宝贝",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择要使用的数码宝贝\n\n请选择使用道具的数码宝贝。\n\n请选择使用道具的数码宝贝"
   },
   {
     "key": "MESPAK01_0013_0121",
     "original": "もっている　ぶきを　かくにん　できます",
-    "translation": "可以携带武器进入",
+    "translation": "可以确认持有的武器",
     "stage": 0,
     "context": "机翻辅助：\n\n可以携带武器进入\n\n他们有什么武器。\n\n可以确认拿着的武器"
   },
   {
     "key": "MESPAK01_0013_0122",
     "original": "もっている　ぼうぐを　かくにん　できます",
-    "translation": "我可以带书去上课",
+    "translation": "可以确认持有的防具",
     "stage": 0,
     "context": "机翻辅助：\n\n我可以带书去上课\n\n可以确认自己的武器\n\n你可以看到你有什么防护措施。"
   },
   {
     "key": "MESPAK01_0013_0123",
     "original": "もっている　ファームグッズを　かくにん　できます",
-    "translation": "可以将自己拥有的周边商品收藏起来",
+    "translation": "可以确认持有的农场道具",
     "stage": 0,
     "context": "机翻辅助：\n\n可以将自己拥有的周边商品收藏起来\n\n可以确认持有的农场商品\n\n你可以查看你的农场用品。"
   },
   {
     "key": "MESPAK01_0013_0124",
     "original": "もっている　バグプレートを　かくにん　できます",
-    "translation": "可以将持有的防虫板进行消毒",
+    "translation": "可以确认持有的故障板块",
     "stage": 0,
     "context": "机翻辅助：\n\n可以将持有的防虫板进行消毒\n\n你可以看到你的故障板。\n\n你可以确认你的臭虫板"
   },
   {
     "key": "MESPAK01_0013_0125",
     "original": "もっている　デジプレートを　かくにん　できます",
-    "translation": "可以将持有的数码板设定为通知",
+    "translation": "可以确认持有的数码板块",
     "stage": 0,
     "context": "机翻辅助：\n\n可以将持有的数码板设定为通知\n\n你可以看到你的数码板。\n\n可以确认所持有的数码板"
   },
   {
     "key": "MESPAK01_0013_0126",
     "original": "もっている　だいじなものを　かくにん　できます",
-    "translation": "我能够保护重要的东西",
+    "translation": "可以确认持有的重要物品",
     "stage": 0,
     "context": "机翻辅助：\n\n我能够保护重要的东西\n\n能够确认所拥有的重要的东西\n\n你所拥有的重要的东西。"
   },
   {
     "key": "MESPAK01_0013_0127",
     "original": "げんざい　うけている　クエストの　じょうほう　です",
-    "translation": "这是目前接到的任务情报",
+    "translation": "这是现在已接受的任务情报",
     "stage": 0,
     "context": "机翻辅助：\n\n这是目前接到的任务情报\n\n这是目前正在接受的任务信息\n\n是你现在的任务信息。"
   },
   {
     "key": "MESPAK01_0013_0128",
     "original": "かくにん　したい　じょうほうを　えらんで　ください",
-    "translation": "请选择想要的情报",
+    "translation": "请选择想要确认的情报",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要的情报\n\n请看确认信息\n\n请选择想确认的信息"
   },
   {
     "key": "MESPAK01_0013_0129",
     "original": "かくにん　したい　デジタマを　えらんで　ください",
-    "translation": "我想当忍者请选择要当哪颗蛋",
+    "translation": "请选择想要确认的数码蛋",
     "stage": 0,
     "context": "机翻辅助：\n\n我想当忍者请选择要当哪颗蛋\n\n想确认一下，请选择玉石。\n\n请选择想要确认的数码相机"
   },
   {
     "key": "MESPAK01_0013_0130",
     "original": "じょうほうを　かくにんしたい　デジモンを　えらんで　ください",
-    "translation": "请选择您想交换的数码宝贝",
+    "translation": "请选择想要确认情报的数码宝贝",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择您想交换的数码宝贝\n\n请选择想要确认信息的数码宝贝\n\n请选择你想确认信息的数码宝贝。"
   },
   {
     "key": "MESPAK01_0013_0131",
     "original": "デジモンの　いどうさきを　えらんで　ください",
-    "translation": "请选择你要前进的方向",
+    "translation": "请选择数码宝贝要移动到的位置",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择你要前进的方向\n\n请看一下数码宝贝的移动目的地\n\n请选择数码宝贝的移动地点。"
   },
   {
     "key": "MESPAK01_0013_0132",
     "original": "じょうほうをみたいワザを　えらんでください",
-    "translation": "请选择您想看的情报",
+    "translation": "请选择想要查看情报的招式",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择您想看的情报\n\n请选择想要获取信息的技巧\n\n请看一下情报"
   },
   {
     "key": "MESPAK01_0013_0133",
     "original": "メニューを　とじる",
-    "translation": "关掉选单。",
+    "translation": "关闭菜单",
     "stage": 0,
     "context": "机翻辅助：\n\n关掉选单。\n\n关闭菜单\n\n合上菜单"
   },
   {
     "key": "MESPAK01_0013_0134",
     "original": "デジモンの　じょうほうを　みる",
-    "translation": "看数码宝贝的资料",
+    "translation": "查看数码宝贝的情报",
     "stage": 0,
     "context": "机翻辅助：\n\n看数码宝贝的资料\n\n查看数码宝贝的信息\n\n看数码宝贝的情报"
   },
   {
     "key": "MESPAK01_0013_0135",
     "original": "デジモンを　いどう　させる",
-    "translation": "让数码宝贝进化",
+    "translation": "可以移动数码宝贝",
     "stage": 0,
     "context": "机翻辅助：\n\n让数码宝贝进化\n\n移动数码宝贝\n\n让数码宝贝行动"
   },
@@ -961,91 +961,91 @@
   {
     "key": "MESPAK01_0013_0137",
     "original": "ぶきを　そうびする",
-    "translation": "准备武器",
+    "translation": "装备武器",
     "stage": 0,
     "context": "机翻辅助：\n\n准备武器\n\n装备武器"
   },
   {
     "key": "MESPAK01_0013_0138",
     "original": "ぼうぐを　そうびする",
-    "translation": "穿上防护衣",
+    "translation": "装备防具",
     "stage": 0,
     "context": "机翻辅助：\n\n穿上防护衣\n\n装备武器\n\n配备防具"
   },
   {
     "key": "MESPAK01_0013_0139",
     "original": "さいきょうの　そうびにする",
-    "translation": "穿上最强的装备",
+    "translation": "装备最强的装备",
     "stage": 0,
     "context": "机翻辅助：\n\n穿上最强的装备\n\n作最新的准备\n\n使用最强的装备"
   },
   {
     "key": "MESPAK01_0013_0140",
     "original": "ぶきとぼうぐを　はずす",
-    "translation": "拔掉螺丝钉",
+    "translation": "移除武器和装备",
     "stage": 0,
     "context": "机翻辅助：\n\n拔掉螺丝钉\n\n卸下武器\n\n卸下武器和防具"
   },
   {
     "key": "MESPAK01_0013_0141",
     "original": "ぶきを　こうかんする",
-    "translation": "我来帮你拔罐。",
+    "translation": "交换武器",
     "stage": 0,
     "context": "机翻辅助：\n\n我来帮你拔罐。\n\n交换武器\n\n改装武器"
   },
   {
     "key": "MESPAK01_0013_0142",
     "original": "ぼうぐを　こうかんする",
-    "translation": "我来帮您补课",
+    "translation": "交换防具",
     "stage": 0,
     "context": "机翻辅助：\n\n我来帮您补课\n\n更换武器\n\n交换工具"
   },
   {
     "key": "MESPAK01_0013_0143",
     "original": "アイテムを　つかう",
-    "translation": "使用道具",
+    "translation": "使用物品",
     "stage": 0,
     "context": "机翻辅助：\n\n使用道具\n\n使用物品"
   },
   {
     "key": "MESPAK01_0013_0144",
     "original": "デジモンＮｏで　リストをソートする",
-    "translation": "以数码宝贝No排序清单",
+    "translation": "根据数码宝贝No排序列表",
     "stage": 0,
     "context": "机翻辅助：\n\n以数码宝贝No排序清单\n\n用数码宝贝No排序列表\n\n用数码宝贝No对列表进行排序"
   },
   {
     "key": "MESPAK01_0013_0145",
     "original": "なまえで　リストをソートする",
-    "translation": "以名字排序名单",
+    "translation": "根据名字排序列表",
     "stage": 0,
     "context": "机翻辅助：\n\n以名字排序名单\n\n按名称对列表排序\n\n按名字排列列表"
   },
   {
     "key": "MESPAK01_0013_0146",
     "original": "しゅるいで　リストをソートする",
-    "translation": "以顺序排序名单",
+    "translation": "根据种类排序列表",
     "stage": 0,
     "context": "机翻辅助：\n\n以顺序排序名单\n\n按类别对列表排序\n\n按种类对列表进行排序"
   },
   {
     "key": "MESPAK01_0013_0147",
     "original": "スキャンで　リストをソートする",
-    "translation": "以扫描排序清单",
+    "translation": "根据扫描度排序列表",
     "stage": 0,
     "context": "机翻辅助：\n\n以扫描排序清单\n\n用扫描对列表进行排序\n\n按扫描对列表排序"
   },
   {
     "key": "MESPAK01_0013_0148",
     "original": "せんとうの　ワザのいちを　みる",
-    "translation": "看战斗技的一招",
+    "translation": "查看战斗招式一览",
     "stage": 0,
     "context": "机翻辅助：\n\n看战斗技的一招\n\n观察战斗技巧的位置\n\n看一看老师的做派"
   },
   {
     "key": "MESPAK01_0013_0149",
     "original": "つよさ",
-    "translation": "强度",
+    "translation": "能力",
     "stage": 0,
     "context": "机翻辅助：\n\n强度\n\n坚强"
   },
@@ -1080,7 +1080,7 @@
   {
     "key": "MESPAK01_0013_0154",
     "original": "しょうひアイテム",
-    "translation": "道具",
+    "translation": "消耗品",
     "stage": 0,
     "context": "机翻辅助：\n\n道具\n\n消费项目\n\n消费品"
   },
@@ -1108,14 +1108,14 @@
   {
     "key": "MESPAK01_0013_0158",
     "original": "バグプレート",
-    "translation": "数字板",
+    "translation": "故障板块",
     "stage": 0,
     "context": "机翻辅助：\n\n数字板\n\n袋板\n\n故障板"
   },
   {
     "key": "MESPAK01_0013_0159",
     "original": "デジプレート",
-    "translation": "数字平板",
+    "translation": "数码板块",
     "stage": 0,
     "context": "机翻辅助：\n\n数字平板\n\n数字板\n\n数码牌"
   },
@@ -1136,14 +1136,14 @@
   {
     "key": "MESPAK01_0013_0162",
     "original": "デジタマずかん",
-    "translation": "数字蛋一览",
+    "translation": "数码蛋图鉴",
     "stage": 0,
     "context": "机翻辅助：\n\n数字蛋一览\n\n数码图鉴\n\n数字管"
   },
   {
     "key": "MESPAK01_0013_0163",
     "original": "デジモンずかん",
-    "translation": "数码宝贝一览",
+    "translation": "数码宝贝图鉴",
     "stage": 0,
     "context": "机翻辅助：\n\n数码宝贝一览\n\n数码图鉴\n\n数码宝贝"
   },
@@ -1206,7 +1206,7 @@
   {
     "key": "MESPAK01_0013_0172",
     "original": "デジプレートじょうほう",
-    "translation": "数码车牌资讯",
+    "translation": "数码板块情报",
     "stage": 0,
     "context": "机翻辅助：\n\n数码车牌资讯\n\n数字板信息\n\n数码信息"
   },
@@ -1227,21 +1227,21 @@
   {
     "key": "MESPAK01_0013_0175",
     "original": "せいそくち",
-    "translation": "声明",
+    "translation": "栖息地",
     "stage": 0,
     "context": "机翻辅助：\n\n声明\n\n栖息地\n\n静止地"
   },
   {
     "key": "MESPAK01_0013_0176",
     "original": "なかまにしたテイマー",
-    "translation": "同伴驯兽师",
+    "translation": "成为同伴时的驯兽师",
     "stage": 0,
     "context": "机翻辅助：\n\n同伴驯兽师\n\n成为伙伴的定员\n\n伙伴风味"
   },
   {
     "key": "MESPAK01_0013_0177",
     "original": "そうぐうしたかず",
-    "translation": "捕捉数量",
+    "translation": "遭遇数量",
     "stage": 0,
     "context": "机翻辅助：\n\n捕捉数量\n\n对偶曲线\n\n遇到的数量"
   },
@@ -1255,42 +1255,42 @@
   {
     "key": "MESPAK01_0013_0179",
     "original": "ふめい",
-    "translation": "解除",
+    "translation": "不明",
     "stage": 0,
     "context": "机翻辅助：\n\n解除\n\n不明\n\n不清楚"
   },
   {
     "key": "MESPAK01_0013_0180",
     "original": "みちを　ふさいでいる\nおおいわを　とりのぞける",
-    "translation": "堵住道路\n移除大浪",
+    "translation": "去除挡住道路的大岩石",
     "stage": 0,
     "context": "机翻辅助：\n\n堵住道路\n移除大浪\n\n把堵在路上的大轮拆掉\n\n\n拦路"
   },
   {
     "key": "MESPAK01_0013_0181",
     "original": "みちを　ふさいでいる\nたいぼくを　とりのぞける",
-    "translation": "堵住道路\n移除火灾",
+    "translation": "去除挡住道路的大树",
     "stage": 0,
     "context": "机翻辅助：\n\n堵住道路\n移除火灾\n\n挡住了去路\n\n\n清除堵在路上的大树"
   },
   {
     "key": "MESPAK01_0013_0182",
     "original": "みちを　ふさいでいる\nこおりを　とりのぞける",
-    "translation": "堵住道路\n移除冰冻",
+    "translation": "去除挡住道路的冰块",
     "stage": 0,
     "context": "机翻辅助：\n\n堵住道路\n移除冰冻\n\n清除堵塞道路的冰块\n\n\n拦路"
   },
   {
     "key": "MESPAK01_0013_0183",
     "original": "おおあなを　とおって\nちちゅうに　いける",
-    "translation": "通过大穴\n前往地球",
+    "translation": "穿过大洞\n进入地底",
     "stage": 0,
     "context": "机翻辅助：\n\n通过大穴\n前往地球\n\n穿过大洞\n可以到地下\n\n穿过大洞，可以进去"
   },
   {
     "key": "MESPAK01_0013_0184",
     "original": "いずみに　もぐって\nかいちゅうに　いける",
-    "translation": "潜入水底\n前往海底",
+    "translation": "潜入水底\n进入海底",
     "stage": 0,
     "context": "机翻辅助：\n\n潜入水底\n前往海底\n\n潜入泉水\n可以进入海里\n\n钻进泉里去"
   },
@@ -1311,14 +1311,14 @@
   {
     "key": "MESPAK01_0013_0187",
     "original": "ちけいボード",
-    "translation": "告示板",
+    "translation": "地形板",
     "stage": 0,
     "context": "机翻辅助：\n\n告示板\n\n地形板"
   },
   {
     "key": "MESPAK01_0013_0188",
     "original": "ＢＧＭボード",
-    "translation": "背景音乐板",
+    "translation": "BGM板",
     "stage": 0,
     "context": "机翻辅助：\n\n背景音乐板\n\n背景音乐\n\nBGM板"
   },
@@ -1332,7 +1332,7 @@
   {
     "key": "MESPAK01_0013_0190",
     "original": "ボードレベル",
-    "translation": "白板等级",
+    "translation": "板等级",
     "stage": 0,
     "context": "机翻辅助：\n\n白板等级\n\n棋盘级\n\n板级"
   },
@@ -1346,126 +1346,126 @@
   {
     "key": "MESPAK01_0013_0192",
     "original": "このファーム島で　くらしている\nデジモンたちです",
-    "translation": "在这座方舟岛上生活的\n数码宝贝们",
+    "translation": "在这座农场岛上生息的\n数码宝贝们",
     "stage": 0,
     "context": "机翻辅助：\n\n在这座方舟岛上生活的\n数码宝贝们\n\n在这个农场岛上生活的\n数码宝贝。\n\n是在这个农场岛生活的数码宝贝们"
   },
   {
     "key": "MESPAK01_0013_0193",
     "original": "このファーム島に　セットした\nファームグッズのいちらんです",
-    "translation": "设置在这座方舟岛上的\n方舟周边商品",
+    "translation": "设置在这座农场岛上的\n农场道具一览",
     "stage": 0,
     "context": "机翻辅助：\n\n设置在这座方舟岛上的\n方舟周边商品\n\n这是在这个农场岛设置的\n农场商品\n\n这是我在这个农场岛上的农场用品。"
   },
   {
     "key": "MESPAK01_0013_0194",
     "original": "ちけいボード　^0　の\nせいのうです",
-    "translation": "是公仔^0的\n设定",
+    "translation": "这是地形版^0的\n性能",
     "stage": 0,
     "context": "机翻辅助：\n\n是公仔^0的\n设定\n\n地形板^0的\n性能。\n\n这是^0的智能板"
   },
   {
     "key": "MESPAK01_0013_0195",
     "original": "ＢＧＭボード　^0　の\nせいのうです",
-    "translation": "是背景音乐^0的\n设定",
+    "translation": "这是BGM板^0的\n性能",
     "stage": 0,
     "context": "机翻辅助：\n\n是背景音乐^0的\n设定\n\n背景音乐板^0的\n性能。\n\nBGM板^0的\n性能"
   },
   {
     "key": "MESPAK01_0013_0196",
     "original": "このファーム島で　１日にえられる\nけいけんちの　ごうけいりょうです",
-    "translation": "在这座方舟岛上一天可以获得\n经验值的公式",
+    "translation": "在这座农场岛上一天可以获得\n经验值的合计量",
     "stage": 0,
     "context": "机翻辅助：\n\n在这座方舟岛上一天可以获得\n经验值的公式\n\n在这个农场岛上一天能得到的\n经验地的总和。\n\n这是在这个农场岛一天能得到的"
   },
   {
     "key": "MESPAK01_0013_0197",
     "original": "データをよみこめませんでした\nでんげんをきって、カードをさしこみなおしてください",
-    "translation": "无法读取资料\n请依照设定重新插入卡片",
+    "translation": "无法读取数据，\n请切断电源并重新插入卡带。",
     "stage": 0,
     "context": "机翻辅助：\n\n无法读取资料\n请依照设定重新插入卡片\n\n无法读取数据\n请切断电源重新插入卡\n\n无法读取数据。请切断电源，重新插卡。"
   },
   {
     "key": "MESPAK01_0013_0198",
     "original": "データをかきこめませんでした\nでんげんをきって、カードをさしこみなおしてください",
-    "translation": "无法读取资料\n请依照设定重新插入卡片",
+    "translation": "无法写入数据，\n请切断电源并重新插入卡带。",
     "stage": 0,
     "context": "机翻辅助：\n\n无法读取资料\n请依照设定重新插入卡片\n\n没有写入数据\n请切断电源，重新插入卡\n\n没有填写数据。请切断电源，重新插卡。"
   },
   {
     "key": "MESPAK01_0013_0199",
     "original": "データをよみこめませんでした\nでんげんをきって、カードをさしこみなおしてください",
-    "translation": "无法读取资料\n请依照设定重新插入卡片",
+    "translation": "无法读取数据，\n请切断电源并重新插入卡带。",
     "stage": 0,
     "context": "机翻辅助：\n\n无法读取资料\n请依照设定重新插入卡片\n\n无法读取数据\n请切断电源重新插入卡\n\n无法读取数据。请切断电源，重新插卡。"
   },
   {
     "key": "MESPAK01_0013_0200",
     "original": "パーティにいる　デジモンは\nこうかんすることが　できません",
-    "translation": "在队伍里的数码宝贝\n无法进行进化",
+    "translation": "在队伍里的数码宝贝\n无法进行交换",
     "stage": 0,
     "context": "机翻辅助：\n\n在队伍里的数码宝贝\n无法进行进化\n\n在队伍上的数码宝贝是\n不能做的\n\n队伍上的数码宝贝是不能交换的。"
   },
   {
     "key": "MESPAK01_0013_0201",
     "original": "デジタマは　こうかんすることが\nできません",
-    "translation": "数字蛋无法进行进化\n",
+    "translation": "数码蛋无法进行交换",
     "stage": 0,
     "context": "机翻辅助：\n\n数字蛋无法进行进化\n\n\n数码是不能交换的。\n\n\n数码相机不能做"
   },
   {
     "key": "MESPAK01_0013_0202",
     "original": "しゅぎょうちゅうの　デジモンは\nこうかんすることが　できません",
-    "translation": "在修练中的数码宝贝\n无法进行进化",
+    "translation": "在修行中的数码宝贝\n无法进行交换",
     "stage": 0,
     "context": "机翻辅助：\n\n在修练中的数码宝贝\n无法进行进化\n\n主行中的数码宝贝\n不能做\n\n课堂上的数码门\n不能交换。"
   },
   {
     "key": "MESPAK01_0013_0203",
     "original": "おねがいクエストちゅうの　デジモンは\nこうかんすることが　できません",
-    "translation": "在任务中的数码宝贝\n无法进行进化",
+    "translation": "在请求任务中的数码宝贝\n无法进行交换",
     "stage": 0,
     "context": "机翻辅助：\n\n在任务中的数码宝贝\n无法进行进化\n\n拜托，任务中的数码宝贝不能交换\n\n\n请求任务中的数码宝贝\n不能做"
   },
   {
     "key": "MESPAK01_0013_0204",
     "original": "おしごとちゅうの　デジモンは\nこうかんすることが　できません",
-    "translation": "在工作中的数码宝贝\n无法进行进化",
+    "translation": "在工作中的数码宝贝\n无法进行交换",
     "stage": 0,
     "context": "机翻辅助：\n\n在工作中的数码宝贝\n无法进行进化\n\n工作中的数码宝贝不能交换\n\n\n您的数码宝贝\n不能下降"
   },
   {
     "key": "MESPAK01_0013_0205",
     "original": "パーティにいる　デジモンは\nしゅぎょうにだすことが　できません",
-    "translation": "队伍里的数码宝贝\n无法出战",
+    "translation": "在队伍里的数码宝贝\n无法派出修行",
     "stage": 0,
     "context": "机翻辅助：\n\n队伍里的数码宝贝\n无法出战\n\n队伍上的数码宝贝\n不能拿出来上课\n\n在队伍上的数码宝贝不能出场"
   },
   {
     "key": "MESPAK01_0013_0206",
     "original": "デジタマは　しゅぎょうにだすことが\nできません",
-    "translation": "数码蛋\n无法出战",
+    "translation": "数码蛋无法派出修行",
     "stage": 0,
     "context": "机翻辅助：\n\n数码蛋\n无法出战\n\n数码相机不能上市\n\n\n所以我不能去修行。"
   },
   {
     "key": "MESPAK01_0013_0207",
     "original": "しゅぎょうちゅうの　デジモンは\nしゅぎょうにだすことが　できません",
-    "translation": "战斗中的数码宝贝\n无法出战",
+    "translation": "在修行中的数码宝贝\n无法派出修行",
     "stage": 0,
     "context": "机翻辅助：\n\n战斗中的数码宝贝\n无法出战\n\n主行中的数码宝贝\n不能上市\n\n学习中的数码门\n你不能拿出来。"
   },
   {
     "key": "MESPAK01_0013_0208",
     "original": "おねがいクエストちゅうの　デジモンは\nしゅぎょうにだすことが　できません",
-    "translation": "任务中的数码宝贝\n无法出战",
+    "translation": "在请求任务中的数码宝贝\n无法派出修行",
     "stage": 0,
     "context": "机翻辅助：\n\n任务中的数码宝贝\n无法出战\n\n请求任务中的数码宝贝\n不能出任务\n\n拜托了，任务中的数码宝贝不能去修行。"
   },
   {
     "key": "MESPAK01_0013_0209",
     "original": "おしごとちゅうの　デジモンは\nしゅぎょうにだすことが　できません",
-    "translation": "工作中的数码宝贝\n无法出战",
+    "translation": "在工作中的数码宝贝\n无法派出修行",
     "stage": 0,
     "context": "机翻辅助：\n\n工作中的数码宝贝\n无法出战\n\n您的数码宝贝\n不能上市\n\n工作中的数码宝贝不能用来修行。"
   },
@@ -1479,21 +1479,21 @@
   {
     "key": "MESPAK01_0013_0211",
     "original": "しゅぎょうにだす",
-    "translation": "出战",
+    "translation": "派出修行",
     "stage": 0,
     "context": "机翻辅助：\n\n出战\n\n上市\n\n外出修行"
   },
   {
     "key": "MESPAK01_0013_0212",
     "original": "こうかんにだす",
-    "translation": "观战",
+    "translation": "派出交换",
     "stage": 0,
     "context": "机翻辅助：\n\n观战\n\n交给交换"
   },
   {
     "key": "MESPAK01_0013_0213",
     "original": "こうかんします",
-    "translation": "取消观战",
+    "translation": "进行交换",
     "stage": 0,
     "context": "机翻辅助：\n\n取消观战\n\n交换，交换\n\n交换。"
   },
@@ -1507,98 +1507,98 @@
   {
     "key": "MESPAK01_0013_0215",
     "original": "あいてのデジモン",
-    "translation": "敌方的数码宝贝",
+    "translation": "对手的数码宝贝",
     "stage": 0,
     "context": "机翻辅助：\n\n敌方的数码宝贝\n\n对方的数码宝贝\n\n爱的数码宝贝"
   },
   {
     "key": "MESPAK01_0013_0216",
     "original": "しばらくおまちください",
-    "translation": "请稍候片刻",
+    "translation": "请稍等片刻",
     "stage": 0,
     "context": "机翻辅助：\n\n请稍候片刻\n\n请稍等片刻\n\n请稍等一会儿"
   },
   {
     "key": "MESPAK01_0013_0217",
     "original": "つうしんあいてのへんとうまちです",
-    "translation": "连线对象的位置。",
+    "translation": "等待连接对象的回复",
     "stage": 0,
     "context": "机翻辅助：\n\n连线对象的位置。\n\n等待对方的回复。\n\n这是通讯员的转头站"
   },
   {
     "key": "MESPAK01_0013_0218",
     "original": "デジモンのこうかんがキャンセルされました",
-    "translation": "数码宝贝的观战取消",
+    "translation": "取消数码宝贝的交换",
     "stage": 0,
     "context": "机翻辅助：\n\n数码宝贝的观战取消\n\n数码宝贝的交换被取消了。\n\n数码宝贝的交换被取消了"
   },
   {
     "key": "MESPAK01_0013_0219",
     "original": "デジモンをこうかんしています",
-    "translation": "正在搜寻适合的数码宝贝。",
+    "translation": "数码宝贝已交换",
     "stage": 0,
     "context": "机翻辅助：\n\n正在搜寻适合的数码宝贝。\n\n正在交换数码宝贝\n\n来交换数码宝贝。"
   },
   {
     "key": "MESPAK01_0013_0220",
     "original": "しゅぎょうにだしました",
-    "translation": "出战了",
+    "translation": "已派出修行了",
     "stage": 0,
     "context": "机翻辅助：\n\n出战了\n\n上工了\n\n去进修了。"
   },
   {
     "key": "MESPAK01_0013_0221",
     "original": "セーブちゅうです\nでんげんを　きらないでください",
-    "translation": "正在存档\n请勿按压电源",
+    "translation": "正在保存，\n请勿切断电源。",
     "stage": 0,
     "context": "机翻辅助：\n\n正在存档\n请勿按压电源\n\n请不要使用电源\n\n\n保存中。请不要切断电源。"
   },
   {
     "key": "MESPAK01_0013_0222",
     "original": "セーブしました",
-    "translation": "存档了",
+    "translation": "保存完毕。",
     "stage": 0,
     "context": "机翻辅助：\n\n存档了\n\n救了下来。\n\n已保存"
   },
   {
     "key": "MESPAK01_0013_0223",
     "original": "しゅぎょうにでていません",
-    "translation": "尚未出战",
+    "translation": "尚未修行",
     "stage": 0,
     "context": "机翻辅助：\n\n尚未出战\n\n不在上班\n\n我没有去学习。"
   },
   {
     "key": "MESPAK01_0013_0224",
     "original": "しゅぎょうからもどってきました",
-    "translation": "从战斗中回来了",
+    "translation": "从修行中返回了",
     "stage": 0,
     "context": "机翻辅助：\n\n从战斗中回来了\n\n学成归来。\n\n我从工厂回来了"
   },
   {
     "key": "MESPAK01_0013_0225",
     "original": "こうかんできました",
-    "translation": "重新连线成功。",
+    "translation": "交换成功",
     "stage": 0,
     "context": "机翻辅助：\n\n重新连线成功。\n\n交换完成了\n\n我们交换了。"
   },
   {
     "key": "MESPAK01_0013_0226",
     "original": "しゅぎょうにだす　がキャンセルされました",
-    "translation": "出战取消了",
+    "translation": "取消派出修行",
     "stage": 0,
     "context": "机翻辅助：\n\n出战取消了\n\n虽然要去上班，但是取消了\n\n我要去上课，但被取消了。"
   },
   {
     "key": "MESPAK01_0013_0227",
     "original": "しゅぎょうからもどす　がキャンセルされました",
-    "translation": "从战斗中回来取消了",
+    "translation": "取消从修行中返回",
     "stage": 0,
     "context": "机翻辅助：\n\n从战斗中回来取消了\n\n我的课程被取消了。\n\n从业务返回已取消"
   },
   {
     "key": "MESPAK01_0013_0228",
     "original": "^0　と　^1を\nこうかんしても　よろしいですか？",
-    "translation": "可以\n让^0和^1对战吗？",
+    "translation": "让^0和^1\n进行交换可以吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n可以\n让^0和^1对战吗？\n\n^0和^1\n可以交换吗？\n\n可以交换^0和^1吗？"
   },
@@ -1619,7 +1619,7 @@
   {
     "key": "MESPAK01_0013_0231",
     "original": "こうかんをつづけますか？",
-    "translation": "要继续观战吗？",
+    "translation": "要继续交换吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n要继续观战吗？\n\n继续交换吗？"
   },
@@ -1640,7 +1640,7 @@
   {
     "key": "MESPAK01_0013_0234",
     "original": "^0　を\nしゅぎょうにだしても　よろしいですか？",
-    "translation": "可以\n让^0出战吗？",
+    "translation": "让^0\n派出修行可以吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n可以\n让^0出战吗？\n\n^0\n可以拿去修行吗？\n\n可以把^0送出去吗？"
   },
@@ -1661,7 +1661,7 @@
   {
     "key": "MESPAK01_0013_0237",
     "original": "^0　を　^1に\nかえしても　よろしいですか？",
-    "translation": "要让^0回到^1里吗？\n",
+    "translation": "让^0回到^1这边\n可以吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n要让^0回到^1里吗？\n\n\n可以把^0换成^1吗？\n\n\n可以把^0还给^1吗？"
   },
@@ -1682,7 +1682,7 @@
   {
     "key": "MESPAK01_0013_0240",
     "original": "つうしんを　しゅうりょうしても\nよろしいですか？",
-    "translation": "要回收通讯机\n吗？",
+    "translation": "即将结束连接，\n可以吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n要回收通讯机\n吗？\n\n即使结束通信\n也可以吗？\n\n可以通信吗？"
   },

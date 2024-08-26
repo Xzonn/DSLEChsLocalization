@@ -2,175 +2,175 @@
   {
     "key": "MESPAK01_0000_0000",
     "original": "デジベースだよ！　ボクたちが\nあんしんできる　ばしょさ！",
-    "translation": "是数码基地！我们\n安心的地方！",
+    "translation": "是数码基地！ 能让我们\n感到安心的地方！",
     "stage": 0,
     "context": "机翻辅助：\n\n是数码基地！我们\n安心的地方！\n\n数码基地！让我们\n安心的地方！\n\n是数码贝司哟！我们能放心的话就好了！"
   },
   {
     "key": "MESPAK01_0000_0001",
     "original": "ミギが　ログインマウンテン\nヒダリが　パケットコーストだね！",
-    "translation": "米吉是登入高峰山\n右利是封包海岸呢！",
+    "translation": "右边是是登录山脉，\n左边是数据包海岸呢！",
     "stage": 0,
     "context": "机翻辅助：\n\n米吉是登入高峰山\n右利是封包海岸呢！\n\n希达利是一个信息包海岸\nMigi登录山！\n\n右边是登录山\n左边是数据包海岸！"
   },
   {
     "key": "MESPAK01_0000_0002",
     "original": "チップフォレストの　となりに\nパッチプレーリーが　あるね",
-    "translation": "在森林的旁边\n有大草原呢",
+    "translation": "在芯片森林的旁边\n有补丁大草原呢。",
     "stage": 0,
     "context": "机翻辅助：\n\n在森林的旁边\n有大草原呢\n\n在芯片森林的旁边有一个修补程序\n\n\n在chipforest旁边有一个patchplayly。"
   },
   {
     "key": "MESPAK01_0000_0003",
     "original": "ラベルフォレストに\nおりる　ポートだね",
-    "translation": "是标签森林的\n下船港口呢。",
+    "translation": "有能降落到标记森林的\n端口呢。",
     "stage": 0,
     "context": "机翻辅助：\n\n是标签森林的\n下船港口呢。\n\n标签森林\n是下港口。\n\n这是标签森林里的港口"
   },
   {
     "key": "MESPAK01_0000_0004",
     "original": "ループぬまは　ノースマリンに\nつながっているよ",
-    "translation": "循环海与北大西洋\n相连哦",
+    "translation": "循环沼泽与北海\n相连哦。",
     "stage": 0,
     "context": "机翻辅助：\n\n循环海与北大西洋\n相连哦\n\n环缝连接着NorthMarine\n\n\n环沼与北马林相连。"
   },
   {
     "key": "MESPAK01_0000_0005",
     "original": "ログインマウンテンから\nつながる　こうざんだよ！",
-    "translation": "从登入大雪山来到\n相连的金矿山喽！",
+    "translation": "从登录山脉来到\n相连的矿山喽！",
     "stage": 0,
     "context": "机翻辅助：\n\n从登入大雪山来到\n相连的金矿山喽！\n\n从登录山\n连接起来！\n\n从登录山\n连接的高山哟！"
   },
   {
     "key": "MESPAK01_0000_0006",
     "original": "パレットアマゾンだね！\nサウスブリッジの　いりぐちだよ",
-    "translation": "是调色盘亚马逊！\n南桥的入江",
+    "translation": "是调色板亚马逊！\n南桥的入口哦。",
     "stage": 0,
     "context": "机翻辅助：\n\n是调色盘亚马逊！\n南桥的入江\n\n调色板亚马逊！\n是南桥的入口哦\n\n调色板亚马逊啊！南桥的入口。"
   },
   {
     "key": "MESPAK01_0000_0007",
     "original": "テイマータウンのデジポートだね\nつうしんプレイでもする？",
-    "translation": "要回驯兽师城镇的数码港湾吗\n要来玩通讯游戏吗？",
+    "translation": "是驯兽师镇的数码端口。\n也能进行连接游玩？",
     "stage": 0,
     "context": "机翻辅助：\n\n要回驯兽师城镇的数码港湾吗\n要来玩通讯游戏吗？\n\n是泰马镇的数码港吧\n要不要玩个通讯游戏？\n\n是Taimatown的数码港吧？"
   },
   {
     "key": "MESPAK01_0000_0008",
     "original": "レジスタジャングルは\nリミットバレーと　つながってるよ",
-    "translation": "注册舞厅和\n极限沙滩是相连的哦。",
+    "translation": "寄存器丛林和\n限制山谷是相连的哦。",
     "stage": 0,
     "context": "机翻辅助：\n\n注册舞厅和\n极限沙滩是相连的哦。\n\n寄存器丛林\n连接到极限谷\n\n寄存器丛林和极限谷相连。"
   },
   {
     "key": "MESPAK01_0000_0009",
     "original": "ミギが　パレスラボラトリー\nヒダリが　リミットバレーだね！",
-    "translation": "米吉是帕雷史研究室\n右翼的极限排球呢！",
+    "translation": "右边是宫殿研究所，\n左边是限制山谷呢！",
     "stage": 0,
     "context": "机翻辅助：\n\n米吉是帕雷史研究室\n右翼的极限排球呢！\n\n右边是皇宫实验室\n左边是极限谷！\n\n米吉是巴勒斯拉波拉特里\n希达利是极限排球！"
   },
   {
     "key": "MESPAK01_0000_0010",
     "original": "サウスケイブから　つながる\nピクセルさばくの　ポートだね",
-    "translation": "从南洞窟连接的\n是处理像素的埠口呢。",
+    "translation": "从南方洞穴连接的\n是像素沙漠的端口呢。",
     "stage": 0,
     "context": "机翻辅助：\n\n从南洞窟连接的\n是处理像素的埠口呢。\n\n这是一个从南凯富连接的\n像素处理端口\n\n这是像素沙漠的端口。"
   },
   {
     "key": "MESPAK01_0000_0011",
     "original": "シャドウヘルって\nサウスケイブから　いくんだって！",
-    "translation": "听说从\n南洞窟出发的话，就能前往暗影地狱！",
+    "translation": "暗影地狱的话，\n要从南方洞穴进入！",
     "stage": 0,
     "context": "机翻辅助：\n\n听说从\n南洞窟出发的话，就能前往暗影地狱！\n\n阴影赫尔是从南凯富开始的！\n\n\n听说要从左楼梯去！"
   },
   {
     "key": "MESPAK01_0000_0012",
     "original": "グラボケイブの　おおあながあるよ\nウィザードテンプルにいけるみたい",
-    "translation": "显卡洞窟有大洞哦\n好像可以到魔法师神庙。",
+    "translation": "显卡洞穴有个大洞哦。\n好像可以进入巫师神殿。",
     "stage": 0,
     "context": "机翻辅助：\n\n显卡洞窟有大洞哦\n好像可以到魔法师神庙。\n\n这里有格拉博警部的大洞。\n我想去巫师圣殿。\n\n好像可以去向导寺庙"
   },
   {
     "key": "MESPAK01_0000_0013",
     "original": "ミギが　タスクキャニオン\nヒダリが　アクセスひょうがだね！",
-    "translation": "米吉有任务峡谷\n左利者的存取率很高！",
+    "translation": "右边是任务峡谷，\n左边是访问冰河呢！",
     "stage": 0,
     "context": "机翻辅助：\n\n米吉有任务峡谷\n左利者的存取率很高！\n\n米吉的任务峡谷\n希达利访问表！\n\n右边是任务峡谷\n左边是访问冰河！"
   },
   {
     "key": "MESPAK01_0000_0014",
     "original": "グラボマリンの　いずみが　あるよ\nアングラトンネルに　いけるみたい",
-    "translation": "显卡海洋有IDZ哦\n好像可以到匿名隧道。",
+    "translation": "显卡海洋有泉水哦。\n好像可以进入地下隧道。",
     "stage": 0,
     "context": "机翻辅助：\n\n显卡海洋有IDZ哦\n好像可以到匿名隧道。\n\n有格拉博马林的泉水哦\n想去安格拉隧道\n\n好像可以去地下隧道"
   },
   {
     "key": "MESPAK01_0000_0015",
     "original": "どこかに　グラボマリンの\nいずみが　あるみたいだね～！",
-    "translation": "好象哪里有格莱巴斯海洋的\n泉～！",
+    "translation": "好像在显卡海洋的某处\n有泉水呢～！",
     "stage": 0,
     "context": "机翻辅助：\n\n好象哪里有格莱巴斯海洋的\n泉～！\n\n好像哪里有grabomarine的\n泉水呢～！\n\n好像有IDZ在某处～！"
   },
   {
     "key": "MESPAK01_0000_0016",
     "original": "アングラトンネルは\nグラボマリンと　つながってるよ",
-    "translation": "安格拉隧道\n和格拉沃马林相连哦",
+    "translation": "地下隧道与\n显卡海洋相连哦。",
     "stage": 0,
     "context": "机翻辅助：\n\n安格拉隧道\n和格拉沃马林相连哦\n\n匿名隧道和显卡海洋连接着哦。\n\n\n隧道与grabomarine相连。"
   },
   {
     "key": "MESPAK01_0000_0017",
     "original": "ウィザードテンプル！\nグラボケイブと　つながってるよ",
-    "translation": "向导寺庙！\n和格拉波凯夫相连哦",
+    "translation": "巫师神殿！\n与显卡洞穴相连哦。",
     "stage": 0,
     "context": "机翻辅助：\n\n向导寺庙！\n和格拉波凯夫相连哦\n\n圣女圣殿！\n和格拉博警官有联系。\n\n魔法师神庙！和显卡洞窟连接着哦。"
   },
   {
     "key": "MESPAK01_0000_0018",
     "original": "グラボセントラルは　このポート\nからしか　はいれないみたい",
-    "translation": "grabocentral好像只有这个端口\n才能进去",
+    "translation": "显卡中心好像只有从这个端口\n才能进去。",
     "stage": 0,
     "context": "机翻辅助：\n\ngrabocentral好像只有这个端口\n才能进去\n\n显卡中央机好像只能从这个端口进入。\n\n\n格拉沃中央好像只能从这个港口进入"
   },
   {
     "key": "MESPAK01_0000_0019",
     "original": "リスクケイブの　おおあなが\nどこかに　あるんだって…",
-    "translation": "迷宫洞窟的大洞\n好像在某处……",
+    "translation": "风险洞穴的某处\n好像有一个大洞……",
     "stage": 0,
     "context": "机翻辅助：\n\n迷宫洞窟的大洞\n好像在某处……\n\n风险警部的大洞\n据说在哪里……\n\n风险凯布的你\n听说在哪里……"
   },
   {
     "key": "MESPAK01_0000_0020",
     "original": "クロンこうざんの\nおくにある　ポートだね～",
-    "translation": "这是库伦矿山\n里面的港口啊～",
+    "translation": "铬合金矿山的深处\n有端口啊～",
     "stage": 0,
     "context": "机翻辅助：\n\n这是库伦矿山\n里面的港口啊～\n\n在克隆空山的深处的端口～\n\n\n克伦高山的深处有个港口。"
   },
   {
     "key": "MESPAK01_0000_0021",
     "original": "クラスデザートにある\nポートみたいだよ～",
-    "translation": "班级甜点里有\n像端口一样哦～",
+    "translation": "类别沙漠里\n好像有端口哦～",
     "stage": 0,
     "context": "机翻辅助：\n\n班级甜点里有\n像端口一样哦～\n\n像是class des甜点里的\n端口哦～\n\n好像在班级甜点的端口哦～"
   },
   {
     "key": "MESPAK01_0000_0022",
     "original": "どこに　いどうする？",
-    "translation": "要到哪里？",
+    "translation": "要移动到哪里？",
     "stage": 0,
     "context": "机翻辅助：\n\n要到哪里？\n\n在哪里怎么办？\n\n去哪里？"
   },
   {
     "key": "MESPAK01_0000_0023",
     "original": "ベースポート",
-    "translation": "基本端口",
+    "translation": "基地端口",
     "stage": 0,
     "context": "机翻辅助：\n\n基本端口"
   },
   {
     "key": "MESPAK01_0000_0024",
     "original": "ログインポート",
-    "translation": "登入端口",
+    "translation": "登录端口",
     "stage": 0,
     "context": "机翻辅助：\n\n登入端口\n\n日志导入\n\n登录端口"
   },
@@ -184,7 +184,7 @@
   {
     "key": "MESPAK01_0000_0026",
     "original": "ラベルポート",
-    "translation": "标签端口",
+    "translation": "标记端口",
     "stage": 0,
     "context": "机翻辅助：\n\n标签端口"
   },
@@ -198,7 +198,7 @@
   {
     "key": "MESPAK01_0000_0028",
     "original": "マグネポート",
-    "translation": "磁极端口",
+    "translation": "磁力端口",
     "stage": 0,
     "context": "机翻辅助：\n\n磁极端口\n\n磁端口"
   },
@@ -247,70 +247,70 @@
   {
     "key": "MESPAK01_0000_0035",
     "original": "タスクポートＮ",
-    "translation": "任务端口N",
+    "translation": "任务端口北",
     "stage": 0,
     "context": "机翻辅助：\n\n任务端口N"
   },
   {
     "key": "MESPAK01_0000_0036",
     "original": "タスクポートＳ",
-    "translation": "任务端口S",
+    "translation": "任务端口南",
     "stage": 0,
     "context": "机翻辅助：\n\n任务端口S"
   },
   {
     "key": "MESPAK01_0000_0037",
     "original": "スリラーポートＥ",
-    "translation": "刺激端口E",
+    "translation": "刺激端口东",
     "stage": 0,
     "context": "机翻辅助：\n\n刺激端口E\n\n惊险端口E\n\n惊悚港E"
   },
   {
     "key": "MESPAK01_0000_0038",
     "original": "スリラーポートＷ",
-    "translation": "刺激端口W",
+    "translation": "刺激端口西",
     "stage": 0,
     "context": "机翻辅助：\n\n刺激端口W\n\n惊悚港W\n\n惊险端口W"
   },
   {
     "key": "MESPAK01_0000_0039",
     "original": "アクセスポートＳ",
-    "translation": "存取端口N",
+    "translation": "访问端口南",
     "stage": 0,
     "context": "机翻辅助：\n\n存取端口N\n\n访问端口S\n\n接入端口S"
   },
   {
     "key": "MESPAK01_0000_0040",
     "original": "アクセスポートＮ",
-    "translation": "存取端口S",
+    "translation": "访问端口北",
     "stage": 0,
     "context": "机翻辅助：\n\n存取端口S\n\n访问端口N\n\n接入端口N"
   },
   {
     "key": "MESPAK01_0000_0041",
     "original": "プロキシポートＷ",
-    "translation": "代理端口W",
+    "translation": "代理端口西",
     "stage": 0,
     "context": "机翻辅助：\n\n代理端口W"
   },
   {
     "key": "MESPAK01_0000_0042",
     "original": "プロキシポートＥ",
-    "translation": "代理端口E",
+    "translation": "代理端口东",
     "stage": 0,
     "context": "机翻辅助：\n\n代理端口E"
   },
   {
     "key": "MESPAK01_0000_0043",
     "original": "アングラポート",
-    "translation": "匿名端口",
+    "translation": "地下端口",
     "stage": 0,
     "context": "机翻辅助：\n\n匿名端口\n\n安格拉波特\n\n地下口"
   },
   {
     "key": "MESPAK01_0000_0044",
     "original": "ウィザードポート",
-    "translation": "魔法师端口",
+    "translation": "巫师端口",
     "stage": 0,
     "context": "机翻辅助：\n\n魔法师端口\n\n向导端口\n\n威瑟德港"
   },
@@ -324,21 +324,21 @@
   {
     "key": "MESPAK01_0000_0046",
     "original": "リスクポート",
-    "translation": "迷宫端口",
+    "translation": "风险端口",
     "stage": 0,
     "context": "机翻辅助：\n\n迷宫端口\n\n风险端口"
   },
   {
     "key": "MESPAK01_0000_0047",
     "original": "クロンポート",
-    "translation": "克隆端口",
+    "translation": "铬合金端口",
     "stage": 0,
     "context": "机翻辅助：\n\n克隆端口\n\n克朗波特"
   },
   {
     "key": "MESPAK01_0000_0048",
     "original": "クラスポート",
-    "translation": "班级端口",
+    "translation": "类别端口",
     "stage": 0,
     "context": "机翻辅助：\n\n班级端口\n\n类端口\n\n克拉斯端口"
   },
@@ -366,35 +366,35 @@
   {
     "key": "MESPAK01_0000_0052",
     "original": "せいそくしゅるい",
-    "translation": "栖息物种",
+    "translation": "栖息种类",
     "stage": 1,
     "context": "机翻辅助：\n\n选择服务器\n\n正则物种\n\n栖息种类"
   },
   {
     "key": "MESPAK01_0000_0053",
     "original": "このポートに\nいどうしますか？",
-    "translation": "这个端口\n怎么办？",
+    "translation": "要移动到\n这个端口吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n这个端口\n怎么办？\n\n\n要移动到这个端口吗？\n\n要到哪个端口？"
   },
   {
     "key": "MESPAK01_0000_0054",
     "original": "はい　いどうします",
-    "translation": "是要设定",
+    "translation": "是，要移动。",
     "stage": 0,
     "context": "机翻辅助：\n\n是要设定\n\n我走了。\n\n怎么办"
   },
   {
     "key": "MESPAK01_0000_0055",
     "original": "いいえ　いどうしません",
-    "translation": "否不设定",
+    "translation": "否，不移动。",
     "stage": 0,
     "context": "机翻辅助：\n\n否不设定\n\n不，我不移动。\n\n不动"
   },
   {
     "key": "MESPAK01_0000_0056",
     "original": "デジシップで\nどこに　いどうしますか？",
-    "translation": "在电子情书中\n要设定在哪里？",
+    "translation": "要让数码艇\n移动到哪里？",
     "stage": 0,
     "context": "机翻辅助：\n\n在电子情书中\n要设定在哪里？\n\n用数码相机\n要去哪里呢？\n\n用数码相机在哪里移动？"
   }
