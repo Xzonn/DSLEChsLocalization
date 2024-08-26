@@ -2,21 +2,21 @@
   {
     "key": "MESPAK01_0005_0000",
     "original": "クエストＰＣを　みますか？",
-    "translation": "要看任务电脑吗？",
+    "translation": "要查看任务电脑吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n要看任务电脑吗？"
   },
   {
     "key": "MESPAK01_0005_0001",
     "original": "はい　みます",
-    "translation": "要看",
+    "translation": "是，查看。",
     "stage": 0,
     "context": "机翻辅助：\n\n要看\n\n好的，好的\n\n我知道"
   },
   {
     "key": "MESPAK01_0005_0002",
     "original": "いいえ　みません",
-    "translation": "不要不看",
+    "translation": "否，不查看。",
     "stage": 0,
     "context": "机翻辅助：\n\n不要不看\n\n不看\n\n不，我不看。"
   },
@@ -30,14 +30,14 @@
   {
     "key": "MESPAK01_0005_0004",
     "original": "はい　スイッチを　きります",
-    "translation": "要关掉开关",
+    "translation": "是，关掉开关。",
     "stage": 0,
     "context": "机翻辅助：\n\n要关掉开关\n\n关闭开关\n\n好，关掉开关。"
   },
   {
     "key": "MESPAK01_0005_0005",
     "original": "いいえ　スイッチを　きりません",
-    "translation": "不要不关掉开关",
+    "translation": "否，不关掉开关。",
     "stage": 0,
     "context": "机翻辅助：\n\n不要不关掉开关\n\n不，不关开关\n\n不，我不会关掉开关。"
   },
@@ -51,126 +51,126 @@
   {
     "key": "MESPAK01_0005_0007",
     "original": "ほうしゅうを　みる",
-    "translation": "看报酬",
+    "translation": "查看报酬",
     "stage": 0,
     "context": "机翻辅助：\n\n看报酬\n\n看法术"
   },
   {
     "key": "MESPAK01_0005_0008",
     "original": "じょうけんを　みる",
-    "translation": "看条件",
+    "translation": "查看条件",
     "stage": 0,
     "context": "机翻辅助：\n\n看条件\n\n看情况"
   },
   {
     "key": "MESPAK01_0005_0009",
     "original": "メニューを　とじる",
-    "translation": "关掉选单。",
+    "translation": "关闭菜单",
     "stage": 0,
     "context": "机翻辅助：\n\n关掉选单。\n\n合上菜单\n\n关闭菜单"
   },
   {
     "key": "MESPAK01_0005_0010",
     "original": "このクエストを　うけるために　まえに\nうけたクエストを　やめていいですか？",
-    "translation": "为了接受这个任务可以放弃\n先前接受的任务吗？",
+    "translation": "为了接受这个任务，\n放弃先前接受的任务可以吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n为了接受这个任务可以放弃\n先前接受的任务吗？\n\n为了接受这个任务，我可以放弃之前接受的任务吗？\n\n\n为了接受这个任务，可以放弃之前得到的任务吗？"
   },
   {
     "key": "MESPAK01_0005_0011",
     "original": "はい　やめて　このクエストを　うけます",
-    "translation": "要放弃接受这个任务",
+    "translation": "是，放弃并接受这个任务。",
     "stage": 0,
     "context": "机翻辅助：\n\n要放弃接受这个任务\n\n不，我接受这个任务。\n\n不，不，我接受这个任务"
   },
   {
     "key": "MESPAK01_0005_0012",
     "original": "いいえ　このクエストは　うけません",
-    "translation": "不要不接受这个任务",
+    "translation": "否，不接受这个任务。",
     "stage": 0,
     "context": "机翻辅助：\n\n不要不接受这个任务\n\n不我不接受这个任务\n\n不，我不接受这个任务。"
   },
   {
     "key": "MESPAK01_0005_0013",
     "original": "やめるクエストは　やりなおしになりますが\nそれでもうけますか？",
-    "translation": "放弃的任务会重置\n这样也要接受吗？",
+    "translation": "放弃掉的任务将会重置，\n这样也要接受吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n放弃的任务会重置\n这样也要接受吗？\n\n停止的任务是重新做，不过\n那样也能接受吗？\n\n放弃的任务要重新来过\n这样也能接受吗？"
   },
   {
     "key": "MESPAK01_0005_0014",
     "original": "はい　それでも　うけます",
-    "translation": "要这样也要接受",
+    "translation": "是，这样也要接受。",
     "stage": 0,
     "context": "机翻辅助：\n\n要这样也要接受\n\n是的，我接受。\n\n是的，那我也接受"
   },
   {
     "key": "MESPAK01_0005_0015",
     "original": "いいえ　やっぱり　やめます",
-    "translation": "不要还是放弃",
+    "translation": "否，果然还是放弃吧。",
     "stage": 0,
     "context": "机翻辅助：\n\n不要还是放弃\n\n不我还是不干了\n\n不，还是算了"
   },
   {
     "key": "MESPAK01_0005_0016",
     "original": "あたらしいクエストを　うけました",
-    "translation": "接受了新的任务",
+    "translation": "接受了新的任务。",
     "stage": 0,
     "context": "机翻辅助：\n\n接受了新的任务\n\n我接到了新的任务。\n\n收到了新的任务"
   },
   {
     "key": "MESPAK01_0005_0017",
     "original": "あたらしいクエストを　うけました",
-    "translation": "接受了新的任务",
+    "translation": "接受了新的任务。",
     "stage": 0,
     "context": "机翻辅助：\n\n接受了新的任务\n\n收到了新的任务\n\n我接到了新的任务。"
   },
   {
     "key": "MESPAK01_0005_0018",
     "original": "このクエストは　すでにうけてます\nクエストをやめますか？",
-    "translation": "这个任务已经接受了\n要放弃任务吗？",
+    "translation": "这个任务已经接受了，\n要放弃任务吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n这个任务已经接受了\n要放弃任务吗？\n\n这个任务已经接受了\n停止任务吗？\n\n这个任务已经接受了\n要停止任务吗？"
   },
   {
     "key": "MESPAK01_0005_0019",
     "original": "はい　やめます",
-    "translation": "要放弃",
+    "translation": "是，放弃。",
     "stage": 0,
     "context": "机翻辅助：\n\n要放弃\n\n我不干了\n\n好的我不干了"
   },
   {
     "key": "MESPAK01_0005_0020",
     "original": "いいえ　やめません",
-    "translation": "不要不放弃",
+    "translation": "否，不放弃。",
     "stage": 0,
     "context": "机翻辅助：\n\n不要不放弃\n\n不我不会放弃的\n\n不，我不罢休"
   },
   {
     "key": "MESPAK01_0005_0021",
     "original": "はじめから　やりなおすことに\nなりますが　それでも　やめますか？",
-    "translation": "要从头再来\n即使这样也要放弃吗？",
+    "translation": "需要从头再来，\n即使这样也要放弃吗？",
     "stage": 0,
     "context": "机翻辅助：\n\n要从头再来\n即使这样也要放弃吗？\n\n虽然会从头开始，但是您要重新挑战吗？\n\n\n虽然从一开始就要重新做了，但还是放弃了吗？"
   },
   {
     "key": "MESPAK01_0005_0022",
     "original": "はい　それでも　やめます",
-    "translation": "是的，我要重新挑战。",
+    "translation": "是，即使那样也要放弃。",
     "stage": 0,
     "context": "机翻辅助：\n\n是的，我要重新挑战。\n\n是的，即便如此，我还是放弃。\n\n是的我还是不干了"
   },
   {
     "key": "MESPAK01_0005_0023",
     "original": "いいえ　やっぱり　やめません",
-    "translation": "不是，我放弃。",
+    "translation": "否，果然还是不放弃了。",
     "stage": 0,
     "context": "机翻辅助：\n\n不是，我放弃。\n\n不，还是停不下来\n\n不，我还是不放弃"
   },
   {
     "key": "MESPAK01_0005_0024",
     "original": "クエストを　やめました",
-    "translation": "放弃任务。",
+    "translation": "已放弃任务。",
     "stage": 0,
     "context": "机翻辅助：\n\n放弃任务。\n\n我停止了任务。\n\n停止了任务"
   },
@@ -205,7 +205,7 @@
   {
     "key": "MESPAK01_0005_0029",
     "original": "しょうひアイテム",
-    "translation": "道具",
+    "translation": "消耗品",
     "stage": 0,
     "context": "机翻辅助：\n\n道具\n\n消费项目\n\n消费品"
   },
@@ -226,21 +226,21 @@
   {
     "key": "MESPAK01_0005_0032",
     "original": "ファームグッズ",
-    "translation": "消耗品",
+    "translation": "农场道具",
     "stage": 0,
     "context": "机翻辅助：\n\n消耗品\n\n农场商品"
   },
   {
     "key": "MESPAK01_0005_0033",
     "original": "デジプレート",
-    "translation": "数字平板",
+    "translation": "数码板块",
     "stage": 0,
     "context": "机翻辅助：\n\n数字平板\n\n数码牌\n\n数字板"
   },
   {
     "key": "MESPAK01_0005_0034",
     "original": "バグプレート",
-    "translation": "数字板",
+    "translation": "故障板块",
     "stage": 0,
     "context": "机翻辅助：\n\n数字板\n\n故障板\n\n袋板"
   },
@@ -254,7 +254,7 @@
   {
     "key": "MESPAK01_0005_0036",
     "original": "いらいデジモンが　おしごとちゅうで\nこのクエストは　うけれません",
-    "translation": "因为有数码宝贝在工作\n所以不能承接这个任务。",
+    "translation": "委托数码宝贝正在工作，\n所以不能接受这个任务。",
     "stage": 0,
     "context": "机翻辅助：\n\n因为有数码宝贝在工作\n所以不能承接这个任务。\n\n拜托数码宝贝工作中\n这个任务不能接受\n\n这个任务不能接受"
   }
