@@ -9,7 +9,7 @@
   {
     "key": "MESPAK01_0007_0001",
     "original": "ケモノ",
-    "translation": "野兽",
+    "translation": "兽",
     "stage": 0,
     "context": "机翻辅助：\n\n野兽"
   },
@@ -65,21 +65,21 @@
   {
     "key": "MESPAK01_0007_0009",
     "original": "こうにゅうかかく",
-    "translation": "攻击效果",
+    "translation": "购买价格",
     "stage": 0,
     "context": "机翻辅助：\n\n攻击效果\n\n输入角\n\n购买价格"
   },
   {
     "key": "MESPAK01_0007_0010",
     "original": "ばいきゃくかかく",
-    "translation": "防御效果",
+    "translation": "卖出价格",
     "stage": 0,
     "context": "机翻辅助：\n\n防御效果\n\n倍增角\n\n出售价格"
   },
   {
     "key": "MESPAK01_0007_0011",
     "original": "てもち",
-    "translation": "道具",
+    "translation": "手头",
     "stage": 0,
     "context": "机翻辅助：\n\n道具\n\n手拿\n\n手杖"
   },
@@ -93,7 +93,7 @@
   {
     "key": "MESPAK01_0007_0013",
     "original": "てもち",
-    "translation": "道具",
+    "translation": "手头",
     "stage": 0,
     "context": "机翻辅助：\n\n道具\n\n手拿\n\n手杖"
   },
@@ -114,7 +114,7 @@
   {
     "key": "MESPAK01_0007_0016",
     "original": "ライブイベントこうか",
-    "translation": "活动任务效果",
+    "translation": "现场事件效果",
     "stage": 0,
     "context": "机翻辅助：\n\n活动任务效果\n\n实时活动效应\n\n现场活动效果"
   },
@@ -128,14 +128,14 @@
   {
     "key": "MESPAK01_0007_0018",
     "original": "さいこうてんすう",
-    "translation": "最高等级",
+    "translation": "最高点数",
     "stage": 0,
     "context": "机翻辅助：\n\n最高等级\n\n最高点数\n\n最高分数"
   },
   {
     "key": "MESPAK01_0007_0019",
     "original": "てん",
-    "translation": "天",
+    "translation": "点",
     "stage": 0,
     "context": "机翻辅助：\n\n天\n\n点"
   },
@@ -170,35 +170,35 @@
   {
     "key": "MESPAK01_0007_0024",
     "original": "ファームグッズ",
-    "translation": "消耗品",
+    "translation": "农场道具",
     "stage": 0,
     "context": "机翻辅助：\n\n消耗品\n\n农场商品"
   },
   {
     "key": "MESPAK01_0007_0025",
     "original": "ちけいボード",
-    "translation": "告示板",
+    "translation": "地形板",
     "stage": 0,
     "context": "机翻辅助：\n\n告示板\n\n地形板"
   },
   {
     "key": "MESPAK01_0007_0026",
     "original": "ＢＧＭボード",
-    "translation": "背景音乐板",
+    "translation": "BGM板",
     "stage": 0,
     "context": "机翻辅助：\n\n背景音乐板\n\n背景音乐\n\nBGM板"
   },
   {
     "key": "MESPAK01_0007_0027",
     "original": "体",
-    "translation": "身体",
+    "translation": "只",
     "stage": 0,
     "context": "机翻辅助：\n\n身体"
   },
   {
     "key": "MESPAK01_0007_0028",
     "original": "コ",
-    "translation": "我",
+    "translation": "个",
     "stage": 0,
     "context": "机翻辅助：\n\n我\n\n高\n\n高的"
   },
@@ -212,28 +212,28 @@
   {
     "key": "MESPAK01_0007_0030",
     "original": "ぞくせい",
-    "translation": "正室",
+    "translation": "属性",
     "stage": 0,
     "context": "机翻辅助：\n\n正室\n\n属性"
   },
   {
     "key": "MESPAK01_0007_0031",
     "original": "こうか",
-    "translation": "是这样吗？",
+    "translation": "效果",
     "stage": 0,
     "context": "机翻辅助：\n\n是这样吗？\n\n高化\n\n固化"
   },
   {
     "key": "MESPAK01_0007_0032",
     "original": "しゅべつ",
-    "translation": "咻砰。",
+    "translation": "种别",
     "stage": 0,
     "context": "机翻辅助：\n\n咻砰。\n\n种类\n\n分类"
   },
   {
     "key": "MESPAK01_0007_0033",
     "original": "レンジ",
-    "translation": "微波炉",
+    "translation": "范围",
     "stage": 0,
     "context": "机翻辅助：\n\n微波炉\n\n范围"
   },
@@ -247,7 +247,7 @@
   {
     "key": "MESPAK01_0007_0035",
     "original": "しゅうとくレベル",
-    "translation": "修特级",
+    "translation": "学习等级",
     "stage": 0,
     "context": "机翻辅助：\n\n修特级\n\n学习水平\n\n增益电平"
   },
@@ -275,91 +275,91 @@
   {
     "key": "MESPAK01_0007_0039",
     "original": "えらんだ　そうびアイテム",
-    "translation": "已选择装备道具",
+    "translation": "被选择的装备物品",
     "stage": 0,
     "context": "机翻辅助：\n\n已选择装备道具\n\n所选的装备\n\n赠品"
   },
   {
     "key": "MESPAK01_0007_0040",
     "original": "えらんだ　しょうひアイテム",
-    "translation": "选择奖品道具",
+    "translation": "被选择的消耗品",
     "stage": 0,
     "context": "机翻辅助：\n\n选择奖品道具\n\n选择的消费项目\n\n优秀消费品"
   },
   {
     "key": "MESPAK01_0007_0041",
     "original": "えらんだ　ファームグッズ",
-    "translation": "选择FARM GOODS",
+    "translation": "被选择的农场道具",
     "stage": 0,
     "context": "机翻辅助：\n\n选择FARM GOODS\n\n漂亮的农场商品\n\n选择的农场商品"
   },
   {
     "key": "MESPAK01_0007_0042",
     "original": "えらんだ　バグプレート",
-    "translation": "选择巴格板",
+    "translation": "被选择的故障板块",
     "stage": 0,
     "context": "机翻辅助：\n\n选择巴格板\n\n龙骨板\n\n选择的bug板"
   },
   {
     "key": "MESPAK01_0007_0043",
     "original": "進化ツリーめい",
-    "translation": "进化树面",
+    "translation": "进化树名",
     "stage": 0,
     "context": "机翻辅助：\n\n进化树面\n\n进化树名"
   },
   {
     "key": "MESPAK01_0007_0044",
     "original": "１にちに　かくとくできるＥＸＰ",
-    "translation": "1日可获得之EXP",
+    "translation": "在1天能获得的EXP",
     "stage": 0,
     "context": "机翻辅助：\n\n1日可获得之EXP\n\n能在一日内限定的EXP\n\n一天能获得的EXP"
   },
   {
     "key": "MESPAK01_0007_0045",
     "original": "えらんだ　リペアリングツール",
-    "translation": "选择修复工具",
+    "translation": "被选择的修理工具",
     "stage": 0,
     "context": "机翻辅助：\n\n选择修复工具\n\n延伸修复工具\n\n选择性修复工具"
   },
   {
     "key": "MESPAK01_0007_0046",
     "original": "えらんだ　ファーム島",
-    "translation": "选择法姆岛",
+    "translation": "被选择的农场岛",
     "stage": 0,
     "context": "机翻辅助：\n\n选择法姆岛\n\n所选的农场岛\n\n农场岛"
   },
   {
     "key": "MESPAK01_0007_0047",
     "original": "えらんだ　ワザ",
-    "translation": "选择的招式",
+    "translation": "被选择的招式",
     "stage": 0,
     "context": "机翻辅助：\n\n选择的招式\n\n选择的技巧\n\n凌乱的圈套"
   },
   {
     "key": "MESPAK01_0007_0048",
     "original": "えらんだ　デジプレート",
-    "translation": "选择数码板",
+    "translation": "被选择数码板块",
     "stage": 0,
     "context": "机翻辅助：\n\n选择数码板\n\n所选的数码牌\n\n龙眼数字板"
   },
   {
     "key": "MESPAK01_0007_0049",
     "original": "くんれんにつかったファームグッズ",
-    "translation": "被圈养的仿生制品",
+    "translation": "在训练中使用的农场道具",
     "stage": 0,
     "context": "机翻辅助：\n\n被圈养的仿生制品\n\n用于训练的农场商品\n\n训练时使用的农场用品"
   },
   {
     "key": "MESPAK01_0007_0050",
     "original": "さくせいできた　そうび",
-    "translation": "准备就绪。",
+    "translation": "能制造出的装备",
     "stage": 0,
     "context": "机翻辅助：\n\n准备就绪。\n\n成形装置\n\n做好的装备"
   },
   {
     "key": "MESPAK01_0007_0051",
     "original": "さいだいＨＰ",
-    "translation": "最强大HP",
+    "translation": "最大HP",
     "stage": 0,
     "context": "机翻辅助：\n\n最强大HP\n\n最大HP"
   },
@@ -380,7 +380,7 @@
   {
     "key": "MESPAK01_0007_0054",
     "original": "すばやさ",
-    "translation": "速度",
+    "translation": "敏捷",
     "stage": 0,
     "context": "机翻辅助：\n\n速度"
   },
@@ -394,7 +394,7 @@
   {
     "key": "MESPAK01_0007_0056",
     "original": "けいけんち",
-    "translation": "攻城战",
+    "translation": "经验值",
     "stage": 0,
     "context": "机翻辅助：\n\n攻城战\n\n经验值\n\n经验地"
   },
@@ -408,35 +408,35 @@
   {
     "key": "MESPAK01_0007_0058",
     "original": "みつけた　そうびアイテム",
-    "translation": "找到了装扮道具",
+    "translation": "找到的装备物品",
     "stage": 0,
     "context": "机翻辅助：\n\n找到了装扮道具\n\n找到的装备项目"
   },
   {
     "key": "MESPAK01_0007_0059",
     "original": "みつけた　しょうひアイテム",
-    "translation": "找到了奖品道具",
+    "translation": "找到的消耗品",
     "stage": 0,
     "context": "机翻辅助：\n\n找到了奖品道具\n\n找到的消费项目\n\n找到的消费品"
   },
   {
     "key": "MESPAK01_0007_0060",
     "original": "みつけた　バグプレート",
-    "translation": "找到了Bug Plate",
+    "translation": "找到的故障板块",
     "stage": 0,
     "context": "机翻辅助：\n\n找到了Bug Plate\n\n找到的臭虫板\n\n发现的bug板"
   },
   {
     "key": "MESPAK01_0007_0061",
     "original": "なにも　さくせいできませんでした",
-    "translation": "我什么也做不到",
+    "translation": "什么都没有制造出来",
     "stage": 0,
     "context": "机翻辅助：\n\n我什么也做不到\n\n我们什么都没做出来。\n\n什么都没能做"
   },
   {
     "key": "MESPAK01_0007_0062",
     "original": "なにも　みつけられませんでした",
-    "translation": "我什么也找不到。",
+    "translation": "什么都没有找到",
     "stage": 0,
     "context": "机翻辅助：\n\n我什么也找不到。\n\n我们什么都没找到。\n\n我什么都找不到"
   },
@@ -450,7 +450,7 @@
   {
     "key": "MESPAK01_0007_0064",
     "original": "かんしゃのキモチ",
-    "translation": "感谢的心情",
+    "translation": "感谢的心意",
     "stage": 0,
     "context": "机翻辅助：\n\n感谢的心情"
   },
@@ -478,35 +478,35 @@
   {
     "key": "MESPAK01_0007_0068",
     "original": "かんせいど",
-    "translation": "完结章",
+    "translation": "完成度",
     "stage": 0,
     "context": "机翻辅助：\n\n完结章\n\n完成制度\n\n灵敏度"
   },
   {
     "key": "MESPAK01_0007_0069",
     "original": "おぼえられるワザ",
-    "translation": "已习得技能",
+    "translation": "可学习的招式",
     "stage": 0,
     "context": "机翻辅助：\n\n已习得技能\n\n被记住的技巧\n\n被记住的圈套"
   },
   {
     "key": "MESPAK01_0007_0070",
     "original": "おぼえているワザ",
-    "translation": "记得的技能",
+    "translation": "已学会的招式",
     "stage": 0,
     "context": "机翻辅助：\n\n记得的技能\n\n记得的圈套\n\n记得的技巧"
   },
   {
     "key": "MESPAK01_0007_0071",
     "original": "こうか",
-    "translation": "是这样吗？",
+    "translation": "效果",
     "stage": 0,
     "context": "机翻辅助：\n\n是这样吗？\n\n固化\n\n高化"
   },
   {
     "key": "MESPAK01_0007_0072",
     "original": "レンジ",
-    "translation": "微波炉",
+    "translation": "范围",
     "stage": 0,
     "context": "机翻辅助：\n\n微波炉\n\n范围"
   },
@@ -520,28 +520,28 @@
   {
     "key": "MESPAK01_0007_0074",
     "original": "おぼえようとするワザを　えらんでください\nしゅうりょうすると　リストのワザは　わすれてしまいます",
-    "translation": "请选择要记住的招式\n复习后清单上的招式就会被忘记",
+    "translation": "请选择要学会的招式，\n结束后列表里的招式将会被忘记。",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择要记住的招式\n复习后清单上的招式就会被忘记\n\n请选择你想要记住的技巧。\n结束后你就会忘记列表上的技巧。\n\n请看一下想要记住的陷阱\n如果你仔细看的话，列表上的陷阱就会忘记"
   },
   {
     "key": "MESPAK01_0007_0075",
     "original": "いれかえるワザを　えらんでください",
-    "translation": "请选择要交换的卡牌",
+    "translation": "请选择要替换的招式。",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择要交换的卡牌\n\n请选择更换的技巧\n\n请看一下换成的圈套"
   },
   {
     "key": "MESPAK01_0007_0076",
     "original": "ひょうじする　ものが　ありません",
-    "translation": "没有可以扮演的东西",
+    "translation": "没有可显示的东西。",
     "stage": 0,
     "context": "机翻辅助：\n\n没有可以扮演的东西\n\n无与伦比的\n\n没有任何东西可以显示。"
   },
   {
     "key": "MESPAK01_0007_0077",
     "original": "デジモンが　いません",
-    "translation": "没有数码宝贝",
+    "translation": "没有数码宝贝。",
     "stage": 0,
     "context": "机翻辅助：\n\n没有数码宝贝\n\n没有数码宝贝。"
   }
