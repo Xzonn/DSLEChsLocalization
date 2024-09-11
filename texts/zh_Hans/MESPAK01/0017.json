@@ -2,210 +2,210 @@
   {
     "key": "MESPAK01_0017_0000",
     "original": "さいだいＨＰが　５アップする\n（ＭＡＸ　～　５０００まで）",
-    "translation": "最大HP提升5\n（MAX～5000）",
+    "translation": "最大HP提升5。\n（MAX～5000）",
     "stage": 0,
     "context": "机翻辅助：\n\n最大HP提升5\n（MAX～5000）\n\n最大生命值提高5\n（MAX ～ 5000）\n\n最大HP上升5\n（MAX～5000）"
   },
   {
     "key": "MESPAK01_0017_0001",
     "original": "さいだいＨＰが　２０アップする\n（ＭＡＸ　～　９９９９まで）",
-    "translation": "最大HP提升20\n（MAX～9999）",
+    "translation": "最大HP提升20。\n（MAX～9999）",
     "stage": 0,
     "context": "机翻辅助：\n\n最大HP提升20\n（MAX～9999）\n\n最大生命值提高20\n（MAX ～ 9999）\n\n最大HP提高20\n（MAX～9999）"
   },
   {
     "key": "MESPAK01_0017_0002",
     "original": "さいだいＭＰが　５アップする\n（ＭＡＸ　～　５０００まで）",
-    "translation": "最大MP提升5\n（MAX～5000）",
+    "translation": "最大MP提升5。\n（MAX～5000）",
     "stage": 0,
     "context": "机翻辅助：\n\n最大MP提升5\n（MAX～5000）\n\n最大MP提高5个\n（MAX ～ 5000）\n\n最大MP提高5\n（MAX～5000）"
   },
   {
     "key": "MESPAK01_0017_0003",
     "original": "さいだいＭＰが　２０アップする\n（ＭＡＸ　～　９９９９まで）",
-    "translation": "最大MP提升20\n（MAX～9999）",
+    "translation": "最大MP提升20。\n（MAX～9999）",
     "stage": 0,
     "context": "机翻辅助：\n\n最大MP提升20\n（MAX～9999）\n\n最大MP提高20\n（MAX ～ 9999）\n\n最大MP提高20\n（MAX～9999）"
   },
   {
     "key": "MESPAK01_0017_0004",
     "original": "こうげきりょくが　１アップする\n（ＭＡＸ　～　５００まで）",
-    "translation": "攻击力提升1\n（MAX～500）",
+    "translation": "攻击力提升1。\n（MAX～500）",
     "stage": 0,
     "context": "机翻辅助：\n\n攻击力提升1\n（MAX～500）\n\n攻击力上升1\n（MAX～500）\n\n攻击力提高1 （MAX ～ 500）"
   },
   {
     "key": "MESPAK01_0017_0005",
     "original": "こうげきりょくが　４アップする\n（ＭＡＸ　～　９９９まで）",
-    "translation": "攻击力提升4\n（MAX～999）",
+    "translation": "攻击力提升4。\n（MAX～999）",
     "stage": 0,
     "context": "机翻辅助：\n\n攻击力提升4\n（MAX～999）\n\n攻击力上升4\n（MAX～999）\n\n攻击力提高4 （MAX ～ 999）"
   },
   {
     "key": "MESPAK01_0017_0006",
     "original": "ぼうぎょりょくが　１アップする\n（ＭＡＸ　～　５００まで）",
-    "translation": "防御力提升1\n（MAX～500）",
+    "translation": "防御力提升1。\n（MAX～500）",
     "stage": 0,
     "context": "机翻辅助：\n\n防御力提升1\n（MAX～500）\n\n防御力上升1\n（MAX～500）\n\n防御力提高1 （MAX ～ 500）"
   },
   {
     "key": "MESPAK01_0017_0007",
     "original": "ぼうぎょりょくが　４アップする\n（ＭＡＸ　～　９９９まで）",
-    "translation": "博击力量提升4级\n（MAX～999）。",
+    "translation": "防御力提升4。\n（MAX～999）",
     "stage": 0,
     "context": "机翻辅助：\n\n博击力量提升4级\n（MAX～999）。\n\n防御力上升4\n（MAX～999）\n\n防御力提高4 （MAX ～ 999）"
   },
   {
     "key": "MESPAK01_0017_0008",
     "original": "すばやさが　１アップする\n（ＭＡＸ　～　５００まで）",
-    "translation": "速度提升1级\n（MAX～500）。",
+    "translation": "敏捷提升1。\n（MAX～500）",
     "stage": 0,
     "context": "机翻辅助：\n\n速度提升1级\n（MAX～500）。\n\n速度提高1\n（MAX～500）\n\n速度提高1 （MAX ～ 500）"
   },
   {
     "key": "MESPAK01_0017_0009",
     "original": "すばやさが　４アップする\n（ＭＡＸ　～　９９９まで）",
-    "translation": "速度提升4级\n（MAX～999）。",
+    "translation": "敏捷提升4。\n（MAX～999）",
     "stage": 0,
     "context": "机翻辅助：\n\n速度提升4级\n（MAX～999）。\n\n速度提高4\n（MAX～999）\n\n速度提高4 （MAX ～ 999）"
   },
   {
     "key": "MESPAK01_0017_0010",
     "original": "ゆうじょうが　５アップする\n（ＭＡＸ　～　１００まで）",
-    "translation": "力量提升5级\n（MAX～100）。",
+    "translation": "友情提升5。\n（MAX～100）",
     "stage": 0,
     "context": "机翻辅助：\n\n力量提升5级\n（MAX～100）。\n\n上限提高5\n（MAX～100）\n\n友情提升5 （MAX ～ 100）"
   },
   {
     "key": "MESPAK01_0017_0011",
     "original": "ゆうじょうが　２５アップする\n（ＭＡＸ　～　１００まで）",
-    "translation": "力量提升25级\n（MAX～100）。",
+    "translation": "友情提升25。\n（MAX～100）",
     "stage": 0,
     "context": "机翻辅助：\n\n力量提升25级\n（MAX～100）。\n\n上扬25\n（MAX～100）\n\n友情提高25\n（MAX ～ 100）"
   },
   {
     "key": "MESPAK01_0017_0012",
     "original": "もらえるＥＸＰが　２５アップする\nゲンジュウデジモンは２ばいもらえる",
-    "translation": "获得的EXP提升25％\n获得双倍的限界超越数码宝贝。",
+    "translation": "获得的EXP提升25。\n幻兽数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP提升25％\n获得双倍的限界超越数码宝贝。\n\n能得到的EXP提高25\n能得到2倍的严惩数码宝贝\n\n能得到的EXP提高25\n龙珠数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0013",
     "original": "もらえるＥＸＰが　１５０アップする\nゲンジュウデジモンは２ばいもらえる",
-    "translation": "获得的EXP提升150％\n获得双倍的限界超越数码宝贝。",
+    "translation": "获得的EXP提升150。\n幻兽数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP提升150％\n获得双倍的限界超越数码宝贝。\n\n能得到的EXP提高150\n龙珠数码宝贝能得到2倍\n\n能得到的EXP提高150\n能得到2倍的重度数码宝贝"
   },
   {
     "key": "MESPAK01_0017_0014",
     "original": "もらえるＥＸＰが　２５アップする\nケモノデジモンは２ばいもらえる",
-    "translation": "获得的EXP提升25％\n获得双倍的魔兽数码宝贝。",
+    "translation": "获得的EXP提升25。\n兽数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP提升25％\n获得双倍的魔兽数码宝贝。\n\n能得到的EXP提高25\n野兽数码宝贝能得到2倍\n\n能得到的EXP提高25\n怪物数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0015",
     "original": "もらえるＥＸＰが　１５０アップする\nケモノデジモンは２ばいもらえる",
-    "translation": "获得的EXP提升150％\n获得双倍的魔兽数码宝贝。",
+    "translation": "获得的EXP提升150。\n兽数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP提升150％\n获得双倍的魔兽数码宝贝。\n\n能得到的EXP提高150\n怪物数码宝贝能得到2倍\n\n能得到的EXP提高150\n野兽数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0016",
     "original": "もらえるＥＸＰが　２５アップする\nテンシデジモンは２ばいもらえる",
-    "translation": "获得的EXP提升25％\n获得双倍的天使数码宝贝。",
+    "translation": "获得的EXP提升25。\n天使数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP提升25％\n获得双倍的天使数码宝贝。\n\n能得到的EXP提高25\n腾空数码宝贝能得到2倍\n\n能得到的EXP提高25\n天使数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0017",
     "original": "もらえるＥＸＰが　１５０アップする\nテンシデジモンは２ばいもらえる",
-    "translation": "获得的EXP提升150％\n获得双倍的天使数码宝贝。",
+    "translation": "获得的EXP提升150。\n天使数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP提升150％\n获得双倍的天使数码宝贝。\n\n能得到的EXP提高150\n天使数码宝贝能得到2倍\n\n能得到的EXP提高150\n天狼星数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0018",
     "original": "もらえるＥＸＰが　２５アップする\nアクマデジモンは２ばいもらえる",
-    "translation": "获得的EXP提升25％\n获得双倍的恶魔数码宝贝。",
+    "translation": "获得的EXP提升25。\n恶魔数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP提升25％\n获得双倍的恶魔数码宝贝。\n\n能得到的EXP提高25\n说到底数码宝贝能得到2倍\n\n能得到的EXP提高25\n阿克玛数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0019",
     "original": "もらえるＥＸＰが　１５０アップする\nアクマデジモンは２ばいもらえる",
-    "translation": "获得的EXP提升150％\n获得双倍的恶魔数码宝贝。",
+    "translation": "获得的EXP提升150。\n恶魔数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP提升150％\n获得双倍的恶魔数码宝贝。\n\n能得到的EXP提高150\n阿克玛数码宝贝能得到2倍\n\n得到的EXP提高150\n说到底数码宝贝是2倍得到"
   },
   {
     "key": "MESPAK01_0017_0020",
     "original": "もらえるＥＸＰが　２５アップする\nキカイデジモンは２ばいもらえる",
-    "translation": "获得的EXP提升25％\n获得双倍的机器数码宝贝。",
+    "translation": "获得的EXP提升25。\n机械数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP提升25％\n获得双倍的机器数码宝贝。\n\n能得到的EXP提高25\nKikai数码宝贝能得到2倍\n\n获得的EXP提高25\n机器数码宝贝获得2倍"
   },
   {
     "key": "MESPAK01_0017_0021",
     "original": "もらえるＥＸＰが　１５０アップする\nキカイデジモンは２ばいもらえる",
-    "translation": "获得的EXP提升150％\n获得双倍的机器数码宝贝。",
+    "translation": "获得的EXP提升150。\n机械数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP提升150％\n获得双倍的机器数码宝贝。\n\n获得的EXP提高150\n机器数码宝贝获得2倍\n\n能得到的EXP提高150\nKikai数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0022",
     "original": "もらえるＥＸＰが　２５アップする\nスイセイデジモンは２ばいもらえる",
-    "translation": "获得的EXP提升25％\n获得双倍的植物数码宝贝。",
+    "translation": "获得的EXP提升25。\n水生数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP提升25％\n获得双倍的植物数码宝贝。\n\n能得到的EXP提高25\n彗星数码宝贝能得到2倍\n\n能得到的EXP提高25\n水星数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0023",
     "original": "もらえるＥＸＰが　１５０アップする\nスイセイデジモンは２ばいもらえる",
-    "translation": "获得的EXP增加150\n水精二倍",
+    "translation": "获得的EXP提升150。\n水生数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP增加150\n水精二倍\n\n能得到的EXP提高150\n水星数码宝贝能得到2倍\n\n能得到的EXP提高150\n彗星数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0024",
     "original": "もらえるＥＸＰが　２５アップする\nトリデジモンは２ばいもらえる",
-    "translation": "获得的EXP增加25\n三角仔二倍",
+    "translation": "获得的EXP提升25。\n鸟数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP增加25\n三角仔二倍\n\n能得到的EXP提高25\n鸟数码宝贝能得到2倍\n\n能得到的EXP提高25\n三重数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0025",
     "original": "もらえるＥＸＰが　１５０アップする\nトリデジモンは２ばいもらえる",
-    "translation": "获得的EXP增加150\n三角仔二倍",
+    "translation": "获得的EXP提升150。\n鸟数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP增加150\n三角仔二倍\n\n得到的EXP提高150\n鸟数码宝贝得到2倍\n\n能得到的EXP提高150\n三重数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0026",
     "original": "もらえるＥＸＰが　２５アップする\nコンチュウデジモンは２ばいもらえる",
-    "translation": "获得的EXP增加25\n冲拳二倍",
+    "translation": "获得的EXP提升25。\n昆虫数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP增加25\n冲拳二倍\n\n能得到的EXP提高25\n昆虫数码宝贝能得到2倍\n\n能得到的EXP提高25\n孔丘数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0027",
     "original": "もらえるＥＸＰが　１５０アップする\nコンチュウデジモンは２ばいもらえる",
-    "translation": "获得的EXP增加150\n冲拳二倍",
+    "translation": "获得的EXP提升150。\n昆虫数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP增加150\n冲拳二倍\n\n能得到的EXP提高150\n昆虫数码宝贝能得到2倍\n\n能得到的EXP提高150\n孔丘数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0028",
     "original": "もらえるＥＸＰが　２５アップする\nショクブツデジモンは２ばいもらえる",
-    "translation": "获得的EXP增加25\n错觉二倍",
+    "translation": "获得的EXP提升25。\n植物数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP增加25\n错觉二倍\n\n能得到的EXP提高25\n肖克布茨数码宝贝能得到2倍\n\n能得到的EXP提高25\n植物数码宝贝能得到2倍"
   },
   {
     "key": "MESPAK01_0017_0029",
     "original": "もらえるＥＸＰが　１５０アップする\nショクブツデジモンは２ばいもらえる",
-    "translation": "获得的EXP增加150\n错觉二倍",
+    "translation": "获得的EXP提升150。\n植物数码宝贝能获得2倍。",
     "stage": 0,
     "context": "机翻辅助：\n\n获得的EXP增加150\n错觉二倍\n\n能得到的EXP提高150\n肖克布茨数码宝贝能得到2倍\n\n能得到的EXP提高150\n植物数码宝贝能得到2倍"
   }
