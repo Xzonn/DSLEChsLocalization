@@ -107,7 +107,7 @@
   {
     "key": "MESPAK04_0033_0015",
     "original": "アルマジモンのデジプレート\n",
-    "translation": "犰狳数码板\n",
+    "translation": "犰狳数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n犰狳数码板\n\n\n阿尔玛吉蒙的数码板"
   },
@@ -142,35 +142,35 @@
   {
     "key": "MESPAK04_0033_0020",
     "original": "エアドラモンのデジプレート\n",
-    "translation": "他数码板\n",
+    "translation": "他数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n他数码板\n\n\n空气德拉蒙的数码板"
   },
   {
     "key": "MESPAK04_0033_0021",
     "original": "カブテリモンのデジプレート\n",
-    "translation": "股神的数码板\n",
+    "translation": "股神的数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n股神的数码板\n\n\n卡布里蒙的数码板"
   },
   {
     "key": "MESPAK04_0033_0022",
     "original": "ガルルモンのデジプレート\n",
-    "translation": "加尔蒙数码板\n",
+    "translation": "加尔蒙数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n加尔蒙数码板\n\n\n加尔蒙的数码板"
   },
   {
     "key": "MESPAK04_0033_0023",
     "original": "エンジェモンのデジプレート\n",
-    "translation": "天使门数码板\n",
+    "translation": "天使门数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n天使门数码板\n\n\n天使兽的数码板"
   },
   {
     "key": "MESPAK04_0033_0024",
     "original": "オーガモンのデジプレート\n",
-    "translation": "奥古门数码板\n",
+    "translation": "奥古门数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n奥古门数码板\n\n\n奥加蒙的数码板"
   },
@@ -191,14 +191,14 @@
   {
     "key": "MESPAK04_0033_0027",
     "original": "ウィザーモンのデジプレート\n",
-    "translation": "威瑟蒙数码板\n",
+    "translation": "威瑟蒙数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n威瑟蒙数码板\n\n\n威瑟蒙的数码板"
   },
   {
     "key": "MESPAK04_0033_0028",
     "original": "トゲモンのデジプレート\n",
-    "translation": "刺门数码板\n",
+    "translation": "刺门数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n刺门数码板\n\n\n刺兽的数码板"
   },
@@ -212,35 +212,35 @@
   {
     "key": "MESPAK04_0033_0030",
     "original": "エクスブイモンのデジプレート\n",
-    "translation": "exbuymon数码板\n",
+    "translation": "exbuymon数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\nexbuymon数码板\n\n\n埃克斯布伊蒙的数码板"
   },
   {
     "key": "MESPAK04_0033_0031",
     "original": "スティングモンのデジプレート\n",
-    "translation": "斯汀门数码板\n",
+    "translation": "斯汀门数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n斯汀门数码板\n\n\n斯汀蒙的数码板"
   },
   {
     "key": "MESPAK04_0033_0032",
     "original": "バードラモンのデジプレート\n",
-    "translation": "鸟兽数码板\n",
+    "translation": "鸟兽数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n鸟兽数码板\n\n\n巴德拉蒙的数码板"
   },
   {
     "key": "MESPAK04_0033_0033",
     "original": "アンキロモンのデジプレート\n",
-    "translation": "暗语数码板\n",
+    "translation": "暗语数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n暗语数码板\n\n\n安基洛蒙的数码板"
   },
   {
     "key": "MESPAK04_0033_0034",
     "original": "ガルゴモンのデジプレート\n",
-    "translation": "加尔戈门数码板\n",
+    "translation": "加尔戈门数码板块\n",
     "stage": 0,
     "context": "机翻辅助：\n\n加尔戈门数码板\n\n\n伽尔戈蒙的数码板"
   },
