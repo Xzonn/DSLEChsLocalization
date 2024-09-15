@@ -191,33 +191,39 @@ FONT_CONFIG: dict[int, dict] = {
 
 
 def compress_cmap(char_map: dict[int, int]) -> list[CMAP]:
+  char_map = {k: v for k, v in char_map.items()}
+  if char_map[0] == 0x20:
+    char_map[0] = 0x5f
+
   cmaps = []
+  type_2_index_map = {}
 
   for index, char_code in char_map.items():
-    if char_code == 0x824F:  # ０
+    if char_code == 0x8140:  # full-width space
+      type_2_index_map[0x20] = index  # space
+    elif char_code == 0x824F:  # ０
       cmap = CMAP.get_blank()
       cmap.type_section = 0
       cmap.first_char_code = 0x30  # 0
       cmap.last_char_code = 0x39  # 9
-      cmap.char_map = {index: 0x30}
+      cmap.index_map = {0x30: index}
       cmaps.append(cmap)
     elif char_code == 0x8260:  # Ａ
       cmap = CMAP.get_blank()
       cmap.type_section = 0
       cmap.first_char_code = 0x41  # A
       cmap.last_char_code = 0x5A  # Z
-      cmap.char_map = {index: 0x41}
+      cmap.index_map = {0x41: index}
       cmaps.append(cmap)
     elif char_code == 0x8281:  # ａ
       cmap = CMAP.get_blank()
       cmap.type_section = 0
       cmap.first_char_code = 0x61  # a
       cmap.last_char_code = 0x7A  # z
-      cmap.char_map = {index: 0x61}
+      cmap.index_map = {0x61: index}
       cmaps.append(cmap)
       break
 
-  type_2_char_map = {}
   char_index = 0
   char_map_len = len(char_map)
   while char_index < len(char_map):
@@ -234,7 +240,7 @@ def compress_cmap(char_map: dict[int, int]) -> list[CMAP]:
       cmap.type_section = 0
       cmap.first_char_code = char_code
       cmap.last_char_code = char_map[char_index + window - 1]
-      cmap.char_map = {index: char_map[index] for index in range(char_index, char_index + window)}
+      cmap.index_map = {char_map[index]: index for index in range(char_index, char_index + window)}
       cmaps.append(cmap)
       char_index += window
       continue
@@ -250,21 +256,21 @@ def compress_cmap(char_map: dict[int, int]) -> list[CMAP]:
       cmap.type_section = 1
       cmap.first_char_code = char_code
       cmap.last_char_code = char_map[char_index + window - 1]
-      cmap.char_map = {index: char_map[index] for index in range(char_index, char_index + window)}
+      cmap.index_map = {char_map[index]: index for index in range(char_index, char_index + window)}
       cmaps.append(cmap)
 
       char_index += window
       continue
 
-    type_2_char_map[char_index] = char_code
+    type_2_index_map[char_code] = char_index
     char_index += 1
     continue
 
   cmap = CMAP.get_blank()
   cmap.type_section = 2
-  cmap.first_char_code = min(type_2_char_map.keys())
+  cmap.first_char_code = min(type_2_index_map.values())
   cmap.last_char_code = 0xFFFF
-  cmap.char_map = type_2_char_map
+  cmap.index_map = type_2_index_map
   cmaps.append(cmap)
 
   return cmaps

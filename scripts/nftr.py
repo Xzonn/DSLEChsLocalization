@@ -240,24 +240,28 @@ class CMAP:
     self.type_section: int = type_section
     self.next_offset: int = next_offset
 
-    self.char_map: dict[int, int] = {}
+    self.index_map: dict[int, int] = {}
     if self.type_section == 0:
       (first_char_index,) = struct.unpack("<H", reader.read(0x02))
       for i in range(last_char_code - first_char_code + 1):
         char_index = first_char_index + i
-        self.char_map[char_index] = first_char_code + i
+        self.index_map[first_char_code + i] = char_index
     elif self.type_section == 1:
       length = last_char_code - first_char_code + 1
       for i in range(length):
         (char_index,) = struct.unpack("<H", reader.read(0x02))
         if char_index == 0xFFFF:
           continue
-        self.char_map[char_index] = first_char_code + i
+        self.index_map[first_char_code + i] = char_index
     elif self.type_section == 2:
       (num_chars,) = struct.unpack("<H", reader.read(0x02))
       for i in range(num_chars):
         char_code, char_index = struct.unpack("<2H", reader.read(0x04))
-        self.char_map[char_index] = char_code
+        self.index_map[char_code] = char_index
+
+  @property
+  def char_map(self) -> dict[int, int]:
+    return {v: k for k, v in self.index_map.items()}
 
   @staticmethod
   def get_blank():
@@ -267,26 +271,25 @@ class CMAP:
       cmap = CMAP(buffer)
     return cmap
 
-  def get_bytes(self, char_map: dict[int, int] = None) -> bytes:
-    if char_map is None:
-      char_map = self.char_map
-    sorted_keys = sorted(char_map.keys())
+  def get_bytes(self, index_map: dict[int, int] = None) -> bytes:
+    if index_map is None:
+      index_map = self.index_map
+    sorted_keys = sorted(index_map.keys(), key=lambda x: index_map[x])
     body = bytearray()
     if self.type_section == 0:
-      for char_index, char_code in char_map.items():
+      for char_code, char_index in index_map.items():
         body += struct.pack("<H", char_index)
         break
     elif self.type_section == 1:
       length = self.last_char_code - self.first_char_code + 1
-      char_code_to_index = {v: k for k, v in char_map.items()}
       for i in range(length):
         char_code = self.first_char_code + i
-        char_index = char_code_to_index.get(char_code, 0xFFFF)
+        char_index = index_map.get(char_code, 0xFFFF)
         body += struct.pack("<H", char_index)
     elif self.type_section == 2:
-      body += struct.pack("<H", len(char_map))
+      body += struct.pack("<H", len(index_map))
       for key in sorted_keys:
-        body += struct.pack("<2H", char_map[key], key)
+        body += struct.pack("<2H", key, index_map[key])
 
     body += b"\0" * (-len(body) % 4)
 
