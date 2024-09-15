@@ -18,26 +18,29 @@ for i in range(SPR_COUNT):
 
   for j, cell in enumerate(cells):
     oams: list[OAM] = cell.oam
-    cell_width: int = cell.max_x - cell.min_x + 1
-    cell_height: int = cell.max_y - cell.min_y + 1
-    cell_image = Image.new("RGBA", (cell_width, cell_height))
+    cell_image = Image.new("RGBA", (512, 256))
     for k, oam in enumerate(oams):
       oam_width, oam_height = oam.get_size()
-      x_offset = oam.x - cell.min_x
-      if oam.x > cell.max_x:
-        x_offset -= 0x200
-      y_offset = oam.y - cell.min_y
-      if oam.y > cell.max_y:
-        y_offset -= 0x100
+      x_offset = (oam.x + 0x100) % 0x200
+      y_offset = (oam.y + 0x80) % 0x100
 
-      Y = oam.char * 8 * (4 if oam.colors == 16 else 2)
-      if cell.partition_offset > 0:
-        Y += cell.partition_offset // cell.partition_size * cell_width * cell_height // 8
+      if oam.colors == 16:
+        Y = oam.char * 8 * 4 + cell.partition_offset // 4
+      else:
+        Y = oam.char * 8 * 2 + cell.partition_offset // 8
 
+      oam_image = Image.new("RGBA", (oam_width, oam_height))
       for y in range(0, oam_height, 8):
         for x in range(0, oam_width, 8):
           tile = image.crop((0, Y, 8, Y + 8))
-          cell_image.paste(tile, (x_offset + x, y_offset + y))
+          oam_image.paste(tile, (x, y))
           Y += 8
 
-    cell_image.save(f"temp/images/SPR/{i:04d}_{j:02d}.png")
+      if oam.rot == 0:
+        if (oam.rotsca >> 3) & 1:
+          oam_image = oam_image.transpose(Image.FLIP_LEFT_RIGHT)
+        if (oam.rotsca >> 4) & 1:
+          oam_image = oam_image.transpose(Image.FLIP_TOP_BOTTOM)
+      cell_image.paste(oam_image, (x_offset, y_offset))
+
+    cell_image.save(f"temp/images/SPR/{i:04d}.ncer_{j}.png")
