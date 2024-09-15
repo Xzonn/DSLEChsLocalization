@@ -192,6 +192,31 @@ FONT_CONFIG: dict[int, dict] = {
 
 def compress_cmap(char_map: dict[int, int]) -> list[CMAP]:
   cmaps = []
+
+  for index, char_code in char_map.items():
+    if char_code == 0x824F:  # ０
+      cmap = CMAP.get_blank()
+      cmap.type_section = 0
+      cmap.first_char_code = 0x30  # 0
+      cmap.last_char_code = 0x39  # 9
+      cmap.char_map = {index: 0x30}
+      cmaps.append(cmap)
+    elif char_code == 0x8260:  # Ａ
+      cmap = CMAP.get_blank()
+      cmap.type_section = 0
+      cmap.first_char_code = 0x41  # A
+      cmap.last_char_code = 0x5A  # Z
+      cmap.char_map = {index: 0x41}
+      cmaps.append(cmap)
+    elif char_code == 0x8281:  # ａ
+      cmap = CMAP.get_blank()
+      cmap.type_section = 0
+      cmap.first_char_code = 0x61  # a
+      cmap.last_char_code = 0x7A  # z
+      cmap.char_map = {index: 0x61}
+      cmaps.append(cmap)
+      break
+
   type_2_char_map = {}
   char_index = 0
   char_map_len = len(char_map)
