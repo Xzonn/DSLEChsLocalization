@@ -68,3 +68,5 @@ with open(ARM9_DECOMPRESSED_PATH, "rb") as reader:
     nscr.save_as(nscr_output_path)
     ncgr: NCGR = tileset.as_ncgr(8 if nscr.is8bpp else 4)
     ncgr.save_as(ncgr_output_path)
+
+    print(f"NSCR: {nscr_index} (8bpp: {nclr.is8bpp}), NCGR: {ncgr_index}, NCLR: {nclr_index}")
