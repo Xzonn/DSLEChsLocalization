@@ -93,7 +93,7 @@
   {
     "key": "MESPAK01_0013_0013",
     "original": "マッチングした回数",
-    "translation": "匹配次数",
+    "translation": "配对次数",
     "stage": 0,
     "context": "机翻辅助：\n\n配对次数\n\n匹配次数\n\n匹配的次数"
   },
@@ -310,7 +310,7 @@
   {
     "key": "MESPAK01_0013_0044",
     "original": "えらんだワザ",
-    "translation": "可选招式",
+    "translation": "可选技能",
     "stage": 0,
     "context": "机翻辅助：\n\n选择的技能\n\n凌乱的圈套\n\n选择的技巧"
   },
@@ -380,7 +380,7 @@
   {
     "key": "MESPAK01_0013_0054",
     "original": "おぼえているワザ",
-    "translation": "学会的招式",
+    "translation": "学会的技能",
     "stage": 0,
     "context": "机翻辅助：\n\n记得的技能\n\n记得的技巧\n\n记得的圈套"
   },
@@ -597,7 +597,7 @@
   {
     "key": "MESPAK01_0013_0085",
     "original": "マッチングじょうけん",
-    "translation": "匹配条件",
+    "translation": "配对条件",
     "stage": 0,
     "context": "机翻辅助：\n\n配对条件\n\n匹配条件"
   },
@@ -786,14 +786,14 @@
   {
     "key": "MESPAK01_0013_0112",
     "original": "じょうほうを　みたい　または　いどう　したい　ワザを\nえらんで　ください",
-    "translation": "请选择想要查看并移动的招式。",
+    "translation": "请选择想要查看并移动的技能。",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要观看或者想要交换的技能\n\n\n\n请选择想要获取信息或想移动的技能\n\n请描绘出想看信息或想做什么的技巧"
   },
   {
     "key": "MESPAK01_0013_0113",
     "original": "いれかえたい　ばしょの　ワザを　えらんで　ください",
-    "translation": "请选择想要替换位置的招式。",
+    "translation": "请选择想要替换位置的技能。",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要交换的地点\n\n请给我换个地方的圈套\n\n请选择想更换的地方的技巧"
   },
@@ -926,7 +926,7 @@
   {
     "key": "MESPAK01_0013_0132",
     "original": "じょうほうをみたいワザを　えらんでください",
-    "translation": "请选择想要查看情报的招式。",
+    "translation": "请选择想要查看情报的技能。",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择您想看的情报\n\n请选择想要获取信息的技巧\n\n请看一下情报"
   },
@@ -954,7 +954,7 @@
   {
     "key": "MESPAK01_0013_0136",
     "original": "ワザの　じゅんばんを　ならびかえる",
-    "translation": "改变招式的顺序",
+    "translation": "改变技能的顺序",
     "stage": 0,
     "context": "机翻辅助：\n\n改变招式的顺序\n\n重新排列技能的顺序\n\n重新排列圈套的顺序"
   },
@@ -1038,7 +1038,7 @@
   {
     "key": "MESPAK01_0013_0148",
     "original": "せんとうの　ワザのいちを　みる",
-    "translation": "查看战斗招式一览",
+    "translation": "查看战斗技能一览",
     "stage": 0,
     "context": "机翻辅助：\n\n看战斗技的一招\n\n观察战斗技巧的位置\n\n看一看老师的做派"
   },
@@ -1052,7 +1052,7 @@
   {
     "key": "MESPAK01_0013_0150",
     "original": "ワザ",
-    "translation": "招式",
+    "translation": "技能",
     "stage": 0,
     "context": "机翻辅助：\n\n这是故意的。\n\n技巧"
   },

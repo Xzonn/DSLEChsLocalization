@@ -2,14 +2,14 @@
   {
     "key": "MESPAK01_0010_0000",
     "original": "ＤＳワイヤレスつうしんで　あそびます",
-    "translation": "用DS无线连线来玩吧",
+    "translation": "用DS无线连接来游玩",
     "stage": 0,
     "context": "机翻辅助：\n\n用DS无线连线来玩吧\n\n玩DS无线通信\n\nDS无线通信。"
   },
   {
     "key": "MESPAK01_0010_0001",
     "original": "Ｗｉ－Ｆｉつうしんで　あそびます",
-    "translation": "用Wi-Fi连线来玩吧",
+    "translation": "用Wi-Fi连接来游玩",
     "stage": 0,
     "context": "机翻辅助：\n\n用Wi-Fi连线来玩吧\n\n用Wi-Fi通信。\n\n用无线网络玩"
   },
