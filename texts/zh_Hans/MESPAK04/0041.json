@@ -44,42 +44,42 @@
   {
     "key": "MESPAK04_0041_0006",
     "original": "チップフォレストの\nデジポートの　ばしょが\nわかる　アドレス",
-    "translation": "知道芯片森林的地址\n\n数字端口的地址",
+    "translation": "知道芯片森林的地址\n\n数字港口的地址",
     "stage": 0,
     "context": "机翻辅助：\n\n知道芯片森林的地址\n\n数字端口的地址\n\n芯片森林的\n知道数码端口位置的地址"
   },
   {
     "key": "MESPAK04_0041_0007",
     "original": "ラベルフォレストの\nデジポートの　ばしょが\nわかる　アドレス",
-    "translation": "标签森林\n知道数码端口地址\n的地址",
+    "translation": "标签森林\n知道数码港口地址\n的地址",
     "stage": 0,
     "context": "机翻辅助：\n\n标签森林\n知道数码端口地址\n的地址\n\n知道数字端口地址\n\n森林标签"
   },
   {
     "key": "MESPAK04_0041_0008",
     "original": "タスクキャニオンの\nＮデジポートの　ばしょが\nわかる　アドレス",
-    "translation": "任务峡谷的\nN数字端口的位置\n知道的地址",
+    "translation": "任务峡谷的\nN数字港口的位置\n知道的地址",
     "stage": 0,
     "context": "机翻辅助：\n\n任务峡谷的\nN数字端口的位置\n知道的地址\n\n任务峡谷\nN数字端口地址"
   },
   {
     "key": "MESPAK04_0041_0009",
     "original": "グラボセントラルの\nデジポートの　ばしょが\nわかる　アドレス",
-    "translation": "格拉沃中央数字端口地址\n\n知道",
+    "translation": "格拉沃中央数字港口地址\n\n知道",
     "stage": 0,
     "context": "机翻辅助：\n\n格拉沃中央数字端口地址\n\n知道\n\ngrabocentral的\n知道数码端口位置的地址"
   },
   {
     "key": "MESPAK04_0041_0010",
     "original": "リスクファクトリーの\nデジポートの　ばしょが\nわかる　アドレス",
-    "translation": "风险工厂的数字端口地址\n\n知道",
+    "translation": "风险工厂的数字港口地址\n\n知道",
     "stage": 0,
     "context": "机翻辅助：\n\n风险工厂的数字端口地址\n\n知道\n\n风险工厂的地址\n知道数码端口的位置"
   },
   {
     "key": "MESPAK04_0041_0011",
     "original": "テイマータウンの\nデジポートの　ばしょが\nわかる　アドレス",
-    "translation": "teimer town的地址\n知道数码端口的地址\n",
+    "translation": "teimer town的地址\n知道数码港口的地址",
     "stage": 0,
     "context": "机翻辅助：\n\nteimer town的地址\n知道数码端口的地址\n\n\n泰默镇的数字端口地址"
   },

@@ -2,7 +2,7 @@
   {
     "key": "MESPAK01_0003_0000",
     "original": "デジポート",
-    "translation": "数码端口",
+    "translation": "数码港口",
     "stage": 1,
     "context": "机翻辅助：\n\n数码港埠\n\n数字端口\n\n数码端口"
   },
@@ -373,182 +373,182 @@
   {
     "key": "MESPAK01_0003_0053",
     "original": "ベースポート",
-    "translation": "基地端口",
+    "translation": "基地港口",
     "stage": 1,
     "context": "机翻辅助：\n\n基本端口"
   },
   {
     "key": "MESPAK01_0003_0054",
     "original": "ログインポート",
-    "translation": "登录端口",
+    "translation": "登录港口",
     "stage": 1,
     "context": "机翻辅助：\n\n登入端口\n\n日志导入\n\n登录端口"
   },
   {
     "key": "MESPAK01_0003_0055",
     "original": "チップポート",
-    "translation": "芯片端口",
+    "translation": "芯片港口",
     "stage": 0,
     "context": "机翻辅助：\n\n芯片端口"
   },
   {
     "key": "MESPAK01_0003_0056",
     "original": "ラベルポート",
-    "translation": "标记端口",
+    "translation": "标记港口",
     "stage": 0,
     "context": "机翻辅助：\n\n标签端口"
   },
   {
     "key": "MESPAK01_0003_0057",
     "original": "ループポート",
-    "translation": "循环端口",
+    "translation": "循环港口",
     "stage": 0,
     "context": "机翻辅助：\n\n循环端口"
   },
   {
     "key": "MESPAK01_0003_0058",
     "original": "マグネポート",
-    "translation": "磁力端口",
+    "translation": "磁力港口",
     "stage": 0,
     "context": "机翻辅助：\n\n磁极端口\n\n磁端口"
   },
   {
     "key": "MESPAK01_0003_0059",
     "original": "パレットポート",
-    "translation": "调色板端口",
+    "translation": "调色板港口",
     "stage": 0,
     "context": "机翻辅助：\n\n调色板端口\n\n托盘端口"
   },
   {
     "key": "MESPAK01_0003_0060",
     "original": "テイマーポート",
-    "translation": "驯兽师端口",
+    "translation": "驯兽师港口",
     "stage": 0,
     "context": "机翻辅助：\n\n驯兽师端口\n\n泰默港\n\n尾端口"
   },
   {
     "key": "MESPAK01_0003_0061",
     "original": "レジスタポート",
-    "translation": "寄存器端口",
+    "translation": "寄存器港口",
     "stage": 0,
     "context": "机翻辅助：\n\n寄存器端口"
   },
   {
     "key": "MESPAK01_0003_0062",
     "original": "リミットポート",
-    "translation": "限制端口",
+    "translation": "限制港口",
     "stage": 0,
     "context": "机翻辅助：\n\n限制端口\n\n限位端口\n\n极限端口"
   },
   {
     "key": "MESPAK01_0003_0063",
     "original": "ピクセルポート",
-    "translation": "像素端口",
+    "translation": "像素港口",
     "stage": 0,
     "context": "机翻辅助：\n\n像素端口"
   },
   {
     "key": "MESPAK01_0003_0064",
     "original": "シャドウポート",
-    "translation": "暗影端口",
+    "translation": "暗影港口",
     "stage": 0,
     "context": "机翻辅助：\n\n暗影端口\n\n阴影端口"
   },
   {
     "key": "MESPAK01_0003_0065",
     "original": "タスクポートＮ",
-    "translation": "任务端口北",
+    "translation": "任务港口北",
     "stage": 0,
     "context": "机翻辅助：\n\n任务端口N"
   },
   {
     "key": "MESPAK01_0003_0066",
     "original": "タスクポートＳ",
-    "translation": "任务端口南",
+    "translation": "任务港口南",
     "stage": 0,
     "context": "机翻辅助：\n\n任务端口S"
   },
   {
     "key": "MESPAK01_0003_0067",
     "original": "スリラーポートＥ",
-    "translation": "惊悚端口东",
+    "translation": "惊悚港口东",
     "stage": 0,
     "context": "机翻辅助：\n\n刺激端口E\n\n惊悚港E\n\n惊险端口E"
   },
   {
     "key": "MESPAK01_0003_0068",
     "original": "スリラーポートＷ",
-    "translation": "惊悚端口西",
+    "translation": "惊悚港口西",
     "stage": 0,
     "context": "机翻辅助：\n\n刺激端口W\n\n惊险端口W\n\n惊悚港W"
   },
   {
     "key": "MESPAK01_0003_0069",
     "original": "アクセスポートＳ",
-    "translation": "访问端口南",
+    "translation": "访问港口南",
     "stage": 0,
     "context": "机翻辅助：\n\n存取端口N\n\n访问端口S\n\n接入端口S"
   },
   {
     "key": "MESPAK01_0003_0070",
     "original": "アクセスポートＮ",
-    "translation": "访问端口北",
+    "translation": "访问港口北",
     "stage": 0,
     "context": "机翻辅助：\n\n存取端口S\n\n接入端口N\n\n访问端口N"
   },
   {
     "key": "MESPAK01_0003_0071",
     "original": "プロキシポートＷ",
-    "translation": "代理端口西",
+    "translation": "代理港口西",
     "stage": 0,
     "context": "机翻辅助：\n\n代理端口W"
   },
   {
     "key": "MESPAK01_0003_0072",
     "original": "プロキシポートＥ",
-    "translation": "代理端口东",
+    "translation": "代理港口东",
     "stage": 0,
     "context": "机翻辅助：\n\n代理端口E"
   },
   {
     "key": "MESPAK01_0003_0073",
     "original": "アングラポート",
-    "translation": "地下端口",
+    "translation": "地下港口",
     "stage": 0,
     "context": "机翻辅助：\n\n匿名端口\n\n地下口\n\n安格拉波特"
   },
   {
     "key": "MESPAK01_0003_0074",
     "original": "ウィザードポート",
-    "translation": "巫师端口",
+    "translation": "巫师港口",
     "stage": 0,
     "context": "机翻辅助：\n\n魔法师端口\n\n威瑟德港\n\n向导端口"
   },
   {
     "key": "MESPAK01_0003_0075",
     "original": "セントラルポート",
-    "translation": "中央端口",
+    "translation": "中央港口",
     "stage": 0,
     "context": "机翻辅助：\n\n中央端口\n\n中央港口"
   },
   {
     "key": "MESPAK01_0003_0076",
     "original": "リスクポート",
-    "translation": "风险端口",
+    "translation": "风险港口",
     "stage": 0,
     "context": "机翻辅助：\n\n迷宫端口\n\n风险端口"
   },
   {
     "key": "MESPAK01_0003_0077",
     "original": "クロンポート",
-    "translation": "铬合金端口",
+    "translation": "铬合金港口",
     "stage": 0,
     "context": "机翻辅助：\n\n克隆端口\n\n克朗波特"
   },
   {
     "key": "MESPAK01_0003_0078",
     "original": "クラスポート",
-    "translation": "类别端口",
+    "translation": "类别港口",
     "stage": 0,
     "context": "机翻辅助：\n\n班级端口\n\n类端口\n\n克拉斯端口"
   }
