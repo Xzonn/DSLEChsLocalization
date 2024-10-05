@@ -16879,7 +16879,7 @@
   {
     "key": "MESPAK00_0000_2411",
     "original": "タネモンのグッズ",
-    "translation": "种子兽的货物",
+    "translation": "种子兽的道具",
     "stage": 0,
     "context": "机翻辅助：\n\n种子兽的货物"
   },
@@ -16928,7 +16928,7 @@
   {
     "key": "MESPAK00_0000_2418",
     "original": "ビリビリじゅえき",
-    "translation": "麻酥酥的树汁",
+    "translation": "酥麻树汁",
     "stage": 0,
     "context": "机翻辅助：\n\n麻酥酥的树汁"
   },
@@ -17012,21 +17012,21 @@
   {
     "key": "MESPAK00_0000_2430",
     "original": "キュウビのオＡ",
-    "translation": "九尾的尾巴A",
+    "translation": "九尾之尾A",
     "stage": 0,
     "context": "机翻辅助：\n\n九尾的尾巴A"
   },
   {
     "key": "MESPAK00_0000_2431",
     "original": "キュウビのオＢ",
-    "translation": "九尾的尾巴B",
+    "translation": "九尾之尾B",
     "stage": 0,
     "context": "机翻辅助：\n\n九尾的尾巴B"
   },
   {
     "key": "MESPAK00_0000_2432",
     "original": "キャタピラ",
-    "translation": "毛毛虫",
+    "translation": "履带",
     "stage": 0,
     "context": "机翻辅助：\n\n毛毛虫"
   },
@@ -17061,7 +17061,7 @@
   {
     "key": "MESPAK00_0000_2437",
     "original": "しゅぎょうレシピ",
-    "translation": "修行配方",
+    "translation": "修行秘诀",
     "stage": 0,
     "context": "机翻辅助：\n\n修行配方"
   },
@@ -17257,7 +17257,7 @@
   {
     "key": "MESPAK00_0000_2465",
     "original": "コノハのえだ",
-    "translation": "树叶枝",
+    "translation": "树叶枝条",
     "stage": 0,
     "context": "机翻辅助：\n\n树叶枝"
   },
@@ -17306,7 +17306,7 @@
   {
     "key": "MESPAK00_0000_2484",
     "original": "ブラックボックス",
-    "translation": "黑盒子",
+    "translation": "黑匣子",
     "stage": 0,
     "context": "机翻辅助：\n\n黑盒子"
   },
@@ -17404,7 +17404,7 @@
   {
     "key": "MESPAK00_0000_2513",
     "original": "マグネキー",
-    "translation": "磁力钥匙",
+    "translation": "磁铁钥匙",
     "stage": 0,
     "context": "机翻辅助：\n\n磁力钥匙"
   },
@@ -17425,7 +17425,7 @@
   {
     "key": "MESPAK00_0000_2516",
     "original": "レジスタキー",
-    "translation": "注册钥匙",
+    "translation": "寄存器钥匙",
     "stage": 0,
     "context": "机翻辅助：\n\n注册钥匙"
   },
@@ -17537,7 +17537,7 @@
   {
     "key": "MESPAK00_0000_2538",
     "original": "レジスタカード",
-    "translation": "注册卡",
+    "translation": "寄存器卡",
     "stage": 0,
     "context": "机翻辅助：\n\n注册卡"
   },
@@ -17621,7 +17621,7 @@
   {
     "key": "MESPAK00_0000_2550",
     "original": "ラベルアドレス",
-    "translation": "标签地址",
+    "translation": "标记地址",
     "stage": 0,
     "context": "机翻辅助：\n\n标签地址"
   },

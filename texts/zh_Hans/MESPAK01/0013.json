@@ -37,7 +37,7 @@
   {
     "key": "MESPAK01_0013_0005",
     "original": "テイマーランク",
-    "translation": "驯兽师阶级",
+    "translation": "驯兽师层级",
     "stage": 0,
     "context": "机翻辅助：\n\n驯兽师等级\n\n泰马兰克\n\n品级"
   },
@@ -464,7 +464,7 @@
   {
     "key": "MESPAK01_0013_0066",
     "original": "ランク",
-    "translation": "阶级",
+    "translation": "层级",
     "stage": 0,
     "context": "机翻辅助：\n\n阶级\n\n等级"
   },
@@ -737,7 +737,7 @@
   {
     "key": "MESPAK01_0013_0105",
     "original": "テイマーじょうほう",
-    "translation": "驯兽师情报",
+    "translation": "驯兽师信息",
     "stage": 0,
     "context": "机翻辅助：\n\n驯兽师情报\n\n尾随信息\n\n定时器信息"
   },
@@ -765,14 +765,14 @@
   {
     "key": "MESPAK01_0013_0109",
     "original": "かくにんしたい　じょうほうの　コマンドを　えらんで　ください",
-    "translation": "请选择想要确认情报的指令。",
+    "translation": "请选择想要确认信息的指令。",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要记录的情报指令\n\n请选择确认状态的命令\n\n请选择想确认的信息的指令。"
   },
   {
     "key": "MESPAK01_0013_0110",
     "original": "じょうほうを　みたり　ならびかえを　する　デジモンを\nえらんで　ください",
-    "translation": "请选择想要查看情报或重新排序的数码宝贝。",
+    "translation": "请选择想要查看信息或重新排序的数码宝贝。",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要观看情报的数码宝贝\n\n\n\n请选择一个数码宝贝来查看信息和更换。\n\n请画出看信息或重新排列的数码宝贝"
   },
@@ -891,14 +891,14 @@
   {
     "key": "MESPAK01_0013_0127",
     "original": "げんざい　うけている　クエストの　じょうほう　です",
-    "translation": "这是现在已接受的任务情报",
+    "translation": "这是现在已接受的任务信息",
     "stage": 0,
     "context": "机翻辅助：\n\n这是目前接到的任务情报\n\n这是目前正在接受的任务信息\n\n是你现在的任务信息。"
   },
   {
     "key": "MESPAK01_0013_0128",
     "original": "かくにん　したい　じょうほうを　えらんで　ください",
-    "translation": "请选择想要确认的情报。",
+    "translation": "请选择想要确认的信息。",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择想要的情报\n\n请看确认信息\n\n请选择想确认的信息"
   },
@@ -912,7 +912,7 @@
   {
     "key": "MESPAK01_0013_0130",
     "original": "じょうほうを　かくにんしたい　デジモンを　えらんで　ください",
-    "translation": "请选择想要确认情报的数码宝贝。",
+    "translation": "请选择想要确认信息的数码宝贝。",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择您想交换的数码宝贝\n\n请选择想要确认信息的数码宝贝\n\n请选择你想确认信息的数码宝贝。"
   },
@@ -926,7 +926,7 @@
   {
     "key": "MESPAK01_0013_0132",
     "original": "じょうほうをみたいワザを　えらんでください",
-    "translation": "请选择想要查看情报的技能。",
+    "translation": "请选择想要查看信息的技能。",
     "stage": 0,
     "context": "机翻辅助：\n\n请选择您想看的情报\n\n请选择想要获取信息的技巧\n\n请看一下情报"
   },
@@ -940,7 +940,7 @@
   {
     "key": "MESPAK01_0013_0134",
     "original": "デジモンの　じょうほうを　みる",
-    "translation": "查看数码宝贝的情报",
+    "translation": "查看数码宝贝的信息",
     "stage": 0,
     "context": "机翻辅助：\n\n看数码宝贝的资料\n\n查看数码宝贝的信息\n\n看数码宝贝的情报"
   },
@@ -1129,7 +1129,7 @@
   {
     "key": "MESPAK01_0013_0161",
     "original": "テイマーじょうほう",
-    "translation": "驯兽师情报",
+    "translation": "驯兽师信息",
     "stage": 0,
     "context": "机翻辅助：\n\n驯兽师情报\n\n尾随信息\n\n定时器信息"
   },
@@ -1199,14 +1199,14 @@
   {
     "key": "MESPAK01_0013_0171",
     "original": "スキャンじょうほう",
-    "translation": "扫描情报",
+    "translation": "扫描信息",
     "stage": 0,
     "context": "机翻辅助：\n\n扫描情报\n\n扫描信息"
   },
   {
     "key": "MESPAK01_0013_0172",
     "original": "デジプレートじょうほう",
-    "translation": "数码板块情报",
+    "translation": "数码板块信息",
     "stage": 0,
     "context": "机翻辅助：\n\n数码车牌资讯\n\n数字板信息\n\n数码信息"
   },
