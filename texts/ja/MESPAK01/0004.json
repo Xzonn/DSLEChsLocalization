@@ -1,261 +1,224 @@
 [
   {
+    "index": 0,
     "key": "MESPAK01_0004_0000",
     "original": "^0は\nみをかためている！",
-    "translation": "^0は\nみをかためている！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0は\nみをかためている！"
   },
   {
+    "index": 1,
     "key": "MESPAK01_0004_0001",
     "original": "^0は\nこんらんしている！",
-    "translation": "^0は\nこんらんしている！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0は\nこんらんしている！"
   },
   {
+    "index": 2,
     "key": "MESPAK01_0004_0002",
     "original": "^0は\nねむっている！",
-    "translation": "^0は\nねむっている！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0は\nねむっている！"
   },
   {
+    "index": 3,
     "key": "MESPAK01_0004_0003",
     "original": "^0は\nわけがわからない！",
-    "translation": "^0は\nわけがわからない！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0は\nわけがわからない！"
   },
   {
+    "index": 4,
     "key": "MESPAK01_0004_0004",
     "original": "^0たちは\nにげようとした・・・",
-    "translation": "^0たちは\nにげようとした・・・",
-    "stage": 1,
-    "context": ""
+    "translation": "^0たちは\nにげようとした・・・"
   },
   {
+    "index": 5,
     "key": "MESPAK01_0004_0005",
     "original": "・・・",
-    "translation": "・・・",
-    "stage": 1,
-    "context": ""
+    "translation": "・・・"
   },
   {
+    "index": 6,
     "key": "MESPAK01_0004_0006",
     "original": "・・・・・",
-    "translation": "・・・・・",
-    "stage": 1,
-    "context": ""
+    "translation": "・・・・・"
   },
   {
+    "index": 7,
     "key": "MESPAK01_0004_0007",
     "original": "・・・・・・・",
-    "translation": "・・・・・・・",
-    "stage": 1,
-    "context": ""
+    "translation": "・・・・・・・"
   },
   {
+    "index": 8,
     "key": "MESPAK01_0004_0008",
     "original": "にげるのに\nしっぱいした！",
-    "translation": "にげるのに\nしっぱいした！",
-    "stage": 1,
-    "context": ""
+    "translation": "にげるのに\nしっぱいした！"
   },
   {
+    "index": 9,
     "key": "MESPAK01_0004_0009",
     "original": "にげるのに\nせいこうした！",
-    "translation": "にげるのに\nせいこうした！",
-    "stage": 1,
-    "context": ""
+    "translation": "にげるのに\nせいこうした！"
   },
   {
+    "index": 10,
     "key": "MESPAK01_0004_0010",
     "original": "たたかう",
-    "translation": "たたかう",
-    "stage": 1,
-    "context": ""
+    "translation": "たたかう"
   },
   {
+    "index": 11,
     "key": "MESPAK01_0004_0011",
     "original": "まもる",
-    "translation": "まもる",
-    "stage": 1,
-    "context": ""
+    "translation": "まもる"
   },
   {
+    "index": 12,
     "key": "MESPAK01_0004_0012",
     "original": "アイテム",
-    "translation": "アイテム",
-    "stage": 1,
-    "context": ""
+    "translation": "アイテム"
   },
   {
+    "index": 13,
     "key": "MESPAK01_0004_0013",
     "original": "いどう",
-    "translation": "いどう",
-    "stage": 1,
-    "context": ""
+    "translation": "いどう"
   },
   {
+    "index": 14,
     "key": "MESPAK01_0004_0014",
     "original": "おすすめ",
-    "translation": "おすすめ",
-    "stage": 1,
-    "context": ""
+    "translation": "おすすめ"
   },
   {
+    "index": 15,
     "key": "MESPAK01_0004_0015",
     "original": "にげる",
-    "translation": "にげる",
-    "stage": 1,
-    "context": ""
+    "translation": "にげる"
   },
   {
+    "index": 16,
     "key": "MESPAK01_0004_0016",
     "original": "こうたい",
-    "translation": "こうたい",
-    "stage": 1,
-    "context": ""
+    "translation": "こうたい"
   },
   {
+    "index": 17,
     "key": "MESPAK01_0004_0017",
     "original": "^0は\nしびれてうごけない！",
-    "translation": "^0は\nしびれてうごけない！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0は\nしびれてうごけない！"
   },
   {
+    "index": 18,
     "key": "MESPAK01_0004_0018",
     "original": "^0は\nいうことをきかない！",
-    "translation": "^0は\nいうことをきかない！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0は\nいうことをきかない！"
   },
   {
+    "index": 19,
     "key": "MESPAK01_0004_0019",
     "original": "たたかえるデジモンに\nこうたいしてください",
-    "translation": "たたかえるデジモンに\nこうたいしてください",
-    "stage": 1,
-    "context": ""
+    "translation": "たたかえるデジモンに\nこうたいしてください"
   },
   {
+    "index": 20,
     "key": "MESPAK01_0004_0020",
     "original": "^0の\nつよさがもどった！",
-    "translation": "^0の\nつよさがもどった！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0の\nつよさがもどった！"
   },
   {
+    "index": 21,
     "key": "MESPAK01_0004_0021",
     "original": "^0の\nまもりがもどった！",
-    "translation": "^0の\nまもりがもどった！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0の\nまもりがもどった！"
   },
   {
+    "index": 22,
     "key": "MESPAK01_0004_0022",
     "original": "^0の\nすばやさがもどった！",
-    "translation": "^0の\nすばやさがもどった！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0の\nすばやさがもどった！"
   },
   {
+    "index": 23,
     "key": "MESPAK01_0004_0023",
     "original": "^0の\nしびれがきえた！",
-    "translation": "^0の\nしびれがきえた！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0の\nしびれがきえた！"
   },
   {
+    "index": 24,
     "key": "MESPAK01_0004_0024",
     "original": "^0は\nわれにかえった！",
-    "translation": "^0は\nわれにかえった！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0は\nわれにかえった！"
   },
   {
+    "index": 25,
     "key": "MESPAK01_0004_0025",
     "original": "^0は\nめがさめた！",
-    "translation": "^0は\nめがさめた！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0は\nめがさめた！"
   },
   {
+    "index": 26,
     "key": "MESPAK01_0004_0026",
     "original": "^0の\nどくがきえさった！",
-    "translation": "^0の\nどくがきえさった！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0の\nどくがきえさった！"
   },
   {
+    "index": 27,
     "key": "MESPAK01_0004_0027",
     "original": "^0は\nにげだした！",
-    "translation": "^0は\nにげだした！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0は\nにげだした！"
   },
   {
+    "index": 28,
     "key": "MESPAK01_0004_0028",
     "original": "^0の\nカウンターがきれた！",
-    "translation": "^0の\nカウンターがきれた！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0の\nカウンターがきれた！"
   },
   {
+    "index": 29,
     "key": "MESPAK01_0004_0029",
     "original": "あたらしいワザを　おぼえきれません\nおぼえているワザと　いれかえますか？",
-    "translation": "あたらしいワザを　おぼえきれません\nおぼえているワザと　いれかえますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "あたらしいワザを　おぼえきれません\nおぼえているワザと　いれかえますか？"
   },
   {
+    "index": 30,
     "key": "MESPAK01_0004_0030",
     "original": "はい　いれかえます",
-    "translation": "はい　いれかえます",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　いれかえます"
   },
   {
+    "index": 31,
     "key": "MESPAK01_0004_0031",
     "original": "いいえ　いれかえません",
-    "translation": "いいえ　いれかえません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　いれかえません"
   },
   {
+    "index": 32,
     "key": "MESPAK01_0004_0032",
     "original": "ワザのいれかえを　しゅうりょうしますか？",
-    "translation": "ワザのいれかえを　しゅうりょうしますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "ワザのいれかえを　しゅうりょうしますか？"
   },
   {
+    "index": 33,
     "key": "MESPAK01_0004_0033",
     "original": "はい　しゅうりょうします",
-    "translation": "はい　しゅうりょうします",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　しゅうりょうします"
   },
   {
+    "index": 34,
     "key": "MESPAK01_0004_0034",
     "original": "いいえ　しゅうりょうしません",
-    "translation": "いいえ　しゅうりょうしません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　しゅうりょうしません"
   },
   {
+    "index": 35,
     "key": "MESPAK01_0004_0035",
     "original": "ギブアップ",
-    "translation": "ギブアップ",
-    "stage": 1,
-    "context": ""
+    "translation": "ギブアップ"
   },
   {
+    "index": 36,
     "key": "MESPAK01_0004_0036",
     "original": "^0は\nスタンしている！",
-    "translation": "^0は\nスタンしている！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0は\nスタンしている！"
   }
 ]

@@ -1,555 +1,476 @@
 [
   {
+    "index": 0,
     "key": "MESPAK01_0008_0000",
     "original": "リペアリングツールを　つかって\nデジプレートを　キレイに　することができます",
-    "translation": "リペアリングツールを　つかって\nデジプレートを　キレイに　することができます",
-    "stage": 1,
-    "context": ""
+    "translation": "リペアリングツールを　つかって\nデジプレートを　キレイに　することができます"
   },
   {
+    "index": 1,
     "key": "MESPAK01_0008_0001",
     "original": "デジプレートを　進化ツリーにセットできます",
-    "translation": "デジプレートを　進化ツリーにセットできます",
-    "stage": 1,
-    "context": ""
+    "translation": "デジプレートを　進化ツリーにセットできます"
   },
   {
+    "index": 2,
     "key": "MESPAK01_0008_0002",
     "original": "デジモンの進化ツリーを　みることができます",
-    "translation": "デジモンの進化ツリーを　みることができます",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンの進化ツリーを　みることができます"
   },
   {
+    "index": 3,
     "key": "MESPAK01_0008_0003",
     "original": "たまった　スキャンデータを　すべてしょうひして\nデジモンを　じったいかします",
-    "translation": "たまった　スキャンデータを　すべてしょうひして\nデジモンを　じったいかします",
-    "stage": 1,
-    "context": ""
+    "translation": "たまった　スキャンデータを　すべてしょうひして\nデジモンを　じったいかします"
   },
   {
+    "index": 4,
     "key": "MESPAK01_0008_0004",
     "original": "デジモンを　進化・退化させます",
-    "translation": "デジモンを　進化・退化させます",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンを　進化・退化させます"
   },
   {
+    "index": 5,
     "key": "MESPAK01_0008_0005",
     "original": "２体のデジモンをえらび　１体のデジモンを　しょうひして\nもう１体のデジモンを　パワーアップします",
-    "translation": "２体のデジモンをえらび　１体のデジモンを　しょうひして\nもう１体のデジモンを　パワーアップします",
-    "stage": 1,
-    "context": ""
+    "translation": "２体のデジモンをえらび　１体のデジモンを　しょうひして\nもう１体のデジモンを　パワーアップします"
   },
   {
+    "index": 6,
     "key": "MESPAK01_0008_0006",
     "original": "エントランスに　もどりますか？",
-    "translation": "エントランスに　もどりますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "エントランスに　もどりますか？"
   },
   {
+    "index": 7,
     "key": "MESPAK01_0008_0007",
     "original": "はい　もどります",
-    "translation": "はい　もどります",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　もどります"
   },
   {
+    "index": 8,
     "key": "MESPAK01_0008_0008",
     "original": "いいえ　もどりません",
-    "translation": "いいえ　もどりません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　もどりません"
   },
   {
+    "index": 9,
     "key": "MESPAK01_0008_0009",
     "original": "デジコンバートするデジモンを　えらんでください",
-    "translation": "デジコンバートするデジモンを　えらんでください",
-    "stage": 1,
-    "context": ""
+    "translation": "デジコンバートするデジモンを　えらんでください"
   },
   {
+    "index": 10,
     "key": "MESPAK01_0008_0010",
     "original": "デジモンＮｏ",
-    "translation": "デジモンＮｏ",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンＮｏ"
   },
   {
+    "index": 11,
     "key": "MESPAK01_0008_0011",
     "original": "スキャン",
-    "translation": "スキャン",
-    "stage": 1,
-    "context": ""
+    "translation": "スキャン"
   },
   {
+    "index": 12,
     "key": "MESPAK01_0008_0012",
     "original": "リストのソートせんたく",
-    "translation": "リストのソートせんたく",
-    "stage": 1,
-    "context": ""
+    "translation": "リストのソートせんたく"
   },
   {
+    "index": 13,
     "key": "MESPAK01_0008_0013",
     "original": "スキャンで　リストをソートする",
-    "translation": "スキャンで　リストをソートする",
-    "stage": 1,
-    "context": ""
+    "translation": "スキャンで　リストをソートする"
   },
   {
+    "index": 14,
     "key": "MESPAK01_0008_0014",
     "original": "デジモンＮｏで　リストをソートする",
-    "translation": "デジモンＮｏで　リストをソートする",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンＮｏで　リストをソートする"
   },
   {
+    "index": 15,
     "key": "MESPAK01_0008_0015",
     "original": "なまえで　リストをソートする",
-    "translation": "なまえで　リストをソートする",
-    "stage": 1,
-    "context": ""
+    "translation": "なまえで　リストをソートする"
   },
   {
+    "index": 16,
     "key": "MESPAK01_0008_0016",
     "original": "しゅるいで　リストをソートする",
-    "translation": "しゅるいで　リストをソートする",
-    "stage": 1,
-    "context": ""
+    "translation": "しゅるいで　リストをソートする"
   },
   {
+    "index": 17,
     "key": "MESPAK01_0008_0017",
     "original": "メニューを　とじる",
-    "translation": "メニューを　とじる",
-    "stage": 1,
-    "context": ""
+    "translation": "メニューを　とじる"
   },
   {
+    "index": 18,
     "key": "MESPAK01_0008_0018",
     "original": "これ以上　デジモンを\nなかまにすることが　できません",
-    "translation": "これ以上　デジモンを\nなかまにすることが　できません",
-    "stage": 1,
-    "context": ""
+    "translation": "これ以上　デジモンを\nなかまにすることが　できません"
   },
   {
+    "index": 19,
     "key": "MESPAK01_0008_0019",
     "original": "進化ツリーに　デジプレートが\nセットされていません",
-    "translation": "進化ツリーに　デジプレートが\nセットされていません",
-    "stage": 1,
-    "context": ""
+    "translation": "進化ツリーに　デジプレートが\nセットされていません"
   },
   {
+    "index": 20,
     "key": "MESPAK01_0008_0020",
     "original": "スキャンデータが　１００％以上ない\nデジモンは　コンバートできません",
-    "translation": "スキャンデータが　１００％以上ない\nデジモンは　コンバートできません",
-    "stage": 1,
-    "context": ""
+    "translation": "スキャンデータが　１００％以上ない\nデジモンは　コンバートできません"
   },
   {
+    "index": 21,
     "key": "MESPAK01_0008_0021",
     "original": "デジコンバートを　おこないますか？",
-    "translation": "デジコンバートを　おこないますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "デジコンバートを　おこないますか？"
   },
   {
+    "index": 22,
     "key": "MESPAK01_0008_0022",
     "original": "はい　おこないます",
-    "translation": "はい　おこないます",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　おこないます"
   },
   {
+    "index": 23,
     "key": "MESPAK01_0008_0023",
     "original": "いいえ　おこないません",
-    "translation": "いいえ　おこないません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　おこないません"
   },
   {
+    "index": 24,
     "key": "MESPAK01_0008_0024",
     "original": "^0の　ニックネームは\n^1　でいいですか？",
-    "translation": "^0の　ニックネームは\n^1　でいいですか？",
-    "stage": 1,
-    "context": ""
+    "translation": "^0の　ニックネームは\n^1　でいいですか？"
   },
   {
+    "index": 25,
     "key": "MESPAK01_0008_0025",
     "original": "はい　いいです",
-    "translation": "はい　いいです",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　いいです"
   },
   {
+    "index": 26,
     "key": "MESPAK01_0008_0026",
     "original": "いいえ　よくありません",
-    "translation": "いいえ　よくありません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　よくありません"
   },
   {
+    "index": 27,
     "key": "MESPAK01_0008_0027",
     "original": "進化　退化させるデジモンを　えらんでください",
-    "translation": "進化　退化させるデジモンを　えらんでください",
-    "stage": 1,
-    "context": ""
+    "translation": "進化　退化させるデジモンを　えらんでください"
   },
   {
+    "index": 28,
     "key": "MESPAK01_0008_0028",
     "original": "デジタマは　進化　退化できません",
-    "translation": "デジタマは　進化　退化できません",
-    "stage": 1,
-    "context": ""
+    "translation": "デジタマは　進化　退化できません"
   },
   {
+    "index": 29,
     "key": "MESPAK01_0008_0029",
     "original": "おねがいクエストちゅうのデジモンは\n進化　退化できません",
-    "translation": "おねがいクエストちゅうのデジモンは\n進化　退化できません",
-    "stage": 1,
-    "context": ""
+    "translation": "おねがいクエストちゅうのデジモンは\n進化　退化できません"
   },
   {
+    "index": 30,
     "key": "MESPAK01_0008_0030",
     "original": "しゅぎょうちゅうのデジモンは\n進化　退化できません",
-    "translation": "しゅぎょうちゅうのデジモンは\n進化　退化できません",
-    "stage": 1,
-    "context": ""
+    "translation": "しゅぎょうちゅうのデジモンは\n進化　退化できません"
   },
   {
+    "index": 31,
     "key": "MESPAK01_0008_0031",
     "original": "しゅぎょうちゅうのデジモンは\n進化　退化できません",
-    "translation": "しゅぎょうちゅうのデジモンは\n進化　退化できません",
-    "stage": 1,
-    "context": ""
+    "translation": "しゅぎょうちゅうのデジモンは\n進化　退化できません"
   },
   {
+    "index": 32,
     "key": "MESPAK01_0008_0032",
     "original": "おしごとちゅうのデジモンは\n進化　退化できません",
-    "translation": "おしごとちゅうのデジモンは\n進化　退化できません",
-    "stage": 1,
-    "context": ""
+    "translation": "おしごとちゅうのデジモンは\n進化　退化できません"
   },
   {
+    "index": 33,
     "key": "MESPAK01_0008_0033",
     "original": "たんけんちゅうのデジモンは\n進化　退化できません",
-    "translation": "たんけんちゅうのデジモンは\n進化　退化できません",
-    "stage": 1,
-    "context": ""
+    "translation": "たんけんちゅうのデジモンは\n進化　退化できません"
   },
   {
+    "index": 34,
     "key": "MESPAK01_0008_0034",
     "original": "進化退化じょうけん",
-    "translation": "進化退化じょうけん",
-    "stage": 1,
-    "context": ""
+    "translation": "進化退化じょうけん"
   },
   {
+    "index": 35,
     "key": "MESPAK01_0008_0035",
     "original": "？？？？？？？？",
-    "translation": "？？？？？？？？",
-    "stage": 1,
-    "context": ""
+    "translation": "？？？？？？？？"
   },
   {
+    "index": 36,
     "key": "MESPAK01_0008_0036",
     "original": "デジモンの　じょうほうを　みる",
-    "translation": "デジモンの　じょうほうを　みる",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンの　じょうほうを　みる"
   },
   {
+    "index": 37,
     "key": "MESPAK01_0008_0037",
     "original": "えらんだデジモンに　進化する",
-    "translation": "えらんだデジモンに　進化する",
-    "stage": 1,
-    "context": ""
+    "translation": "えらんだデジモンに　進化する"
   },
   {
+    "index": 38,
     "key": "MESPAK01_0008_0038",
     "original": "えらんだデジモンに　退化する",
-    "translation": "えらんだデジモンに　退化する",
-    "stage": 1,
-    "context": ""
+    "translation": "えらんだデジモンに　退化する"
   },
   {
+    "index": 39,
     "key": "MESPAK01_0008_0039",
     "original": "デジモンを　進化させますか？",
-    "translation": "デジモンを　進化させますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンを　進化させますか？"
   },
   {
+    "index": 40,
     "key": "MESPAK01_0008_0040",
     "original": "はい　進化させます",
-    "translation": "はい　進化させます",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　進化させます"
   },
   {
+    "index": 41,
     "key": "MESPAK01_0008_0041",
     "original": "いいえ　進化させません",
-    "translation": "いいえ　進化させません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　進化させません"
   },
   {
+    "index": 42,
     "key": "MESPAK01_0008_0042",
     "original": "デジモンを　退化させますか？",
-    "translation": "デジモンを　退化させますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンを　退化させますか？"
   },
   {
+    "index": 43,
     "key": "MESPAK01_0008_0043",
     "original": "はい　退化させます",
-    "translation": "はい　退化させます",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　退化させます"
   },
   {
+    "index": 44,
     "key": "MESPAK01_0008_0044",
     "original": "いいえ　退化させません",
-    "translation": "いいえ　退化させません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　退化させません"
   },
   {
+    "index": 45,
     "key": "MESPAK01_0008_0045",
     "original": "デジモンを進化させると　そうびが\nはずれますが　よろしいでしょうか？",
-    "translation": "デジモンを進化させると　そうびが\nはずれますが　よろしいでしょうか？",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンを進化させると　そうびが\nはずれますが　よろしいでしょうか？"
   },
   {
+    "index": 46,
     "key": "MESPAK01_0008_0046",
     "original": "はい　いいです",
-    "translation": "はい　いいです",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　いいです"
   },
   {
+    "index": 47,
     "key": "MESPAK01_0008_0047",
     "original": "いいえ　よくありません",
-    "translation": "いいえ　よくありません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　よくありません"
   },
   {
+    "index": 48,
     "key": "MESPAK01_0008_0048",
     "original": "デジモンを退化させると　そうびが\nはずれますが　よろしいでしょうか？",
-    "translation": "デジモンを退化させると　そうびが\nはずれますが　よろしいでしょうか？",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンを退化させると　そうびが\nはずれますが　よろしいでしょうか？"
   },
   {
+    "index": 49,
     "key": "MESPAK01_0008_0049",
     "original": "はい　いいです",
-    "translation": "はい　いいです",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　いいです"
   },
   {
+    "index": 50,
     "key": "MESPAK01_0008_0050",
     "original": "いいえ　よくありません",
-    "translation": "いいえ　よくありません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　よくありません"
   },
   {
+    "index": 51,
     "key": "MESPAK01_0008_0051",
     "original": "バグプレートを　えらんでください",
-    "translation": "バグプレートを　えらんでください",
-    "stage": 1,
-    "context": ""
+    "translation": "バグプレートを　えらんでください"
   },
   {
+    "index": 52,
     "key": "MESPAK01_0008_0052",
     "original": "リペアリングを　おこなう",
-    "translation": "リペアリングを　おこなう",
-    "stage": 1,
-    "context": ""
+    "translation": "リペアリングを　おこなう"
   },
   {
+    "index": 53,
     "key": "MESPAK01_0008_0053",
     "original": "オートリペアリングを　おこなう",
-    "translation": "オートリペアリングを　おこなう",
-    "stage": 1,
-    "context": ""
+    "translation": "オートリペアリングを　おこなう"
   },
   {
+    "index": 54,
     "key": "MESPAK01_0008_0054",
     "original": "なにも　もっていません",
-    "translation": "なにも　もっていません",
-    "stage": 1,
-    "context": ""
+    "translation": "なにも　もっていません"
   },
   {
+    "index": 55,
     "key": "MESPAK01_0008_0055",
     "original": "デジモンロードをおこなうためには\nデジモンが　２体以上　ひつようです",
-    "translation": "デジモンロードをおこなうためには\nデジモンが　２体以上　ひつようです",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンロードをおこなうためには\nデジモンが　２体以上　ひつようです"
   },
   {
+    "index": 56,
     "key": "MESPAK01_0008_0056",
     "original": "デジモンロードで　パワーアップさせる\nメインデジモンを　えらんでください",
-    "translation": "デジモンロードで　パワーアップさせる\nメインデジモンを　えらんでください",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンロードで　パワーアップさせる\nメインデジモンを　えらんでください"
   },
   {
+    "index": 57,
     "key": "MESPAK01_0008_0057",
     "original": "デジモンロードで　しょうひする\nサブデジモンを　えらんでください",
-    "translation": "デジモンロードで　しょうひする\nサブデジモンを　えらんでください",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンロードで　しょうひする\nサブデジモンを　えらんでください"
   },
   {
+    "index": 58,
     "key": "MESPAK01_0008_0058",
     "original": "そのデジモンは　メインデジモンに\nせんたくされています",
-    "translation": "そのデジモンは　メインデジモンに\nせんたくされています",
-    "stage": 1,
-    "context": ""
+    "translation": "そのデジモンは　メインデジモンに\nせんたくされています"
   },
   {
+    "index": 59,
     "key": "MESPAK01_0008_0059",
     "original": "パーティのデジモンは\nサブデジモンに　せんたくできません",
-    "translation": "パーティのデジモンは\nサブデジモンに　せんたくできません",
-    "stage": 1,
-    "context": ""
+    "translation": "パーティのデジモンは\nサブデジモンに　せんたくできません"
   },
   {
+    "index": 60,
     "key": "MESPAK01_0008_0060",
     "original": "デジモンロードを　おこないますか？\n^0　ｘ　^1",
-    "translation": "デジモンロードを　おこないますか？\n^0　ｘ　^1",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンロードを　おこないますか？\n^0　ｘ　^1"
   },
   {
+    "index": 61,
     "key": "MESPAK01_0008_0061",
     "original": "はい　おこないます",
-    "translation": "はい　おこないます",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　おこないます"
   },
   {
+    "index": 62,
     "key": "MESPAK01_0008_0062",
     "original": "いいえ　おこないません",
-    "translation": "いいえ　おこないません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　おこないません"
   },
   {
+    "index": 63,
     "key": "MESPAK01_0008_0063",
     "original": "サブデジモンが　いなくなって\nしまいますが　よろしいでしょうか？",
-    "translation": "サブデジモンが　いなくなって\nしまいますが　よろしいでしょうか？",
-    "stage": 1,
-    "context": ""
+    "translation": "サブデジモンが　いなくなって\nしまいますが　よろしいでしょうか？"
   },
   {
+    "index": 64,
     "key": "MESPAK01_0008_0064",
     "original": "はい　いいです",
-    "translation": "はい　いいです",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　いいです"
   },
   {
+    "index": 65,
     "key": "MESPAK01_0008_0065",
     "original": "いいえ　よくありません",
-    "translation": "いいえ　よくありません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　よくありません"
   },
   {
+    "index": 66,
     "key": "MESPAK01_0008_0066",
     "original": "デジモンロードを　おこないました\n^0　ｘ　^1",
-    "translation": "デジモンロードを　おこないました\n^0　ｘ　^1",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンロードを　おこないました\n^0　ｘ　^1"
   },
   {
+    "index": 67,
     "key": "MESPAK01_0008_0067",
     "original": "ゆうじょうが　１００％ではないデジモンは\nデジモンロードできません",
-    "translation": "ゆうじょうが　１００％ではないデジモンは\nデジモンロードできません",
-    "stage": 1,
-    "context": ""
+    "translation": "ゆうじょうが　１００％ではないデジモンは\nデジモンロードできません"
   },
   {
+    "index": 68,
     "key": "MESPAK01_0008_0068",
     "original": "デジタマは　デジモンロードできません",
-    "translation": "デジタマは　デジモンロードできません",
-    "stage": 1,
-    "context": ""
+    "translation": "デジタマは　デジモンロードできません"
   },
   {
+    "index": 69,
     "key": "MESPAK01_0008_0069",
     "original": "おねがいクエストちゅうのデジモンは\nデジモンロードできません",
-    "translation": "おねがいクエストちゅうのデジモンは\nデジモンロードできません",
-    "stage": 1,
-    "context": ""
+    "translation": "おねがいクエストちゅうのデジモンは\nデジモンロードできません"
   },
   {
+    "index": 70,
     "key": "MESPAK01_0008_0070",
     "original": "しゅぎょうちゅうのデジモンは\nデジモンロードできません",
-    "translation": "しゅぎょうちゅうのデジモンは\nデジモンロードできません",
-    "stage": 1,
-    "context": ""
+    "translation": "しゅぎょうちゅうのデジモンは\nデジモンロードできません"
   },
   {
+    "index": 71,
     "key": "MESPAK01_0008_0071",
     "original": "おしごとちゅうのデジモンは\nデジモンロードできません",
-    "translation": "おしごとちゅうのデジモンは\nデジモンロードできません",
-    "stage": 1,
-    "context": ""
+    "translation": "おしごとちゅうのデジモンは\nデジモンロードできません"
   },
   {
+    "index": 72,
     "key": "MESPAK01_0008_0072",
     "original": "メインデジモン",
-    "translation": "メインデジモン",
-    "stage": 1,
-    "context": ""
+    "translation": "メインデジモン"
   },
   {
+    "index": 73,
     "key": "MESPAK01_0008_0073",
     "original": "サブデジモン",
-    "translation": "サブデジモン",
-    "stage": 1,
-    "context": ""
+    "translation": "サブデジモン"
   },
   {
+    "index": 74,
     "key": "MESPAK01_0008_0074",
     "original": "デジプレートを　えらんでください",
-    "translation": "デジプレートを　えらんでください",
-    "stage": 1,
-    "context": ""
+    "translation": "デジプレートを　えらんでください"
   },
   {
+    "index": 75,
     "key": "MESPAK01_0008_0075",
     "original": "進化ツリーを　えらんでください",
-    "translation": "進化ツリーを　えらんでください",
-    "stage": 1,
-    "context": ""
+    "translation": "進化ツリーを　えらんでください"
   },
   {
+    "index": 76,
     "key": "MESPAK01_0008_0076",
     "original": "^0　が　ふっかつした！",
-    "translation": "^0　が　ふっかつした！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0　が　ふっかつした！"
   },
   {
+    "index": 77,
     "key": "MESPAK01_0008_0077",
     "original": "~F3~C1^0~F-~C-　が　ふっかつした！",
-    "translation": "~F3~C1^0~F-~C-　が　ふっかつした！",
-    "stage": 1,
-    "context": ""
+    "translation": "~F3~C1^0~F-~C-　が　ふっかつした！"
   },
   {
+    "index": 78,
     "key": "MESPAK01_0008_0078",
     "original": "^0　が　\nセットされた！",
-    "translation": "^0　が　\nセットされた！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0　が　\nセットされた！"
   }
 ]

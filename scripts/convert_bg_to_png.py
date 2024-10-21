@@ -2,10 +2,10 @@ import os
 import struct
 
 from helper import (
-  ARM9_DECOMPRESSED_PATH,
   DIR_BG_NCGR,
   DIR_BG_NCLR,
   DIR_BG_NSCR,
+  DIR_TEMP_DECOMPRESSED,
   DIR_TEMP_IMAGES_BG,
   DIR_UNPACKED_FILES,
 )
@@ -16,7 +16,7 @@ BG_COUNT = 0x00F0
 
 os.makedirs(DIR_TEMP_IMAGES_BG, exist_ok=True)
 
-with open(ARM9_DECOMPRESSED_PATH, "rb") as reader:
+with open(f"{DIR_TEMP_DECOMPRESSED}/arm9.bin", "rb") as reader:
   reader.seek(BG_INFO_OFFSET)
   for i in range(BG_COUNT):
     nscr_index, ncgr_index, nclr_index = struct.unpack("<III", reader.read(0x0C))

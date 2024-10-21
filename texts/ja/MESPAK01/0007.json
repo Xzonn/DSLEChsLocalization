@@ -1,548 +1,470 @@
 [
   {
+    "index": 0,
     "key": "MESPAK01_0007_0000",
     "original": "ゲンジュウ",
-    "translation": "ゲンジュウ",
-    "stage": 1,
-    "context": ""
+    "translation": "ゲンジュウ"
   },
   {
+    "index": 1,
     "key": "MESPAK01_0007_0001",
     "original": "ケモノ",
-    "translation": "ケモノ",
-    "stage": 1,
-    "context": ""
+    "translation": "ケモノ"
   },
   {
+    "index": 2,
     "key": "MESPAK01_0007_0002",
     "original": "テンシ",
-    "translation": "テンシ",
-    "stage": 1,
-    "context": ""
+    "translation": "テンシ"
   },
   {
+    "index": 3,
     "key": "MESPAK01_0007_0003",
     "original": "アクマ",
-    "translation": "アクマ",
-    "stage": 1,
-    "context": ""
+    "translation": "アクマ"
   },
   {
+    "index": 4,
     "key": "MESPAK01_0007_0004",
     "original": "ミズ",
-    "translation": "ミズ",
-    "stage": 1,
-    "context": ""
+    "translation": "ミズ"
   },
   {
+    "index": 5,
     "key": "MESPAK01_0007_0005",
     "original": "キカイ",
-    "translation": "キカイ",
-    "stage": 1,
-    "context": ""
+    "translation": "キカイ"
   },
   {
+    "index": 6,
     "key": "MESPAK01_0007_0006",
     "original": "トリ",
-    "translation": "トリ",
-    "stage": 1,
-    "context": ""
+    "translation": "トリ"
   },
   {
+    "index": 7,
     "key": "MESPAK01_0007_0007",
     "original": "コンチュウ",
-    "translation": "コンチュウ",
-    "stage": 1,
-    "context": ""
+    "translation": "コンチュウ"
   },
   {
+    "index": 8,
     "key": "MESPAK01_0007_0008",
     "original": "ショクブツ",
-    "translation": "ショクブツ",
-    "stage": 1,
-    "context": ""
+    "translation": "ショクブツ"
   },
   {
+    "index": 9,
     "key": "MESPAK01_0007_0009",
     "original": "こうにゅうかかく",
-    "translation": "こうにゅうかかく",
-    "stage": 1,
-    "context": ""
+    "translation": "こうにゅうかかく"
   },
   {
+    "index": 10,
     "key": "MESPAK01_0007_0010",
     "original": "ばいきゃくかかく",
-    "translation": "ばいきゃくかかく",
-    "stage": 1,
-    "context": ""
+    "translation": "ばいきゃくかかく"
   },
   {
+    "index": 11,
     "key": "MESPAK01_0007_0011",
     "original": "てもち",
-    "translation": "てもち",
-    "stage": 1,
-    "context": ""
+    "translation": "てもち"
   },
   {
+    "index": 12,
     "key": "MESPAK01_0007_0012",
     "original": "のこり",
-    "translation": "のこり",
-    "stage": 1,
-    "context": ""
+    "translation": "のこり"
   },
   {
+    "index": 13,
     "key": "MESPAK01_0007_0013",
     "original": "てもち",
-    "translation": "てもち",
-    "stage": 1,
-    "context": ""
+    "translation": "てもち"
   },
   {
+    "index": 14,
     "key": "MESPAK01_0007_0014",
     "original": "そうび",
-    "translation": "そうび",
-    "stage": 1,
-    "context": ""
+    "translation": "そうび"
   },
   {
+    "index": 15,
     "key": "MESPAK01_0007_0015",
     "original": "すべてのデジモン",
-    "translation": "すべてのデジモン",
-    "stage": 1,
-    "context": ""
+    "translation": "すべてのデジモン"
   },
   {
+    "index": 16,
     "key": "MESPAK01_0007_0016",
     "original": "ライブイベントこうか",
-    "translation": "ライブイベントこうか",
-    "stage": 1,
-    "context": ""
+    "translation": "ライブイベントこうか"
   },
   {
+    "index": 17,
     "key": "MESPAK01_0007_0017",
     "original": "ＭＡＸポイント",
-    "translation": "ＭＡＸポイント",
-    "stage": 1,
-    "context": ""
+    "translation": "ＭＡＸポイント"
   },
   {
+    "index": 18,
     "key": "MESPAK01_0007_0018",
     "original": "さいこうてんすう",
-    "translation": "さいこうてんすう",
-    "stage": 1,
-    "context": ""
+    "translation": "さいこうてんすう"
   },
   {
+    "index": 19,
     "key": "MESPAK01_0007_0019",
     "original": "てん",
-    "translation": "てん",
-    "stage": 1,
-    "context": ""
+    "translation": "てん"
   },
   {
+    "index": 20,
     "key": "MESPAK01_0007_0020",
     "original": "進化ツリー",
-    "translation": "進化ツリー",
-    "stage": 1,
-    "context": ""
+    "translation": "進化ツリー"
   },
   {
+    "index": 21,
     "key": "MESPAK01_0007_0021",
     "original": "ＥＸＰ",
-    "translation": "ＥＸＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "ＥＸＰ"
   },
   {
+    "index": 22,
     "key": "MESPAK01_0007_0022",
     "original": "おすすめ",
-    "translation": "おすすめ",
-    "stage": 1,
-    "context": ""
+    "translation": "おすすめ"
   },
   {
+    "index": 23,
     "key": "MESPAK01_0007_0023",
     "original": "デジモン",
-    "translation": "デジモン",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモン"
   },
   {
+    "index": 24,
     "key": "MESPAK01_0007_0024",
     "original": "ファームグッズ",
-    "translation": "ファームグッズ",
-    "stage": 1,
-    "context": ""
+    "translation": "ファームグッズ"
   },
   {
+    "index": 25,
     "key": "MESPAK01_0007_0025",
     "original": "ちけいボード",
-    "translation": "ちけいボード",
-    "stage": 1,
-    "context": ""
+    "translation": "ちけいボード"
   },
   {
+    "index": 26,
     "key": "MESPAK01_0007_0026",
     "original": "ＢＧＭボード",
-    "translation": "ＢＧＭボード",
-    "stage": 1,
-    "context": ""
+    "translation": "ＢＧＭボード"
   },
   {
+    "index": 27,
     "key": "MESPAK01_0007_0027",
     "original": "体",
-    "translation": "体",
-    "stage": 1,
-    "context": ""
+    "translation": "体"
   },
   {
+    "index": 28,
     "key": "MESPAK01_0007_0028",
     "original": "コ",
-    "translation": "コ",
-    "stage": 1,
-    "context": ""
+    "translation": "コ"
   },
   {
+    "index": 29,
     "key": "MESPAK01_0007_0029",
     "original": "Ｌｖ",
-    "translation": "Ｌｖ",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｌｖ"
   },
   {
+    "index": 30,
     "key": "MESPAK01_0007_0030",
     "original": "ぞくせい",
-    "translation": "ぞくせい",
-    "stage": 1,
-    "context": ""
+    "translation": "ぞくせい"
   },
   {
+    "index": 31,
     "key": "MESPAK01_0007_0031",
     "original": "こうか",
-    "translation": "こうか",
-    "stage": 1,
-    "context": ""
+    "translation": "こうか"
   },
   {
+    "index": 32,
     "key": "MESPAK01_0007_0032",
     "original": "しゅべつ",
-    "translation": "しゅべつ",
-    "stage": 1,
-    "context": ""
+    "translation": "しゅべつ"
   },
   {
+    "index": 33,
     "key": "MESPAK01_0007_0033",
     "original": "レンジ",
-    "translation": "レンジ",
-    "stage": 1,
-    "context": ""
+    "translation": "レンジ"
   },
   {
+    "index": 34,
     "key": "MESPAK01_0007_0034",
     "original": "ＭＰ",
-    "translation": "ＭＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "ＭＰ"
   },
   {
+    "index": 35,
     "key": "MESPAK01_0007_0035",
     "original": "しゅうとくレベル",
-    "translation": "しゅうとくレベル",
-    "stage": 1,
-    "context": ""
+    "translation": "しゅうとくレベル"
   },
   {
+    "index": 36,
     "key": "MESPAK01_0007_0036",
     "original": "こうげき",
-    "translation": "こうげき",
-    "stage": 1,
-    "context": ""
+    "translation": "こうげき"
   },
   {
+    "index": 37,
     "key": "MESPAK01_0007_0037",
     "original": "ほじょ",
-    "translation": "ほじょ",
-    "stage": 1,
-    "context": ""
+    "translation": "ほじょ"
   },
   {
+    "index": 38,
     "key": "MESPAK01_0007_0038",
     "original": "かいふく",
-    "translation": "かいふく",
-    "stage": 1,
-    "context": ""
+    "translation": "かいふく"
   },
   {
+    "index": 39,
     "key": "MESPAK01_0007_0039",
     "original": "えらんだ　そうびアイテム",
-    "translation": "えらんだ　そうびアイテム",
-    "stage": 1,
-    "context": ""
+    "translation": "えらんだ　そうびアイテム"
   },
   {
+    "index": 40,
     "key": "MESPAK01_0007_0040",
     "original": "えらんだ　しょうひアイテム",
-    "translation": "えらんだ　しょうひアイテム",
-    "stage": 1,
-    "context": ""
+    "translation": "えらんだ　しょうひアイテム"
   },
   {
+    "index": 41,
     "key": "MESPAK01_0007_0041",
     "original": "えらんだ　ファームグッズ",
-    "translation": "えらんだ　ファームグッズ",
-    "stage": 1,
-    "context": ""
+    "translation": "えらんだ　ファームグッズ"
   },
   {
+    "index": 42,
     "key": "MESPAK01_0007_0042",
     "original": "えらんだ　バグプレート",
-    "translation": "えらんだ　バグプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "えらんだ　バグプレート"
   },
   {
+    "index": 43,
     "key": "MESPAK01_0007_0043",
     "original": "進化ツリーめい",
-    "translation": "進化ツリーめい",
-    "stage": 1,
-    "context": ""
+    "translation": "進化ツリーめい"
   },
   {
+    "index": 44,
     "key": "MESPAK01_0007_0044",
     "original": "１にちに　かくとくできるＥＸＰ",
-    "translation": "１にちに　かくとくできるＥＸＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "１にちに　かくとくできるＥＸＰ"
   },
   {
+    "index": 45,
     "key": "MESPAK01_0007_0045",
     "original": "えらんだ　リペアリングツール",
-    "translation": "えらんだ　リペアリングツール",
-    "stage": 1,
-    "context": ""
+    "translation": "えらんだ　リペアリングツール"
   },
   {
+    "index": 46,
     "key": "MESPAK01_0007_0046",
     "original": "えらんだ　ファーム島",
-    "translation": "えらんだ　ファーム島",
-    "stage": 1,
-    "context": ""
+    "translation": "えらんだ　ファーム島"
   },
   {
+    "index": 47,
     "key": "MESPAK01_0007_0047",
     "original": "えらんだ　ワザ",
-    "translation": "えらんだ　ワザ",
-    "stage": 1,
-    "context": ""
+    "translation": "えらんだ　ワザ"
   },
   {
+    "index": 48,
     "key": "MESPAK01_0007_0048",
     "original": "えらんだ　デジプレート",
-    "translation": "えらんだ　デジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "えらんだ　デジプレート"
   },
   {
+    "index": 49,
     "key": "MESPAK01_0007_0049",
     "original": "くんれんにつかったファームグッズ",
-    "translation": "くんれんにつかったファームグッズ",
-    "stage": 1,
-    "context": ""
+    "translation": "くんれんにつかったファームグッズ"
   },
   {
+    "index": 50,
     "key": "MESPAK01_0007_0050",
     "original": "さくせいできた　そうび",
-    "translation": "さくせいできた　そうび",
-    "stage": 1,
-    "context": ""
+    "translation": "さくせいできた　そうび"
   },
   {
+    "index": 51,
     "key": "MESPAK01_0007_0051",
     "original": "さいだいＨＰ",
-    "translation": "さいだいＨＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "さいだいＨＰ"
   },
   {
+    "index": 52,
     "key": "MESPAK01_0007_0052",
     "original": "こうげきりょく",
-    "translation": "こうげきりょく",
-    "stage": 1,
-    "context": ""
+    "translation": "こうげきりょく"
   },
   {
+    "index": 53,
     "key": "MESPAK01_0007_0053",
     "original": "ぼうぎょりょく",
-    "translation": "ぼうぎょりょく",
-    "stage": 1,
-    "context": ""
+    "translation": "ぼうぎょりょく"
   },
   {
+    "index": 54,
     "key": "MESPAK01_0007_0054",
     "original": "すばやさ",
-    "translation": "すばやさ",
-    "stage": 1,
-    "context": ""
+    "translation": "すばやさ"
   },
   {
+    "index": 55,
     "key": "MESPAK01_0007_0055",
     "original": "ゆうじょう",
-    "translation": "ゆうじょう",
-    "stage": 1,
-    "context": ""
+    "translation": "ゆうじょう"
   },
   {
+    "index": 56,
     "key": "MESPAK01_0007_0056",
     "original": "けいけんち",
-    "translation": "けいけんち",
-    "stage": 1,
-    "context": ""
+    "translation": "けいけんち"
   },
   {
+    "index": 57,
     "key": "MESPAK01_0007_0057",
     "original": "さいだいＭＰ",
-    "translation": "さいだいＭＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "さいだいＭＰ"
   },
   {
+    "index": 58,
     "key": "MESPAK01_0007_0058",
     "original": "みつけた　そうびアイテム",
-    "translation": "みつけた　そうびアイテム",
-    "stage": 1,
-    "context": ""
+    "translation": "みつけた　そうびアイテム"
   },
   {
+    "index": 59,
     "key": "MESPAK01_0007_0059",
     "original": "みつけた　しょうひアイテム",
-    "translation": "みつけた　しょうひアイテム",
-    "stage": 1,
-    "context": ""
+    "translation": "みつけた　しょうひアイテム"
   },
   {
+    "index": 60,
     "key": "MESPAK01_0007_0060",
     "original": "みつけた　バグプレート",
-    "translation": "みつけた　バグプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "みつけた　バグプレート"
   },
   {
+    "index": 61,
     "key": "MESPAK01_0007_0061",
     "original": "なにも　さくせいできませんでした",
-    "translation": "なにも　さくせいできませんでした",
-    "stage": 1,
-    "context": ""
+    "translation": "なにも　さくせいできませんでした"
   },
   {
+    "index": 62,
     "key": "MESPAK01_0007_0062",
     "original": "なにも　みつけられませんでした",
-    "translation": "なにも　みつけられませんでした",
-    "stage": 1,
-    "context": ""
+    "translation": "なにも　みつけられませんでした"
   },
   {
+    "index": 63,
     "key": "MESPAK01_0007_0063",
     "original": "デジモンのきずな",
-    "translation": "デジモンのきずな",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンのきずな"
   },
   {
+    "index": 64,
     "key": "MESPAK01_0007_0064",
     "original": "かんしゃのキモチ",
-    "translation": "かんしゃのキモチ",
-    "stage": 1,
-    "context": ""
+    "translation": "かんしゃのキモチ"
   },
   {
+    "index": 65,
     "key": "MESPAK01_0007_0065",
     "original": "ちいさなはっけん",
-    "translation": "ちいさなはっけん",
-    "stage": 1,
-    "context": ""
+    "translation": "ちいさなはっけん"
   },
   {
+    "index": 66,
     "key": "MESPAK01_0007_0066",
     "original": "うれしいはっけん",
-    "translation": "うれしいはっけん",
-    "stage": 1,
-    "context": ""
+    "translation": "うれしいはっけん"
   },
   {
+    "index": 67,
     "key": "MESPAK01_0007_0067",
     "original": "おタカラはっけん",
-    "translation": "おタカラはっけん",
-    "stage": 1,
-    "context": ""
+    "translation": "おタカラはっけん"
   },
   {
+    "index": 68,
     "key": "MESPAK01_0007_0068",
     "original": "かんせいど",
-    "translation": "かんせいど",
-    "stage": 1,
-    "context": ""
+    "translation": "かんせいど"
   },
   {
+    "index": 69,
     "key": "MESPAK01_0007_0069",
     "original": "おぼえられるワザ",
-    "translation": "おぼえられるワザ",
-    "stage": 1,
-    "context": ""
+    "translation": "おぼえられるワザ"
   },
   {
+    "index": 70,
     "key": "MESPAK01_0007_0070",
     "original": "おぼえているワザ",
-    "translation": "おぼえているワザ",
-    "stage": 1,
-    "context": ""
+    "translation": "おぼえているワザ"
   },
   {
+    "index": 71,
     "key": "MESPAK01_0007_0071",
     "original": "こうか",
-    "translation": "こうか",
-    "stage": 1,
-    "context": ""
+    "translation": "こうか"
   },
   {
+    "index": 72,
     "key": "MESPAK01_0007_0072",
     "original": "レンジ",
-    "translation": "レンジ",
-    "stage": 1,
-    "context": ""
+    "translation": "レンジ"
   },
   {
+    "index": 73,
     "key": "MESPAK01_0007_0073",
     "original": "ＭＰ",
-    "translation": "ＭＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "ＭＰ"
   },
   {
+    "index": 74,
     "key": "MESPAK01_0007_0074",
     "original": "おぼえようとするワザを　えらんでください\nしゅうりょうすると　リストのワザは　わすれてしまいます",
-    "translation": "おぼえようとするワザを　えらんでください\nしゅうりょうすると　リストのワザは　わすれてしまいます",
-    "stage": 1,
-    "context": ""
+    "translation": "おぼえようとするワザを　えらんでください\nしゅうりょうすると　リストのワザは　わすれてしまいます"
   },
   {
+    "index": 75,
     "key": "MESPAK01_0007_0075",
     "original": "いれかえるワザを　えらんでください",
-    "translation": "いれかえるワザを　えらんでください",
-    "stage": 1,
-    "context": ""
+    "translation": "いれかえるワザを　えらんでください"
   },
   {
+    "index": 76,
     "key": "MESPAK01_0007_0076",
     "original": "ひょうじする　ものが　ありません",
-    "translation": "ひょうじする　ものが　ありません",
-    "stage": 1,
-    "context": ""
+    "translation": "ひょうじする　ものが　ありません"
   },
   {
+    "index": 77,
     "key": "MESPAK01_0007_0077",
     "original": "デジモンが　いません",
-    "translation": "デジモンが　いません",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンが　いません"
   }
 ]

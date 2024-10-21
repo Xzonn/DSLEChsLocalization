@@ -1,170 +1,328 @@
 [
   {
+    "index": 0,
+    "key": "MESPAK04_0022_0000",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２４＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６２４＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "MESPAK04_0022_0001",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２５＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６２５＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "MESPAK04_0022_0002",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２６＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６２６＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "MESPAK04_0022_0003",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２７＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６２７＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "MESPAK04_0022_0004",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２８＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６２８＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "MESPAK04_0022_0005",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６２９＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６２９＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "MESPAK04_0022_0006",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６３０＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６３０＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 7,
+    "key": "MESPAK04_0022_0007",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６３１＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６３１＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "MESPAK04_0022_0008",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６３２＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６３２＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "MESPAK04_0022_0009",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６３３＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６３３＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "MESPAK04_0022_0010",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６３４＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６３４＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "MESPAK04_0022_0011",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６３５＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６３５＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "MESPAK04_0022_0012",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６３６＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６３６＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "MESPAK04_0022_0013",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６３７＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６３７＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "MESPAK04_0022_0014",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６３８＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６３８＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 15,
+    "key": "MESPAK04_0022_0015",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６３９＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６３９＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "MESPAK04_0022_0016",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６４０＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６４０＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "MESPAK04_0022_0017",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６４１＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６４１＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "MESPAK04_0022_0018",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６４２＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６４２＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 19,
+    "key": "MESPAK04_0022_0019",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６４３＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６４３＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 20,
+    "key": "MESPAK04_0022_0020",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６４４＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６４４＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 21,
+    "key": "MESPAK04_0022_0021",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６４５＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６４５＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 22,
+    "key": "MESPAK04_0022_0022",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６４６＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６４６＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 23,
+    "key": "MESPAK04_0022_0023",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６４７＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６４７＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "MESPAK04_0022_0024",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６４８＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６４８＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "MESPAK04_0022_0025",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ６４９＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ６４９＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 26,
     "key": "MESPAK04_0022_0026",
     "original": "デジモン　１体の　ＨＰを\n３００　かいふくする",
-    "translation": "デジモン　１体の　ＨＰを\n３００　かいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモン　１体の　ＨＰを\n３００　かいふくする"
   },
   {
+    "index": 27,
     "key": "MESPAK04_0022_0027",
     "original": "デジモン　１体の　ＨＰを\n１０００　かいふくする",
-    "translation": "デジモン　１体の　ＨＰを\n１０００　かいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモン　１体の　ＨＰを\n１０００　かいふくする"
   },
   {
+    "index": 28,
     "key": "MESPAK04_0022_0028",
     "original": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n５００　かいふくする",
-    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n５００　かいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n５００　かいふくする"
   },
   {
+    "index": 29,
     "key": "MESPAK04_0022_0029",
     "original": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n１０００　かいふくする",
-    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n１０００　かいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n１０００　かいふくする"
   },
   {
+    "index": 30,
     "key": "MESPAK04_0022_0030",
     "original": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n２０００　かいふくする",
-    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n２０００　かいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n２０００　かいふくする"
   },
   {
+    "index": 31,
     "key": "MESPAK04_0022_0031",
     "original": "デジモン　１体の　ＭＰを\n３００　かいふくする",
-    "translation": "デジモン　１体の　ＭＰを\n３００　かいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモン　１体の　ＭＰを\n３００　かいふくする"
   },
   {
+    "index": 32,
     "key": "MESPAK04_0022_0032",
     "original": "デジモン　１体の　ＭＰを\n１０００　かいふくする",
-    "translation": "デジモン　１体の　ＭＰを\n１０００　かいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモン　１体の　ＭＰを\n１０００　かいふくする"
   },
   {
+    "index": 33,
     "key": "MESPAK04_0022_0033",
     "original": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＭＰを\n５００　かいふくする",
-    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＭＰを\n５００　かいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＭＰを\n５００　かいふくする"
   },
   {
+    "index": 34,
     "key": "MESPAK04_0022_0034",
     "original": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＭＰを\n１０００　かいふくする",
-    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＭＰを\n１０００　かいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＭＰを\n１０００　かいふくする"
   },
   {
+    "index": 35,
     "key": "MESPAK04_0022_0035",
     "original": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＭＰを\n２０００　かいふくする",
-    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＭＰを\n２０００　かいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＭＰを\n２０００　かいふくする"
   },
   {
+    "index": 36,
     "key": "MESPAK04_0022_0036",
     "original": "デジモン　１体の\nＨＰ　ＭＰ　じょうたいいじょうを\nかんぜんに　かいふくする",
-    "translation": "デジモン　１体の\nＨＰ　ＭＰ　じょうたいいじょうを\nかんぜんに　かいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモン　１体の\nＨＰ　ＭＰ　じょうたいいじょうを\nかんぜんに　かいふくする"
   },
   {
+    "index": 37,
     "key": "MESPAK04_0022_0037",
     "original": "よこいちれつにいる　デジモン\nぜんいんの　ＨＰ　ＭＰ　じょうたい\nいじょうを　ぜんかいふくする",
-    "translation": "よこいちれつにいる　デジモン\nぜんいんの　ＨＰ　ＭＰ　じょうたい\nいじょうを　ぜんかいふくする",
-    "stage": 1,
-    "context": ""
+    "translation": "よこいちれつにいる　デジモン\nぜんいんの　ＨＰ　ＭＰ　じょうたい\nいじょうを　ぜんかいふくする"
   },
   {
+    "index": 38,
     "key": "MESPAK04_0022_0038",
     "original": "せんとうに　さんかしている\nデジモン　１体を\nこんらんから　なおす",
-    "translation": "せんとうに　さんかしている\nデジモン　１体を\nこんらんから　なおす",
-    "stage": 1,
-    "context": ""
+    "translation": "せんとうに　さんかしている\nデジモン　１体を\nこんらんから　なおす"
   },
   {
+    "index": 39,
     "key": "MESPAK04_0022_0039",
     "original": "せんとうに　さんかしている\nデジモン　１体の\nまひを　なおす",
-    "translation": "せんとうに　さんかしている\nデジモン　１体の\nまひを　なおす",
-    "stage": 1,
-    "context": ""
+    "translation": "せんとうに　さんかしている\nデジモン　１体の\nまひを　なおす"
   },
   {
+    "index": 40,
     "key": "MESPAK04_0022_0040",
     "original": "せんとうに　さんかしている\nデジモン　１体の\nうけたどくを　けす",
-    "translation": "せんとうに　さんかしている\nデジモン　１体の\nうけたどくを　けす",
-    "stage": 1,
-    "context": ""
+    "translation": "せんとうに　さんかしている\nデジモン　１体の\nうけたどくを　けす"
   },
   {
+    "index": 41,
     "key": "MESPAK04_0022_0041",
     "original": "せんとうに　さんかしている\nデジモン　１体を\nねむりから　めざめさせる",
-    "translation": "せんとうに　さんかしている\nデジモン　１体を\nねむりから　めざめさせる",
-    "stage": 1,
-    "context": ""
+    "translation": "せんとうに　さんかしている\nデジモン　１体を\nねむりから　めざめさせる"
   },
   {
+    "index": 42,
     "key": "MESPAK04_0022_0042",
     "original": "せんとうに　さんかしている\nデジモン　ぜんいんの\nじょうたいいじょうを　なおす",
-    "translation": "せんとうに　さんかしている\nデジモン　ぜんいんの\nじょうたいいじょうを　なおす",
-    "stage": 1,
-    "context": ""
+    "translation": "せんとうに　さんかしている\nデジモン　ぜんいんの\nじょうたいいじょうを　なおす"
   },
   {
+    "index": 43,
     "key": "MESPAK04_0022_0043",
     "original": "せんとうに　さんかしている\nデジモン　１体を\nふっかつさせる",
-    "translation": "せんとうに　さんかしている\nデジモン　１体を\nふっかつさせる",
-    "stage": 1,
-    "context": ""
+    "translation": "せんとうに　さんかしている\nデジモン　１体を\nふっかつさせる"
   },
   {
+    "index": 44,
     "key": "MESPAK04_0022_0044",
     "original": "メニューがめんで　つかうと\nいっしゅんで　デジベースへ\nかえることが　できる",
-    "translation": "メニューがめんで　つかうと\nいっしゅんで　デジベースへ\nかえることが　できる",
-    "stage": 1,
-    "context": ""
+    "translation": "メニューがめんで　つかうと\nいっしゅんで　デジベースへ\nかえることが　できる"
   },
   {
+    "index": 45,
     "key": "MESPAK04_0022_0045",
     "original": "デジモンが　うまれたあとの\nデジタマの　カラ\nとくに　つかいみちは　ない",
-    "translation": "デジモンが　うまれたあとの\nデジタマの　カラ\nとくに　つかいみちは　ない",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンが　うまれたあとの\nデジタマの　カラ\nとくに　つかいみちは　ない"
   },
   {
+    "index": 46,
     "key": "MESPAK04_0022_0046",
     "original": "リペアリングしたんだけど　すでに\nもっといいてんのを　もっていて\nつかいみちのない　デジプレート",
-    "translation": "リペアリングしたんだけど　すでに\nもっといいてんのを　もっていて\nつかいみちのない　デジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "リペアリングしたんだけど　すでに\nもっといいてんのを　もっていて\nつかいみちのない　デジプレート"
   },
   {
+    "index": 47,
     "key": "MESPAK04_0022_0047",
     "original": "せんとうで　つかうと\nせんとうけっかで　ＥＸＰが\n５００　ふえる",
-    "translation": "せんとうで　つかうと\nせんとうけっかで　ＥＸＰが\n５００　ふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "せんとうで　つかうと\nせんとうけっかで　ＥＸＰが\n５００　ふえる"
   },
   {
+    "index": 48,
     "key": "MESPAK04_0022_0048",
     "original": "せんとうで　つかうと\nせんとうけっかで　ＥＸＰが\n２０００　ふえる",
-    "translation": "せんとうで　つかうと\nせんとうけっかで　ＥＸＰが\n２０００　ふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "せんとうで　つかうと\nせんとうけっかで　ＥＸＰが\n２０００　ふえる"
   },
   {
+    "index": 49,
     "key": "MESPAK04_0022_0049",
     "original": "せんとうで　つかうと\nせんとうけっかで　ＥＸＰが\n８０００　ふえる",
-    "translation": "せんとうで　つかうと\nせんとうけっかで　ＥＸＰが\n８０００　ふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "せんとうで　つかうと\nせんとうけっかで　ＥＸＰが\n８０００　ふえる"
   }
 ]

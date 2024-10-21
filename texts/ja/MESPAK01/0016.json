@@ -1,212 +1,182 @@
 [
   {
+    "index": 0,
     "key": "MESPAK01_0016_0000",
     "original": "ＨＰチップ",
-    "translation": "ＨＰチップ",
-    "stage": 1,
-    "context": ""
+    "translation": "ＨＰチップ"
   },
   {
+    "index": 1,
     "key": "MESPAK01_0016_0001",
     "original": "ＨＰコアチップ",
-    "translation": "ＨＰコアチップ",
-    "stage": 1,
-    "context": ""
+    "translation": "ＨＰコアチップ"
   },
   {
+    "index": 2,
     "key": "MESPAK01_0016_0002",
     "original": "ＭＰチップ",
-    "translation": "ＭＰチップ",
-    "stage": 1,
-    "context": ""
+    "translation": "ＭＰチップ"
   },
   {
+    "index": 3,
     "key": "MESPAK01_0016_0003",
     "original": "ＭＰコアチップ",
-    "translation": "ＭＰコアチップ",
-    "stage": 1,
-    "context": ""
+    "translation": "ＭＰコアチップ"
   },
   {
+    "index": 4,
     "key": "MESPAK01_0016_0004",
     "original": "てつアレイ",
-    "translation": "てつアレイ",
-    "stage": 1,
-    "context": ""
+    "translation": "てつアレイ"
   },
   {
+    "index": 5,
     "key": "MESPAK01_0016_0005",
     "original": "アタックパンチ",
-    "translation": "アタックパンチ",
-    "stage": 1,
-    "context": ""
+    "translation": "アタックパンチ"
   },
   {
+    "index": 6,
     "key": "MESPAK01_0016_0006",
     "original": "ピコピコハンマー",
-    "translation": "ピコピコハンマー",
-    "stage": 1,
-    "context": ""
+    "translation": "ピコピコハンマー"
   },
   {
+    "index": 7,
     "key": "MESPAK01_0016_0007",
     "original": "バリアシールド",
-    "translation": "バリアシールド",
-    "stage": 1,
-    "context": ""
+    "translation": "バリアシールド"
   },
   {
+    "index": 8,
     "key": "MESPAK01_0016_0008",
     "original": "スピードウォッチ",
-    "translation": "スピードウォッチ",
-    "stage": 1,
-    "context": ""
+    "translation": "スピードウォッチ"
   },
   {
+    "index": 9,
     "key": "MESPAK01_0016_0009",
     "original": "スピードシューズ",
-    "translation": "スピードシューズ",
-    "stage": 1,
-    "context": ""
+    "translation": "スピードシューズ"
   },
   {
+    "index": 10,
     "key": "MESPAK01_0016_0010",
     "original": "なでなでグローブ",
-    "translation": "なでなでグローブ",
-    "stage": 1,
-    "context": ""
+    "translation": "なでなでグローブ"
   },
   {
+    "index": 11,
     "key": "MESPAK01_0016_0011",
     "original": "フォトフレーム",
-    "translation": "フォトフレーム",
-    "stage": 1,
-    "context": ""
+    "translation": "フォトフレーム"
   },
   {
+    "index": 12,
     "key": "MESPAK01_0016_0012",
     "original": "リュウカプセル",
-    "translation": "リュウカプセル",
-    "stage": 1,
-    "context": ""
+    "translation": "リュウカプセル"
   },
   {
+    "index": 13,
     "key": "MESPAK01_0016_0013",
     "original": "ゲンジュウサプリ",
-    "translation": "ゲンジュウサプリ",
-    "stage": 1,
-    "context": ""
+    "translation": "ゲンジュウサプリ"
   },
   {
+    "index": 14,
     "key": "MESPAK01_0016_0014",
     "original": "アニマルカプセル",
-    "translation": "アニマルカプセル",
-    "stage": 1,
-    "context": ""
+    "translation": "アニマルカプセル"
   },
   {
+    "index": 15,
     "key": "MESPAK01_0016_0015",
     "original": "ケモノサプリ",
-    "translation": "ケモノサプリ",
-    "stage": 1,
-    "context": ""
+    "translation": "ケモノサプリ"
   },
   {
+    "index": 16,
     "key": "MESPAK01_0016_0016",
     "original": "セイカプセル",
-    "translation": "セイカプセル",
-    "stage": 1,
-    "context": ""
+    "translation": "セイカプセル"
   },
   {
+    "index": 17,
     "key": "MESPAK01_0016_0017",
     "original": "テンシサプリ",
-    "translation": "テンシサプリ",
-    "stage": 1,
-    "context": ""
+    "translation": "テンシサプリ"
   },
   {
+    "index": 18,
     "key": "MESPAK01_0016_0018",
     "original": "ヤミカプセル",
-    "translation": "ヤミカプセル",
-    "stage": 1,
-    "context": ""
+    "translation": "ヤミカプセル"
   },
   {
+    "index": 19,
     "key": "MESPAK01_0016_0019",
     "original": "アクマサプリ",
-    "translation": "アクマサプリ",
-    "stage": 1,
-    "context": ""
+    "translation": "アクマサプリ"
   },
   {
+    "index": 20,
     "key": "MESPAK01_0016_0020",
     "original": "デンキカプセル",
-    "translation": "デンキカプセル",
-    "stage": 1,
-    "context": ""
+    "translation": "デンキカプセル"
   },
   {
+    "index": 21,
     "key": "MESPAK01_0016_0021",
     "original": "キカイサプリ",
-    "translation": "キカイサプリ",
-    "stage": 1,
-    "context": ""
+    "translation": "キカイサプリ"
   },
   {
+    "index": 22,
     "key": "MESPAK01_0016_0022",
     "original": "ミズカプセル",
-    "translation": "ミズカプセル",
-    "stage": 1,
-    "context": ""
+    "translation": "ミズカプセル"
   },
   {
+    "index": 23,
     "key": "MESPAK01_0016_0023",
     "original": "スイセイサプリ",
-    "translation": "スイセイサプリ",
-    "stage": 1,
-    "context": ""
+    "translation": "スイセイサプリ"
   },
   {
+    "index": 24,
     "key": "MESPAK01_0016_0024",
     "original": "ソラカプセル",
-    "translation": "ソラカプセル",
-    "stage": 1,
-    "context": ""
+    "translation": "ソラカプセル"
   },
   {
+    "index": 25,
     "key": "MESPAK01_0016_0025",
     "original": "トリサプリ",
-    "translation": "トリサプリ",
-    "stage": 1,
-    "context": ""
+    "translation": "トリサプリ"
   },
   {
+    "index": 26,
     "key": "MESPAK01_0016_0026",
     "original": "ムシカプセル",
-    "translation": "ムシカプセル",
-    "stage": 1,
-    "context": ""
+    "translation": "ムシカプセル"
   },
   {
+    "index": 27,
     "key": "MESPAK01_0016_0027",
     "original": "コンチュウサプリ",
-    "translation": "コンチュウサプリ",
-    "stage": 1,
-    "context": ""
+    "translation": "コンチュウサプリ"
   },
   {
+    "index": 28,
     "key": "MESPAK01_0016_0028",
     "original": "クサカプセル",
-    "translation": "クサカプセル",
-    "stage": 1,
-    "context": ""
+    "translation": "クサカプセル"
   },
   {
+    "index": 29,
     "key": "MESPAK01_0016_0029",
     "original": "ショクブツサプリ",
-    "translation": "ショクブツサプリ",
-    "stage": 1,
-    "context": ""
+    "translation": "ショクブツサプリ"
   }
 ]

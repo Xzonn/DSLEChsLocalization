@@ -1,352 +1,302 @@
 [
   {
+    "index": 0,
     "key": "MESPAK04_0008_0000",
     "original": "ケモノのゴマモンから進化する\nデジモンがちゅうしんの進化ツリーです",
-    "translation": "ケモノのゴマモンから進化する\nデジモンがちゅうしんの進化ツリーです",
-    "stage": 1,
-    "context": ""
+    "translation": "ケモノのゴマモンから進化する\nデジモンがちゅうしんの進化ツリーです"
   },
   {
+    "index": 1,
     "key": "MESPAK04_0008_0001",
     "original": "ショクブツのパルモンから進化する\nデジモンがちゅうしんの進化ツリーです",
-    "translation": "ショクブツのパルモンから進化する\nデジモンがちゅうしんの進化ツリーです",
-    "stage": 1,
-    "context": ""
+    "translation": "ショクブツのパルモンから進化する\nデジモンがちゅうしんの進化ツリーです"
   },
   {
+    "index": 2,
     "key": "MESPAK04_0008_0002",
     "original": "ショクブツのララモンから進化する\nデジモンがちゅうしんの進化ツリーです",
-    "translation": "ショクブツのララモンから進化する\nデジモンがちゅうしんの進化ツリーです",
-    "stage": 1,
-    "context": ""
+    "translation": "ショクブツのララモンから進化する\nデジモンがちゅうしんの進化ツリーです"
   },
   {
+    "index": 3,
     "key": "MESPAK04_0008_0003",
     "original": "トリのシルフィーモンが\nちゅうしんの進化ツリーです",
-    "translation": "トリのシルフィーモンが\nちゅうしんの進化ツリーです",
-    "stage": 1,
-    "context": ""
+    "translation": "トリのシルフィーモンが\nちゅうしんの進化ツリーです"
   },
   {
+    "index": 4,
     "key": "MESPAK04_0008_0004",
     "original": "「どく」に　たいする\nたいせいが　あがる",
-    "translation": "「どく」に　たいする\nたいせいが　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「どく」に　たいする\nたいせいが　あがる"
   },
   {
+    "index": 5,
     "key": "MESPAK04_0008_0005",
     "original": "「どく」に　たいする\nたいせいが　かなりあがる",
-    "translation": "「どく」に　たいする\nたいせいが　かなりあがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「どく」に　たいする\nたいせいが　かなりあがる"
   },
   {
+    "index": 6,
     "key": "MESPAK04_0008_0006",
     "original": "「どく」に\nかからなくなる",
-    "translation": "「どく」に\nかからなくなる",
-    "stage": 1,
-    "context": ""
+    "translation": "「どく」に\nかからなくなる"
   },
   {
+    "index": 7,
     "key": "MESPAK04_0008_0007",
     "original": "「こんらん」に　たいする\nたいせいが　あがる",
-    "translation": "「こんらん」に　たいする\nたいせいが　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「こんらん」に　たいする\nたいせいが　あがる"
   },
   {
+    "index": 8,
     "key": "MESPAK04_0008_0008",
     "original": "「こんらん」に　たいする\nたいせいが　かなりあがる",
-    "translation": "「こんらん」に　たいする\nたいせいが　かなりあがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「こんらん」に　たいする\nたいせいが　かなりあがる"
   },
   {
+    "index": 9,
     "key": "MESPAK04_0008_0009",
     "original": "「こんらん」に\nかからなくなる",
-    "translation": "「こんらん」に\nかからなくなる",
-    "stage": 1,
-    "context": ""
+    "translation": "「こんらん」に\nかからなくなる"
   },
   {
+    "index": 10,
     "key": "MESPAK04_0008_0010",
     "original": "「デス」に　たいする\nたいせいが　あがる",
-    "translation": "「デス」に　たいする\nたいせいが　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「デス」に　たいする\nたいせいが　あがる"
   },
   {
+    "index": 11,
     "key": "MESPAK04_0008_0011",
     "original": "「デス」に　たいする\nたいせいが　かなりあがる",
-    "translation": "「デス」に　たいする\nたいせいが　かなりあがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「デス」に　たいする\nたいせいが　かなりあがる"
   },
   {
+    "index": 12,
     "key": "MESPAK04_0008_0012",
     "original": "「デス」に\nかからなくなる",
-    "translation": "「デス」に\nかからなくなる",
-    "stage": 1,
-    "context": ""
+    "translation": "「デス」に\nかからなくなる"
   },
   {
+    "index": 13,
     "key": "MESPAK04_0008_0013",
     "original": "「まひ」に　たいする\nたいせいが　あがる",
-    "translation": "「まひ」に　たいする\nたいせいが　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「まひ」に　たいする\nたいせいが　あがる"
   },
   {
+    "index": 14,
     "key": "MESPAK04_0008_0014",
     "original": "「まひ」に　たいする\nたいせいが　かなりあがる",
-    "translation": "「まひ」に　たいする\nたいせいが　かなりあがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「まひ」に　たいする\nたいせいが　かなりあがる"
   },
   {
+    "index": 15,
     "key": "MESPAK04_0008_0015",
     "original": "「まひ」に\nかからなくなる",
-    "translation": "「まひ」に\nかからなくなる",
-    "stage": 1,
-    "context": ""
+    "translation": "「まひ」に\nかからなくなる"
   },
   {
+    "index": 16,
     "key": "MESPAK04_0008_0016",
     "original": "「ねむり」に　たいする\nたいせいが　あがる",
-    "translation": "「ねむり」に　たいする\nたいせいが　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「ねむり」に　たいする\nたいせいが　あがる"
   },
   {
+    "index": 17,
     "key": "MESPAK04_0008_0017",
     "original": "「ねむり」に　たいする\nたいせいが　かなりあがる",
-    "translation": "「ねむり」に　たいする\nたいせいが　かなりあがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「ねむり」に　たいする\nたいせいが　かなりあがる"
   },
   {
+    "index": 18,
     "key": "MESPAK04_0008_0018",
     "original": "「ねむり」に\nかからなくなる",
-    "translation": "「ねむり」に\nかからなくなる",
-    "stage": 1,
-    "context": ""
+    "translation": "「ねむり」に\nかからなくなる"
   },
   {
+    "index": 19,
     "key": "MESPAK04_0008_0019",
     "original": "「どく」「デス」「まひ」\n「こんらん」「ねむり」に\nたいする　たいせいが\nすべて　あがる",
-    "translation": "「どく」「デス」「まひ」\n「こんらん」「ねむり」に\nたいする　たいせいが\nすべて　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「どく」「デス」「まひ」\n「こんらん」「ねむり」に\nたいする　たいせいが\nすべて　あがる"
   },
   {
+    "index": 20,
     "key": "MESPAK04_0008_0020",
     "original": "「どく」「デス」「まひ」\n「こんらん」「ねむり」に\nたいする　たいせいが\nすべて　かなりあがる",
-    "translation": "「どく」「デス」「まひ」\n「こんらん」「ねむり」に\nたいする　たいせいが\nすべて　かなりあがる",
-    "stage": 1,
-    "context": ""
+    "translation": "「どく」「デス」「まひ」\n「こんらん」「ねむり」に\nたいする　たいせいが\nすべて　かなりあがる"
   },
   {
+    "index": 21,
     "key": "MESPAK04_0008_0021",
     "original": "ワザの\nめいちゅうりつが\nあがる",
-    "translation": "ワザの\nめいちゅうりつが\nあがる",
-    "stage": 1,
-    "context": ""
+    "translation": "ワザの\nめいちゅうりつが\nあがる"
   },
   {
+    "index": 22,
     "key": "MESPAK04_0008_0022",
     "original": "ワザの\nめいちゅうりつが\nかなり　あがる",
-    "translation": "ワザの\nめいちゅうりつが\nかなり　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "ワザの\nめいちゅうりつが\nかなり　あがる"
   },
   {
+    "index": 23,
     "key": "MESPAK04_0008_0023",
     "original": "ワザの\nめいちゅうりつが\nすごく　あがる",
-    "translation": "ワザの\nめいちゅうりつが\nすごく　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "ワザの\nめいちゅうりつが\nすごく　あがる"
   },
   {
+    "index": 24,
     "key": "MESPAK04_0008_0024",
     "original": "デジモンの\nかいひりつが\nあがる",
-    "translation": "デジモンの\nかいひりつが\nあがる",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンの\nかいひりつが\nあがる"
   },
   {
+    "index": 25,
     "key": "MESPAK04_0008_0025",
     "original": "デジモンの\nかいひりつが\nかなり　あがる",
-    "translation": "デジモンの\nかいひりつが\nかなり　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンの\nかいひりつが\nかなり　あがる"
   },
   {
+    "index": 26,
     "key": "MESPAK04_0008_0026",
     "original": "デジモンの\nかいひりつが\nすごく　あがる",
-    "translation": "デジモンの\nかいひりつが\nすごく　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "デジモンの\nかいひりつが\nすごく　あがる"
   },
   {
+    "index": 27,
     "key": "MESPAK04_0008_0027",
     "original": "ワザの\nクリティカルりつが\nあがる",
-    "translation": "ワザの\nクリティカルりつが\nあがる",
-    "stage": 1,
-    "context": ""
+    "translation": "ワザの\nクリティカルりつが\nあがる"
   },
   {
+    "index": 28,
     "key": "MESPAK04_0008_0028",
     "original": "ワザの\nクリティカルりつが\nかなり　あがる",
-    "translation": "ワザの\nクリティカルりつが\nかなり　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "ワザの\nクリティカルりつが\nかなり　あがる"
   },
   {
+    "index": 29,
     "key": "MESPAK04_0008_0029",
     "original": "ワザの\nクリティカルりつが\nすごく　あがる",
-    "translation": "ワザの\nクリティカルりつが\nすごく　あがる",
-    "stage": 1,
-    "context": ""
+    "translation": "ワザの\nクリティカルりつが\nすごく　あがる"
   },
   {
+    "index": 30,
     "key": "MESPAK04_0008_0030",
     "original": "バトルから\nにげやすくなる",
-    "translation": "バトルから\nにげやすくなる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルから\nにげやすくなる"
   },
   {
+    "index": 31,
     "key": "MESPAK04_0008_0031",
     "original": "バトルから\nかなり　にげやすくなる",
-    "translation": "バトルから\nかなり　にげやすくなる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルから\nかなり　にげやすくなる"
   },
   {
+    "index": 32,
     "key": "MESPAK04_0008_0032",
     "original": "バトルから\nすごく　にげやすくなる",
-    "translation": "バトルから\nすごく　にげやすくなる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルから\nすごく　にげやすくなる"
   },
   {
+    "index": 33,
     "key": "MESPAK04_0008_0033",
     "original": "バトルで　てにはいる\nｂｉｔが　ふえる",
-    "translation": "バトルで　てにはいる\nｂｉｔが　ふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルで　てにはいる\nｂｉｔが　ふえる"
   },
   {
+    "index": 34,
     "key": "MESPAK04_0008_0034",
     "original": "バトルで　てにはいる\nｂｉｔが　かなりふえる",
-    "translation": "バトルで　てにはいる\nｂｉｔが　かなりふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルで　てにはいる\nｂｉｔが　かなりふえる"
   },
   {
+    "index": 35,
     "key": "MESPAK04_0008_0035",
     "original": "バトルで　てにはいる\nｂｉｔが　すごくふえる",
-    "translation": "バトルで　てにはいる\nｂｉｔが　すごくふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルで　てにはいる\nｂｉｔが　すごくふえる"
   },
   {
+    "index": 36,
     "key": "MESPAK04_0008_0036",
     "original": "バトルで　えられる\nＥＸＰが\nふえる",
-    "translation": "バトルで　えられる\nＥＸＰが\nふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルで　えられる\nＥＸＰが\nふえる"
   },
   {
+    "index": 37,
     "key": "MESPAK04_0008_0037",
     "original": "バトルで　えられる\nＥＸＰが\nかなり　ふえる",
-    "translation": "バトルで　えられる\nＥＸＰが\nかなり　ふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルで　えられる\nＥＸＰが\nかなり　ふえる"
   },
   {
+    "index": 38,
     "key": "MESPAK04_0008_0038",
     "original": "バトルで　えられる\nＥＸＰが\nすごく　ふえる",
-    "translation": "バトルで　えられる\nＥＸＰが\nすごく　ふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルで　えられる\nＥＸＰが\nすごく　ふえる"
   },
   {
+    "index": 39,
     "key": "MESPAK04_0008_0039",
     "original": "バトルで　アイテムが\nドロップされる　かくりつが\nふえる",
-    "translation": "バトルで　アイテムが\nドロップされる　かくりつが\nふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルで　アイテムが\nドロップされる　かくりつが\nふえる"
   },
   {
+    "index": 40,
     "key": "MESPAK04_0008_0040",
     "original": "バトルで　アイテムが\nドロップされる　かくりつが\nかなり　ふえる",
-    "translation": "バトルで　アイテムが\nドロップされる　かくりつが\nかなり　ふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルで　アイテムが\nドロップされる　かくりつが\nかなり　ふえる"
   },
   {
+    "index": 41,
     "key": "MESPAK04_0008_0041",
     "original": "バトルで　アイテムが\nドロップされる　かくりつが\nすごく　ふえる",
-    "translation": "バトルで　アイテムが\nドロップされる　かくりつが\nすごく　ふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルで　アイテムが\nドロップされる　かくりつが\nすごく　ふえる"
   },
   {
+    "index": 42,
     "key": "MESPAK04_0008_0042",
     "original": "ワザで　つかう\nＭＰを\nせつやくする",
-    "translation": "ワザで　つかう\nＭＰを\nせつやくする",
-    "stage": 1,
-    "context": ""
+    "translation": "ワザで　つかう\nＭＰを\nせつやくする"
   },
   {
+    "index": 43,
     "key": "MESPAK04_0008_0043",
     "original": "ワザで　つかう\nＭＰを　かなり\nせつやくする",
-    "translation": "ワザで　つかう\nＭＰを　かなり\nせつやくする",
-    "stage": 1,
-    "context": ""
+    "translation": "ワザで　つかう\nＭＰを　かなり\nせつやくする"
   },
   {
+    "index": 44,
     "key": "MESPAK04_0008_0044",
     "original": "ワザで　てきにかけた\nじょうたいいじょうの\nこうかじかんが\nながくなる",
-    "translation": "ワザで　てきにかけた\nじょうたいいじょうの\nこうかじかんが\nながくなる",
-    "stage": 1,
-    "context": ""
+    "translation": "ワザで　てきにかけた\nじょうたいいじょうの\nこうかじかんが\nながくなる"
   },
   {
+    "index": 45,
     "key": "MESPAK04_0008_0045",
     "original": "ワザで　てきにかけた\nじょうたいいじょうの\nこうかじかんが\nかなり　ながくなる",
-    "translation": "ワザで　てきにかけた\nじょうたいいじょうの\nこうかじかんが\nかなり　ながくなる",
-    "stage": 1,
-    "context": ""
+    "translation": "ワザで　てきにかけた\nじょうたいいじょうの\nこうかじかんが\nかなり　ながくなる"
   },
   {
+    "index": 46,
     "key": "MESPAK04_0008_0046",
     "original": "「スタン」に\nかからなくなる",
-    "translation": "「スタン」に\nかからなくなる",
-    "stage": 1,
-    "context": ""
+    "translation": "「スタン」に\nかからなくなる"
   },
   {
+    "index": 47,
     "key": "MESPAK04_0008_0047",
     "original": "バトルで　えられる\nＥＸＰが\nとてつもなく　ふえる",
-    "translation": "バトルで　えられる\nＥＸＰが\nとてつもなく　ふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルで　えられる\nＥＸＰが\nとてつもなく　ふえる"
   },
   {
+    "index": 48,
     "key": "MESPAK04_0008_0048",
     "original": "とくせい　なし",
-    "translation": "とくせい　なし",
-    "stage": 1,
-    "context": ""
+    "translation": "とくせい　なし"
   },
   {
+    "index": 49,
     "key": "MESPAK04_0008_0049",
     "original": "ＨＰかいふくワザの\nかいふくりょうが\nふえる",
-    "translation": "ＨＰかいふくワザの\nかいふくりょうが\nふえる",
-    "stage": 1,
-    "context": ""
+    "translation": "ＨＰかいふくワザの\nかいふくりょうが\nふえる"
   }
 ]

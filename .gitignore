@@ -1,11 +1,31 @@
-__pycache__
+# Python
+__pycache__/
 
-maintenance/
-out/
-temp/
+# Fonts
+files/fonts/*.ttf
 
-.vs/
+# Photoshop
+*.psd
+
+# Excel
+*.xlsx
+
+# IDA
+*.idb
+*.id0
+*.id1
+*.nam
+*.til
+
+# VS Code
 .vscode/
 
-*.psd
-*.xlsx
+# Temporary files
+temp/
+unpacked/
+out/
+maintenance/
+
+# ARM9 patch
+arm9_patch/build/
+arm9_patch/repl_*

@@ -1,44 +1,38 @@
 [
   {
+    "index": 0,
     "key": "MESPAK01_0009_0000",
     "original": "デジコンバート！！！",
-    "translation": "デジコンバート！！！",
-    "stage": 1,
-    "context": ""
+    "translation": "デジコンバート！！！"
   },
   {
+    "index": 1,
     "key": "MESPAK01_0009_0001",
     "original": "^0進化！！！",
-    "translation": "^0進化！！！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0進化！！！"
   },
   {
+    "index": 2,
     "key": "MESPAK01_0009_0002",
     "original": "^0退化！！！",
-    "translation": "^0退化！！！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0退化！！！"
   },
   {
+    "index": 3,
     "key": "MESPAK01_0009_0003",
     "original": "^0デジモン",
-    "translation": "^0デジモン",
-    "stage": 1,
-    "context": ""
+    "translation": "^0デジモン"
   },
   {
+    "index": 4,
     "key": "MESPAK01_0009_0004",
     "original": "^0誕生！",
-    "translation": "^0誕生！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0誕生！"
   },
   {
+    "index": 5,
     "key": "MESPAK01_0009_0005",
     "original": "^0！！！",
-    "translation": "^0！！！",
-    "stage": 1,
-    "context": ""
+    "translation": "^0！！！"
   }
 ]

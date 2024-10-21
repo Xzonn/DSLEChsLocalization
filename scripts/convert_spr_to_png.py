@@ -1,5 +1,6 @@
 import os
 
+from helper import DIR_UNPACKED_FILES
 from nitrogfx.convert import NCER, NCGR, NCLR, ncgr_to_img
 from nitrogfx.ncer import OAM, Cell
 from PIL import Image
@@ -9,9 +10,9 @@ SPR_COUNT = 0x0BD1
 os.makedirs("temp/images/SPR", exist_ok=True)
 
 for i in range(SPR_COUNT):
-  ncgr: NCGR = NCGR.load_from(f"temp/unpacked/data/SPR_NCGR/{i:04d}.bin")
-  nclr: NCLR = NCLR.load_from(f"temp/unpacked/data/SPR_NCLR/{i:04d}.bin")
-  ncer: NCER = NCER.load_from(f"temp/unpacked/data/SPR_NCER/{i:04d}.bin")
+  ncgr: NCGR = NCGR.load_from(f"{DIR_UNPACKED_FILES}/data/SPR_NCGR/{i:04d}.bin")
+  nclr: NCLR = NCLR.load_from(f"{DIR_UNPACKED_FILES}/data/SPR_NCLR/{i:04d}.bin")
+  ncer: NCER = NCER.load_from(f"{DIR_UNPACKED_FILES}/data/SPR_NCER/{i:04d}.bin")
 
   image = ncgr_to_img(ncgr, nclr)
   cells: list[Cell] = ncer.cells

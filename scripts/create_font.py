@@ -14,8 +14,6 @@ from helper import (
 from nftr import CMAP, NFTR, CGLPTile
 from PIL import Image, ImageDraw, ImageFont
 
-LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
-
 
 def expand_font_0(old_font: NFTR) -> NFTR:
   old_font.finf.font_width = 12
@@ -193,7 +191,7 @@ FONT_CONFIG: dict[int, dict] = {
 def compress_cmap(char_map: dict[int, int]) -> list[CMAP]:
   char_map = {k: v for k, v in char_map.items()}
   if char_map[0] == 0x20:
-    char_map[0] = 0x5f
+    char_map[0] = 0x5F
 
   cmaps = []
   type_2_index_map = {}
@@ -286,7 +284,7 @@ def create_font():
     if font_index not in FONT_CONFIG:
       continue
 
-    characters = get_used_characters(f"{DIR_TEXT_FILES}/{LANGUAGE}", font_index)
+    characters = get_used_characters(f"{DIR_TEXT_FILES}/zh_Hans", font_index)
     nftr = NFTR(f"{DIR_UNPACKED_FILES}/{DIR_DATA_FONT}/{file_name}")
     config = FONT_CONFIG[font_index]
 

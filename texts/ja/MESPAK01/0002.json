@@ -1,695 +1,596 @@
 [
   {
+    "index": 0,
     "key": "MESPAK01_0002_0000",
     "original": "アイテムをかう",
-    "translation": "アイテムをかう",
-    "stage": 1,
-    "context": ""
+    "translation": "アイテムをかう"
   },
   {
+    "index": 1,
     "key": "MESPAK01_0002_0001",
     "original": "そうびアイテムを　かう",
-    "translation": "そうびアイテムを　かう",
-    "stage": 1,
-    "context": ""
+    "translation": "そうびアイテムを　かう"
   },
   {
+    "index": 2,
     "key": "MESPAK01_0002_0002",
     "original": "しょうひアイテムを　かう",
-    "translation": "しょうひアイテムを　かう",
-    "stage": 1,
-    "context": ""
+    "translation": "しょうひアイテムを　かう"
   },
   {
+    "index": 3,
     "key": "MESPAK01_0002_0003",
     "original": "メニューを　とじる",
-    "translation": "メニューを　とじる",
-    "stage": 1,
-    "context": ""
+    "translation": "メニューを　とじる"
   },
   {
+    "index": 4,
     "key": "MESPAK01_0002_0004",
     "original": "アイテムをうる",
-    "translation": "アイテムをうる",
-    "stage": 1,
-    "context": ""
+    "translation": "アイテムをうる"
   },
   {
+    "index": 5,
     "key": "MESPAK01_0002_0005",
     "original": "そうびアイテムを　うる",
-    "translation": "そうびアイテムを　うる",
-    "stage": 1,
-    "context": ""
+    "translation": "そうびアイテムを　うる"
   },
   {
+    "index": 6,
     "key": "MESPAK01_0002_0006",
     "original": "しょうひアイテムを　うる",
-    "translation": "しょうひアイテムを　うる",
-    "stage": 1,
-    "context": ""
+    "translation": "しょうひアイテムを　うる"
   },
   {
+    "index": 7,
     "key": "MESPAK01_0002_0007",
     "original": "ファームグッズを　うる",
-    "translation": "ファームグッズを　うる",
-    "stage": 1,
-    "context": ""
+    "translation": "ファームグッズを　うる"
   },
   {
+    "index": 8,
     "key": "MESPAK01_0002_0008",
     "original": "バグプレートを　うる",
-    "translation": "バグプレートを　うる",
-    "stage": 1,
-    "context": ""
+    "translation": "バグプレートを　うる"
   },
   {
+    "index": 9,
     "key": "MESPAK01_0002_0009",
     "original": "ファーム島を\n３００００￡でかいますか？",
-    "translation": "ファーム島を\n３００００￡でかいますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "ファーム島を\n３００００￡でかいますか？"
   },
   {
+    "index": 10,
     "key": "MESPAK01_0002_0010",
     "original": "はい　かいます",
-    "translation": "はい　かいます",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　かいます"
   },
   {
+    "index": 11,
     "key": "MESPAK01_0002_0011",
     "original": "いいえ　かいません",
-    "translation": "いいえ　かいません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　かいません"
   },
   {
+    "index": 12,
     "key": "MESPAK01_0002_0012",
     "original": "ファーム島を　１つかいました\nファーム島に　なまえを　つけてください",
-    "translation": "ファーム島を　１つかいました\nファーム島に　なまえを　つけてください",
-    "stage": 1,
-    "context": ""
+    "translation": "ファーム島を　１つかいました\nファーム島に　なまえを　つけてください"
   },
   {
+    "index": 13,
     "key": "MESPAK01_0002_0013",
     "original": "ｂｉｔが　たりません",
-    "translation": "ｂｉｔが　たりません",
-    "stage": 1,
-    "context": ""
+    "translation": "ｂｉｔが　たりません"
   },
   {
+    "index": 14,
     "key": "MESPAK01_0002_0014",
     "original": "ファーム島は４つ　もっているので\nこれ以上　かえません",
-    "translation": "ファーム島は４つ　もっているので\nこれ以上　かえません",
-    "stage": 1,
-    "context": ""
+    "translation": "ファーム島は４つ　もっているので\nこれ以上　かえません"
   },
   {
+    "index": 15,
     "key": "MESPAK01_0002_0015",
     "original": "ファーム島に　せっちするちけいボードは\n^0で　いいですか？",
-    "translation": "ファーム島に　せっちするちけいボードは\n^0で　いいですか？",
-    "stage": 1,
-    "context": ""
+    "translation": "ファーム島に　せっちするちけいボードは\n^0で　いいですか？"
   },
   {
+    "index": 16,
     "key": "MESPAK01_0002_0016",
     "original": "はい　いいです",
-    "translation": "はい　いいです",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　いいです"
   },
   {
+    "index": 17,
     "key": "MESPAK01_0002_0017",
     "original": "いいえ　えらびなおします",
-    "translation": "いいえ　えらびなおします",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　えらびなおします"
   },
   {
+    "index": 18,
     "key": "MESPAK01_0002_0018",
     "original": "^0を　せっちしました",
-    "translation": "^0を　せっちしました",
-    "stage": 1,
-    "context": ""
+    "translation": "^0を　せっちしました"
   },
   {
+    "index": 19,
     "key": "MESPAK01_0002_0019",
     "original": "ファーム島に　せっちするＢＧＭボードは\n^0で　いいですか？",
-    "translation": "ファーム島に　せっちするＢＧＭボードは\n^0で　いいですか？",
-    "stage": 1,
-    "context": ""
+    "translation": "ファーム島に　せっちするＢＧＭボードは\n^0で　いいですか？"
   },
   {
+    "index": 20,
     "key": "MESPAK01_0002_0020",
     "original": "ショップを　しゅうりょうしますか？",
-    "translation": "ショップを　しゅうりょうしますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "ショップを　しゅうりょうしますか？"
   },
   {
+    "index": 21,
     "key": "MESPAK01_0002_0021",
     "original": "はい　しゅうりょうします",
-    "translation": "はい　しゅうりょうします",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　しゅうりょうします"
   },
   {
+    "index": 22,
     "key": "MESPAK01_0002_0022",
     "original": "いいえ　しゅうりょうしません",
-    "translation": "いいえ　しゅうりょうしません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　しゅうりょうしません"
   },
   {
+    "index": 23,
     "key": "MESPAK01_0002_0023",
     "original": "こうもくを　えらんで　ください",
-    "translation": "こうもくを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "こうもくを　えらんで　ください"
   },
   {
+    "index": 24,
     "key": "MESPAK01_0002_0024",
     "original": "こうもくを　えらんで　ください",
-    "translation": "こうもくを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "こうもくを　えらんで　ください"
   },
   {
+    "index": 25,
     "key": "MESPAK01_0002_0025",
     "original": "こうもくを　えらんで　ください",
-    "translation": "こうもくを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "こうもくを　えらんで　ください"
   },
   {
+    "index": 26,
     "key": "MESPAK01_0002_0026",
     "original": "かいたい　そうびアイテムを　えらんで　ください",
-    "translation": "かいたい　そうびアイテムを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "かいたい　そうびアイテムを　えらんで　ください"
   },
   {
+    "index": 27,
     "key": "MESPAK01_0002_0027",
     "original": "かいたい　しょうひアイテムを　えらんで　ください",
-    "translation": "かいたい　しょうひアイテムを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "かいたい　しょうひアイテムを　えらんで　ください"
   },
   {
+    "index": 28,
     "key": "MESPAK01_0002_0028",
     "original": "かいたい　ファームグッズを　えらんで　ください",
-    "translation": "かいたい　ファームグッズを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "かいたい　ファームグッズを　えらんで　ください"
   },
   {
+    "index": 29,
     "key": "MESPAK01_0002_0029",
     "original": "かいたい　リペアリングツールを　えらんで　ください",
-    "translation": "かいたい　リペアリングツールを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "かいたい　リペアリングツールを　えらんで　ください"
   },
   {
+    "index": 30,
     "key": "MESPAK01_0002_0030",
     "original": "うりたい　そうびアイテムを　えらんで　ください",
-    "translation": "うりたい　そうびアイテムを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "うりたい　そうびアイテムを　えらんで　ください"
   },
   {
+    "index": 31,
     "key": "MESPAK01_0002_0031",
     "original": "うりたい　しょうひアイテムを　えらんで　ください",
-    "translation": "うりたい　しょうひアイテムを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "うりたい　しょうひアイテムを　えらんで　ください"
   },
   {
+    "index": 32,
     "key": "MESPAK01_0002_0032",
     "original": "うりたい　ファームグッズを　えらんで　ください",
-    "translation": "うりたい　ファームグッズを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "うりたい　ファームグッズを　えらんで　ください"
   },
   {
+    "index": 33,
     "key": "MESPAK01_0002_0033",
     "original": "うりたい　バグプレートを　えらんで　ください",
-    "translation": "うりたい　バグプレートを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "うりたい　バグプレートを　えらんで　ください"
   },
   {
+    "index": 34,
     "key": "MESPAK01_0002_0034",
     "original": "をいくつ　かいますか？",
-    "translation": "をいくつ　かいますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "をいくつ　かいますか？"
   },
   {
+    "index": 35,
     "key": "MESPAK01_0002_0035",
     "original": "ほかに　ごようは　ございますか？",
-    "translation": "ほかに　ごようは　ございますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "ほかに　ごようは　ございますか？"
   },
   {
+    "index": 36,
     "key": "MESPAK01_0002_0036",
     "original": "^0を\n^1コかいますか？",
-    "translation": "^0を\n^1コかいますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "^0を\n^1コかいますか？"
   },
   {
+    "index": 37,
     "key": "MESPAK01_0002_0037",
     "original": "^0を^1コかいました",
-    "translation": "^0を^1コかいました",
-    "stage": 1,
-    "context": ""
+    "translation": "^0を^1コかいました"
   },
   {
+    "index": 38,
     "key": "MESPAK01_0002_0038",
     "original": "ｂｉｔがたりないので　かえません",
-    "translation": "ｂｉｔがたりないので　かえません",
-    "stage": 1,
-    "context": ""
+    "translation": "ｂｉｔがたりないので　かえません"
   },
   {
+    "index": 39,
     "key": "MESPAK01_0002_0039",
     "original": "そのアイテムは　９９コもっているので\nこれ以上　かえません",
-    "translation": "そのアイテムは　９９コもっているので\nこれ以上　かえません",
-    "stage": 1,
-    "context": ""
+    "translation": "そのアイテムは　９９コもっているので\nこれ以上　かえません"
   },
   {
+    "index": 40,
     "key": "MESPAK01_0002_0040",
     "original": "そのそうびは　９９コもっているので\nこれ以上　かえません",
-    "translation": "そのそうびは　９９コもっているので\nこれ以上　かえません",
-    "stage": 1,
-    "context": ""
+    "translation": "そのそうびは　９９コもっているので\nこれ以上　かえません"
   },
   {
+    "index": 41,
     "key": "MESPAK01_0002_0041",
     "original": "そのファームグッズは　９コもっているので\nこれ以上　かえません",
-    "translation": "そのファームグッズは　９コもっているので\nこれ以上　かえません",
-    "stage": 1,
-    "context": ""
+    "translation": "そのファームグッズは　９コもっているので\nこれ以上　かえません"
   },
   {
+    "index": 42,
     "key": "MESPAK01_0002_0042",
     "original": "そのリペアリングツールは\nすでにもっているので　かえません",
-    "translation": "そのリペアリングツールは\nすでにもっているので　かえません",
-    "stage": 1,
-    "context": ""
+    "translation": "そのリペアリングツールは\nすでにもっているので　かえません"
   },
   {
+    "index": 43,
     "key": "MESPAK01_0002_0043",
     "original": "をいくつ　うりますか？",
-    "translation": "をいくつ　うりますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "をいくつ　うりますか？"
   },
   {
+    "index": 44,
     "key": "MESPAK01_0002_0044",
     "original": "^0を\n^1コうりますか？",
-    "translation": "^0を\n^1コうりますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "^0を\n^1コうりますか？"
   },
   {
+    "index": 45,
     "key": "MESPAK01_0002_0045",
     "original": "はい　うります",
-    "translation": "はい　うります",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　うります"
   },
   {
+    "index": 46,
     "key": "MESPAK01_0002_0046",
     "original": "いいえ　うりません",
-    "translation": "いいえ　うりません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　うりません"
   },
   {
+    "index": 47,
     "key": "MESPAK01_0002_0047",
     "original": "^0を^1コうりました",
-    "translation": "^0を^1コうりました",
-    "stage": 1,
-    "context": ""
+    "translation": "^0を^1コうりました"
   },
   {
+    "index": 48,
     "key": "MESPAK01_0002_0048",
     "original": "のこりがないので　うるものがありません",
-    "translation": "のこりがないので　うるものがありません",
-    "stage": 1,
-    "context": ""
+    "translation": "のこりがないので　うるものがありません"
   },
   {
+    "index": 49,
     "key": "MESPAK01_0002_0049",
     "original": "さいしょに　せっちする　ちけいボードを\nえらんでください",
-    "translation": "さいしょに　せっちする　ちけいボードを\nえらんでください",
-    "stage": 1,
-    "context": ""
+    "translation": "さいしょに　せっちする　ちけいボードを\nえらんでください"
   },
   {
+    "index": 50,
     "key": "MESPAK01_0002_0050",
     "original": "さいしょに　せっちする　ＢＧＭボードを\nえらんでください",
-    "translation": "さいしょに　せっちする　ＢＧＭボードを\nえらんでください",
-    "stage": 1,
-    "context": ""
+    "translation": "さいしょに　せっちする　ＢＧＭボードを\nえらんでください"
   },
   {
+    "index": 51,
     "key": "MESPAK01_0002_0051",
     "original": "かいたい　ちけいボードを　えらんで　ください",
-    "translation": "かいたい　ちけいボードを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "かいたい　ちけいボードを　えらんで　ください"
   },
   {
+    "index": 52,
     "key": "MESPAK01_0002_0052",
     "original": "かいたい　ＢＧＭボードを　えらんで　ください",
-    "translation": "かいたい　ＢＧＭボードを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "かいたい　ＢＧＭボードを　えらんで　ください"
   },
   {
+    "index": 53,
     "key": "MESPAK01_0002_0053",
     "original": "こうもくを　えらんで　ください",
-    "translation": "こうもくを　えらんで　ください",
-    "stage": 1,
-    "context": ""
+    "translation": "こうもくを　えらんで　ください"
   },
   {
+    "index": 54,
     "key": "MESPAK01_0002_0054",
     "original": "ちけいボードを　かう",
-    "translation": "ちけいボードを　かう",
-    "stage": 1,
-    "context": ""
+    "translation": "ちけいボードを　かう"
   },
   {
+    "index": 55,
     "key": "MESPAK01_0002_0055",
     "original": "ＢＧＭボードを　かう",
-    "translation": "ＢＧＭボードを　かう",
-    "stage": 1,
-    "context": ""
+    "translation": "ＢＧＭボードを　かう"
   },
   {
+    "index": 56,
     "key": "MESPAK01_0002_0056",
     "original": "Ｌｖ０",
-    "translation": "Ｌｖ０",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｌｖ０"
   },
   {
+    "index": 57,
     "key": "MESPAK01_0002_0057",
     "original": "Ｌｖ１",
-    "translation": "Ｌｖ１",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｌｖ１"
   },
   {
+    "index": 58,
     "key": "MESPAK01_0002_0058",
     "original": "Ｌｖ２",
-    "translation": "Ｌｖ２",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｌｖ２"
   },
   {
+    "index": 59,
     "key": "MESPAK01_0002_0059",
     "original": "Ｌｖ３",
-    "translation": "Ｌｖ３",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｌｖ３"
   },
   {
+    "index": 60,
     "key": "MESPAK01_0002_0060",
     "original": "Ｌｖ４",
-    "translation": "Ｌｖ４",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｌｖ４"
   },
   {
+    "index": 61,
     "key": "MESPAK01_0002_0061",
     "original": "Ｌｖ５",
-    "translation": "Ｌｖ５",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｌｖ５"
   },
   {
+    "index": 62,
     "key": "MESPAK01_0002_0062",
     "original": "Ｌｖ６",
-    "translation": "Ｌｖ６",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｌｖ６"
   },
   {
+    "index": 63,
     "key": "MESPAK01_0002_0063",
     "original": "Ｌｖ７",
-    "translation": "Ｌｖ７",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｌｖ７"
   },
   {
+    "index": 64,
     "key": "MESPAK01_0002_0064",
     "original": "Ｌｖ８",
-    "translation": "Ｌｖ８",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｌｖ８"
   },
   {
+    "index": 65,
     "key": "MESPAK01_0002_0065",
     "original": "Ｌｖ９",
-    "translation": "Ｌｖ９",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｌｖ９"
   },
   {
+    "index": 66,
     "key": "MESPAK01_0002_0066",
     "original": "ＭＡＸ",
-    "translation": "ＭＡＸ",
-    "stage": 1,
-    "context": ""
+    "translation": "ＭＡＸ"
   },
   {
+    "index": 67,
     "key": "MESPAK01_0002_0067",
     "original": "^0^1を\nかいますか？",
-    "translation": "^0^1を\nかいますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "^0^1を\nかいますか？"
   },
   {
+    "index": 68,
     "key": "MESPAK01_0002_0068",
     "original": "^0^1をかいました",
-    "translation": "^0^1をかいました",
-    "stage": 1,
-    "context": ""
+    "translation": "^0^1をかいました"
   },
   {
+    "index": 69,
     "key": "MESPAK01_0002_0069",
     "original": "このちけいボードは　レベルがＭＡＸなので\nこれ以上　かえません",
-    "translation": "このちけいボードは　レベルがＭＡＸなので\nこれ以上　かえません",
-    "stage": 1,
-    "context": ""
+    "translation": "このちけいボードは　レベルがＭＡＸなので\nこれ以上　かえません"
   },
   {
+    "index": 70,
     "key": "MESPAK01_0002_0070",
     "original": "このＢＧＭボードは　レベルがＭＡＸなので\nこれ以上　かえません",
-    "translation": "このＢＧＭボードは　レベルがＭＡＸなので\nこれ以上　かえません",
-    "stage": 1,
-    "context": ""
+    "translation": "このＢＧＭボードは　レベルがＭＡＸなので\nこれ以上　かえません"
   },
   {
+    "index": 71,
     "key": "MESPAK01_0002_0071",
     "original": "アイテムをうる",
-    "translation": "アイテムをうる",
-    "stage": 1,
-    "context": ""
+    "translation": "アイテムをうる"
   },
   {
+    "index": 72,
     "key": "MESPAK01_0002_0072",
     "original": "アイテムをかう",
-    "translation": "アイテムをかう",
-    "stage": 1,
-    "context": ""
+    "translation": "アイテムをかう"
   },
   {
+    "index": 73,
     "key": "MESPAK01_0002_0073",
     "original": "ファームグッズをかう",
-    "translation": "ファームグッズをかう",
-    "stage": 1,
-    "context": ""
+    "translation": "ファームグッズをかう"
   },
   {
+    "index": 74,
     "key": "MESPAK01_0002_0074",
     "original": "ファーム島をかう",
-    "translation": "ファーム島をかう",
-    "stage": 1,
-    "context": ""
+    "translation": "ファーム島をかう"
   },
   {
+    "index": 75,
     "key": "MESPAK01_0002_0075",
     "original": "ファーム島をかいぞうする",
-    "translation": "ファーム島をかいぞうする",
-    "stage": 1,
-    "context": ""
+    "translation": "ファーム島をかいぞうする"
   },
   {
+    "index": 76,
     "key": "MESPAK01_0002_0076",
     "original": "リペアリングツールをかう",
-    "translation": "リペアリングツールをかう",
-    "stage": 1,
-    "context": ""
+    "translation": "リペアリングツールをかう"
   },
   {
+    "index": 77,
     "key": "MESPAK01_0002_0077",
     "original": "なにも　もっていません",
-    "translation": "なにも　もっていません",
-    "stage": 1,
-    "context": ""
+    "translation": "なにも　もっていません"
   },
   {
+    "index": 78,
     "key": "MESPAK01_0002_0078",
     "original": "^0を\nかいました",
-    "translation": "^0を\nかいました",
-    "stage": 1,
-    "context": ""
+    "translation": "^0を\nかいました"
   },
   {
+    "index": 79,
     "key": "MESPAK01_0002_0079",
     "original": "^0が\nだいじなものに　ついかされました",
-    "translation": "^0が\nだいじなものに　ついかされました",
-    "stage": 1,
-    "context": ""
+    "translation": "^0が\nだいじなものに　ついかされました"
   },
   {
+    "index": 80,
     "key": "MESPAK01_0002_0080",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 81,
     "key": "MESPAK01_0002_0081",
     "original": "さいだいＨＰ",
-    "translation": "さいだいＨＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "さいだいＨＰ"
   },
   {
+    "index": 82,
     "key": "MESPAK01_0002_0082",
     "original": "さいだいＭＰ",
-    "translation": "さいだいＭＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "さいだいＭＰ"
   },
   {
+    "index": 83,
     "key": "MESPAK01_0002_0083",
     "original": "こうげきりょく",
-    "translation": "こうげきりょく",
-    "stage": 1,
-    "context": ""
+    "translation": "こうげきりょく"
   },
   {
+    "index": 84,
     "key": "MESPAK01_0002_0084",
     "original": "ぼうぎょりょく",
-    "translation": "ぼうぎょりょく",
-    "stage": 1,
-    "context": ""
+    "translation": "ぼうぎょりょく"
   },
   {
+    "index": 85,
     "key": "MESPAK01_0002_0085",
     "original": "すばやさ",
-    "translation": "すばやさ",
-    "stage": 1,
-    "context": ""
+    "translation": "すばやさ"
   },
   {
+    "index": 86,
     "key": "MESPAK01_0002_0086",
     "original": "ゲンジュウＥＸＰ",
-    "translation": "ゲンジュウＥＸＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "ゲンジュウＥＸＰ"
   },
   {
+    "index": 87,
     "key": "MESPAK01_0002_0087",
     "original": "ケモノＥＸＰ",
-    "translation": "ケモノＥＸＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "ケモノＥＸＰ"
   },
   {
+    "index": 88,
     "key": "MESPAK01_0002_0088",
     "original": "テンシＥＸＰ",
-    "translation": "テンシＥＸＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "テンシＥＸＰ"
   },
   {
+    "index": 89,
     "key": "MESPAK01_0002_0089",
     "original": "アクマＥＸＰ",
-    "translation": "アクマＥＸＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "アクマＥＸＰ"
   },
   {
+    "index": 90,
     "key": "MESPAK01_0002_0090",
     "original": "スイセイＥＸＰ",
-    "translation": "スイセイＥＸＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "スイセイＥＸＰ"
   },
   {
+    "index": 91,
     "key": "MESPAK01_0002_0091",
     "original": "キカイＥＸＰ",
-    "translation": "キカイＥＸＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "キカイＥＸＰ"
   },
   {
+    "index": 92,
     "key": "MESPAK01_0002_0092",
     "original": "トリＥＸＰ",
-    "translation": "トリＥＸＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "トリＥＸＰ"
   },
   {
+    "index": 93,
     "key": "MESPAK01_0002_0093",
     "original": "コンチュウＥＸＰ",
-    "translation": "コンチュウＥＸＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "コンチュウＥＸＰ"
   },
   {
+    "index": 94,
     "key": "MESPAK01_0002_0094",
     "original": "ショクブツＥＸＰ",
-    "translation": "ショクブツＥＸＰ",
-    "stage": 1,
-    "context": ""
+    "translation": "ショクブツＥＸＰ"
   },
   {
+    "index": 95,
     "key": "MESPAK01_0002_0095",
     "original": "ゆうじょう",
-    "translation": "ゆうじょう",
-    "stage": 1,
-    "context": ""
+    "translation": "ゆうじょう"
   },
   {
+    "index": 96,
     "key": "MESPAK01_0002_0096",
     "original": "ｂｉｔ",
-    "translation": "ｂｉｔ",
-    "stage": 1,
-    "context": ""
+    "translation": "ｂｉｔ"
   },
   {
+    "index": 97,
     "key": "MESPAK01_0002_0097",
     "original": "ぶき　さくせい",
-    "translation": "ぶき　さくせい",
-    "stage": 1,
-    "context": ""
+    "translation": "ぶき　さくせい"
   },
   {
+    "index": 98,
     "key": "MESPAK01_0002_0098",
     "original": "ぼうぐ　さくせい",
-    "translation": "ぼうぐ　さくせい",
-    "stage": 1,
-    "context": ""
+    "translation": "ぼうぐ　さくせい"
   }
 ]

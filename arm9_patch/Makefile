@@ -56,10 +56,10 @@ GRAPHICS	:=	gfx
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------
-ARCH	:=
+ARCH	:= -mabi=aapcs -march=armv5te -mtune=arm946e-s
 
 CFLAGS	:=	-g -Wall -Os\
- 		-march=armv5te -mtune=arm946e-s -fomit-frame-pointer\
+ 		-fomit-frame-pointer\
 		-ffast-math -fshort-wchar \
 		$(ARCH)
 
@@ -67,14 +67,9 @@ CFLAGS	+=	$(INCLUDE) -DARM9 -nodefaultlibs -I. -fno-builtin -c
 CXXFLAGS	:= $(CFLAGS) -fno-rtti -fno-exceptions
 
 ASFLAGS	:=	-g $(ARCH)
-ifdef NEWSYM
 SYMBOLST := -T $(shell dirname $(CURDIR))/$(shell dirname $(shell dirname $(SOURCES)))/symbols.x
-NEWSYMT :=  -T $(shell dirname $(CURDIR))/$(NEWSYM)
-else
-SYMBOLST := -T $(shell dirname $(CURDIR))/$(shell dirname $(SOURCES))/symbols.x
 NEWSYMT :=
-endif
-LDFLAGS	=	$(SYMBOLST) -T $(shell dirname $(CURDIR))/linker.x $(NEWSYMT) -g $(ARCH) -Map newcode.map
+LDFLAGS	=	--use-blx $(SYMBOLST) -T $(shell dirname $(CURDIR))/linker.x $(NEWSYMT) -g -Map newcode.map
 
 ifdef CODEADDR
   LDFLAGS += -Ttext $(CODEADDR)
@@ -160,11 +155,6 @@ $(OUTPUT).sym : $(OUTPUT).elf
 #---------------------------------------------------------------------------------
 	@echo $(notdir $<)
 	$(bin2o)
-
-#---------------------------------------------------------------------------------
-%.o: %.cpp
-	@echo $(notdir $<)
-	$(CXX) -MMD -MP -MF $(DEPSDIR)/$*.d $(CXXFLAGS) -c $< -o $@ $(ERROR_FILTER)
 
 #---------------------------------------------------------------------------------
 %.o: %.c

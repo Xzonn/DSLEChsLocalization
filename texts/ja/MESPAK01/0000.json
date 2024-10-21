@@ -1,401 +1,344 @@
 [
   {
+    "index": 0,
     "key": "MESPAK01_0000_0000",
     "original": "デジベースだよ！　ボクたちが\nあんしんできる　ばしょさ！",
-    "translation": "デジベースだよ！　ボクたちが\nあんしんできる　ばしょさ！",
-    "stage": 1,
-    "context": ""
+    "translation": "デジベースだよ！　ボクたちが\nあんしんできる　ばしょさ！"
   },
   {
+    "index": 1,
     "key": "MESPAK01_0000_0001",
     "original": "ミギが　ログインマウンテン\nヒダリが　パケットコーストだね！",
-    "translation": "ミギが　ログインマウンテン\nヒダリが　パケットコーストだね！",
-    "stage": 1,
-    "context": ""
+    "translation": "ミギが　ログインマウンテン\nヒダリが　パケットコーストだね！"
   },
   {
+    "index": 2,
     "key": "MESPAK01_0000_0002",
     "original": "チップフォレストの　となりに\nパッチプレーリーが　あるね",
-    "translation": "チップフォレストの　となりに\nパッチプレーリーが　あるね",
-    "stage": 1,
-    "context": ""
+    "translation": "チップフォレストの　となりに\nパッチプレーリーが　あるね"
   },
   {
+    "index": 3,
     "key": "MESPAK01_0000_0003",
     "original": "ラベルフォレストに\nおりる　ポートだね",
-    "translation": "ラベルフォレストに\nおりる　ポートだね",
-    "stage": 1,
-    "context": ""
+    "translation": "ラベルフォレストに\nおりる　ポートだね"
   },
   {
+    "index": 4,
     "key": "MESPAK01_0000_0004",
     "original": "ループぬまは　ノースマリンに\nつながっているよ",
-    "translation": "ループぬまは　ノースマリンに\nつながっているよ",
-    "stage": 1,
-    "context": ""
+    "translation": "ループぬまは　ノースマリンに\nつながっているよ"
   },
   {
+    "index": 5,
     "key": "MESPAK01_0000_0005",
     "original": "ログインマウンテンから\nつながる　こうざんだよ！",
-    "translation": "ログインマウンテンから\nつながる　こうざんだよ！",
-    "stage": 1,
-    "context": ""
+    "translation": "ログインマウンテンから\nつながる　こうざんだよ！"
   },
   {
+    "index": 6,
     "key": "MESPAK01_0000_0006",
     "original": "パレットアマゾンだね！\nサウスブリッジの　いりぐちだよ",
-    "translation": "パレットアマゾンだね！\nサウスブリッジの　いりぐちだよ",
-    "stage": 1,
-    "context": ""
+    "translation": "パレットアマゾンだね！\nサウスブリッジの　いりぐちだよ"
   },
   {
+    "index": 7,
     "key": "MESPAK01_0000_0007",
     "original": "テイマータウンのデジポートだね\nつうしんプレイでもする？",
-    "translation": "テイマータウンのデジポートだね\nつうしんプレイでもする？",
-    "stage": 1,
-    "context": ""
+    "translation": "テイマータウンのデジポートだね\nつうしんプレイでもする？"
   },
   {
+    "index": 8,
     "key": "MESPAK01_0000_0008",
     "original": "レジスタジャングルは\nリミットバレーと　つながってるよ",
-    "translation": "レジスタジャングルは\nリミットバレーと　つながってるよ",
-    "stage": 1,
-    "context": ""
+    "translation": "レジスタジャングルは\nリミットバレーと　つながってるよ"
   },
   {
+    "index": 9,
     "key": "MESPAK01_0000_0009",
     "original": "ミギが　パレスラボラトリー\nヒダリが　リミットバレーだね！",
-    "translation": "ミギが　パレスラボラトリー\nヒダリが　リミットバレーだね！",
-    "stage": 1,
-    "context": ""
+    "translation": "ミギが　パレスラボラトリー\nヒダリが　リミットバレーだね！"
   },
   {
+    "index": 10,
     "key": "MESPAK01_0000_0010",
     "original": "サウスケイブから　つながる\nピクセルさばくの　ポートだね",
-    "translation": "サウスケイブから　つながる\nピクセルさばくの　ポートだね",
-    "stage": 1,
-    "context": ""
+    "translation": "サウスケイブから　つながる\nピクセルさばくの　ポートだね"
   },
   {
+    "index": 11,
     "key": "MESPAK01_0000_0011",
     "original": "シャドウヘルって\nサウスケイブから　いくんだって！",
-    "translation": "シャドウヘルって\nサウスケイブから　いくんだって！",
-    "stage": 1,
-    "context": ""
+    "translation": "シャドウヘルって\nサウスケイブから　いくんだって！"
   },
   {
+    "index": 12,
     "key": "MESPAK01_0000_0012",
     "original": "グラボケイブの　おおあながあるよ\nウィザードテンプルにいけるみたい",
-    "translation": "グラボケイブの　おおあながあるよ\nウィザードテンプルにいけるみたい",
-    "stage": 1,
-    "context": ""
+    "translation": "グラボケイブの　おおあながあるよ\nウィザードテンプルにいけるみたい"
   },
   {
+    "index": 13,
     "key": "MESPAK01_0000_0013",
     "original": "ミギが　タスクキャニオン\nヒダリが　アクセスひょうがだね！",
-    "translation": "ミギが　タスクキャニオン\nヒダリが　アクセスひょうがだね！",
-    "stage": 1,
-    "context": ""
+    "translation": "ミギが　タスクキャニオン\nヒダリが　アクセスひょうがだね！"
   },
   {
+    "index": 14,
     "key": "MESPAK01_0000_0014",
     "original": "グラボマリンの　いずみが　あるよ\nアングラトンネルに　いけるみたい",
-    "translation": "グラボマリンの　いずみが　あるよ\nアングラトンネルに　いけるみたい",
-    "stage": 1,
-    "context": ""
+    "translation": "グラボマリンの　いずみが　あるよ\nアングラトンネルに　いけるみたい"
   },
   {
+    "index": 15,
     "key": "MESPAK01_0000_0015",
     "original": "どこかに　グラボマリンの\nいずみが　あるみたいだね～！",
-    "translation": "どこかに　グラボマリンの\nいずみが　あるみたいだね～！",
-    "stage": 1,
-    "context": ""
+    "translation": "どこかに　グラボマリンの\nいずみが　あるみたいだね～！"
   },
   {
+    "index": 16,
     "key": "MESPAK01_0000_0016",
     "original": "アングラトンネルは\nグラボマリンと　つながってるよ",
-    "translation": "アングラトンネルは\nグラボマリンと　つながってるよ",
-    "stage": 1,
-    "context": ""
+    "translation": "アングラトンネルは\nグラボマリンと　つながってるよ"
   },
   {
+    "index": 17,
     "key": "MESPAK01_0000_0017",
     "original": "ウィザードテンプル！\nグラボケイブと　つながってるよ",
-    "translation": "ウィザードテンプル！\nグラボケイブと　つながってるよ",
-    "stage": 1,
-    "context": ""
+    "translation": "ウィザードテンプル！\nグラボケイブと　つながってるよ"
   },
   {
+    "index": 18,
     "key": "MESPAK01_0000_0018",
     "original": "グラボセントラルは　このポート\nからしか　はいれないみたい",
-    "translation": "グラボセントラルは　このポート\nからしか　はいれないみたい",
-    "stage": 1,
-    "context": ""
+    "translation": "グラボセントラルは　このポート\nからしか　はいれないみたい"
   },
   {
+    "index": 19,
     "key": "MESPAK01_0000_0019",
     "original": "リスクケイブの　おおあなが\nどこかに　あるんだって…",
-    "translation": "リスクケイブの　おおあなが\nどこかに　あるんだって…",
-    "stage": 1,
-    "context": ""
+    "translation": "リスクケイブの　おおあなが\nどこかに　あるんだって…"
   },
   {
+    "index": 20,
     "key": "MESPAK01_0000_0020",
     "original": "クロンこうざんの\nおくにある　ポートだね～",
-    "translation": "クロンこうざんの\nおくにある　ポートだね～",
-    "stage": 1,
-    "context": ""
+    "translation": "クロンこうざんの\nおくにある　ポートだね～"
   },
   {
+    "index": 21,
     "key": "MESPAK01_0000_0021",
     "original": "クラスデザートにある\nポートみたいだよ～",
-    "translation": "クラスデザートにある\nポートみたいだよ～",
-    "stage": 1,
-    "context": ""
+    "translation": "クラスデザートにある\nポートみたいだよ～"
   },
   {
+    "index": 22,
     "key": "MESPAK01_0000_0022",
     "original": "どこに　いどうする？",
-    "translation": "どこに　いどうする？",
-    "stage": 1,
-    "context": ""
+    "translation": "どこに　いどうする？"
   },
   {
+    "index": 23,
     "key": "MESPAK01_0000_0023",
     "original": "ベースポート",
-    "translation": "ベースポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ベースポート"
   },
   {
+    "index": 24,
     "key": "MESPAK01_0000_0024",
     "original": "ログインポート",
-    "translation": "ログインポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ログインポート"
   },
   {
+    "index": 25,
     "key": "MESPAK01_0000_0025",
     "original": "チップポート",
-    "translation": "チップポート",
-    "stage": 1,
-    "context": ""
+    "translation": "チップポート"
   },
   {
+    "index": 26,
     "key": "MESPAK01_0000_0026",
     "original": "ラベルポート",
-    "translation": "ラベルポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ラベルポート"
   },
   {
+    "index": 27,
     "key": "MESPAK01_0000_0027",
     "original": "ループポート",
-    "translation": "ループポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ループポート"
   },
   {
+    "index": 28,
     "key": "MESPAK01_0000_0028",
     "original": "マグネポート",
-    "translation": "マグネポート",
-    "stage": 1,
-    "context": ""
+    "translation": "マグネポート"
   },
   {
+    "index": 29,
     "key": "MESPAK01_0000_0029",
     "original": "パレットポート",
-    "translation": "パレットポート",
-    "stage": 1,
-    "context": ""
+    "translation": "パレットポート"
   },
   {
+    "index": 30,
     "key": "MESPAK01_0000_0030",
     "original": "テイマーポート",
-    "translation": "テイマーポート",
-    "stage": 1,
-    "context": ""
+    "translation": "テイマーポート"
   },
   {
+    "index": 31,
     "key": "MESPAK01_0000_0031",
     "original": "レジスタポート",
-    "translation": "レジスタポート",
-    "stage": 1,
-    "context": ""
+    "translation": "レジスタポート"
   },
   {
+    "index": 32,
     "key": "MESPAK01_0000_0032",
     "original": "リミットポート",
-    "translation": "リミットポート",
-    "stage": 1,
-    "context": ""
+    "translation": "リミットポート"
   },
   {
+    "index": 33,
     "key": "MESPAK01_0000_0033",
     "original": "ピクセルポート",
-    "translation": "ピクセルポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ピクセルポート"
   },
   {
+    "index": 34,
     "key": "MESPAK01_0000_0034",
     "original": "シャドウポート",
-    "translation": "シャドウポート",
-    "stage": 1,
-    "context": ""
+    "translation": "シャドウポート"
   },
   {
+    "index": 35,
     "key": "MESPAK01_0000_0035",
     "original": "タスクポートＮ",
-    "translation": "タスクポートＮ",
-    "stage": 1,
-    "context": ""
+    "translation": "タスクポートＮ"
   },
   {
+    "index": 36,
     "key": "MESPAK01_0000_0036",
     "original": "タスクポートＳ",
-    "translation": "タスクポートＳ",
-    "stage": 1,
-    "context": ""
+    "translation": "タスクポートＳ"
   },
   {
+    "index": 37,
     "key": "MESPAK01_0000_0037",
     "original": "スリラーポートＥ",
-    "translation": "スリラーポートＥ",
-    "stage": 1,
-    "context": ""
+    "translation": "スリラーポートＥ"
   },
   {
+    "index": 38,
     "key": "MESPAK01_0000_0038",
     "original": "スリラーポートＷ",
-    "translation": "スリラーポートＷ",
-    "stage": 1,
-    "context": ""
+    "translation": "スリラーポートＷ"
   },
   {
+    "index": 39,
     "key": "MESPAK01_0000_0039",
     "original": "アクセスポートＳ",
-    "translation": "アクセスポートＳ",
-    "stage": 1,
-    "context": ""
+    "translation": "アクセスポートＳ"
   },
   {
+    "index": 40,
     "key": "MESPAK01_0000_0040",
     "original": "アクセスポートＮ",
-    "translation": "アクセスポートＮ",
-    "stage": 1,
-    "context": ""
+    "translation": "アクセスポートＮ"
   },
   {
+    "index": 41,
     "key": "MESPAK01_0000_0041",
     "original": "プロキシポートＷ",
-    "translation": "プロキシポートＷ",
-    "stage": 1,
-    "context": ""
+    "translation": "プロキシポートＷ"
   },
   {
+    "index": 42,
     "key": "MESPAK01_0000_0042",
     "original": "プロキシポートＥ",
-    "translation": "プロキシポートＥ",
-    "stage": 1,
-    "context": ""
+    "translation": "プロキシポートＥ"
   },
   {
+    "index": 43,
     "key": "MESPAK01_0000_0043",
     "original": "アングラポート",
-    "translation": "アングラポート",
-    "stage": 1,
-    "context": ""
+    "translation": "アングラポート"
   },
   {
+    "index": 44,
     "key": "MESPAK01_0000_0044",
     "original": "ウィザードポート",
-    "translation": "ウィザードポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ウィザードポート"
   },
   {
+    "index": 45,
     "key": "MESPAK01_0000_0045",
     "original": "セントラルポート",
-    "translation": "セントラルポート",
-    "stage": 1,
-    "context": ""
+    "translation": "セントラルポート"
   },
   {
+    "index": 46,
     "key": "MESPAK01_0000_0046",
     "original": "リスクポート",
-    "translation": "リスクポート",
-    "stage": 1,
-    "context": ""
+    "translation": "リスクポート"
   },
   {
+    "index": 47,
     "key": "MESPAK01_0000_0047",
     "original": "クロンポート",
-    "translation": "クロンポート",
-    "stage": 1,
-    "context": ""
+    "translation": "クロンポート"
   },
   {
+    "index": 48,
     "key": "MESPAK01_0000_0048",
     "original": "クラスポート",
-    "translation": "クラスポート",
-    "stage": 1,
-    "context": ""
+    "translation": "クラスポート"
   },
   {
+    "index": 49,
     "key": "MESPAK01_0000_0049",
     "original": "イーストポート",
-    "translation": "イーストポート",
-    "stage": 1,
-    "context": ""
+    "translation": "イーストポート"
   },
   {
+    "index": 50,
     "key": "MESPAK01_0000_0050",
     "original": "ウエストポート",
-    "translation": "ウエストポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ウエストポート"
   },
   {
+    "index": 51,
     "key": "MESPAK01_0000_0051",
     "original": "？？？",
-    "translation": "？？？",
-    "stage": 1,
-    "context": ""
+    "translation": "？？？"
   },
   {
+    "index": 52,
     "key": "MESPAK01_0000_0052",
     "original": "せいそくしゅるい",
-    "translation": "せいそくしゅるい",
-    "stage": 1,
-    "context": ""
+    "translation": "せいそくしゅるい"
   },
   {
+    "index": 53,
     "key": "MESPAK01_0000_0053",
     "original": "このポートに\nいどうしますか？",
-    "translation": "このポートに\nいどうしますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "このポートに\nいどうしますか？"
   },
   {
+    "index": 54,
     "key": "MESPAK01_0000_0054",
     "original": "はい　いどうします",
-    "translation": "はい　いどうします",
-    "stage": 1,
-    "context": ""
+    "translation": "はい　いどうします"
   },
   {
+    "index": 55,
     "key": "MESPAK01_0000_0055",
     "original": "いいえ　いどうしません",
-    "translation": "いいえ　いどうしません",
-    "stage": 1,
-    "context": ""
+    "translation": "いいえ　いどうしません"
   },
   {
+    "index": 56,
     "key": "MESPAK01_0000_0056",
     "original": "デジシップで\nどこに　いどうしますか？",
-    "translation": "デジシップで\nどこに　いどうしますか？",
-    "stage": 1,
-    "context": ""
+    "translation": "デジシップで\nどこに　いどうしますか？"
   }
 ]

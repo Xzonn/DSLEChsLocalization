@@ -1,16 +1,16 @@
 import os
 import shutil
 
-from nitrogfx.convert import NCER, NCGR, NCLR, img_to_ncgr, ncgr_to_img, nclr_to_imgpal
-from nitrogfx.ncer import OAM, Cell
-from PIL import Image
-
 from helper import (
   DIR_IMAGES_SPR_FILES,
   DIR_SPR_NCER,
   DIR_SPR_NCGR,
   DIR_TEMP_IMPORT,
+  DIR_UNPACKED_FILES,
 )
+from nitrogfx.convert import NCER, NCGR, NCLR, img_to_ncgr, ncgr_to_img, nclr_to_imgpal
+from nitrogfx.ncer import OAM, Cell
+from PIL import Image
 
 SPR_COUNT = 0x0BD1
 
@@ -31,9 +31,9 @@ for i in range(SPR_COUNT):
   if not os.path.exists(png_path):
     continue
 
-  ncgr: NCGR = NCGR.load_from(f"temp/unpacked/data/SPR_NCGR/{i:04d}.bin")
-  nclr: NCLR = NCLR.load_from(f"temp/unpacked/data/SPR_NCLR/{i:04d}.bin")
-  ncer: NCER = NCER.load_from(f"temp/unpacked/data/SPR_NCER/{i:04d}.bin")
+  ncgr: NCGR = NCGR.load_from(f"{DIR_UNPACKED_FILES}/data/SPR_NCGR/{i:04d}.bin")
+  nclr: NCLR = NCLR.load_from(f"{DIR_UNPACKED_FILES}/data/SPR_NCLR/{i:04d}.bin")
+  ncer: NCER = NCER.load_from(f"{DIR_UNPACKED_FILES}/data/SPR_NCER/{i:04d}.bin")
 
   old_image = ncgr_to_img(ncgr, nclr)
   new_image = old_image.convert("RGB")
@@ -85,6 +85,6 @@ for i in range(SPR_COUNT):
     new_ncgr = img_to_ncgr(image_converted, nclr.is8bpp)
     new_bytes = new_ncgr.pack()
     with open(f"{DIR_TEMP_IMPORT}/{DIR_SPR_NCGR}/{i:04d}.bin", "wb") as writer:
-      with open(f"temp/unpacked/data/SPR_NCGR/{i:04d}.bin", "rb") as reader:
+      with open(f"{DIR_UNPACKED_FILES}/data/SPR_NCGR/{i:04d}.bin", "rb") as reader:
         writer.write(reader.read(0x30))
       writer.write(new_bytes[0x30:])

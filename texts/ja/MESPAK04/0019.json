@@ -1,261 +1,315 @@
 [
   {
+    "index": 0,
     "key": "MESPAK04_0019_0000",
     "original": "きょうれつな\nこうせんを　うちだし\nこうげきする",
-    "translation": "きょうれつな\nこうせんを　うちだし\nこうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "きょうれつな\nこうせんを　うちだし\nこうげきする"
   },
   {
+    "index": 1,
     "key": "MESPAK04_0019_0001",
     "original": "するどいきれあじの　はねを\nなげつけて\nきりさく",
-    "translation": "するどいきれあじの　はねを\nなげつけて\nきりさく",
-    "stage": 1,
-    "context": ""
+    "translation": "するどいきれあじの　はねを\nなげつけて\nきりさく"
   },
   {
+    "index": 2,
     "key": "MESPAK04_0019_0002",
     "original": "もえさかる　ホノオのはねを\nうちだし\nこうげきする",
-    "translation": "もえさかる　ホノオのはねを\nうちだし\nこうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "もえさかる　ホノオのはねを\nうちだし\nこうげきする"
   },
   {
+    "index": 3,
     "key": "MESPAK04_0019_0003",
     "original": "ヤミのチカラが　こもった\nはげしい　すいりゅうで\nのみこむ　★どく",
-    "translation": "ヤミのチカラが　こもった\nはげしい　すいりゅうで\nのみこむ　★どく",
-    "stage": 1,
-    "context": ""
+    "translation": "ヤミのチカラが　こもった\nはげしい　すいりゅうで\nのみこむ　★どく"
   },
   {
+    "index": 4,
     "key": "MESPAK04_0019_0004",
     "original": "まえあしで　きりさいてから\nまいそうするようにじめんへ\nたたきつぶす　★どく",
-    "translation": "まえあしで　きりさいてから\nまいそうするようにじめんへ\nたたきつぶす　★どく",
-    "stage": 1,
-    "context": ""
+    "translation": "まえあしで　きりさいてから\nまいそうするようにじめんへ\nたたきつぶす　★どく"
   },
   {
+    "index": 5,
     "key": "MESPAK04_0019_0005",
     "original": "むすうの　ブレードを\nあめのように\nふりそそがせる",
-    "translation": "むすうの　ブレードを\nあめのように\nふりそそがせる",
-    "stage": 1,
-    "context": ""
+    "translation": "むすうの　ブレードを\nあめのように\nふりそそがせる"
   },
   {
+    "index": 6,
     "key": "MESPAK04_0019_0006",
     "original": "めにもとまらぬ　はやさで\nむすうの　パンチを\nはなつ",
-    "translation": "めにもとまらぬ　はやさで\nむすうの　パンチを\nはなつ",
-    "stage": 1,
-    "context": ""
+    "translation": "めにもとまらぬ　はやさで\nむすうの　パンチを\nはなつ"
   },
   {
+    "index": 7,
     "key": "MESPAK04_0019_0007",
     "original": "ふしぎなかたちの\nカタナで\nするどく　きりさく",
-    "translation": "ふしぎなかたちの\nカタナで\nするどく　きりさく",
-    "stage": 1,
-    "context": ""
+    "translation": "ふしぎなかたちの\nカタナで\nするどく　きりさく"
   },
   {
+    "index": 8,
     "key": "MESPAK04_0019_0008",
     "original": "にらみつけて　いっしゅんの\nうちに　すいしょうへ\nとじこめる　★ねむり",
-    "translation": "にらみつけて　いっしゅんの\nうちに　すいしょうへ\nとじこめる　★ねむり",
-    "stage": 1,
-    "context": ""
+    "translation": "にらみつけて　いっしゅんの\nうちに　すいしょうへ\nとじこめる　★ねむり"
   },
   {
+    "index": 9,
     "key": "MESPAK04_0019_0009",
     "original": "あやしいひとみで　みつめて\nとりこにしてしまう\n★こてい★こんらん",
-    "translation": "あやしいひとみで　みつめて\nとりこにしてしまう\n★こてい★こんらん",
-    "stage": 1,
-    "context": ""
+    "translation": "あやしいひとみで　みつめて\nとりこにしてしまう\n★こてい★こんらん"
   },
   {
+    "index": 10,
     "key": "MESPAK04_0019_0010",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 11,
     "key": "MESPAK04_0019_0011",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 12,
     "key": "MESPAK04_0019_0012",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 13,
     "key": "MESPAK04_0019_0013",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 14,
     "key": "MESPAK04_0019_0014",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 15,
     "key": "MESPAK04_0019_0015",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 16,
     "key": "MESPAK04_0019_0016",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 17,
     "key": "MESPAK04_0019_0017",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 18,
     "key": "MESPAK04_0019_0018",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 19,
     "key": "MESPAK04_0019_0019",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 20,
     "key": "MESPAK04_0019_0020",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 21,
     "key": "MESPAK04_0019_0021",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 22,
     "key": "MESPAK04_0019_0022",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 23,
     "key": "MESPAK04_0019_0023",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 24,
     "key": "MESPAK04_0019_0024",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 25,
     "key": "MESPAK04_0019_0025",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 26,
     "key": "MESPAK04_0019_0026",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 27,
     "key": "MESPAK04_0019_0027",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 28,
     "key": "MESPAK04_0019_0028",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 29,
     "key": "MESPAK04_0019_0029",
     "original": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ",
-    "stage": 1,
-    "context": ""
+    "translation": "わざヘルプ　みせってい\nボスてき　せんようわざ"
   },
   {
+    "index": 30,
+    "key": "MESPAK04_0019_0030",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５０４＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５０４＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "MESPAK04_0019_0031",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５０５＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５０５＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 32,
+    "key": "MESPAK04_0019_0032",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５０６＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５０６＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 33,
+    "key": "MESPAK04_0019_0033",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５０７＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５０７＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 34,
+    "key": "MESPAK04_0019_0034",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５０８＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５０８＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "MESPAK04_0019_0035",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５０９＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５０９＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 36,
+    "key": "MESPAK04_0019_0036",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５１０＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５１０＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 37,
+    "key": "MESPAK04_0019_0037",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５１１＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５１１＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "MESPAK04_0019_0038",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５１２＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５１２＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 39,
+    "key": "MESPAK04_0019_0039",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５１３＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５１３＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 40,
+    "key": "MESPAK04_0019_0040",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５１４＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５１４＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 41,
+    "key": "MESPAK04_0019_0041",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５１５＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５１５＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 42,
+    "key": "MESPAK04_0019_0042",
+    "original": "わざヘルプ　みせってい\nＷＡＺＡ５１６＿ＥＸＰＬ",
+    "translation": "わざヘルプ　みせってい\nＷＡＺＡ５１６＿ＥＸＰＬ",
+    "trash": true
+  },
+  {
+    "index": 43,
     "key": "MESPAK04_0019_0043",
     "original": "あおい　ホノオのたまを\nうちだして　こうげきする",
-    "translation": "あおい　ホノオのたまを\nうちだして　こうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "あおい　ホノオのたまを\nうちだして　こうげきする"
   },
   {
+    "index": 44,
     "key": "MESPAK04_0019_0044",
     "original": "くちから\nネツのアワをはいて\nこうげきする",
-    "translation": "くちから\nネツのアワをはいて\nこうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "くちから\nネツのアワをはいて\nこうげきする"
   },
   {
+    "index": 45,
     "key": "MESPAK04_0019_0045",
     "original": "くちから\nカタいアワをはいて\nこうげきする",
-    "translation": "くちから\nカタいアワをはいて\nこうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "くちから\nカタいアワをはいて\nこうげきする"
   },
   {
+    "index": 46,
     "key": "MESPAK04_0019_0046",
     "original": "くちから\nデンキのアワをはいて\nこうげきする",
-    "translation": "くちから\nデンキのアワをはいて\nこうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "くちから\nデンキのアワをはいて\nこうげきする"
   },
   {
+    "index": 47,
     "key": "MESPAK04_0019_0047",
     "original": "かみついて\nこうげきする",
-    "translation": "かみついて\nこうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "かみついて\nこうげきする"
   },
   {
+    "index": 48,
     "key": "MESPAK04_0019_0048",
     "original": "ちいさい　ヒカリのたまを\nうちだして　こうげきする",
-    "translation": "ちいさい　ヒカリのたまを\nうちだして　こうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "ちいさい　ヒカリのたまを\nうちだして　こうげきする"
   },
   {
+    "index": 49,
     "key": "MESPAK04_0019_0049",
     "original": "デンキのチカラで\nつくった　ハサミで\nせつだんする　★まひ",
-    "translation": "デンキのチカラで\nつくった　ハサミで\nせつだんする　★まひ",
-    "stage": 1,
-    "context": ""
+    "translation": "デンキのチカラで\nつくった　ハサミで\nせつだんする　★まひ"
   }
 ]

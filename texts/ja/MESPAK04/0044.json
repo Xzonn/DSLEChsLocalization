@@ -1,289 +1,248 @@
 [
   {
+    "index": 0,
     "key": "MESPAK04_0044_0000",
     "original": "『ＬＶ』１２以上",
-    "translation": "『ＬＶ』１２以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１２以上"
   },
   {
+    "index": 1,
     "key": "MESPAK04_0044_0001",
     "original": "『ＬＶ』１２以上",
-    "translation": "『ＬＶ』１２以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１２以上"
   },
   {
+    "index": 2,
     "key": "MESPAK04_0044_0002",
     "original": "『ＬＶ』１２以上",
-    "translation": "『ＬＶ』１２以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１２以上"
   },
   {
+    "index": 3,
     "key": "MESPAK04_0044_0003",
     "original": "『ＬＶ』１２以上",
-    "translation": "『ＬＶ』１２以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１２以上"
   },
   {
+    "index": 4,
     "key": "MESPAK04_0044_0004",
     "original": "『ＬＶ』１２以上",
-    "translation": "『ＬＶ』１２以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１２以上"
   },
   {
+    "index": 5,
     "key": "MESPAK04_0044_0005",
     "original": "『ＬＶ』１７以上\n『こうげきりょく』\n２００以上",
-    "translation": "『ＬＶ』１７以上\n『こうげきりょく』\n２００以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１７以上\n『こうげきりょく』\n２００以上"
   },
   {
+    "index": 6,
     "key": "MESPAK04_0044_0006",
     "original": "『ＬＶ』１７以上\n『すばやさ』\n１７０以上",
-    "translation": "『ＬＶ』１７以上\n『すばやさ』\n１７０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１７以上\n『すばやさ』\n１７０以上"
   },
   {
+    "index": 7,
     "key": "MESPAK04_0044_0007",
     "original": "『ＬＶ』１７以上\n『さいだいＭＰ』\n４５０以上",
-    "translation": "『ＬＶ』１７以上\n『さいだいＭＰ』\n４５０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１７以上\n『さいだいＭＰ』\n４５０以上"
   },
   {
+    "index": 8,
     "key": "MESPAK04_0044_0008",
     "original": "『ＬＶ』１７以上\n『こうげきりょく』\n２００以上",
-    "translation": "『ＬＶ』１７以上\n『こうげきりょく』\n２００以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１７以上\n『こうげきりょく』\n２００以上"
   },
   {
+    "index": 9,
     "key": "MESPAK04_0044_0009",
     "original": "『ＬＶ』１７以上\n『さいだいＨＰ』\n５００以上",
-    "translation": "『ＬＶ』１７以上\n『さいだいＨＰ』\n５００以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１７以上\n『さいだいＨＰ』\n５００以上"
   },
   {
+    "index": 10,
     "key": "MESPAK04_0044_0010",
     "original": "『ＬＶ』１７以上\n『ぼうぎょりょく』\n１７０以上",
-    "translation": "『ＬＶ』１７以上\n『ぼうぎょりょく』\n１７０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１７以上\n『ぼうぎょりょく』\n１７０以上"
   },
   {
+    "index": 11,
     "key": "MESPAK04_0044_0011",
     "original": "『ＬＶ』１７以上\n『すばやさ』\n１９０以上",
-    "translation": "『ＬＶ』１７以上\n『すばやさ』\n１９０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１７以上\n『すばやさ』\n１９０以上"
   },
   {
+    "index": 12,
     "key": "MESPAK04_0044_0012",
     "original": "『ＬＶ』１７以上\n『ぼうぎょりょく』\n１６０以上",
-    "translation": "『ＬＶ』１７以上\n『ぼうぎょりょく』\n１６０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１７以上\n『ぼうぎょりょく』\n１６０以上"
   },
   {
+    "index": 13,
     "key": "MESPAK04_0044_0013",
     "original": "『ＬＶ』１７以上\n『さいだいＭＰ』\n４９０以上",
-    "translation": "『ＬＶ』１７以上\n『さいだいＭＰ』\n４９０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』１７以上\n『さいだいＭＰ』\n４９０以上"
   },
   {
+    "index": 14,
     "key": "MESPAK04_0044_0014",
     "original": "『ＬＶ』２２以上\n『ぼうぎょりょく』\n１９０以上",
-    "translation": "『ＬＶ』２２以上\n『ぼうぎょりょく』\n１９０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２２以上\n『ぼうぎょりょく』\n１９０以上"
   },
   {
+    "index": 15,
     "key": "MESPAK04_0044_0015",
     "original": "『ＬＶ』２２以上\n『こうげきりょく』\n２３０以上",
-    "translation": "『ＬＶ』２２以上\n『こうげきりょく』\n２３０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２２以上\n『こうげきりょく』\n２３０以上"
   },
   {
+    "index": 16,
     "key": "MESPAK04_0044_0016",
     "original": "『ＬＶ』２２以上\n『すばやさ』\n２５０以上",
-    "translation": "『ＬＶ』２２以上\n『すばやさ』\n２５０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２２以上\n『すばやさ』\n２５０以上"
   },
   {
+    "index": 17,
     "key": "MESPAK04_0044_0017",
     "original": "『ＬＶ』２２以上\n『さいだいＭＰ』\n６８０以上",
-    "translation": "『ＬＶ』２２以上\n『さいだいＭＰ』\n６８０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２２以上\n『さいだいＭＰ』\n６８０以上"
   },
   {
+    "index": 18,
     "key": "MESPAK04_0044_0018",
     "original": "『ＬＶ』２２以上\n『ぼうぎょりょく』\n２２０以上",
-    "translation": "『ＬＶ』２２以上\n『ぼうぎょりょく』\n２２０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２２以上\n『ぼうぎょりょく』\n２２０以上"
   },
   {
+    "index": 19,
     "key": "MESPAK04_0044_0019",
     "original": "『ＬＶ』２２以上\n『さいだいＨＰ』\n７３０以上",
-    "translation": "『ＬＶ』２２以上\n『さいだいＨＰ』\n７３０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２２以上\n『さいだいＨＰ』\n７３０以上"
   },
   {
+    "index": 20,
     "key": "MESPAK04_0044_0020",
     "original": "『ＬＶ』２２以上\n『さいだいＭＰ』\n６４０以上",
-    "translation": "『ＬＶ』２２以上\n『さいだいＭＰ』\n６４０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２２以上\n『さいだいＭＰ』\n６４０以上"
   },
   {
+    "index": 21,
     "key": "MESPAK04_0044_0021",
     "original": "『ＬＶ』２２以上\n『こうげきりょく』\n１９０以上",
-    "translation": "『ＬＶ』２２以上\n『こうげきりょく』\n１９０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２２以上\n『こうげきりょく』\n１９０以上"
   },
   {
+    "index": 22,
     "key": "MESPAK04_0044_0022",
     "original": "『ＬＶ』２２以上\n『さいだいＨＰ』\n７１０以上",
-    "translation": "『ＬＶ』２２以上\n『さいだいＨＰ』\n７１０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２２以上\n『さいだいＨＰ』\n７１０以上"
   },
   {
+    "index": 23,
     "key": "MESPAK04_0044_0023",
     "original": "『ＬＶ』３０以上\n『こうげきりょく』\n３２０以上",
-    "translation": "『ＬＶ』３０以上\n『こうげきりょく』\n３２０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』３０以上\n『こうげきりょく』\n３２０以上"
   },
   {
+    "index": 24,
     "key": "MESPAK04_0044_0024",
     "original": "『ＬＶ』３０以上\n『すばやさ』\n２１０以上",
-    "translation": "『ＬＶ』３０以上\n『すばやさ』\n２１０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』３０以上\n『すばやさ』\n２１０以上"
   },
   {
+    "index": 25,
     "key": "MESPAK04_0044_0025",
     "original": "『ＬＶ』３３以上\n『すばやさ』\n３００以上",
-    "translation": "『ＬＶ』３３以上\n『すばやさ』\n３００以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』３３以上\n『すばやさ』\n３００以上"
   },
   {
+    "index": 26,
     "key": "MESPAK04_0044_0026",
     "original": "『ＬＶ』３０以上\n『さいだいＭＰ』\n６３０以上",
-    "translation": "『ＬＶ』３０以上\n『さいだいＭＰ』\n６３０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』３０以上\n『さいだいＭＰ』\n６３０以上"
   },
   {
+    "index": 27,
     "key": "MESPAK04_0044_0027",
     "original": "『ＬＶ』３６以上\n『ぼうぎょりょく』\n３３０以上",
-    "translation": "『ＬＶ』３６以上\n『ぼうぎょりょく』\n３３０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』３６以上\n『ぼうぎょりょく』\n３３０以上"
   },
   {
+    "index": 28,
     "key": "MESPAK04_0044_0028",
     "original": "『ＬＶ』３０以上\n『さいだいＨＰ』\n７７０以上",
-    "translation": "『ＬＶ』３０以上\n『さいだいＨＰ』\n７７０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』３０以上\n『さいだいＨＰ』\n７７０以上"
   },
   {
+    "index": 29,
     "key": "MESPAK04_0044_0029",
     "original": "『ＬＶ』２７以上\n『ぼうぎょりょく』\n２１０以上",
-    "translation": "『ＬＶ』２７以上\n『ぼうぎょりょく』\n２１０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２７以上\n『ぼうぎょりょく』\n２１０以上"
   },
   {
+    "index": 30,
     "key": "MESPAK04_0044_0030",
     "original": "『ＬＶ』３０以上\n『こうげきりょく』\n３３０以上",
-    "translation": "『ＬＶ』３０以上\n『こうげきりょく』\n３３０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』３０以上\n『こうげきりょく』\n３３０以上"
   },
   {
+    "index": 31,
     "key": "MESPAK04_0044_0031",
     "original": "『ＬＶ』３０以上\n『こうげきりょく』\n２９０以上",
-    "translation": "『ＬＶ』３０以上\n『こうげきりょく』\n２９０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』３０以上\n『こうげきりょく』\n２９０以上"
   },
   {
+    "index": 32,
     "key": "MESPAK04_0044_0032",
     "original": "『ＬＶ』３３以上\n『ぼうぎょりょく』\n３００以上",
-    "translation": "『ＬＶ』３３以上\n『ぼうぎょりょく』\n３００以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』３３以上\n『ぼうぎょりょく』\n３００以上"
   },
   {
+    "index": 33,
     "key": "MESPAK04_0044_0033",
     "original": "『ＬＶ』２５以上\n『さいだいＭＰ』\n７５０以上",
-    "translation": "『ＬＶ』２５以上\n『さいだいＭＰ』\n７５０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２５以上\n『さいだいＭＰ』\n７５０以上"
   },
   {
+    "index": 34,
     "key": "MESPAK04_0044_0034",
     "original": "『ＬＶ』２５以上\n『さいだいＨＰ』\n５９０以上",
-    "translation": "『ＬＶ』２５以上\n『さいだいＨＰ』\n５９０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２５以上\n『さいだいＨＰ』\n５９０以上"
   },
   {
+    "index": 35,
     "key": "MESPAK04_0044_0035",
     "original": "『ＬＶ』２７以上\n『さいだいＨＰ』\n８００以上",
-    "translation": "『ＬＶ』２７以上\n『さいだいＨＰ』\n８００以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２７以上\n『さいだいＨＰ』\n８００以上"
   },
   {
+    "index": 36,
     "key": "MESPAK04_0044_0036",
     "original": "『ＬＶ』２７以上\n『こうげきりょく』\n３４０以上",
-    "translation": "『ＬＶ』２７以上\n『こうげきりょく』\n３４０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２７以上\n『こうげきりょく』\n３４０以上"
   },
   {
+    "index": 37,
     "key": "MESPAK04_0044_0037",
     "original": "『ＬＶ』３０以上\n『すばやさ』\n３００以上",
-    "translation": "『ＬＶ』３０以上\n『すばやさ』\n３００以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』３０以上\n『すばやさ』\n３００以上"
   },
   {
+    "index": 38,
     "key": "MESPAK04_0044_0038",
     "original": "『ＬＶ』２５以上\n『すばやさ』\n３２０以上",
-    "translation": "『ＬＶ』２５以上\n『すばやさ』\n３２０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２５以上\n『すばやさ』\n３２０以上"
   },
   {
+    "index": 39,
     "key": "MESPAK04_0044_0039",
     "original": "『ＬＶ』２５以上\n『ぼうぎょりょく』\n２７０以上",
-    "translation": "『ＬＶ』２５以上\n『ぼうぎょりょく』\n２７０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』２５以上\n『ぼうぎょりょく』\n２７０以上"
   },
   {
+    "index": 40,
     "key": "MESPAK04_0044_0040",
     "original": "『ＬＶ』３０以上\n『さいだいＭＰ』\n７９０以上",
-    "translation": "『ＬＶ』３０以上\n『さいだいＭＰ』\n７９０以上",
-    "stage": 1,
-    "context": ""
+    "translation": "『ＬＶ』３０以上\n『さいだいＭＰ』\n７９０以上"
   }
 ]

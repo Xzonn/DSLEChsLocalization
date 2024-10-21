@@ -11,8 +11,6 @@ from helper import (
 )
 from pypinyin import lazy_pinyin
 
-LANGUAGE = os.getenv("XZ_LANGUAGE") or "zh_Hans"
-
 
 def generate_cp932(used_kanjis: set[str]):
   for high in range(0x88, 0xA0):
@@ -54,7 +52,7 @@ def generate_char_table(old_char_table: dict[str, str], json_root: str) -> dict[
 if __name__ == "__main__":
   with open(OLD_CHAR_TABLE_PATH, "r", -1, "utf8") as reader:
     old_char_table = json.load(reader)
-  char_table = generate_char_table(old_char_table, f"{DIR_TEXT_FILES}/{LANGUAGE}")
+  char_table = generate_char_table(old_char_table, f"{DIR_TEXT_FILES}/zh_Hans")
   os.makedirs(os.path.dirname(CHAR_TABLE_PATH), exist_ok=True)
   with open(CHAR_TABLE_PATH, "w", -1, "utf8") as writer:
     json.dump(char_table, writer, ensure_ascii=False, indent=2)

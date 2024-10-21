@@ -1,352 +1,302 @@
 [
   {
+    "index": 0,
     "key": "MESPAK04_0037_0000",
     "original": "αとβをあわせて　ひとつになる\nＳグレイモンＢＭのデジプレート",
-    "translation": "αとβをあわせて　ひとつになる\nＳグレイモンＢＭのデジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "αとβをあわせて　ひとつになる\nＳグレイモンＢＭのデジプレート"
   },
   {
+    "index": 1,
     "key": "MESPAK04_0037_0001",
     "original": "αとβをあわせて　ひとつになる\nＭガオガモンＢＭのデジプレート",
-    "translation": "αとβをあわせて　ひとつになる\nＭガオガモンＢＭのデジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "αとβをあわせて　ひとつになる\nＭガオガモンＢＭのデジプレート"
   },
   {
+    "index": 2,
     "key": "MESPAK04_0037_0002",
     "original": "αとβをあわせて　ひとつになる\nＭガオガモンＢＭのデジプレート",
-    "translation": "αとβをあわせて　ひとつになる\nＭガオガモンＢＭのデジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "αとβをあわせて　ひとつになる\nＭガオガモンＢＭのデジプレート"
   },
   {
+    "index": 3,
     "key": "MESPAK04_0037_0003",
     "original": "レイヴモンＢＭのデジプレート\n",
-    "translation": "レイヴモンＢＭのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "レイヴモンＢＭのデジプレート\n"
   },
   {
+    "index": 4,
     "key": "MESPAK04_0037_0004",
     "original": "αとβをあわせて　ひとつになる\nベルゼブモンＢＭのデジプレート",
-    "translation": "αとβをあわせて　ひとつになる\nベルゼブモンＢＭのデジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "αとβをあわせて　ひとつになる\nベルゼブモンＢＭのデジプレート"
   },
   {
+    "index": 5,
     "key": "MESPAK04_0037_0005",
     "original": "αとβをあわせて　ひとつになる\nベルゼブモンＢＭのデジプレート",
-    "translation": "αとβをあわせて　ひとつになる\nベルゼブモンＢＭのデジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "αとβをあわせて　ひとつになる\nベルゼブモンＢＭのデジプレート"
   },
   {
+    "index": 6,
     "key": "MESPAK04_0037_0006",
     "original": "ロゼモンＢＭのデジプレート\n",
-    "translation": "ロゼモンＢＭのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "ロゼモンＢＭのデジプレート\n"
   },
   {
+    "index": 7,
     "key": "MESPAK04_0037_0007",
     "original": "αとβをあわせて　ひとつになる\nカオスモンのデジプレート",
-    "translation": "αとβをあわせて　ひとつになる\nカオスモンのデジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "αとβをあわせて　ひとつになる\nカオスモンのデジプレート"
   },
   {
+    "index": 8,
     "key": "MESPAK04_0037_0008",
     "original": "αとβをあわせて　ひとつになる\nカオスモンのデジプレート",
-    "translation": "αとβをあわせて　ひとつになる\nカオスモンのデジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "αとβをあわせて　ひとつになる\nカオスモンのデジプレート"
   },
   {
+    "index": 9,
     "key": "MESPAK04_0037_0009",
     "original": "αとβをあわせて　ひとつになる\nチンロンモンのデジプレート",
-    "translation": "αとβをあわせて　ひとつになる\nチンロンモンのデジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "αとβをあわせて　ひとつになる\nチンロンモンのデジプレート"
   },
   {
+    "index": 10,
     "key": "MESPAK04_0037_0010",
     "original": "αとβをあわせて　ひとつになる\nチンロンモンのデジプレート",
-    "translation": "αとβをあわせて　ひとつになる\nチンロンモンのデジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "αとβをあわせて　ひとつになる\nチンロンモンのデジプレート"
   },
   {
+    "index": 11,
     "key": "MESPAK04_0037_0011",
     "original": "バイフーモンのデジプレート\n",
-    "translation": "バイフーモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "バイフーモンのデジプレート\n"
   },
   {
+    "index": 12,
     "key": "MESPAK04_0037_0012",
     "original": "スーツェーモンのデジプレート\n",
-    "translation": "スーツェーモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "スーツェーモンのデジプレート\n"
   },
   {
+    "index": 13,
     "key": "MESPAK04_0037_0013",
     "original": "αとβをあわせて　ひとつになる\nシェンウーモンのデジプレート",
-    "translation": "αとβをあわせて　ひとつになる\nシェンウーモンのデジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "αとβをあわせて　ひとつになる\nシェンウーモンのデジプレート"
   },
   {
+    "index": 14,
     "key": "MESPAK04_0037_0014",
     "original": "αとβをあわせて　ひとつになる\nシェンウーモンのデジプレート",
-    "translation": "αとβをあわせて　ひとつになる\nシェンウーモンのデジプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "αとβをあわせて　ひとつになる\nシェンウーモンのデジプレート"
   },
   {
+    "index": 15,
     "key": "MESPAK04_0037_0015",
     "original": "イージスドラモンのデジプレート\n",
-    "translation": "イージスドラモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "イージスドラモンのデジプレート\n"
   },
   {
+    "index": 16,
     "key": "MESPAK04_0037_0016",
     "original": "きせきのデジメンタルのプレート",
-    "translation": "きせきのデジメンタルのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "きせきのデジメンタルのプレート"
   },
   {
+    "index": 17,
     "key": "MESPAK04_0037_0017",
     "original": "ゆうじょうのデジメンタルのプレート",
-    "translation": "ゆうじょうのデジメンタルのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "ゆうじょうのデジメンタルのプレート"
   },
   {
+    "index": 18,
     "key": "MESPAK04_0037_0018",
     "original": "ゆうきのデジメンタルのプレート１",
-    "translation": "ゆうきのデジメンタルのプレート１",
-    "stage": 1,
-    "context": ""
+    "translation": "ゆうきのデジメンタルのプレート１"
   },
   {
+    "index": 19,
     "key": "MESPAK04_0037_0019",
     "original": "ゆうきのデジメンタルのプレート２",
-    "translation": "ゆうきのデジメンタルのプレート２",
-    "stage": 1,
-    "context": ""
+    "translation": "ゆうきのデジメンタルのプレート２"
   },
   {
+    "index": 20,
     "key": "MESPAK04_0037_0020",
     "original": "やさしさのデジメンタルのプレート",
-    "translation": "やさしさのデジメンタルのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "やさしさのデジメンタルのプレート"
   },
   {
+    "index": 21,
     "key": "MESPAK04_0037_0021",
     "original": "じゅんしんのデジメンタルのプレート",
-    "translation": "じゅんしんのデジメンタルのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "じゅんしんのデジメンタルのプレート"
   },
   {
+    "index": 22,
     "key": "MESPAK04_0037_0022",
     "original": "かぜのスピリットのプレート",
-    "translation": "かぜのスピリットのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "かぜのスピリットのプレート"
   },
   {
+    "index": 23,
     "key": "MESPAK04_0037_0023",
     "original": "ひかりのスピリットのプレート",
-    "translation": "ひかりのスピリットのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "ひかりのスピリットのプレート"
   },
   {
+    "index": 24,
     "key": "MESPAK04_0037_0024",
     "original": "こおりのスピリットのプレート",
-    "translation": "こおりのスピリットのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "こおりのスピリットのプレート"
   },
   {
+    "index": 25,
     "key": "MESPAK04_0037_0025",
     "original": "ひのスピリットのプレート",
-    "translation": "ひのスピリットのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "ひのスピリットのプレート"
   },
   {
+    "index": 26,
     "key": "MESPAK04_0037_0026",
     "original": "みずのスピリットのプレート",
-    "translation": "みずのスピリットのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "みずのスピリットのプレート"
   },
   {
+    "index": 27,
     "key": "MESPAK04_0037_0027",
     "original": "はがねのスピリットのプレート",
-    "translation": "はがねのスピリットのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "はがねのスピリットのプレート"
   },
   {
+    "index": 28,
     "key": "MESPAK04_0037_0028",
     "original": "やみのスピリットのプレート",
-    "translation": "やみのスピリットのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "やみのスピリットのプレート"
   },
   {
+    "index": 29,
     "key": "MESPAK04_0037_0029",
     "original": "きのスピリットのプレート",
-    "translation": "きのスピリットのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "きのスピリットのプレート"
   },
   {
+    "index": 30,
     "key": "MESPAK04_0037_0030",
     "original": "かみなりのスピリットのプレート",
-    "translation": "かみなりのスピリットのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "かみなりのスピリットのプレート"
   },
   {
+    "index": 31,
     "key": "MESPAK04_0037_0031",
     "original": "つちのスピリットのプレート",
-    "translation": "つちのスピリットのプレート",
-    "stage": 1,
-    "context": ""
+    "translation": "つちのスピリットのプレート"
   },
   {
+    "index": 32,
     "key": "MESPAK04_0037_0032",
     "original": "シャッコウモンツリーのワーププレート１",
-    "translation": "シャッコウモンツリーのワーププレート１",
-    "stage": 1,
-    "context": ""
+    "translation": "シャッコウモンツリーのワーププレート１"
   },
   {
+    "index": 33,
     "key": "MESPAK04_0037_0033",
     "original": "シャッコウモンツリーのワーププレート２",
-    "translation": "シャッコウモンツリーのワーププレート２",
-    "stage": 1,
-    "context": ""
+    "translation": "シャッコウモンツリーのワーププレート２"
   },
   {
+    "index": 34,
     "key": "MESPAK04_0037_0034",
     "original": "ルーチェモンＦＭツリーのワーププレート１",
-    "translation": "ルーチェモンＦＭツリーのワーププレート１",
-    "stage": 1,
-    "context": ""
+    "translation": "ルーチェモンＦＭツリーのワーププレート１"
   },
   {
+    "index": 35,
     "key": "MESPAK04_0037_0035",
     "original": "ルーチェモンＦＭツリーのワーププレート２",
-    "translation": "ルーチェモンＦＭツリーのワーププレート２",
-    "stage": 1,
-    "context": ""
+    "translation": "ルーチェモンＦＭツリーのワーププレート２"
   },
   {
+    "index": 36,
     "key": "MESPAK04_0037_0036",
     "original": "キメラモンツリーのワーププレート１",
-    "translation": "キメラモンツリーのワーププレート１",
-    "stage": 1,
-    "context": ""
+    "translation": "キメラモンツリーのワーププレート１"
   },
   {
+    "index": 37,
     "key": "MESPAK04_0037_0037",
     "original": "キメラモンツリーのワーププレート２",
-    "translation": "キメラモンツリーのワーププレート２",
-    "stage": 1,
-    "context": ""
+    "translation": "キメラモンツリーのワーププレート２"
   },
   {
+    "index": 38,
     "key": "MESPAK04_0037_0038",
     "original": "パイルドラモンツリーのワーププレート１",
-    "translation": "パイルドラモンツリーのワーププレート１",
-    "stage": 1,
-    "context": ""
+    "translation": "パイルドラモンツリーのワーププレート１"
   },
   {
+    "index": 39,
     "key": "MESPAK04_0037_0039",
     "original": "パイルドラモンツリーのワーププレート２",
-    "translation": "パイルドラモンツリーのワーププレート２",
-    "stage": 1,
-    "context": ""
+    "translation": "パイルドラモンツリーのワーププレート２"
   },
   {
+    "index": 40,
     "key": "MESPAK04_0037_0040",
     "original": "シルフィーモンツリーのワーププレート１",
-    "translation": "シルフィーモンツリーのワーププレート１",
-    "stage": 1,
-    "context": ""
+    "translation": "シルフィーモンツリーのワーププレート１"
   },
   {
+    "index": 41,
     "key": "MESPAK04_0037_0041",
     "original": "シルフィーモンツリーのワーププレート２",
-    "translation": "シルフィーモンツリーのワーププレート２",
-    "stage": 1,
-    "context": ""
+    "translation": "シルフィーモンツリーのワーププレート２"
   },
   {
+    "index": 42,
     "key": "MESPAK04_0037_0042",
     "original": "ピコデビモンツリーのワーププレート１",
-    "translation": "ピコデビモンツリーのワーププレート１",
-    "stage": 1,
-    "context": ""
+    "translation": "ピコデビモンツリーのワーププレート１"
   },
   {
+    "index": 43,
     "key": "MESPAK04_0037_0043",
     "original": "ピコデビモンツリーのワーププレート２",
-    "translation": "ピコデビモンツリーのワーププレート２",
-    "stage": 1,
-    "context": ""
+    "translation": "ピコデビモンツリーのワーププレート２"
   },
   {
+    "index": 44,
     "key": "MESPAK04_0037_0044",
     "original": "パタモンツリーのワーププレート１",
-    "translation": "パタモンツリーのワーププレート１",
-    "stage": 1,
-    "context": ""
+    "translation": "パタモンツリーのワーププレート１"
   },
   {
+    "index": 45,
     "key": "MESPAK04_0037_0045",
     "original": "パタモンツリーのワーププレート２",
-    "translation": "パタモンツリーのワーププレート２",
-    "stage": 1,
-    "context": ""
+    "translation": "パタモンツリーのワーププレート２"
   },
   {
+    "index": 46,
     "key": "MESPAK04_0037_0046",
     "original": "テントモンツリーのワーププレート",
-    "translation": "テントモンツリーのワーププレート",
-    "stage": 1,
-    "context": ""
+    "translation": "テントモンツリーのワーププレート"
   },
   {
+    "index": 47,
     "key": "MESPAK04_0037_0047",
     "original": "テリアモンツリーのワーププレート",
-    "translation": "テリアモンツリーのワーププレート",
-    "stage": 1,
-    "context": ""
+    "translation": "テリアモンツリーのワーププレート"
   },
   {
+    "index": 48,
     "key": "MESPAK04_0037_0048",
     "original": "ブイモンツリーのワーププレート",
-    "translation": "ブイモンツリーのワーププレート",
-    "stage": 1,
-    "context": ""
+    "translation": "ブイモンツリーのワーププレート"
   },
   {
+    "index": 49,
     "key": "MESPAK04_0037_0049",
     "original": "ワームモンツリーのワーププレート",
-    "translation": "ワームモンツリーのワーププレート",
-    "stage": 1,
-    "context": ""
+    "translation": "ワームモンツリーのワーププレート"
   }
 ]

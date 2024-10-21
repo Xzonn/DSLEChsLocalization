@@ -1,7 +1,7 @@
 import os
 import struct
 
-from helper import DIR_ORIGINAL_FILES, DIR_OUT, DIR_TEMP_IMPORT
+from helper import DIR_ORIGINAL_FILES, DIR_OUT, DIR_TEMP_IMPORT, DIR_TEMP_OUT
 
 
 def repack_pak(original_path: str, input_path: str, output_path: str):
@@ -49,4 +49,4 @@ def repack_pak_in_folder(original_files_root: str, input_files_root: str, output
 
 
 if __name__ == "__main__":
-  repack_pak_in_folder(DIR_ORIGINAL_FILES, DIR_TEMP_IMPORT, DIR_OUT)
+  repack_pak_in_folder(DIR_ORIGINAL_FILES, DIR_TEMP_IMPORT, DIR_TEMP_OUT)

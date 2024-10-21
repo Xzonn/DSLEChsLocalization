@@ -358,6 +358,6 @@ class NFTR:
 
 
 if __name__ == "__main__":
-  nftr = NFTR("temp/unpacked/data/FONT_NFTR/0004.bin")
-  with open("temp/unpacked/data/FONT_NFTR/0004_new.nftr", "wb") as writer:
+  nftr = NFTR("unpacked/data/FONT_NFTR/0004.bin")
+  with open("unpacked/data/FONT_NFTR/0004_new.nftr", "wb") as writer:
     writer.write(nftr.get_bytes())

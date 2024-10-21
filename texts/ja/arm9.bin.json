@@ -1,149 +1,149 @@
 [
   {
+    "offset": 1414580,
     "key": "offset_001595b4",
     "original": "こうげきりょく",
     "translation": "こうげきりょく",
-    "stage": 1,
-    "context": ""
+    "max_length": 15
   },
   {
+    "offset": 1414596,
     "key": "offset_001595c4",
     "original": "ぼうぎょりょく",
     "translation": "ぼうぎょりょく",
-    "stage": 1,
-    "context": ""
+    "max_length": 15
   },
   {
+    "offset": 1414612,
     "key": "offset_001595d4",
     "original": "すばやさ",
     "translation": "すばやさ",
-    "stage": 1,
-    "context": ""
+    "max_length": 11
   },
   {
+    "offset": 1414624,
     "key": "offset_001595e0",
     "original": "ゆうじょう",
     "translation": "ゆうじょう",
-    "stage": 1,
-    "context": ""
+    "max_length": 11
   },
   {
+    "offset": 1414636,
     "key": "offset_001595ec",
     "original": "あたらしいワザをおぼえた！",
     "translation": "あたらしいワザをおぼえた！",
-    "stage": 1,
-    "context": ""
+    "max_length": 27
   },
   {
+    "offset": 1419996,
     "key": "offset_0015aadc",
     "original": "すべてのデジモン",
     "translation": "すべてのデジモン",
-    "stage": 1,
-    "context": ""
+    "max_length": 19
   },
   {
+    "offset": 1420016,
     "key": "offset_0015aaf0",
     "original": "？",
     "translation": "？",
-    "stage": 1,
-    "context": ""
+    "max_length": 3
   },
   {
+    "offset": 1420020,
     "key": "offset_0015aaf4",
     "original": "エラー",
     "translation": "エラー",
-    "stage": 1,
-    "context": ""
+    "max_length": 7
   },
   {
+    "offset": 1420027,
     "key": "offset_0015aafb",
     "original": "みとうろく",
     "translation": "みとうろく",
-    "stage": 1,
-    "context": ""
+    "max_length": 11
   },
   {
+    "offset": 1421176,
     "key": "offset_0015af78",
     "original": "だい%dファイル",
     "translation": "だい%dファイル",
-    "stage": 1,
-    "context": ""
+    "max_length": 15
   },
   {
+    "offset": 1421604,
     "key": "offset_0015b124",
     "original": "こうげきりょく",
     "translation": "こうげきりょく",
-    "stage": 1,
-    "context": ""
+    "max_length": 15
   },
   {
+    "offset": 1421620,
     "key": "offset_0015b134",
     "original": "ぼうぎょりょく",
     "translation": "ぼうぎょりょく",
-    "stage": 1,
-    "context": ""
+    "max_length": 15
   },
   {
+    "offset": 1421636,
     "key": "offset_0015b144",
     "original": "すばやさ",
     "translation": "すばやさ",
-    "stage": 1,
-    "context": ""
+    "max_length": 11
   },
   {
+    "offset": 1421648,
     "key": "offset_0015b150",
     "original": "さいのう",
     "translation": "さいのう",
-    "stage": 1,
-    "context": ""
+    "max_length": 11
   },
   {
+    "offset": 1421660,
     "key": "offset_0015b15c",
     "original": "さいだいレベル",
     "translation": "さいだいレベル",
-    "stage": 1,
-    "context": ""
+    "max_length": 15
   },
   {
+    "offset": 1421676,
     "key": "offset_0015b16c",
     "original": "%s／%s",
     "translation": "%s／%s",
-    "stage": 1,
-    "context": ""
+    "max_length": 7
   },
   {
+    "offset": 1421684,
     "key": "offset_0015b174",
     "original": "こうげきりょく",
     "translation": "こうげきりょく",
-    "stage": 1,
-    "context": ""
+    "max_length": 15
   },
   {
+    "offset": 1421700,
     "key": "offset_0015b184",
     "original": "ぼうぎょりょく",
     "translation": "ぼうぎょりょく",
-    "stage": 1,
-    "context": ""
+    "max_length": 15
   },
   {
+    "offset": 1421716,
     "key": "offset_0015b194",
     "original": "すばやさ",
     "translation": "すばやさ",
-    "stage": 1,
-    "context": ""
+    "max_length": 11
   },
   {
+    "offset": 1421728,
     "key": "offset_0015b1a0",
     "original": "ゆうじょう",
     "translation": "ゆうじょう",
-    "stage": 1,
-    "context": ""
+    "max_length": 11
   },
   {
+    "offset": 1421740,
     "key": "offset_0015b1ac",
     "original": "タイプ",
     "translation": "タイプ",
-    "stage": 1,
-    "context": ""
+    "max_length": 7
   }
 ]

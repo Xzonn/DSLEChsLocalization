@@ -1,44 +1,38 @@
 [
   {
+    "index": 0,
     "key": "MESPAK05_0009_0000",
     "original": "さいだいＨＰが　あがった！\n^6　→　^7",
-    "translation": "さいだいＨＰが　あがった！\n^6　→　^7",
-    "stage": 1,
-    "context": ""
+    "translation": "さいだいＨＰが　あがった！\n^6　→　^7"
   },
   {
+    "index": 1,
     "key": "MESPAK05_0009_0001",
     "original": "さいだいＭＰが　あがった！\n^6　→　^7",
-    "translation": "さいだいＭＰが　あがった！\n^6　→　^7",
-    "stage": 1,
-    "context": ""
+    "translation": "さいだいＭＰが　あがった！\n^6　→　^7"
   },
   {
+    "index": 2,
     "key": "MESPAK05_0009_0002",
     "original": "こうげきりょくが　あがった！\n^6　→　^7",
-    "translation": "こうげきりょくが　あがった！\n^6　→　^7",
-    "stage": 1,
-    "context": ""
+    "translation": "こうげきりょくが　あがった！\n^6　→　^7"
   },
   {
+    "index": 3,
     "key": "MESPAK05_0009_0003",
     "original": "ぼうぎょりょくが　あがった！\n^6　→　^7",
-    "translation": "ぼうぎょりょくが　あがった！\n^6　→　^7",
-    "stage": 1,
-    "context": ""
+    "translation": "ぼうぎょりょくが　あがった！\n^6　→　^7"
   },
   {
+    "index": 4,
     "key": "MESPAK05_0009_0004",
     "original": "すばやさが　あがった！\n^6　→　^7",
-    "translation": "すばやさが　あがった！\n^6　→　^7",
-    "stage": 1,
-    "context": ""
+    "translation": "すばやさが　あがった！\n^6　→　^7"
   },
   {
+    "index": 5,
     "key": "MESPAK05_0009_0005",
     "original": "ゆうじょうが　あがった！\n^6　→　^7",
-    "translation": "ゆうじょうが　あがった！\n^6　→　^7",
-    "stage": 1,
-    "context": ""
+    "translation": "ゆうじょうが　あがった！\n^6　→　^7"
   }
 ]

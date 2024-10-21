@@ -1,555 +1,476 @@
 [
   {
+    "index": 0,
     "key": "MESPAK01_0003_0000",
     "original": "デジポート",
-    "translation": "デジポート",
-    "stage": 1,
-    "context": ""
+    "translation": "デジポート"
   },
   {
+    "index": 1,
     "key": "MESPAK01_0003_0001",
     "original": "マザボたいりく",
-    "translation": "マザボたいりく",
-    "stage": 1,
-    "context": ""
+    "translation": "マザボたいりく"
   },
   {
+    "index": 2,
     "key": "MESPAK01_0003_0002",
     "original": "グラボたいりく",
-    "translation": "グラボたいりく",
-    "stage": 1,
-    "context": ""
+    "translation": "グラボたいりく"
   },
   {
+    "index": 3,
     "key": "MESPAK01_0003_0003",
     "original": "ヘリテージみさき",
-    "translation": "ヘリテージみさき",
-    "stage": 1,
-    "context": ""
+    "translation": "ヘリテージみさき"
   },
   {
+    "index": 4,
     "key": "MESPAK01_0003_0004",
     "original": "パッチプレーリー",
-    "translation": "パッチプレーリー",
-    "stage": 1,
-    "context": ""
+    "translation": "パッチプレーリー"
   },
   {
+    "index": 5,
     "key": "MESPAK01_0003_0005",
     "original": "パケットコースト",
-    "translation": "パケットコースト",
-    "stage": 1,
-    "context": ""
+    "translation": "パケットコースト"
   },
   {
+    "index": 6,
     "key": "MESPAK01_0003_0006",
     "original": "ログインマウンテン",
-    "translation": "ログインマウンテン",
-    "stage": 1,
-    "context": ""
+    "translation": "ログインマウンテン"
   },
   {
+    "index": 7,
     "key": "MESPAK01_0003_0007",
     "original": "チップフォレスト",
-    "translation": "チップフォレスト",
-    "stage": 1,
-    "context": ""
+    "translation": "チップフォレスト"
   },
   {
+    "index": 8,
     "key": "MESPAK01_0003_0008",
     "original": "ラベルフォレスト",
-    "translation": "ラベルフォレスト",
-    "stage": 1,
-    "context": ""
+    "translation": "ラベルフォレスト"
   },
   {
+    "index": 9,
     "key": "MESPAK01_0003_0009",
     "original": "ループぬま",
-    "translation": "ループぬま",
-    "stage": 1,
-    "context": ""
+    "translation": "ループぬま"
   },
   {
+    "index": 10,
     "key": "MESPAK01_0003_0010",
     "original": "マグネこうざん",
-    "translation": "マグネこうざん",
-    "stage": 1,
-    "context": ""
+    "translation": "マグネこうざん"
   },
   {
+    "index": 11,
     "key": "MESPAK01_0003_0011",
     "original": "パレットアマゾン",
-    "translation": "パレットアマゾン",
-    "stage": 1,
-    "context": ""
+    "translation": "パレットアマゾン"
   },
   {
+    "index": 12,
     "key": "MESPAK01_0003_0012",
     "original": "レジスタジャングル",
-    "translation": "レジスタジャングル",
-    "stage": 1,
-    "context": ""
+    "translation": "レジスタジャングル"
   },
   {
+    "index": 13,
     "key": "MESPAK01_0003_0013",
     "original": "リミットバレー",
-    "translation": "リミットバレー",
-    "stage": 1,
-    "context": ""
+    "translation": "リミットバレー"
   },
   {
+    "index": 14,
     "key": "MESPAK01_0003_0014",
     "original": "パレスラボラトリー",
-    "translation": "パレスラボラトリー",
-    "stage": 1,
-    "context": ""
+    "translation": "パレスラボラトリー"
   },
   {
+    "index": 15,
     "key": "MESPAK01_0003_0015",
     "original": "ピクセルさばく",
-    "translation": "ピクセルさばく",
-    "stage": 1,
-    "context": ""
+    "translation": "ピクセルさばく"
   },
   {
+    "index": 16,
     "key": "MESPAK01_0003_0016",
     "original": "シャドウヘル",
-    "translation": "シャドウヘル",
-    "stage": 1,
-    "context": ""
+    "translation": "シャドウヘル"
   },
   {
+    "index": 17,
     "key": "MESPAK01_0003_0017",
     "original": "タスクキャニオン",
-    "translation": "タスクキャニオン",
-    "stage": 1,
-    "context": ""
+    "translation": "タスクキャニオン"
   },
   {
+    "index": 18,
     "key": "MESPAK01_0003_0018",
     "original": "スリラーいせき",
-    "translation": "スリラーいせき",
-    "stage": 1,
-    "context": ""
+    "translation": "スリラーいせき"
   },
   {
+    "index": 19,
     "key": "MESPAK01_0003_0019",
     "original": "アクセスひょうが",
-    "translation": "アクセスひょうが",
-    "stage": 1,
-    "context": ""
+    "translation": "アクセスひょうが"
   },
   {
+    "index": 20,
     "key": "MESPAK01_0003_0020",
     "original": "プロキシアイランド",
-    "translation": "プロキシアイランド",
-    "stage": 1,
-    "context": ""
+    "translation": "プロキシアイランド"
   },
   {
+    "index": 21,
     "key": "MESPAK01_0003_0021",
     "original": "グラボセントラル",
-    "translation": "グラボセントラル",
-    "stage": 1,
-    "context": ""
+    "translation": "グラボセントラル"
   },
   {
+    "index": 22,
     "key": "MESPAK01_0003_0022",
     "original": "ウィザードテンプル",
-    "translation": "ウィザードテンプル",
-    "stage": 1,
-    "context": ""
+    "translation": "ウィザードテンプル"
   },
   {
+    "index": 23,
     "key": "MESPAK01_0003_0023",
     "original": "アングラトンネル",
-    "translation": "アングラトンネル",
-    "stage": 1,
-    "context": ""
+    "translation": "アングラトンネル"
   },
   {
+    "index": 24,
     "key": "MESPAK01_0003_0024",
     "original": "リスクファクトリー",
-    "translation": "リスクファクトリー",
-    "stage": 1,
-    "context": ""
+    "translation": "リスクファクトリー"
   },
   {
+    "index": 25,
     "key": "MESPAK01_0003_0025",
     "original": "クロンこうざん",
-    "translation": "クロンこうざん",
-    "stage": 1,
-    "context": ""
+    "translation": "クロンこうざん"
   },
   {
+    "index": 26,
     "key": "MESPAK01_0003_0026",
     "original": "クラスデザート",
-    "translation": "クラスデザート",
-    "stage": 1,
-    "context": ""
+    "translation": "クラスデザート"
   },
   {
+    "index": 27,
     "key": "MESPAK01_0003_0027",
     "original": "ノースマリン",
-    "translation": "ノースマリン",
-    "stage": 1,
-    "context": ""
+    "translation": "ノースマリン"
   },
   {
+    "index": 28,
     "key": "MESPAK01_0003_0028",
     "original": "ノースケイブ",
-    "translation": "ノースケイブ",
-    "stage": 1,
-    "context": ""
+    "translation": "ノースケイブ"
   },
   {
+    "index": 29,
     "key": "MESPAK01_0003_0029",
     "original": "サウスケイブ",
-    "translation": "サウスケイブ",
-    "stage": 1,
-    "context": ""
+    "translation": "サウスケイブ"
   },
   {
+    "index": 30,
     "key": "MESPAK01_0003_0030",
     "original": "グラボケイブ",
-    "translation": "グラボケイブ",
-    "stage": 1,
-    "context": ""
+    "translation": "グラボケイブ"
   },
   {
+    "index": 31,
     "key": "MESPAK01_0003_0031",
     "original": "グラボマリン",
-    "translation": "グラボマリン",
-    "stage": 1,
-    "context": ""
+    "translation": "グラボマリン"
   },
   {
+    "index": 32,
     "key": "MESPAK01_0003_0032",
     "original": "リスクケイブ",
-    "translation": "リスクケイブ",
-    "stage": 1,
-    "context": ""
+    "translation": "リスクケイブ"
   },
   {
+    "index": 33,
     "key": "MESPAK01_0003_0033",
     "original": "エントランスルーム",
-    "translation": "エントランスルーム",
-    "stage": 1,
-    "context": ""
+    "translation": "エントランスルーム"
   },
   {
+    "index": 34,
     "key": "MESPAK01_0003_0034",
     "original": "プライベートルーム",
-    "translation": "プライベートルーム",
-    "stage": 1,
-    "context": ""
+    "translation": "プライベートルーム"
   },
   {
+    "index": 35,
     "key": "MESPAK01_0003_0035",
     "original": "イグドラルーム",
-    "translation": "イグドラルーム",
-    "stage": 1,
-    "context": ""
+    "translation": "イグドラルーム"
   },
   {
+    "index": 36,
     "key": "MESPAK01_0003_0036",
     "original": "デジベースフロント",
-    "translation": "デジベースフロント",
-    "stage": 1,
-    "context": ""
+    "translation": "デジベースフロント"
   },
   {
+    "index": 37,
     "key": "MESPAK01_0003_0037",
     "original": "テイマータウン",
-    "translation": "テイマータウン",
-    "stage": 1,
-    "context": ""
+    "translation": "テイマータウン"
   },
   {
+    "index": 38,
     "key": "MESPAK01_0003_0038",
     "original": "ユニオンルーム",
-    "translation": "ユニオンルーム",
-    "stage": 1,
-    "context": ""
+    "translation": "ユニオンルーム"
   },
   {
+    "index": 39,
     "key": "MESPAK01_0003_0039",
     "original": "イーストシティ",
-    "translation": "イーストシティ",
-    "stage": 1,
-    "context": ""
+    "translation": "イーストシティ"
   },
   {
+    "index": 40,
     "key": "MESPAK01_0003_0040",
     "original": "イーストショップ",
-    "translation": "イーストショップ",
-    "stage": 1,
-    "context": ""
+    "translation": "イーストショップ"
   },
   {
+    "index": 41,
     "key": "MESPAK01_0003_0041",
     "original": "Ｅリーダールーム",
-    "translation": "Ｅリーダールーム",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｅリーダールーム"
   },
   {
+    "index": 42,
     "key": "MESPAK01_0003_0042",
     "original": "サウスシティ",
-    "translation": "サウスシティ",
-    "stage": 1,
-    "context": ""
+    "translation": "サウスシティ"
   },
   {
+    "index": 43,
     "key": "MESPAK01_0003_0043",
     "original": "Ｓリーダールーム",
-    "translation": "Ｓリーダールーム",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｓリーダールーム"
   },
   {
+    "index": 44,
     "key": "MESPAK01_0003_0044",
     "original": "ウェストシティ",
-    "translation": "ウェストシティ",
-    "stage": 1,
-    "context": ""
+    "translation": "ウェストシティ"
   },
   {
+    "index": 45,
     "key": "MESPAK01_0003_0045",
     "original": "Ｗリーダールーム",
-    "translation": "Ｗリーダールーム",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｗリーダールーム"
   },
   {
+    "index": 46,
     "key": "MESPAK01_0003_0046",
     "original": "ウェストショップ",
-    "translation": "ウェストショップ",
-    "stage": 1,
-    "context": ""
+    "translation": "ウェストショップ"
   },
   {
+    "index": 47,
     "key": "MESPAK01_0003_0047",
     "original": "ノースシティ",
-    "translation": "ノースシティ",
-    "stage": 1,
-    "context": ""
+    "translation": "ノースシティ"
   },
   {
+    "index": 48,
     "key": "MESPAK01_0003_0048",
     "original": "Ｎリーダールーム",
-    "translation": "Ｎリーダールーム",
-    "stage": 1,
-    "context": ""
+    "translation": "Ｎリーダールーム"
   },
   {
+    "index": 49,
     "key": "MESPAK01_0003_0049",
     "original": "セントラルショップ",
-    "translation": "セントラルショップ",
-    "stage": 1,
-    "context": ""
+    "translation": "セントラルショップ"
   },
   {
+    "index": 50,
     "key": "MESPAK01_0003_0050",
     "original": "コロシアムロビー",
-    "translation": "コロシアムロビー",
-    "stage": 1,
-    "context": ""
+    "translation": "コロシアムロビー"
   },
   {
+    "index": 51,
     "key": "MESPAK01_0003_0051",
     "original": "かんきゃくせき",
-    "translation": "かんきゃくせき",
-    "stage": 1,
-    "context": ""
+    "translation": "かんきゃくせき"
   },
   {
+    "index": 52,
     "key": "MESPAK01_0003_0052",
     "original": "バトルステージ",
-    "translation": "バトルステージ",
-    "stage": 1,
-    "context": ""
+    "translation": "バトルステージ"
   },
   {
+    "index": 53,
     "key": "MESPAK01_0003_0053",
     "original": "ベースポート",
-    "translation": "ベースポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ベースポート"
   },
   {
+    "index": 54,
     "key": "MESPAK01_0003_0054",
     "original": "ログインポート",
-    "translation": "ログインポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ログインポート"
   },
   {
+    "index": 55,
     "key": "MESPAK01_0003_0055",
     "original": "チップポート",
-    "translation": "チップポート",
-    "stage": 1,
-    "context": ""
+    "translation": "チップポート"
   },
   {
+    "index": 56,
     "key": "MESPAK01_0003_0056",
     "original": "ラベルポート",
-    "translation": "ラベルポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ラベルポート"
   },
   {
+    "index": 57,
     "key": "MESPAK01_0003_0057",
     "original": "ループポート",
-    "translation": "ループポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ループポート"
   },
   {
+    "index": 58,
     "key": "MESPAK01_0003_0058",
     "original": "マグネポート",
-    "translation": "マグネポート",
-    "stage": 1,
-    "context": ""
+    "translation": "マグネポート"
   },
   {
+    "index": 59,
     "key": "MESPAK01_0003_0059",
     "original": "パレットポート",
-    "translation": "パレットポート",
-    "stage": 1,
-    "context": ""
+    "translation": "パレットポート"
   },
   {
+    "index": 60,
     "key": "MESPAK01_0003_0060",
     "original": "テイマーポート",
-    "translation": "テイマーポート",
-    "stage": 1,
-    "context": ""
+    "translation": "テイマーポート"
   },
   {
+    "index": 61,
     "key": "MESPAK01_0003_0061",
     "original": "レジスタポート",
-    "translation": "レジスタポート",
-    "stage": 1,
-    "context": ""
+    "translation": "レジスタポート"
   },
   {
+    "index": 62,
     "key": "MESPAK01_0003_0062",
     "original": "リミットポート",
-    "translation": "リミットポート",
-    "stage": 1,
-    "context": ""
+    "translation": "リミットポート"
   },
   {
+    "index": 63,
     "key": "MESPAK01_0003_0063",
     "original": "ピクセルポート",
-    "translation": "ピクセルポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ピクセルポート"
   },
   {
+    "index": 64,
     "key": "MESPAK01_0003_0064",
     "original": "シャドウポート",
-    "translation": "シャドウポート",
-    "stage": 1,
-    "context": ""
+    "translation": "シャドウポート"
   },
   {
+    "index": 65,
     "key": "MESPAK01_0003_0065",
     "original": "タスクポートＮ",
-    "translation": "タスクポートＮ",
-    "stage": 1,
-    "context": ""
+    "translation": "タスクポートＮ"
   },
   {
+    "index": 66,
     "key": "MESPAK01_0003_0066",
     "original": "タスクポートＳ",
-    "translation": "タスクポートＳ",
-    "stage": 1,
-    "context": ""
+    "translation": "タスクポートＳ"
   },
   {
+    "index": 67,
     "key": "MESPAK01_0003_0067",
     "original": "スリラーポートＥ",
-    "translation": "スリラーポートＥ",
-    "stage": 1,
-    "context": ""
+    "translation": "スリラーポートＥ"
   },
   {
+    "index": 68,
     "key": "MESPAK01_0003_0068",
     "original": "スリラーポートＷ",
-    "translation": "スリラーポートＷ",
-    "stage": 1,
-    "context": ""
+    "translation": "スリラーポートＷ"
   },
   {
+    "index": 69,
     "key": "MESPAK01_0003_0069",
     "original": "アクセスポートＳ",
-    "translation": "アクセスポートＳ",
-    "stage": 1,
-    "context": ""
+    "translation": "アクセスポートＳ"
   },
   {
+    "index": 70,
     "key": "MESPAK01_0003_0070",
     "original": "アクセスポートＮ",
-    "translation": "アクセスポートＮ",
-    "stage": 1,
-    "context": ""
+    "translation": "アクセスポートＮ"
   },
   {
+    "index": 71,
     "key": "MESPAK01_0003_0071",
     "original": "プロキシポートＷ",
-    "translation": "プロキシポートＷ",
-    "stage": 1,
-    "context": ""
+    "translation": "プロキシポートＷ"
   },
   {
+    "index": 72,
     "key": "MESPAK01_0003_0072",
     "original": "プロキシポートＥ",
-    "translation": "プロキシポートＥ",
-    "stage": 1,
-    "context": ""
+    "translation": "プロキシポートＥ"
   },
   {
+    "index": 73,
     "key": "MESPAK01_0003_0073",
     "original": "アングラポート",
-    "translation": "アングラポート",
-    "stage": 1,
-    "context": ""
+    "translation": "アングラポート"
   },
   {
+    "index": 74,
     "key": "MESPAK01_0003_0074",
     "original": "ウィザードポート",
-    "translation": "ウィザードポート",
-    "stage": 1,
-    "context": ""
+    "translation": "ウィザードポート"
   },
   {
+    "index": 75,
     "key": "MESPAK01_0003_0075",
     "original": "セントラルポート",
-    "translation": "セントラルポート",
-    "stage": 1,
-    "context": ""
+    "translation": "セントラルポート"
   },
   {
+    "index": 76,
     "key": "MESPAK01_0003_0076",
     "original": "リスクポート",
-    "translation": "リスクポート",
-    "stage": 1,
-    "context": ""
+    "translation": "リスクポート"
   },
   {
+    "index": 77,
     "key": "MESPAK01_0003_0077",
     "original": "クロンポート",
-    "translation": "クロンポート",
-    "stage": 1,
-    "context": ""
+    "translation": "クロンポート"
   },
   {
+    "index": 78,
     "key": "MESPAK01_0003_0078",
     "original": "クラスポート",
-    "translation": "クラスポート",
-    "stage": 1,
-    "context": ""
+    "translation": "クラスポート"
   }
 ]

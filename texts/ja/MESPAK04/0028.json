@@ -1,352 +1,302 @@
 [
   {
+    "index": 0,
     "key": "MESPAK04_0028_0000",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 1,
     "key": "MESPAK04_0028_0001",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 2,
     "key": "MESPAK04_0028_0002",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 3,
     "key": "MESPAK04_0028_0003",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 4,
     "key": "MESPAK04_0028_0004",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 5,
     "key": "MESPAK04_0028_0005",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 6,
     "key": "MESPAK04_0028_0006",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 7,
     "key": "MESPAK04_0028_0007",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 8,
     "key": "MESPAK04_0028_0008",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 9,
     "key": "MESPAK04_0028_0009",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 10,
     "key": "MESPAK04_0028_0010",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 11,
     "key": "MESPAK04_0028_0011",
     "original": "なし",
-    "translation": "なし",
-    "stage": 1,
-    "context": ""
+    "translation": "なし"
   },
   {
+    "index": 12,
     "key": "MESPAK04_0028_0012",
     "original": "アルマジモンのデジプレート\n",
-    "translation": "アルマジモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "アルマジモンのデジプレート\n"
   },
   {
+    "index": 13,
     "key": "MESPAK04_0028_0013",
     "original": "カメモンのデジプレート\n",
-    "translation": "カメモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "カメモンのデジプレート\n"
   },
   {
+    "index": 14,
     "key": "MESPAK04_0028_0014",
     "original": "コクワモンのデジプレート\n",
-    "translation": "コクワモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "コクワモンのデジプレート\n"
   },
   {
+    "index": 15,
     "key": "MESPAK04_0028_0015",
     "original": "グレイモンのデジプレート\n",
-    "translation": "グレイモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "グレイモンのデジプレート\n"
   },
   {
+    "index": 16,
     "key": "MESPAK04_0028_0016",
     "original": "デビモンのデジプレート\n",
-    "translation": "デビモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "デビモンのデジプレート\n"
   },
   {
+    "index": 17,
     "key": "MESPAK04_0028_0017",
     "original": "エアドラモンのデジプレート\n",
-    "translation": "エアドラモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "エアドラモンのデジプレート\n"
   },
   {
+    "index": 18,
     "key": "MESPAK04_0028_0018",
     "original": "カブテリモンのデジプレート\n",
-    "translation": "カブテリモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "カブテリモンのデジプレート\n"
   },
   {
+    "index": 19,
     "key": "MESPAK04_0028_0019",
     "original": "ガルルモンのデジプレート\n",
-    "translation": "ガルルモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "ガルルモンのデジプレート\n"
   },
   {
+    "index": 20,
     "key": "MESPAK04_0028_0020",
     "original": "エンジェモンのデジプレート\n",
-    "translation": "エンジェモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "エンジェモンのデジプレート\n"
   },
   {
+    "index": 21,
     "key": "MESPAK04_0028_0021",
     "original": "オーガモンのデジプレート\n",
-    "translation": "オーガモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "オーガモンのデジプレート\n"
   },
   {
+    "index": 22,
     "key": "MESPAK04_0028_0022",
     "original": "レオモンのデジプレート\n",
-    "translation": "レオモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "レオモンのデジプレート\n"
   },
   {
+    "index": 23,
     "key": "MESPAK04_0028_0023",
     "original": "テイルモンのデジプレート\n",
-    "translation": "テイルモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "テイルモンのデジプレート\n"
   },
   {
+    "index": 24,
     "key": "MESPAK04_0028_0024",
     "original": "ウィザーモンのデジプレート\n",
-    "translation": "ウィザーモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "ウィザーモンのデジプレート\n"
   },
   {
+    "index": 25,
     "key": "MESPAK04_0028_0025",
     "original": "トゲモンのデジプレート\n",
-    "translation": "トゲモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "トゲモンのデジプレート\n"
   },
   {
+    "index": 26,
     "key": "MESPAK04_0028_0026",
     "original": "ガードロモンのデジプレート\n",
-    "translation": "ガードロモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "ガードロモンのデジプレート\n"
   },
   {
+    "index": 27,
     "key": "MESPAK04_0028_0027",
     "original": "エクスブイモンのデジプレート\n",
-    "translation": "エクスブイモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "エクスブイモンのデジプレート\n"
   },
   {
+    "index": 28,
     "key": "MESPAK04_0028_0028",
     "original": "スティングモンのデジプレート\n",
-    "translation": "スティングモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "スティングモンのデジプレート\n"
   },
   {
+    "index": 29,
     "key": "MESPAK04_0028_0029",
     "original": "バードラモンのデジプレート\n",
-    "translation": "バードラモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "バードラモンのデジプレート\n"
   },
   {
+    "index": 30,
     "key": "MESPAK04_0028_0030",
     "original": "アンキロモンのデジプレート\n",
-    "translation": "アンキロモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "アンキロモンのデジプレート\n"
   },
   {
+    "index": 31,
     "key": "MESPAK04_0028_0031",
     "original": "ガルゴモンのデジプレート\n",
-    "translation": "ガルゴモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "ガルゴモンのデジプレート\n"
   },
   {
+    "index": 32,
     "key": "MESPAK04_0028_0032",
     "original": "キュウビモンのデジプレート\n",
-    "translation": "キュウビモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "キュウビモンのデジプレート\n"
   },
   {
+    "index": 33,
     "key": "MESPAK04_0028_0033",
     "original": "アクィラモンのデジプレート\n",
-    "translation": "アクィラモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "アクィラモンのデジプレート\n"
   },
   {
+    "index": 34,
     "key": "MESPAK04_0028_0034",
     "original": "レッパモンのデジプレート\n",
-    "translation": "レッパモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "レッパモンのデジプレート\n"
   },
   {
+    "index": 35,
     "key": "MESPAK04_0028_0035",
     "original": "サンフラウモンのデジプレート\n",
-    "translation": "サンフラウモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "サンフラウモンのデジプレート\n"
   },
   {
+    "index": 36,
     "key": "MESPAK04_0028_0036",
     "original": "サングルゥモンのデジプレート\n",
-    "translation": "サングルゥモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "サングルゥモンのデジプレート\n"
   },
   {
+    "index": 37,
     "key": "MESPAK04_0028_0037",
     "original": "シーラモンのデジプレート\n",
-    "translation": "シーラモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "シーラモンのデジプレート\n"
   },
   {
+    "index": 38,
     "key": "MESPAK04_0028_0038",
     "original": "ユキダルモンのデジプレート\n",
-    "translation": "ユキダルモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "ユキダルモンのデジプレート\n"
   },
   {
+    "index": 39,
     "key": "MESPAK04_0028_0039",
     "original": "ウッドモンのデジプレート\n",
-    "translation": "ウッドモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "ウッドモンのデジプレート\n"
   },
   {
+    "index": 40,
     "key": "MESPAK04_0028_0040",
     "original": "イガモンのデジプレート\n",
-    "translation": "イガモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "イガモンのデジプレート\n"
   },
   {
+    "index": 41,
     "key": "MESPAK04_0028_0041",
     "original": "クロックモンのデジプレート\n",
-    "translation": "クロックモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "クロックモンのデジプレート\n"
   },
   {
+    "index": 42,
     "key": "MESPAK04_0028_0042",
     "original": "タンクモンのデジプレート\n",
-    "translation": "タンクモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "タンクモンのデジプレート\n"
   },
   {
+    "index": 43,
     "key": "MESPAK04_0028_0043",
     "original": "リボルモンのデジプレート\n",
-    "translation": "リボルモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "リボルモンのデジプレート\n"
   },
   {
+    "index": 44,
     "key": "MESPAK04_0028_0044",
     "original": "ブイドラモンのデジプレート\n",
-    "translation": "ブイドラモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "ブイドラモンのデジプレート\n"
   },
   {
+    "index": 45,
     "key": "MESPAK04_0028_0045",
     "original": "ファイラモンのデジプレート\n",
-    "translation": "ファイラモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "ファイラモンのデジプレート\n"
   },
   {
+    "index": 46,
     "key": "MESPAK04_0028_0046",
     "original": "レキスモンのデジプレート\n",
-    "translation": "レキスモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "レキスモンのデジプレート\n"
   },
   {
+    "index": 47,
     "key": "MESPAK04_0028_0047",
     "original": "ＳＴドラモンのデジプレート\n",
-    "translation": "ＳＴドラモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "ＳＴドラモンのデジプレート\n"
   },
   {
+    "index": 48,
     "key": "MESPAK04_0028_0048",
     "original": "ブライモンのデジプレート\n",
-    "translation": "ブライモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "ブライモンのデジプレート\n"
   },
   {
+    "index": 49,
     "key": "MESPAK04_0028_0049",
     "original": "メタルグレイモンのデジプレート\n",
-    "translation": "メタルグレイモンのデジプレート\n",
-    "stage": 1,
-    "context": ""
+    "translation": "メタルグレイモンのデジプレート\n"
   }
 ]

@@ -1,352 +1,302 @@
 [
   {
+    "index": 0,
     "key": "MESPAK04_0010_0000",
     "original": "しんくうの　ヤイバをとばし\nきりさく",
-    "translation": "しんくうの　ヤイバをとばし\nきりさく",
-    "stage": 1,
-    "context": ""
+    "translation": "しんくうの　ヤイバをとばし\nきりさく"
   },
   {
+    "index": 1,
     "key": "MESPAK04_0010_0001",
     "original": "しんくうの　ヤイバを\nとばし　はげしくきりさく",
-    "translation": "しんくうの　ヤイバを\nとばし　はげしくきりさく",
-    "stage": 1,
-    "context": ""
+    "translation": "しんくうの　ヤイバを\nとばし　はげしくきりさく"
   },
   {
+    "index": 2,
     "key": "MESPAK04_0010_0002",
     "original": "りょうてから　くりだされる\nしんくうのヤイバで\nきりさく　★こてい",
-    "translation": "りょうてから　くりだされる\nしんくうのヤイバで\nきりさく　★こてい",
-    "stage": 1,
-    "context": ""
+    "translation": "りょうてから　くりだされる\nしんくうのヤイバで\nきりさく　★こてい"
   },
   {
+    "index": 3,
     "key": "MESPAK04_0010_0003",
     "original": "カゼのチカラを　こめた\nツメで　きりさく",
-    "translation": "カゼのチカラを　こめた\nツメで　きりさく",
-    "stage": 1,
-    "context": ""
+    "translation": "カゼのチカラを　こめた\nツメで　きりさく"
   },
   {
+    "index": 4,
     "key": "MESPAK04_0010_0004",
     "original": "タツマキのチカラを　こめた\nツメで　きりさく",
-    "translation": "タツマキのチカラを　こめた\nツメで　きりさく",
-    "stage": 1,
-    "context": ""
+    "translation": "タツマキのチカラを　こめた\nツメで　きりさく"
   },
   {
+    "index": 5,
     "key": "MESPAK04_0010_0005",
     "original": "ちいさな　くうきのたまで\nカゼのバクハツに　まきこむ",
-    "translation": "ちいさな　くうきのたまで\nカゼのバクハツに　まきこむ",
-    "stage": 1,
-    "context": ""
+    "translation": "ちいさな　くうきのたまで\nカゼのバクハツに　まきこむ"
   },
   {
+    "index": 6,
     "key": "MESPAK04_0010_0006",
     "original": "くうきのたまを　はなち\nヒカリの　バクハツで\nこうげきする",
-    "translation": "くうきのたまを　はなち\nヒカリの　バクハツで\nこうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "くうきのたまを　はなち\nヒカリの　バクハツで\nこうげきする"
   },
   {
+    "index": 7,
     "key": "MESPAK04_0010_0007",
     "original": "こうみつどのくうきのたまで\nだいバクハツに\nまきこむ　★こてい",
-    "translation": "こうみつどのくうきのたまで\nだいバクハツに\nまきこむ　★こてい",
-    "stage": 1,
-    "context": ""
+    "translation": "こうみつどのくうきのたまで\nだいバクハツに\nまきこむ　★こてい"
   },
   {
+    "index": 8,
     "key": "MESPAK04_0010_0008",
     "original": "ちいさい　ホノオのたまを\nうちだして　こうげきする",
-    "translation": "ちいさい　ホノオのたまを\nうちだして　こうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "ちいさい　ホノオのたまを\nうちだして　こうげきする"
   },
   {
+    "index": 9,
     "key": "MESPAK04_0010_0009",
     "original": "おおきい　ホノオのたまを\nうちだして　やきはらう",
-    "translation": "おおきい　ホノオのたまを\nうちだして　やきはらう",
-    "stage": 1,
-    "context": ""
+    "translation": "おおきい　ホノオのたまを\nうちだして　やきはらう"
   },
   {
+    "index": 10,
     "key": "MESPAK04_0010_0010",
     "original": "サクレツするホノオのたまを\nうちだして　やきつくす",
-    "translation": "サクレツするホノオのたまを\nうちだして　やきつくす",
-    "stage": 1,
-    "context": ""
+    "translation": "サクレツするホノオのたまを\nうちだして　やきつくす"
   },
   {
+    "index": 11,
     "key": "MESPAK04_0010_0011",
     "original": "ホノオのたまを　うちだして\nもえさかる\nひばしらをあげる",
-    "translation": "ホノオのたまを　うちだして\nもえさかる\nひばしらをあげる",
-    "stage": 1,
-    "context": ""
+    "translation": "ホノオのたまを　うちだして\nもえさかる\nひばしらをあげる"
   },
   {
+    "index": 12,
     "key": "MESPAK04_0010_0012",
     "original": "ホノオのたまで\nふんかのように　アツい\nひばしらを　あげる",
-    "translation": "ホノオのたまで\nふんかのように　アツい\nひばしらを　あげる",
-    "stage": 1,
-    "context": ""
+    "translation": "ホノオのたまで\nふんかのように　アツい\nひばしらを　あげる"
   },
   {
+    "index": 13,
     "key": "MESPAK04_0010_0013",
     "original": "ホノオのたまで\nもえたぎる　マグマの\nひばしらを　あげる",
-    "translation": "ホノオのたまで\nもえたぎる　マグマの\nひばしらを　あげる",
-    "stage": 1,
-    "context": ""
+    "translation": "ホノオのたまで\nもえたぎる　マグマの\nひばしらを　あげる"
   },
   {
+    "index": 14,
     "key": "MESPAK04_0010_0014",
     "original": "リュウのチカラを　こめた\nツメで　きりさく",
-    "translation": "リュウのチカラを　こめた\nツメで　きりさく",
-    "stage": 1,
-    "context": ""
+    "translation": "リュウのチカラを　こめた\nツメで　きりさく"
   },
   {
+    "index": 15,
     "key": "MESPAK04_0010_0015",
     "original": "リュウのチカラを　こめた\nひゃくせんれんまの　ツメで\nきりさく",
-    "translation": "リュウのチカラを　こめた\nひゃくせんれんまの　ツメで\nきりさく",
-    "stage": 1,
-    "context": ""
+    "translation": "リュウのチカラを　こめた\nひゃくせんれんまの　ツメで\nきりさく"
   },
   {
+    "index": 16,
     "key": "MESPAK04_0010_0016",
     "original": "リュウのチカラを　こめた\nいだいな　ツメで\nきりきざむ",
-    "translation": "リュウのチカラを　こめた\nいだいな　ツメで\nきりきざむ",
-    "stage": 1,
-    "context": ""
+    "translation": "リュウのチカラを　こめた\nいだいな　ツメで\nきりきざむ"
   },
   {
+    "index": 17,
     "key": "MESPAK04_0010_0017",
     "original": "りゅうせいを　よびよせて\nおとし\nやきつくす",
-    "translation": "りゅうせいを　よびよせて\nおとし\nやきつくす",
-    "stage": 1,
-    "context": ""
+    "translation": "りゅうせいを　よびよせて\nおとし\nやきつくす"
   },
   {
+    "index": 18,
     "key": "MESPAK04_0010_0018",
     "original": "だいりゅうせいぐんを\nおとして　だいハカイを\nまきおこす　★こてい",
-    "translation": "だいりゅうせいぐんを\nおとして　だいハカイを\nまきおこす　★こてい",
-    "stage": 1,
-    "context": ""
+    "translation": "だいりゅうせいぐんを\nおとして　だいハカイを\nまきおこす　★こてい"
   },
   {
+    "index": 19,
     "key": "MESPAK04_0010_0019",
     "original": "バクダンを　なげつけて\nバクハする",
-    "translation": "バクダンを　なげつけて\nバクハする",
-    "stage": 1,
-    "context": ""
+    "translation": "バクダンを　なげつけて\nバクハする"
   },
   {
+    "index": 20,
     "key": "MESPAK04_0010_0020",
     "original": "つよい　いりょくの\nバクダンを　なげつけて\nバクハする",
-    "translation": "つよい　いりょくの\nバクダンを　なげつけて\nバクハする",
-    "stage": 1,
-    "context": ""
+    "translation": "つよい　いりょくの\nバクダンを　なげつけて\nバクハする"
   },
   {
+    "index": 21,
     "key": "MESPAK04_0010_0021",
     "original": "こがたの　バクダンを\nむすうに　うちこんで\nないぶから　バクハする",
-    "translation": "こがたの　バクダンを\nむすうに　うちこんで\nないぶから　バクハする",
-    "stage": 1,
-    "context": ""
+    "translation": "こがたの　バクダンを\nむすうに　うちこんで\nないぶから　バクハする"
   },
   {
+    "index": 22,
     "key": "MESPAK04_0010_0022",
     "original": "ミサイルを　はっしゃして\nホノオにつつむ",
-    "translation": "ミサイルを　はっしゃして\nホノオにつつむ",
-    "stage": 1,
-    "context": ""
+    "translation": "ミサイルを　はっしゃして\nホノオにつつむ"
   },
   {
+    "index": 23,
     "key": "MESPAK04_0010_0023",
     "original": "ミサイルを　２つ\nはっしゃして\nホノオにつつむ",
-    "translation": "ミサイルを　２つ\nはっしゃして\nホノオにつつむ",
-    "stage": 1,
-    "context": ""
+    "translation": "ミサイルを　２つ\nはっしゃして\nホノオにつつむ"
   },
   {
+    "index": 24,
     "key": "MESPAK04_0010_0024",
     "original": "きょうりょくなミサイルを\nはっしゃして\nばくえんにつつむ",
-    "translation": "きょうりょくなミサイルを\nはっしゃして\nばくえんにつつむ",
-    "stage": 1,
-    "context": ""
+    "translation": "きょうりょくなミサイルを\nはっしゃして\nばくえんにつつむ"
   },
   {
+    "index": 25,
     "key": "MESPAK04_0010_0025",
     "original": "セイなる　チカラをこめた\nざんげきで\nきりさく",
-    "translation": "セイなる　チカラをこめた\nざんげきで\nきりさく",
-    "stage": 1,
-    "context": ""
+    "translation": "セイなる　チカラをこめた\nざんげきで\nきりさく"
   },
   {
+    "index": 26,
     "key": "MESPAK04_0010_0026",
     "original": "セイなる　チカラをこめた\nヒカリかがやく　ざんげきで\nきりさく",
-    "translation": "セイなる　チカラをこめた\nヒカリかがやく　ざんげきで\nきりさく",
-    "stage": 1,
-    "context": ""
+    "translation": "セイなる　チカラをこめた\nヒカリかがやく　ざんげきで\nきりさく"
   },
   {
+    "index": 27,
     "key": "MESPAK04_0010_0027",
     "original": "セイなるチカラをきょだいな\nつるぎにかえて\nきりはらう",
-    "translation": "セイなるチカラをきょだいな\nつるぎにかえて\nきりはらう",
-    "stage": 1,
-    "context": ""
+    "translation": "セイなるチカラをきょだいな\nつるぎにかえて\nきりはらう"
   },
   {
+    "index": 28,
     "key": "MESPAK04_0010_0028",
     "original": "こがたの　ヒカリのたまを\nはなち\nこうげきする",
-    "translation": "こがたの　ヒカリのたまを\nはなち\nこうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "こがたの　ヒカリのたまを\nはなち\nこうげきする"
   },
   {
+    "index": 29,
     "key": "MESPAK04_0010_0029",
     "original": "ヒカリのたまを　はなち\nこうげきする\n★こてい",
-    "translation": "ヒカリのたまを　はなち\nこうげきする\n★こてい",
-    "stage": 1,
-    "context": ""
+    "translation": "ヒカリのたまを　はなち\nこうげきする\n★こてい"
   },
   {
+    "index": 30,
     "key": "MESPAK04_0010_0030",
     "original": "すべてを　さばく\nヒカリのこうせんを　はなち\nこうげきする　★デス",
-    "translation": "すべてを　さばく\nヒカリのこうせんを　はなち\nこうげきする　★デス",
-    "stage": 1,
-    "context": ""
+    "translation": "すべてを　さばく\nヒカリのこうせんを　はなち\nこうげきする　★デス"
   },
   {
+    "index": 31,
     "key": "MESPAK04_0010_0031",
     "original": "つよいヒカリのたまをはなち\nだいバクハツさせ\nかいめつさせる",
-    "translation": "つよいヒカリのたまをはなち\nだいバクハツさせ\nかいめつさせる",
-    "stage": 1,
-    "context": ""
+    "translation": "つよいヒカリのたまをはなち\nだいバクハツさせ\nかいめつさせる"
   },
   {
+    "index": 32,
     "key": "MESPAK04_0010_0032",
     "original": "ヒカリのエネルギーを\nあつめて　バクハする",
-    "translation": "ヒカリのエネルギーを\nあつめて　バクハする",
-    "stage": 1,
-    "context": ""
+    "translation": "ヒカリのエネルギーを\nあつめて　バクハする"
   },
   {
+    "index": 33,
     "key": "MESPAK04_0010_0033",
     "original": "ほしのヒカリを　あつめた\nセイなる　エネルギーで\nバクハする",
-    "translation": "ほしのヒカリを　あつめた\nセイなる　エネルギーで\nバクハする",
-    "stage": 1,
-    "context": ""
+    "translation": "ほしのヒカリを　あつめた\nセイなる　エネルギーで\nバクハする"
   },
   {
+    "index": 34,
     "key": "MESPAK04_0010_0034",
     "original": "ほしぼしの　じょうかの\nヒカリをあつめ　バクハツを\nおこす　★こてい",
-    "translation": "ほしぼしの　じょうかの\nヒカリをあつめ　バクハツを\nおこす　★こてい",
-    "stage": 1,
-    "context": ""
+    "translation": "ほしぼしの　じょうかの\nヒカリをあつめ　バクハツを\nおこす　★こてい"
   },
   {
+    "index": 35,
     "key": "MESPAK04_0010_0035",
     "original": "セイなる　チカラで\nきりさき\nさばきをあたえる",
-    "translation": "セイなる　チカラで\nきりさき\nさばきをあたえる",
-    "stage": 1,
-    "context": ""
+    "translation": "セイなる　チカラで\nきりさき\nさばきをあたえる"
   },
   {
+    "index": 36,
     "key": "MESPAK04_0010_0036",
     "original": "セイなる　チカラで\nきりさき\nヒカリの　さばきをくだす",
-    "translation": "セイなる　チカラで\nきりさき\nヒカリの　さばきをくだす",
-    "stage": 1,
-    "context": ""
+    "translation": "セイなる　チカラで\nきりさき\nヒカリの　さばきをくだす"
   },
   {
+    "index": 37,
     "key": "MESPAK04_0010_0037",
     "original": "つよいセイなる　チカラで\nきりさき\nさばきのてっついをくだす",
-    "translation": "つよいセイなる　チカラで\nきりさき\nさばきのてっついをくだす",
-    "stage": 1,
-    "context": ""
+    "translation": "つよいセイなる　チカラで\nきりさき\nさばきのてっついをくだす"
   },
   {
+    "index": 38,
     "key": "MESPAK04_0010_0038",
     "original": "セイなる　チカラのこもった\nコブシで\nこうげきする",
-    "translation": "セイなる　チカラのこもった\nコブシで\nこうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "セイなる　チカラのこもった\nコブシで\nこうげきする"
   },
   {
+    "index": 39,
     "key": "MESPAK04_0010_0039",
     "original": "セイなる　チカラのこもった\nコブシで\nうちすえる",
-    "translation": "セイなる　チカラのこもった\nコブシで\nうちすえる",
-    "stage": 1,
-    "context": ""
+    "translation": "セイなる　チカラのこもった\nコブシで\nうちすえる"
   },
   {
+    "index": 40,
     "key": "MESPAK04_0010_0040",
     "original": "セイなる　チカラのこもった\nコブシで\nはげしくうちすえる",
-    "translation": "セイなる　チカラのこもった\nコブシで\nはげしくうちすえる",
-    "stage": 1,
-    "context": ""
+    "translation": "セイなる　チカラのこもった\nコブシで\nはげしくうちすえる"
   },
   {
+    "index": 41,
     "key": "MESPAK04_0010_0041",
     "original": "アンコクの　イナズマを\nおとして　こうげきする",
-    "translation": "アンコクの　イナズマを\nおとして　こうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "アンコクの　イナズマを\nおとして　こうげきする"
   },
   {
+    "index": 42,
     "key": "MESPAK04_0010_0042",
     "original": "こがたの　ブラックホールを\nうみだし　じゅうりょくで\nおしつぶす　★こてい",
-    "translation": "こがたの　ブラックホールを\nうみだし　じゅうりょくで\nおしつぶす　★こてい",
-    "stage": 1,
-    "context": ""
+    "translation": "こがたの　ブラックホールを\nうみだし　じゅうりょくで\nおしつぶす　★こてい"
   },
   {
+    "index": 43,
     "key": "MESPAK04_0010_0043",
     "original": "するどい　ヤイバで\nすばやく　きりさく",
-    "translation": "するどい　ヤイバで\nすばやく　きりさく",
-    "stage": 1,
-    "context": ""
+    "translation": "するどい　ヤイバで\nすばやく　きりさく"
   },
   {
+    "index": 44,
     "key": "MESPAK04_0010_0044",
     "original": "もえさかる　トゲつきの\nてっきゅうを　たたきつけて\nこうげきする",
-    "translation": "もえさかる　トゲつきの\nてっきゅうを　たたきつけて\nこうげきする",
-    "stage": 1,
-    "context": ""
+    "translation": "もえさかる　トゲつきの\nてっきゅうを　たたきつけて\nこうげきする"
   },
   {
+    "index": 45,
     "key": "MESPAK04_0010_0045",
     "original": "タマシイのこもった\nアツい　キックで\nうちくだく",
-    "translation": "タマシイのこもった\nアツい　キックで\nうちくだく",
-    "stage": 1,
-    "context": ""
+    "translation": "タマシイのこもった\nアツい　キックで\nうちくだく"
   },
   {
+    "index": 46,
     "key": "MESPAK04_0010_0046",
     "original": "せいぎのタマシイのこもった\nアツい　キックで\nセイバイする",
-    "translation": "せいぎのタマシイのこもった\nアツい　キックで\nセイバイする",
-    "stage": 1,
-    "context": ""
+    "translation": "せいぎのタマシイのこもった\nアツい　キックで\nセイバイする"
   },
   {
+    "index": 47,
     "key": "MESPAK04_0010_0047",
     "original": "なないろにかがやくオーラで\nみかたの　こうげきりょくと\nぼうぎょりょくを　あげる",
-    "translation": "なないろにかがやくオーラで\nみかたの　こうげきりょくと\nぼうぎょりょくを　あげる",
-    "stage": 1,
-    "context": ""
+    "translation": "なないろにかがやくオーラで\nみかたの　こうげきりょくと\nぼうぎょりょくを　あげる"
   },
   {
+    "index": 48,
     "key": "MESPAK04_0010_0048",
     "original": "エネルギーのたまを\nいちどに　はっしゃして\nバクハする",
-    "translation": "エネルギーのたまを\nいちどに　はっしゃして\nバクハする",
-    "stage": 1,
-    "context": ""
+    "translation": "エネルギーのたまを\nいちどに　はっしゃして\nバクハする"
   },
   {
+    "index": 49,
     "key": "MESPAK04_0010_0049",
     "original": "ホノオを　サクレツさせ\nみかたの　こうげきりょくを\nおおきく　たかめる",
-    "translation": "ホノオを　サクレツさせ\nみかたの　こうげきりょくを\nおおきく　たかめる",
-    "stage": 1,
-    "context": ""
+    "translation": "ホノオを　サクレツさせ\nみかたの　こうげきりょくを\nおおきく　たかめる"
   }
 ]
