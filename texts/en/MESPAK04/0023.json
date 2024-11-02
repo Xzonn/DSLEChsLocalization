@@ -3,350 +3,300 @@
     "key": "MESPAK04_0023_0000",
     "original": "Attack +20",
     "translation": "Attack +20",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0001",
     "original": "Attack +50",
     "translation": "Attack +50",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0002",
     "original": "Attack +120",
     "translation": "Attack +120",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0003",
     "original": "Attack +250",
     "translation": "Attack +250",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0004",
     "original": "Attack +555\nDefense +155\nSpeed +155\nAccuracy +35%",
     "translation": "Attack +555\nDefense +155\nSpeed +155\nAccuracy +35%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0005",
     "original": "Attack +110\nDefense +110\nAccuracy +20%\nCritical +10%",
     "translation": "Attack +110\nDefense +110\nAccuracy +20%\nCritical +10%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0006",
     "original": "Attack +270\nAccuracy +40%\nCritical +70%\nDamage Bonus +30%",
     "translation": "Attack +270\nAccuracy +40%\nCritical +70%\nDamage Bonus +30%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0007",
     "original": "Attack +410\nBit Bonus +50%",
     "translation": "Attack +410\nBit Bonus +50%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0008",
     "original": "Attack +800\nDefense +350\nSpeed +350",
     "translation": "Attack +800\nDefense +350\nSpeed +350",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0009",
     "original": "Attack +350",
     "translation": "Attack +350",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0010",
     "original": "Attack +80\nDefense +20\nCritical +2%",
     "translation": "Attack +80\nDefense +20\nCritical +2%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0011",
     "original": "Attack +100\nDefense +30\nCritical +2%",
     "translation": "Attack +100\nDefense +30\nCritical +2%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0012",
     "original": "Attack +140\nDefense +40\nCritical +2%",
     "translation": "Attack +140\nDefense +40\nCritical +2%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0013",
     "original": "Attack +160\nDefense +50\nCritical +2%",
     "translation": "Attack +160\nDefense +50\nCritical +2%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0014",
     "original": "Attack +200\nDefense +60\nCritical +2%",
     "translation": "Attack +200\nDefense +60\nCritical +2%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0015",
     "original": "Attack +260\nDefense +70\nCritical +2%",
     "translation": "Attack +260\nDefense +70\nCritical +2%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0016",
     "original": "Attack +290\nDefense +80\nCritical +3%",
     "translation": "Attack +290\nDefense +80\nCritical +3%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0017",
     "original": "Attack +320\nDefense +90\nCritical +3%",
     "translation": "Attack +320\nDefense +90\nCritical +3%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0018",
     "original": "Attack +340\nDefense +100\nCritical +3%",
     "translation": "Attack +340\nDefense +100\nCritical +3%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0019",
     "original": "Attack +370\nDefense +110\nCritical +4%",
     "translation": "Attack +370\nDefense +110\nCritical +4%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0020",
     "original": "Attack +400\nDefense +120\nCritical +4%",
     "translation": "Attack +400\nDefense +120\nCritical +4%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0021",
     "original": "Attack +450\nDefense +130\nCritical +4%",
     "translation": "Attack +450\nDefense +130\nCritical +4%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0022",
     "original": "Attack +500\nDefense +140\nCritical +5%",
     "translation": "Attack +500\nDefense +140\nCritical +5%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0023",
     "original": "Attack +600\nDefense +150\nCritical +5%",
     "translation": "Attack +600\nDefense +150\nCritical +5%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0024",
     "original": "Attack +700\nDefense +170\nCritical +5%",
     "translation": "Attack +700\nDefense +170\nCritical +5%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0025",
     "original": "Attack +999\nDefense +250\nDeath Resist +80%",
     "translation": "Attack +999\nDefense +250\nDeath Resist +80%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0026",
     "original": "Attack +130\nAccuracy +30%\nCritical +50%",
     "translation": "Attack +130\nAccuracy +30%\nCritical +50%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0027",
     "original": "Attack +900\nDefense +200\nAccuracy +30%\nCritical +20%",
     "translation": "Attack +900\nDefense +200\nAccuracy +30%\nCritical +20%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0028",
     "original": "Attack +81\nDefense +10\nAccuracy +15%\nParalysis Resist +10%",
     "translation": "Attack +81\nDefense +10\nAccuracy +15%\nParalysis Resist +10%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0029",
     "original": "Attack +111\nDefense +15\nAccuracy +15%\nParalysis Resist +10%",
     "translation": "Attack +111\nDefense +15\nAccuracy +15%\nParalysis Resist +10%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0030",
     "original": "Attack +151\nDefense +20\nAccuracy +15%\nParalysis Resist +10%",
     "translation": "Attack +151\nDefense +20\nAccuracy +15%\nParalysis Resist +10%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0031",
     "original": "Attack +171\nDefense +30\nAccuracy +18%\nParalysis Resist +12%",
     "translation": "Attack +171\nDefense +30\nAccuracy +18%\nParalysis Resist +12%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0032",
     "original": "Attack +211\nDefense +40\nAccuracy +18%\nParalysis Resist +12%",
     "translation": "Attack +211\nDefense +40\nAccuracy +18%\nParalysis Resist +12%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0033",
     "original": "Attack +271\nDefense +50\nAccuracy +18%\nParalysis Resist +12%",
     "translation": "Attack +271\nDefense +50\nAccuracy +18%\nParalysis Resist +12%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0034",
     "original": "Attack +301\nDefense +60\nAccuracy +21%\nParalysis Resist +15%",
     "translation": "Attack +301\nDefense +60\nAccuracy +21%\nParalysis Resist +15%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0035",
     "original": "Attack +331\nDefense +70\nAccuracy +21%\nParalysis Resist +15%",
     "translation": "Attack +331\nDefense +70\nAccuracy +21%\nParalysis Resist +15%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0036",
     "original": "Attack +361\nDefense +80\nAccuracy +21%\nParalysis Resist +15%",
     "translation": "Attack +361\nDefense +80\nAccuracy +21%\nParalysis Resist +15%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0037",
     "original": "Attack +381\nDefense +90\nAccuracy +24%\nParalysis Resist +17%",
     "translation": "Attack +381\nDefense +90\nAccuracy +24%\nParalysis Resist +17%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0038",
     "original": "Attack +411\nDefense +100\nAccuracy +24%\nParalysis Resist +17%",
     "translation": "Attack +411\nDefense +100\nAccuracy +24%\nParalysis Resist +17%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0039",
     "original": "Attack +461\nDefense +110\nAccuracy +24%\nParalysis Resist +17%",
     "translation": "Attack +461\nDefense +110\nAccuracy +24%\nParalysis Resist +17%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0040",
     "original": "Attack +511\nDefense +120\nAccuracy +27%\nParalysis Resist +20%",
     "translation": "Attack +511\nDefense +120\nAccuracy +27%\nParalysis Resist +20%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0041",
     "original": "Attack +611\nDefense +130\nAccuracy +27%\nParalysis Resist +20%",
     "translation": "Attack +611\nDefense +130\nAccuracy +27%\nParalysis Resist +20%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0042",
     "original": "Attack +711\nDefense +140\nAccuracy +27%\nParalysis Resist +20%",
     "translation": "Attack +711\nDefense +140\nAccuracy +27%\nParalysis Resist +20%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0043",
     "original": "Attack +911\nDefense +180\nAccuracy +30%\nParalysis Resist +25%",
     "translation": "Attack +911\nDefense +180\nAccuracy +30%\nParalysis Resist +25%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0044",
     "original": "Attack +241\nAccuracy +100%\nCritical +10%",
     "translation": "Attack +241\nAccuracy +100%\nCritical +10%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0045",
     "original": "Attack +93",
     "translation": "Attack +93",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0046",
     "original": "Attack +123",
     "translation": "Attack +123",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0047",
     "original": "Attack +163",
     "translation": "Attack +163",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0048",
     "original": "Attack +183",
     "translation": "Attack +183",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0023_0049",
     "original": "Attack +223",
     "translation": "Attack +223",
-    "stage": 1,
     "context": ""
   }
 ]

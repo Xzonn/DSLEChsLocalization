@@ -3,350 +3,300 @@
     "key": "MESPAK01_0001_0000",
     "original": "Player Name",
     "translation": "Player Name",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0001",
     "original": "Nickname",
     "translation": "Nickname",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0002",
     "original": "Farm Island Name",
     "translation": "Farm Island Name",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0003",
     "original": "Secret Password",
     "translation": "Secret Password",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0004",
     "original": "Friend Code",
     "translation": "Friend Code",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0005",
     "original": "There is a mistake in the Secret \nPassword. Please re-enter and \ntry again.",
     "translation": "There is a mistake in the Secret \nPassword. Please re-enter and \ntry again.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0006",
     "original": "Friend Code is incorrect.",
     "translation": "Friend Code is incorrect.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0007",
     "original": "Finish entering Friend Code?",
     "translation": "Finish entering Friend Code?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0008",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0009",
     "original": "Not yet",
     "translation": "Not yet",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0010",
     "original": "Is this correct?",
     "translation": "Is this correct?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0011",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0012",
     "original": "I changed my mind",
     "translation": "I changed my mind",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0013",
     "original": "The Protagonist's name is",
     "translation": "The Protagonist's name is",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0014",
     "original": "Their nickname is",
     "translation": "Their nickname is",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0015",
     "original": "The Farm Island name is",
     "translation": "The Farm Island name is",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0016",
     "original": "The Secret Password is",
     "translation": "The Secret Password is",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0017",
     "original": "The Friend Code is",
     "translation": "The Friend Code is",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0018",
     "original": "New",
     "translation": "New",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0019",
     "original": "Continue",
     "translation": "Continue",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0020",
     "original": "Wi-Fi Connection",
     "translation": "Wi-Fi Connection",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0021",
     "original": "Back",
     "translation": "Back",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0022",
     "original": "Attention!",
     "translation": "Attention!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0023",
     "original": "Starting a new game will",
     "translation": "Starting a new game will",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0024",
     "original": "reset the Wi-Fi settings!",
     "translation": "reset the Wi-Fi settings!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0025",
     "original": "PUSH START BUTTON!",
     "translation": "PUSH START BUTTON!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0026",
     "original": "Are you a boy?\nOr are you a girl?",
     "translation": "Are you a boy?\nOr are you a girl?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0027",
     "original": "So you're a girl,\nand your name is ^P?",
     "translation": "So you're a girl,\nand your name is ^P?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0028",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0029",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0030",
     "original": "So you're a boy,\nand your name is ^P?",
     "translation": "So you're a boy,\nand your name is ^P?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0031",
     "original": "Shuu",
     "translation": "Shuu",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0032",
     "original": "Kizuna",
     "translation": "Kizuna",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0033",
     "original": "You've chosen the nickname\n ^1, is that OK?",
     "translation": "You've chosen the nickname\n ^1, is that OK?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0034",
     "original": "So you're a ^1.\nIs your name ^0?",
     "translation": "So you're a ^1.\nIs your name ^0?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0035",
     "original": "boy",
     "translation": "boy",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0036",
     "original": "girl",
     "translation": "girl",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0037",
     "original": "Friends name",
     "translation": "Friends name",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0038",
     "original": "７０３０７９９１",
     "translation": "７０３０７９９１",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0039",
     "original": "０２６１９０２０",
     "translation": "０２６１９０２０",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0040",
     "original": "８２６０７９９１",
     "translation": "８２６０７９９１",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0041",
     "original": "１９９７０６２８",
     "translation": "１９９７０６２８",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0042",
     "original": "２００６０６１５",
     "translation": "２００６０６１５",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0043",
     "original": "２００７０３２９",
     "translation": "２００７０３２９",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0044",
     "original": "９ＰＴ８４ｆｈ３",
     "translation": "９ＰＴ８４ｆｈ３",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0045",
     "original": "３Ｋ４ｕｒ８８Ｕ",
     "translation": "３Ｋ４ｕｒ８８Ｕ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0046",
     "original": "ｏＵＢＢ１８ｍ４",
     "translation": "ｏＵＢＢ１８ｍ４",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0047",
     "original": "４ＲＦＧＨＪＫ４",
     "translation": "４ＲＦＧＨＪＫ４",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0048",
     "original": "ｈｙＵＫＨＩＵ９",
     "translation": "ｈｙＵＫＨＩＵ９",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0001_0049",
     "original": "Ｄｏｉｊ４９２ｂ",
     "translation": "Ｄｏｉｊ４９２ｂ",
-    "stage": 1,
     "context": ""
   }
 ]

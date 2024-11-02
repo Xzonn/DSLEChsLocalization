@@ -3,1400 +3,1200 @@
     "key": "MESPAK03_0001_0000",
     "original": "Good morning, ^P.\nDid you sleep well?",
     "translation": "Good morning, ^P.\nDid you sleep well?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0001",
     "original": "Asuka and Hiroyuki are already\nawake.\nThey're waiting at the entrance,\ncould you go meet them there?\nI've done some investigating, and\nI have some things to report.",
     "translation": "Asuka and Hiroyuki are already\nawake.\nThey're waiting at the entrance,\ncould you go meet them there?\nI've done some investigating, and\nI have some things to report.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0002",
     "original": "You're late, ^P! We were\ngetting bored of waiting.",
     "translation": "You're late, ^P! We were\ngetting bored of waiting.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0003",
     "original": "Good morning, ^P! \nDid you hear the good news?\nWe've found a DigiShip that \nseems usable!",
     "translation": "Good morning, ^P! \nDid you hear the good news?\nWe've found a DigiShip that \nseems usable!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0004",
     "original": "It's not far from here, at a place\ncalled Patch Prairie.\nEven though it's fairly close, \nit's not a place we often visit,\nDue to a lot of scary Digimon\nlurking around the place.",
     "translation": "It's not far from here, at a place\ncalled Patch Prairie.\nEven though it's fairly close, \nit's not a place we often visit,\nDue to a lot of scary Digimon\nlurking around the place.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0005",
     "original": "I'm sure they'll be fine. After all, \nAgumon had said earlier that\n^P is a skilled Tamer, \nhaving defeated those Bandits.",
     "translation": "I'm sure they'll be fine. After all, \nAgumon had said earlier that\n^P is a skilled Tamer, \nhaving defeated those Bandits.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0006",
     "original": "Not to mention, the Digimon in that\narea are reasonably peaceful.\nWith the experience they've racked\nup, I think they'll be fine♪",
     "translation": "Not to mention, the Digimon in that\narea are reasonably peaceful.\nWith the experience they've racked\nup, I think they'll be fine♪",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0007",
     "original": "About the DigiShip at Patch \nPrairie...\nIt seems the ship was found\nand brought there by Sukamon.\nThey decided to use it for a test\nflight and ended up crashing it.\nLeft in pieces, its been all but\nforgotten since then.",
     "translation": "About the DigiShip at Patch \nPrairie...\nIt seems the ship was found\nand brought there by Sukamon.\nThey decided to use it for a test\nflight and ended up crashing it.\nLeft in pieces, its been all but\nforgotten since then.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0008",
     "original": "The ship crashed...? Then\nwhat happened to the passengers?",
     "translation": "The ship crashed...? Then\nwhat happened to the passengers?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0009",
     "original": "They're still as lively as ever. They\nhang out just outside the DigiBase.\nWhy don't you try talking to them\nsome time?",
     "translation": "They're still as lively as ever. They\nhang out just outside the DigiBase.\nWhy don't you try talking to them\nsome time?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0010",
     "original": "Hey, Terriermon...\n\nDid you find out anything about\nthe Bandits?",
     "translation": "Hey, Terriermon...\n\nDid you find out anything about\nthe Bandits?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0011",
     "original": "That's... well you see, because \nthey have allies there,\nIt seems they're on an island next \nto a place called South Bridge.\nUnfortunately our land of North\nBridge isn't connected to it.\nThe only way to reach South Bridge\nis by using a ship.",
     "translation": "That's... well you see, because \nthey have allies there,\nIt seems they're on an island next \nto a place called South Bridge.\nUnfortunately our land of North\nBridge isn't connected to it.\nThe only way to reach South Bridge\nis by using a ship.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0012",
     "original": "I see... So a DigiShip really is\nnecessary.\nThis is just another problem we'll\nhave to tackle, I guess.",
     "translation": "I see... So a DigiShip really is\nnecessary.\nThis is just another problem we'll\nhave to tackle, I guess.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0013",
     "original": "That's the spirit, Asuka!\n\nWith an attitude like that, I'm sure\neverything will work out in the end!",
     "translation": "That's the spirit, Asuka!\n\nWith an attitude like that, I'm sure\neverything will work out in the end!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0014",
     "original": "Don't act like its my problem alone!\n\nWhen we somehow manage to find \nthat DigiShip...\nI'll hang you up on it like one of\nthose mermaid figureheads!",
     "translation": "Don't act like its my problem alone!\n\nWhen we somehow manage to find \nthat DigiShip...\nI'll hang you up on it like one of\nthose mermaid figureheads!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0015",
     "original": "Hmmm...\n\nIt looks like the DigiLab isn't quite \nready yet...\nCalumon's gonna take a final look\nat it,\nSo it'll be a little longer before \nyou're able to use it.",
     "translation": "Hmmm...\n\nIt looks like the DigiLab isn't quite \nready yet...\nCalumon's gonna take a final look\nat it,\nSo it'll be a little longer before \nyou're able to use it.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0016",
     "original": "And I thought it'd already be good \nto go... that's too bad... ",
     "translation": "And I thought it'd already be good \nto go... that's too bad... ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0017",
     "original": "And we've finally gotten an actual \nTamer to come here, too...\nI really wanted to ask you to do \nsome things only a Tamer could...",
     "translation": "And we've finally gotten an actual \nTamer to come here, too...\nI really wanted to ask you to do \nsome things only a Tamer could...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0018",
     "original": "Did I hear you guys saying you \nfound a DigiShip??\nIt's in Patch Prairie? Isn't that\nnot far from here?\nThen let's hurry and go find it!",
     "translation": "Did I hear you guys saying you \nfound a DigiShip??\nIt's in Patch Prairie? Isn't that\nnot far from here?\nThen let's hurry and go find it!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0019",
     "original": "Yeah, we should go take a look-\nBut wait, I have a question.\nEven if we do find it, how are we\nsupposed to bring it back?",
     "translation": "Yeah, we should go take a look-\nBut wait, I have a question.\nEven if we do find it, how are we\nsupposed to bring it back?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0020",
     "original": "That's no issue, if you just take a \nlook at ^P's Digivice...\nAll you need to do is input the \naddress of the DigiShip into it.\nThen we will be able to bring the \ndata back here to the DigiBase.",
     "translation": "That's no issue, if you just take a \nlook at ^P's Digivice...\nAll you need to do is input the \naddress of the DigiShip into it.\nThen we will be able to bring the \ndata back here to the DigiBase.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0021",
     "original": "Good luck, ^P!",
     "translation": "Good luck, ^P!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0022",
     "original": "Hey, ^P\nWait a minute!",
     "translation": "Hey, ^P\nWait a minute!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0023",
     "original": "I just had a brilliant idea!\n\nWhy don't I make you your very \nown Farm Island♪",
     "translation": "I just had a brilliant idea!\n\nWhy don't I make you your very \nown Farm Island♪",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0024",
     "original": "Within them you can raise Digimon\nin places called 'DigiFarms'.\nYou can adjust the settings in \norder to raise better Digimon.",
     "translation": "Within them you can raise Digimon\nin places called 'DigiFarms'.\nYou can adjust the settings in \norder to raise better Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0025",
     "original": "Your Farm Island is very important\nso take care of it!\nIf you use your Farm Island \nefficiently...\nYour Partner Digimon's stats\nwill increase substantially!♪",
     "translation": "Your Farm Island is very important\nso take care of it!\nIf you use your Farm Island \nefficiently...\nYour Partner Digimon's stats\nwill increase substantially!♪",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0026",
     "original": "Alright now, ^P,\nWhich Farm Island would you like?",
     "translation": "Alright now, ^P,\nWhich Farm Island would you like?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0027",
     "original": "'Volcano', best suited for raising Mythical\nBeast Digimon like Agumon.",
     "translation": "'Volcano', best suited for raising Mythical\nBeast Digimon like Agumon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0028",
     "original": "'Desert', best suited for raising\nBeast Digimon like Gabumon.",
     "translation": "'Desert', best suited for raising\nBeast Digimon like Gabumon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0029",
     "original": "'Tropics', best suited for raising\nInsect Digimon like Tentomon.",
     "translation": "'Tropics', best suited for raising\nInsect Digimon like Tentomon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0030",
     "original": "Your very first Farm Island is \nextremely important.\nWhy don't you take a moment\nto carefully consider this?",
     "translation": "Your very first Farm Island is \nextremely important.\nWhy don't you take a moment\nto carefully consider this?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0031",
     "original": "Is this Farm Island OK?",
     "translation": "Is this Farm Island OK?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0032",
     "original": "This one's good!",
     "translation": "This one's good!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0033",
     "original": "Let me choose again!",
     "translation": "Let me choose again!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0034",
     "original": "Alright then, which Farm Island \nwould you like?",
     "translation": "Alright then, which Farm Island \nwould you like?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0035",
     "original": "Is that so? \nAlright then.\nWhy don't you give your Farm \nIsland a name?",
     "translation": "Is that so? \nAlright then.\nWhy don't you give your Farm \nIsland a name?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0036",
     "original": "^0, huh?\nThat's a great name♪\nAlright, I'll go set it up for you,\ngive me just a moment.",
     "translation": "^0, huh?\nThat's a great name♪\nAlright, I'll go set it up for you,\ngive me just a moment.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0037",
     "original": "Thanks for waiting, ^P.\nEverything's ready to go now!\nBe sure to take a look at your \nDigiFarm soon, alright?♪",
     "translation": "Thanks for waiting, ^P.\nEverything's ready to go now!\nBe sure to take a look at your \nDigiFarm soon, alright?♪",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0038",
     "original": "That reminds me, I have a special\nfavor to give you.\nI'll call for three of my friends to\njoin your Farm Island.\nGet along and raise them well, \nalright?",
     "translation": "That reminds me, I have a special\nfavor to give you.\nI'll call for three of my friends to\njoin your Farm Island.\nGet along and raise them well, \nalright?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0039",
     "original": "Alright, first up...\n\nIt'd be great if you could give your\nnew friends each a nickname.",
     "translation": "Alright, first up...\n\nIt'd be great if you could give your\nnew friends each a nickname.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0040",
     "original": "The name's ToyAgumon. \nI'm a Machine type Digimon.\nNice to meet 'cha!",
     "translation": "The name's ToyAgumon. \nI'm a Machine type Digimon.\nNice to meet 'cha!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0041",
     "original": "I'm an Angel type Digimon, the\nname's Kudamon!\nGlad to be workin' with ya!",
     "translation": "I'm an Angel type Digimon, the\nname's Kudamon!\nGlad to be workin' with ya!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0042",
     "original": "Hello, my name is Palmon, and I'm\na Plant type Digimon.\nIt's very nice to meet you.",
     "translation": "Hello, my name is Palmon, and I'm\na Plant type Digimon.\nIt's very nice to meet you.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0043",
     "original": "My nickname's ^0...?\nThat's a good name!\nAlright then, I'll go hang out on your\nFarm Island!",
     "translation": "My nickname's ^0...?\nThat's a good name!\nAlright then, I'll go hang out on your\nFarm Island!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0044",
     "original": "My nickname's ^0, huh!\nWhat a great nickname!\nAlright, I'll be hanging around in \nyour Farm Island if ya' need me!",
     "translation": "My nickname's ^0, huh!\nWhat a great nickname!\nAlright, I'll be hanging around in \nyour Farm Island if ya' need me!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0045",
     "original": "^0...?\nThat's a lovely name, thank you.\nThen, if you need me, \n I'll be staying at your Farm Island.",
     "translation": "^0...?\nThat's a lovely name, thank you.\nThen, if you need me, \n I'll be staying at your Farm Island.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0046",
     "original": "My name... it's Dorumon.. I-I'm a\nMythical Beast Digimon...\nN-nice to meet you...",
     "translation": "My name... it's Dorumon.. I-I'm a\nMythical Beast Digimon...\nN-nice to meet you...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0047",
     "original": "^0...?\nT-That's a nice name...\nT-Then I'll be waiting for you at\nyour Farm Island, OK...?",
     "translation": "^0...?\nT-That's a nice name...\nT-Then I'll be waiting for you at\nyour Farm Island, OK...?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0048",
     "original": "I'm Falcomon, a Bird type \nDigimon!\nI look forward to working with you!",
     "translation": "I'm Falcomon, a Bird type \nDigimon!\nI look forward to working with you!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0049",
     "original": "My nickname's ^0??\nThat's not bad at all!\nOK, I'm off to your Farm Island!\nSee you there!",
     "translation": "My nickname's ^0??\nThat's not bad at all!\nOK, I'm off to your Farm Island!\nSee you there!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0050",
     "original": "If you just open up the 'Digimon\nList' in the DigiFarm...\nYou can move each Digimon around\nto your heart's content.\nOr you can add them to your party,\nand then use them in battle.\nIf you select the Expedition option,\nthe Digimon can go gather items.\nThe Farm Island is the best for \nraising a Digimon's Stats.\nBe sure to ask Gatomon about\nthe details sometime, alright?\nAlright then, I'll leave these three\nin your hands, ^P!",
     "translation": "If you just open up the 'Digimon\nList' in the DigiFarm...\nYou can move each Digimon around\nto your heart's content.\nOr you can add them to your party,\nand then use them in battle.\nIf you select the Expedition option,\nthe Digimon can go gather items.\nThe Farm Island is the best for \nraising a Digimon's Stats.\nBe sure to ask Gatomon about\nthe details sometime, alright?\nAlright then, I'll leave these three\nin your hands, ^P!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0051",
     "original": "You became friends with\nRenamon's friend, Palmon!",
     "translation": "You became friends with\nRenamon's friend, Palmon!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0052",
     "original": "This time its special.\nSince its only a Beta Version.",
     "translation": "This time its special.\nSince its only a Beta Version.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0053",
     "original": "Hey, ^P\nWait a minute!",
     "translation": "Hey, ^P\nWait a minute!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0054",
     "original": "I just had a brilliant idea!\n\nWhy don't I make you your very \nown Farm Island♪",
     "translation": "I just had a brilliant idea!\n\nWhy don't I make you your very \nown Farm Island♪",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0055",
     "original": "Within them you can raise Digimon\nin places called 'DigiFarms'.\nYou can adjust the settings in \norder to raise better Digimon.",
     "translation": "Within them you can raise Digimon\nin places called 'DigiFarms'.\nYou can adjust the settings in \norder to raise better Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0056",
     "original": "Your Farm Island is very important\nso take care of it!\nIf you use your Farm Island \nefficiently...\nYour Partner Digimon's stats\nwill increase substantially!♪",
     "translation": "Your Farm Island is very important\nso take care of it!\nIf you use your Farm Island \nefficiently...\nYour Partner Digimon's stats\nwill increase substantially!♪",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0057",
     "original": "Alright now, ^P,\nWhich Farm Island would you like?",
     "translation": "Alright now, ^P,\nWhich Farm Island would you like?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0058",
     "original": "'Volcano', an environment best \nsuited for raising Mythical Beast \nDigimon such as Agumon.\n",
     "translation": "'Volcano', an environment best \nsuited for raising Mythical Beast \nDigimon such as Agumon.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0059",
     "original": "'Desert', an environment best \nsuited for raising Beast Digimon \nlike Gabumon.\n",
     "translation": "'Desert', an environment best \nsuited for raising Beast Digimon \nlike Gabumon.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0060",
     "original": "'Tropics', an environment best \nsuited for raising energetic \nplant-like Digimon.\n",
     "translation": "'Tropics', an environment best \nsuited for raising energetic \nplant-like Digimon.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0061",
     "original": "Your very first Farm Island is \nextremely important.\nWhy don't you take a moment\nto carefully consider this?\n",
     "translation": "Your very first Farm Island is \nextremely important.\nWhy don't you take a moment\nto carefully consider this?\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0062",
     "original": "Is this Farm Island OK?\n",
     "translation": "Is this Farm Island OK?\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0063",
     "original": "This one's good!\n",
     "translation": "This one's good!\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0064",
     "original": "Let me choose again!\n",
     "translation": "Let me choose again!\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0065",
     "original": "Alright then, which Farm Island \nwould you like?\n",
     "translation": "Alright then, which Farm Island \nwould you like?\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0066",
     "original": "Is that so? \nAlright then.\nWhy don't you give your Farm \nIsland a name?\n",
     "translation": "Is that so? \nAlright then.\nWhy don't you give your Farm \nIsland a name?\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0067",
     "original": "^0, huh?\nThat's a great name♪\nAlright, I'll go set it up for you,\ngive me just a moment.\n",
     "translation": "^0, huh?\nThat's a great name♪\nAlright, I'll go set it up for you,\ngive me just a moment.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0068",
     "original": "Thanks for waiting, ^P,\neverything's ready to go, now!\nBe sure to take a look at your \nDigiFarm soon, alright?♪\n",
     "translation": "Thanks for waiting, ^P,\neverything's ready to go, now!\nBe sure to take a look at your \nDigiFarm soon, alright?♪\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0069",
     "original": "That reminds me, I have a special\nfavor to give you.\nI'll call for three of my friends to\njoin your Farm Island.\nGet along and raise them well, \nalright?\n",
     "translation": "That reminds me, I have a special\nfavor to give you.\nI'll call for three of my friends to\njoin your Farm Island.\nGet along and raise them well, \nalright?\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0070",
     "original": "Alright, first up...\n\nIt'd be great if you could give your\nnew friends each a nickname.\n",
     "translation": "Alright, first up...\n\nIt'd be great if you could give your\nnew friends each a nickname.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0071",
     "original": "The name's ToyAgumon, I'm a \nMachine type Digimon.\nNice to meet 'cha!\n",
     "translation": "The name's ToyAgumon, I'm a \nMachine type Digimon.\nNice to meet 'cha!\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0072",
     "original": "I'm an Angel type Digimon, the\nname's Kudamon!\nGlad to be workin' with ya!\n",
     "translation": "I'm an Angel type Digimon, the\nname's Kudamon!\nGlad to be workin' with ya!\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0073",
     "original": "Hello, my name is Palmon, and I'm\na Plant type Digimon.\nIt's very nice to meet you.\n",
     "translation": "Hello, my name is Palmon, and I'm\na Plant type Digimon.\nIt's very nice to meet you.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0074",
     "original": "My nickname's ^0...?\nThat's a good name!\nAlright then, I'll go hang out on your\nFarm Island!\n",
     "translation": "My nickname's ^0...?\nThat's a good name!\nAlright then, I'll go hang out on your\nFarm Island!\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0075",
     "original": "My nickname's ^0, huh!\nWhat a great nickname!\nAlright, I'll be hanging around in \nyour Farm Island if ya' need me!\n",
     "translation": "My nickname's ^0, huh!\nWhat a great nickname!\nAlright, I'll be hanging around in \nyour Farm Island if ya' need me!\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0076",
     "original": "^0...?\nThat's a lovely name, thank you.\nThen, if you need me, \nI'll be staying at your Farm Island.\n",
     "translation": "^0...?\nThat's a lovely name, thank you.\nThen, if you need me, \nI'll be staying at your Farm Island.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0077",
     "original": "My name... it's Dorumon... I-I'm a\nMythical Beast Digimon...\nN-nice to meet you...\n",
     "translation": "My name... it's Dorumon... I-I'm a\nMythical Beast Digimon...\nN-nice to meet you...\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0078",
     "original": "^0...?\nT-That's a nice name...\nT-Then I'll be waiting for you at\nyour Farm Island, OK...?\n",
     "translation": "^0...?\nT-That's a nice name...\nT-Then I'll be waiting for you at\nyour Farm Island, OK...?\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0079",
     "original": "I'm Falcomon, a Bird type \nDigimon!\nI look forward to working with you!\n",
     "translation": "I'm Falcomon, a Bird type \nDigimon!\nI look forward to working with you!\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0080",
     "original": "My nickname's ^0??\nThat's not bad at all!\nOK, I'm off to your Farm Island!\nSo you there!\n",
     "translation": "My nickname's ^0??\nThat's not bad at all!\nOK, I'm off to your Farm Island!\nSo you there!\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0081",
     "original": "If you just open up the 'Digimon\nList' in the DigiFarm...\nYou can move each Digimon around\nto your hearts content.\nOr you can add them to your party,\nand then use them in battle.\nIf you select the Expedition option,\nthe Digimon can go gather items.\nThe Farm Island is the best for \nraising a Digimon's Stats.\nBe sure to ask Gatomon about\nthe details sometime, alright?\nAlright then, I'll leave these three\nin your hands, ^P!",
     "translation": "If you just open up the 'Digimon\nList' in the DigiFarm...\nYou can move each Digimon around\nto your hearts content.\nOr you can add them to your party,\nand then use them in battle.\nIf you select the Expedition option,\nthe Digimon can go gather items.\nThe Farm Island is the best for \nraising a Digimon's Stats.\nBe sure to ask Gatomon about\nthe details sometime, alright?\nAlright then, I'll leave these three\nin your hands, ^P!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0082",
     "original": "You became friends with\nRenamon's friend, Palmon!\n",
     "translation": "You became friends with\nRenamon's friend, Palmon!\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0083",
     "original": "This time its special.\nSince its only a Beta Version.\n",
     "translation": "This time its special.\nSince its only a Beta Version.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0084",
     "original": "Hey, Dos, what are we gonna do?\nIs it gonna be usable?",
     "translation": "Hey, Dos, what are we gonna do?\nIs it gonna be usable?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0085",
     "original": "Whether its usable or not isn't the\nissue here.\nIt's more about exactly how much \ntime it's going to take to repair it.\nIt'll be bad if we take too long.\n\nWord'll get out that we travelled to\nthe Real World.",
     "translation": "Whether its usable or not isn't the\nissue here.\nIt's more about exactly how much \ntime it's going to take to repair it.\nIt'll be bad if we take too long.\n\nWord'll get out that we travelled to\nthe Real World.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0086",
     "original": "At this point, does it really matter \nif we're found out?\nMore importantly, I'm beat, and it\nlooks like someone's coming...",
     "translation": "At this point, does it really matter \nif we're found out?\nMore importantly, I'm beat, and it\nlooks like someone's coming...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0087",
     "original": "Hm? No way... those guys, could\nthey be..?",
     "translation": "Hm? No way... those guys, could\nthey be..?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0088",
     "original": "Oh, how lucky! Talk about two \nbirds with one stone!\nTo think we'd find both the ship\nAND the aliens in the same place!",
     "translation": "Oh, how lucky! Talk about two \nbirds with one stone!\nTo think we'd find both the ship\nAND the aliens in the same place!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0089",
     "original": "You guys again...?!",
     "translation": "You guys again...?!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0090",
     "original": "Save your breath and give it up, \nyou evildoers!\nNow confess! Where did you take\nthose two?!",
     "translation": "Save your breath and give it up, \nyou evildoers!\nNow confess! Where did you take\nthose two?!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0091",
     "original": "What's with that self-important\nattitude of yours?\nIt's because of you guys that \nwe ended up in this situation!\nIf you're gonna continue bothering\nus, you're in for a world of hurt!",
     "translation": "What's with that self-important\nattitude of yours?\nIt's because of you guys that \nwe ended up in this situation!\nIf you're gonna continue bothering\nus, you're in for a world of hurt!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0092",
     "original": "... Huh?\n\nHave you forgotten that we already\nbeat you guys once before?",
     "translation": "... Huh?\n\nHave you forgotten that we already\nbeat you guys once before?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0093",
     "original": "That's just because we let our \nguard down before!\nThis time we won't be holding \nback. You're in for it this time!",
     "translation": "That's just because we let our \nguard down before!\nThis time we won't be holding \nback. You're in for it this time!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0094",
     "original": "Wait, Uno...\nJust calm down for a moment.\nThese guys aren't our priority. We\nneed to focus on the DigiShip and...",
     "translation": "Wait, Uno...\nJust calm down for a moment.\nThese guys aren't our priority. We\nneed to focus on the DigiShip and...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0095",
     "original": "Shut it, Tres!\n\nThis isn't about reasoning, it's\nabout strength and a fiery spirit!\nTo deliberately rush into battle,\nthat's what it is to be a Bandit!",
     "translation": "Shut it, Tres!\n\nThis isn't about reasoning, it's\nabout strength and a fiery spirit!\nTo deliberately rush into battle,\nthat's what it is to be a Bandit!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0096",
     "original": "Now, now... I haven't heard \nanything like that before.\nI'm kind of busy at the moment,\nyou'll be fine alone, right?",
     "translation": "Now, now... I haven't heard \nanything like that before.\nI'm kind of busy at the moment,\nyou'll be fine alone, right?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0097",
     "original": "Hmph, fine then!\nDos! Tres!\nIf you're gonna be like that, then I'll\njust have to make it an order!",
     "translation": "Hmph, fine then!\nDos! Tres!\nIf you're gonna be like that, then I'll\njust have to make it an order!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0098",
     "original": "You could have just asked us for\nour assistance, you know.",
     "translation": "You could have just asked us for\nour assistance, you know.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0099",
     "original": "Hey, ^P...\n\nDoesn't that old guy... kind of \nresemble Hiroyuki in a way?",
     "translation": "Hey, ^P...\n\nDoesn't that old guy... kind of \nresemble Hiroyuki in a way?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0100",
     "original": "Looks like we won the fight once\nagain!\nNow tell us where you're hiding\nTakuto and Yui!",
     "translation": "Looks like we won the fight once\nagain!\nNow tell us where you're hiding\nTakuto and Yui!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0101",
     "original": "...Huh?\nWhat's with that lack of reaction?\nCome now... don't you remember?\n\nThose two kids who were on that\nweird ship of yours...",
     "translation": "...Huh?\nWhat's with that lack of reaction?\nCome now... don't you remember?\n\nThose two kids who were on that\nweird ship of yours...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0102",
     "original": "... So you stowed away on our \nship after all.\nThen it must have been you kids \nwho hit the emergency eject button!",
     "translation": "... So you stowed away on our \nship after all.\nThen it must have been you kids \nwho hit the emergency eject button!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0103",
     "original": "Well now... that was all Hiroyuki's\nfault, let's be honest here.",
     "translation": "Well now... that was all Hiroyuki's\nfault, let's be honest here.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0104",
     "original": "Ah... Uhhh... Sorry about that.\n\nLet's continue that conversation\nsome other time, alright...?\nMore importantly, where are the\ntwo kids we're looking for?",
     "translation": "Ah... Uhhh... Sorry about that.\n\nLet's continue that conversation\nsome other time, alright...?\nMore importantly, where are the\ntwo kids we're looking for?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0105",
     "original": "...What makes you think we know\nwhere they are?\nIt's all your fault we're in this \nsituation in the first place.",
     "translation": "...What makes you think we know\nwhere they are?\nIt's all your fault we're in this \nsituation in the first place.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0106",
     "original": "...But if those two are still on the\nDigiShip right now...\nThen they should be headed for\nSouth Bridge.\nThey'll probably end up being\ncaught by the Selectors, I bet.",
     "translation": "...But if those two are still on the\nDigiShip right now...\nThen they should be headed for\nSouth Bridge.\nThey'll probably end up being\ncaught by the Selectors, I bet.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0107",
     "original": "W-well that's true but...\n\nPlease just tell us!\n\nThose two are innocent, dragged\ninto all this by this airhead!\nIf your issue is with him, then\nfeel free to take it out on him.",
     "translation": "W-well that's true but...\n\nPlease just tell us!\n\nThose two are innocent, dragged\ninto all this by this airhead!\nIf your issue is with him, then\nfeel free to take it out on him.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0108",
     "original": "We don't care about that.\n\nHowever, if they've been in the\nDigiShip this entire time...\nThey've probably been captured by\nSelectors at South Bridge by now.",
     "translation": "We don't care about that.\n\nHowever, if they've been in the\nDigiShip this entire time...\nThey've probably been captured by\nSelectors at South Bridge by now.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0109",
     "original": "Selectors...?",
     "translation": "Selectors...?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0110",
     "original": "They're beings that are creating a\nnew Digital World.\nThey're in charge of specially \nselecting Digimon and Tamers.\n... And they delete all that they\ndeem unnecessary for this world.",
     "translation": "They're beings that are creating a\nnew Digital World.\nThey're in charge of specially \nselecting Digimon and Tamers.\n... And they delete all that they\ndeem unnecessary for this world.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0111",
     "original": "Then if we want to save Yui and \nTakuto...\nWe'll just have to defeat these \nSelector guys!",
     "translation": "Then if we want to save Yui and \nTakuto...\nWe'll just have to defeat these \nSelector guys!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0112",
     "original": "The Digital World is already ruled\nover by the Selectors.\nSouth Bridge has been completely \ntaken over by them.\nI highly doubt you guys could \nescape, let alone defeat them.\nSoon, the Defrag will begin, and\nthen everything will be over.",
     "translation": "The Digital World is already ruled\nover by the Selectors.\nSouth Bridge has been completely \ntaken over by them.\nI highly doubt you guys could \nescape, let alone defeat them.\nSoon, the Defrag will begin, and\nthen everything will be over.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0113",
     "original": "Defrag? What's that mean?",
     "translation": "Defrag? What's that mean?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0114",
     "original": "Its when all the unneeded stuff in \nthe Digital World is thrown out.\nIt means the Digital World will \nreturn to its original state.\nThe old Digital World will be split\nup and destroyed,\nAnd a new Digital World will be \nbuilt from it. That's a Defrag.",
     "translation": "Its when all the unneeded stuff in \nthe Digital World is thrown out.\nIt means the Digital World will \nreturn to its original state.\nThe old Digital World will be split\nup and destroyed,\nAnd a new Digital World will be \nbuilt from it. That's a Defrag.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0115",
     "original": "Are you serious...?",
     "translation": "Are you serious...?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0116",
     "original": "...who knows?\n\nAt the very least, it's what the \nSelectors are intending to do.",
     "translation": "...who knows?\n\nAt the very least, it's what the \nSelectors are intending to do.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0117",
     "original": "You seem to know an awful lot\nabout the situation...",
     "translation": "You seem to know an awful lot\nabout the situation...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0118",
     "original": "Well of course.\n\nWe're one of the strategic teams\nworking with the Selectors...",
     "translation": "Well of course.\n\nWe're one of the strategic teams\nworking with the Selectors...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0119",
     "original": "What?!",
     "translation": "What?!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0120",
     "original": "...It's begun.",
     "translation": "...It's begun.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0121",
     "original": "The newbie Selectors\nhave arrived nearby, it appears.\nThey must be over there if the\nDefrag has already begun.",
     "translation": "The newbie Selectors\nhave arrived nearby, it appears.\nThey must be over there if the\nDefrag has already begun.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0122",
     "original": "Looks like we won't need to worry\nabout repairing this DigiShip.\nLet's just hitch a ride on their\ntheirs!",
     "translation": "Looks like we won't need to worry\nabout repairing this DigiShip.\nLet's just hitch a ride on their\ntheirs!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0123",
     "original": "Hey, wait!\n\nWhere exactly in South Bridge could\nthose two be?!",
     "translation": "Hey, wait!\n\nWhere exactly in South Bridge could\nthose two be?!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0124",
     "original": "We don't know, and even if we did,\nthere's nothing that can be done.\nAll we know is it's a place people \ndon't tend to return from.",
     "translation": "We don't know, and even if we did,\nthere's nothing that can be done.\nAll we know is it's a place people \ndon't tend to return from.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0125",
     "original": "What...?!",
     "translation": "What...?!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0126",
     "original": "What are you doing, Uno? Aren't\nyou coming?",
     "translation": "What are you doing, Uno? Aren't\nyou coming?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0127",
     "original": "What were you thinking, Tres?\nYou've said too much.\nThese guys know too much about\nus, now.\nWe can't just let them go free.",
     "translation": "What were you thinking, Tres?\nYou've said too much.\nThese guys know too much about\nus, now.\nWe can't just let them go free.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0128",
     "original": "Leave it be, Uno. They can't do\nanything, anyway.\nThere's no way these guys\ncould ever defeat the Selectors...\nIt's not like you can defeat these \nkids either, now can you?",
     "translation": "Leave it be, Uno. They can't do\nanything, anyway.\nThere's no way these guys\ncould ever defeat the Selectors...\nIt's not like you can defeat these \nkids either, now can you?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0129",
     "original": "L... Let's just go see how the \nsituation is over there!\nHurry up, you two!",
     "translation": "L... Let's just go see how the \nsituation is over there!\nHurry up, you two!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0130",
     "original": "And to top things off, you called\nus aliens!",
     "translation": "And to top things off, you called\nus aliens!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0131",
     "original": "To be fair, you do kinda look like\nan alien.",
     "translation": "To be fair, you do kinda look like\nan alien.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0132",
     "original": "Alright now, if you've finished,\nwe need to get moving.\nRather than fixing this Ship, it'd be\nbetter to just find a different one.\nIt'll be quicker that way, too.",
     "translation": "Alright now, if you've finished,\nwe need to get moving.\nRather than fixing this Ship, it'd be\nbetter to just find a different one.\nIt'll be quicker that way, too.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0133",
     "original": "...Hmph!\n\nWe'll allow you a small act of \nmercy this time.\nHowever, next time you won't be\nso lucky!\nIf you dare show yourselves again,\nyou'll just get beaten to a pulp!",
     "translation": "...Hmph!\n\nWe'll allow you a small act of \nmercy this time.\nHowever, next time you won't be\nso lucky!\nIf you dare show yourselves again,\nyou'll just get beaten to a pulp!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0134",
     "original": "Like I said... you can go bragging\nonce you actually manage to win!\nNow come on, or we'll leave you\nbehind!",
     "translation": "Like I said... you can go bragging\nonce you actually manage to win!\nNow come on, or we'll leave you\nbehind!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0135",
     "original": "Umm... Hey now, Hiroyuki, cheer\nup!\nWe weren't hurt, and neither were\nthe Bandits.\nSo, safe to assume Yui and Takuto\nare alright, too!\n...Don't you think?",
     "translation": "Umm... Hey now, Hiroyuki, cheer\nup!\nWe weren't hurt, and neither were\nthe Bandits.\nSo, safe to assume Yui and Takuto\nare alright, too!\n...Don't you think?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0136",
     "original": "A place no one returns from...\nWhat do they mean by that?\nAnd what they said about ridding \nthe Digital World of unneeded stuff.\nWhat exactly are they planning?",
     "translation": "A place no one returns from...\nWhat do they mean by that?\nAnd what they said about ridding \nthe Digital World of unneeded stuff.\nWhat exactly are they planning?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0137",
     "original": "I don't know, but... I'm getting an\nawful feeling about it.\nThey gave us so much information\nso suddenly like that.\nThe reason behind the Defrag... \nBeings called Selectors...",
     "translation": "I don't know, but... I'm getting an\nawful feeling about it.\nThey gave us so much information\nso suddenly like that.\nThe reason behind the Defrag... \nBeings called Selectors...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0138",
     "original": "Anyway, we've found the DigiShip,\nwe'd better contact the DigiBase.",
     "translation": "Anyway, we've found the DigiShip,\nwe'd better contact the DigiBase.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0139",
     "original": "...Oh, ^P, I'm glad... \nit connected!\nRight now a virus has... entered\nthe DigiBase...\nThe situation's gone downhill...",
     "translation": "...Oh, ^P, I'm glad... \nit connected!\nRight now a virus has... entered\nthe DigiBase...\nThe situation's gone downhill...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0140",
     "original": "... ^P please... \nreturn here as quickly as you can...\n... ...I've got... ...\n... a.. ... bad...\n... ... feeli... ... ...\n... ... ...",
     "translation": "... ^P please... \nreturn here as quickly as you can...\n... ...I've got... ...\n... a.. ... bad...\n... ... feeli... ... ...\n... ... ...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0141",
     "original": "This version of the game ends\nhere.\nThank you for playing, you will \nnow be returned to the title screen.",
     "translation": "This version of the game ends\nhere.\nThank you for playing, you will \nnow be returned to the title screen.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0142",
     "original": "N-not good...\nI wonder if Terriermon and the\nothers are ok...?",
     "translation": "N-not good...\nI wonder if Terriermon and the\nothers are ok...?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0143",
     "original": "I'm not sure...\nBut we can only hope...",
     "translation": "I'm not sure...\nBut we can only hope...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0144",
     "original": "Hey boss, that was one heck of \na shockwave, wasn't it?",
     "translation": "Hey boss, that was one heck of \na shockwave, wasn't it?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0145",
     "original": "Yeah, it was.\n\nEarthquakes like that don't often\noccur in the Digital World, do they?",
     "translation": "Yeah, it was.\n\nEarthquakes like that don't often\noccur in the Digital World, do they?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0146",
     "original": "That's right, it certainly gave me\nquite the shock.",
     "translation": "That's right, it certainly gave me\nquite the shock.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0147",
     "original": "This weird thing suddenly sprouted\nout from the ground...\nJust what on earth is it?",
     "translation": "This weird thing suddenly sprouted\nout from the ground...\nJust what on earth is it?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0148",
     "original": "What was it, again... I've seen \nit somewhere before...",
     "translation": "What was it, again... I've seen \nit somewhere before...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0149",
     "original": "It doesn't matter, it has nothing\nto do with us.\nThey may as well just be pebbles\non the sidewalk.",
     "translation": "It doesn't matter, it has nothing\nto do with us.\nThey may as well just be pebbles\non the sidewalk.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0150",
     "original": "Wow, boss! You're not bothered\nin the slightest, are you?!\nHow cool!",
     "translation": "Wow, boss! You're not bothered\nin the slightest, are you?!\nHow cool!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0151",
     "original": "You really are one to be admired!",
     "translation": "You really are one to be admired!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0152",
     "original": "Operation Defrag Phase 2\nCommencing mission.\nEraser Team A\nErase the Lost Digimon.\nEraser Team B\nDestroy the Evolution Tree.\n...Erase!",
     "translation": "Operation Defrag Phase 2\nCommencing mission.\nEraser Team A\nErase the Lost Digimon.\nEraser Team B\nDestroy the Evolution Tree.\n...Erase!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0153",
     "original": "Erase!",
     "translation": "Erase!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0154",
     "original": "H-hey, what's up with you guys?\nWhat do you think you're doing?!",
     "translation": "H-hey, what's up with you guys?\nWhat do you think you're doing?!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0155",
     "original": "This here is the DigiBase, where\nEvolution is supervised.\nWe won't have anyone loitering\naround here without permission!",
     "translation": "This here is the DigiBase, where\nEvolution is supervised.\nWe won't have anyone loitering\naround here without permission!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0156",
     "original": "Now, now, calm down for a second\nGeremon, Mushroomon.\nDon't you think we should give\nthese guys a chance to run, first?\nYa catch my drift?\n\nIf you hurry and disappear, you'll\nbe saved from a world of hurt.",
     "translation": "Now, now, calm down for a second\nGeremon, Mushroomon.\nDon't you think we should give\nthese guys a chance to run, first?\nYa catch my drift?\n\nIf you hurry and disappear, you'll\nbe saved from a world of hurt.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0157",
     "original": "Selectors select,\nErasers erase.\nWe're built for, and solely exist for\nthat purpose alone.",
     "translation": "Selectors select,\nErasers erase.\nWe're built for, and solely exist for\nthat purpose alone.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0158",
     "original": "We do not require your mercy or\nforgiveness.\nWe have no need to escape.\nWe have no need to disappear.",
     "translation": "We do not require your mercy or\nforgiveness.\nWe have no need to escape.\nWe have no need to disappear.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0159",
     "original": "Checking erase list.\nConfirming Lost Digimon type.\nErase Sukamon.\nErase Geremon.\nErase Mushroomon.",
     "translation": "Checking erase list.\nConfirming Lost Digimon type.\nErase Sukamon.\nErase Geremon.\nErase Mushroomon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0160",
     "original": "Erased...? What are ya going on\nabout?",
     "translation": "Erased...? What are ya going on\nabout?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0161",
     "original": "Erase!",
     "translation": "Erase!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0162",
     "original": "Erasure complete.",
     "translation": "Erasure complete.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0163",
     "original": "Eraser Team A,\nShift into three-manned formation.\nLocate the listed Lost Digimon\nand erase them.",
     "translation": "Eraser Team A,\nShift into three-manned formation.\nLocate the listed Lost Digimon\nand erase them.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0164",
     "original": "I managed to get in contact with\n^P and the others!",
     "translation": "I managed to get in contact with\n^P and the others!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0165",
     "original": "It'd be great if they could hurry\nback, but at this rate...\nI have a bad feeling about this...",
     "translation": "It'd be great if they could hurry\nback, but at this rate...\nI have a bad feeling about this...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0166",
     "original": "It appears the ones who sent\nthe virus were the Selectors, but...\nI just don't understand what their\nobjective is.",
     "translation": "It appears the ones who sent\nthe virus were the Selectors, but...\nI just don't understand what their\nobjective is.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0167",
     "original": "...Oh no! Those guys are from the \nSelectors...!",
     "translation": "...Oh no! Those guys are from the \nSelectors...!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0168",
     "original": "Digimon encountered.\nDigimon encountered.",
     "translation": "Digimon encountered.\nDigimon encountered.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0169",
     "original": "Checking erase list.\nVerifying types of Keep Digimon.\nGatomon untouchable.\nTerriermon untouchable.\nRenamon untouchable.\nUnauthorized to erase.\nFreeze until the implementation\nof Operation Defrag Phase 3.",
     "translation": "Checking erase list.\nVerifying types of Keep Digimon.\nGatomon untouchable.\nTerriermon untouchable.\nRenamon untouchable.\nUnauthorized to erase.\nFreeze until the implementation\nof Operation Defrag Phase 3.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0170",
     "original": "Freeze.\nFreeze.",
     "translation": "Freeze.\nFreeze.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0171",
     "original": "Gatomon, Terriermon, Renamon\nconfirmed frozen.",
     "translation": "Gatomon, Terriermon, Renamon\nconfirmed frozen.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0172",
     "original": "Destroy the Evolution Tree.\nAmend the program.\nDestroy the Evolution Tree.\nAmend the program.",
     "translation": "Destroy the Evolution Tree.\nAmend the program.\nDestroy the Evolution Tree.\nAmend the program.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0173",
     "original": "Connection was lost so suddenly. \nI wonder what happened?\nC-could it be... \nEveryone's already been...",
     "translation": "Connection was lost so suddenly. \nI wonder what happened?\nC-could it be... \nEveryone's already been...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0174",
     "original": "Don't say that! There's no way \nsomething like that can happen!",
     "translation": "Don't say that! There's no way \nsomething like that can happen!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0175",
     "original": "A... anyway... We'd better hurry\nand return to the DigiBase.\nEnter the location of the DigiShip\ninto your Digivice!",
     "translation": "A... anyway... We'd better hurry\nand return to the DigiBase.\nEnter the location of the DigiShip\ninto your Digivice!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0176",
     "original": "Obtained Key Item!\n^i",
     "translation": "Obtained Key Item!\n^i",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0177",
     "original": "I'm starting to get a bad feeling...\nLet's hurry back right away!",
     "translation": "I'm starting to get a bad feeling...\nLet's hurry back right away!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0178",
     "original": "I don't see any strange guys \naround here or anything, but...",
     "translation": "I don't see any strange guys \naround here or anything, but...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0179",
     "original": "I also don't see any Digimon,\neither...",
     "translation": "I also don't see any Digimon,\neither...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0180",
     "original": "Could they have been startled by\nthat earthquake and ran away?",
     "translation": "Could they have been startled by\nthat earthquake and ran away?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0181",
     "original": "As for the DigiBase...\n\nIt's a little shaken up, but it \nseems to still be in one piece.",
     "translation": "As for the DigiBase...\n\nIt's a little shaken up, but it \nseems to still be in one piece.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0182",
     "original": "Those Bandits really made me \nworried for a moment, there!",
     "translation": "Those Bandits really made me \nworried for a moment, there!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0183",
     "original": "Wait a minute!\n\nSomething's coming from inside \nthe DigiBase...",
     "translation": "Wait a minute!\n\nSomething's coming from inside \nthe DigiBase...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0184",
     "original": "Eraser Team B\nMission complete.\nEvolution Tree destroyed,\nprogram amended.",
     "translation": "Eraser Team B\nMission complete.\nEvolution Tree destroyed,\nprogram amended.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0185",
     "original": "Wait right there! You guys are...\n\nCould you be the Selectors aiming\nto destroy this world?!\nWhat are you doing here?!",
     "translation": "Wait right there! You guys are...\n\nCould you be the Selectors aiming\nto destroy this world?!\nWhat are you doing here?!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0186",
     "original": "If you laid even a finger on those\nDigimon, I won't forgive you!",
     "translation": "If you laid even a finger on those\nDigimon, I won't forgive you!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0187",
     "original": "Selectors are beings who select\nwhat is necessary.\nWe, the Erasers, are beings who\nerase the unnecessary.",
     "translation": "Selectors are beings who select\nwhat is necessary.\nWe, the Erasers, are beings who\nerase the unnecessary.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0188",
     "original": "Checking erase list.\nChecking erase list.",
     "translation": "Checking erase list.\nChecking erase list.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0189",
     "original": "Could it be... the Digimon in the \nDigiBase..? No way...\nDid you erase them?!",
     "translation": "Could it be... the Digimon in the \nDigiBase..? No way...\nDid you erase them?!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0190",
     "original": "Looks like they're looking to erase\nus next...!",
     "translation": "Looks like they're looking to erase\nus next...!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0191",
     "original": "Digivice detected!\nUndercover Tamer discovered!\nDigivice detected!\nUndercover Tamer discovered!",
     "translation": "Digivice detected!\nUndercover Tamer discovered!\nDigivice detected!\nUndercover Tamer discovered!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0192",
     "original": "Confirm Tamer's ability.\nInitiate battle!\nConfirm Tamer's ability.\nInitiate battle!",
     "translation": "Confirm Tamer's ability.\nInitiate battle!\nConfirm Tamer's ability.\nInitiate battle!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0193",
     "original": "Undercover... Tamer?\nWhat are you talking about?\nWe're not exactly hiding from\nyou guys...",
     "translation": "Undercover... Tamer?\nWhat are you talking about?\nWe're not exactly hiding from\nyou guys...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0194",
     "original": "Looks like these guys are lookin' \nfor a fight!\nGood luck, ^P!\nKick their butts!",
     "translation": "Looks like these guys are lookin' \nfor a fight!\nGood luck, ^P!\nKick their butts!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0195",
     "original": "I'm sure that was enough to get\na taste of ^P's strength.",
     "translation": "I'm sure that was enough to get\na taste of ^P's strength.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0196",
     "original": "They're not some Tamer who's \ngoing to listen to orders.\nSo I suggest you back off and \nnever show yourselves again.",
     "translation": "They're not some Tamer who's \ngoing to listen to orders.\nSo I suggest you back off and \nnever show yourselves again.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0197",
     "original": "Confirm Tamer's ability.\nAbility is of Rank G+.\nConfirm Tamer's ability.\nAbility is of Rank G+.",
     "translation": "Confirm Tamer's ability.\nAbility is of Rank G+.\nConfirm Tamer's ability.\nAbility is of Rank G+.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0198",
     "original": "P-Rank check begin.\nRemoving limiter!\nP-Rank check begin.\nRemoving limiter!",
     "translation": "P-Rank check begin.\nRemoving limiter!\nP-Rank check begin.\nRemoving limiter!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0001_0199",
     "original": "W...what's with these guys?!\nThey got even weirder-looking?!",
     "translation": "W...what's with these guys?!\nThey got even weirder-looking?!",
-    "stage": 1,
     "context": ""
   }
 ]

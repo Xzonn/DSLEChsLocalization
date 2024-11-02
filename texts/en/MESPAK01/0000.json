@@ -3,399 +3,342 @@
     "key": "MESPAK01_0000_0000",
     "original": "That's the DigiBase! It's a place \nwe can rest and relax!",
     "translation": "That's the DigiBase! It's a place \nwe can rest and relax!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0001",
     "original": "To the right is Login Mountain, \nand to the left is Packet Coast!",
     "translation": "To the right is Login Mountain, \nand to the left is Packet Coast!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0002",
     "original": "Next to Chip Forest is \nPatch Prairie.",
     "translation": "Next to Chip Forest is \nPatch Prairie.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0003",
     "original": "This port takes you to \nLabel Forest.",
     "translation": "This port takes you to \nLabel Forest.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0004",
     "original": "Loop Swamp is connected to \nNorth Marine.",
     "translation": "Loop Swamp is connected to \nNorth Marine.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0005",
     "original": "There's a Mine connected to \nLogin Mountain!",
     "translation": "There's a Mine connected to \nLogin Mountain!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0006",
     "original": "That's Pallet Amazon! It's the \nentrance to South Bridge.",
     "translation": "That's Pallet Amazon! It's the \nentrance to South Bridge.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0007",
     "original": "That's the DigiPort to Tamer Town.\nWhy don't you try out online play?",
     "translation": "That's the DigiPort to Tamer Town.\nWhy don't you try out online play?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0008",
     "original": "Register Jungle is connected to \nLimit Valley.",
     "translation": "Register Jungle is connected to \nLimit Valley.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0009",
     "original": "To the right is Palace Laboratory, \nand to the left is Limit Valley!",
     "translation": "To the right is Palace Laboratory, \nand to the left is Limit Valley!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0010",
     "original": "That's the Port to Pixel Desert, \nwhich is connected to South Cave.",
     "translation": "That's the Port to Pixel Desert, \nwhich is connected to South Cave.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0011",
     "original": "You can go to a place called \nShadow Hell via South Cave!",
     "translation": "You can go to a place called \nShadow Hell via South Cave!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0012",
     "original": "There's a large hole in GraBo Cave,\nleading to Wizard Temple.",
     "translation": "There's a large hole in GraBo Cave,\nleading to Wizard Temple.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0013",
     "original": "To the right is Task Canyon, \nand to the left is Access Glacier!",
     "translation": "To the right is Task Canyon, \nand to the left is Access Glacier!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0014",
     "original": "There's a spring in GraBo Marine.\nYou can reach Angler Tunnel through it.",
     "translation": "There's a spring in GraBo Marine.\nYou can reach Angler Tunnel through it.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0015",
     "original": "It looks like there's a spring \nsomewhere in GraBo Marine!",
     "translation": "It looks like there's a spring \nsomewhere in GraBo Marine!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0016",
     "original": "Angler Tunnel is connected to \nGraBo Marine.",
     "translation": "Angler Tunnel is connected to \nGraBo Marine.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0017",
     "original": "That's Wizard Temple! It's \nconnected to GraBo Marine.",
     "translation": "That's Wizard Temple! It's \nconnected to GraBo Marine.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0018",
     "original": "You can only reach Graphics Board \nCentral through this Port.",
     "translation": "You can only reach Graphics Board \nCentral through this Port.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0019",
     "original": "There appears to be a large hole \nsomewhere in Risk Cave.",
     "translation": "There appears to be a large hole \nsomewhere in Risk Cave.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0020",
     "original": "There's a Port somewhere inside \nChrome Mine.",
     "translation": "There's a Port somewhere inside \nChrome Mine.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0021",
     "original": "It looks like there's a Port \nsomewhere in Class Desert.",
     "translation": "It looks like there's a Port \nsomewhere in Class Desert.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0022",
     "original": "Where will you go?",
     "translation": "Where will you go?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0023",
     "original": "DigiPort",
     "translation": "DigiPort",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0024",
     "original": "Login Mountain Port",
     "translation": "Login Mountain Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0025",
     "original": "Chip Forest Port",
     "translation": "Chip Forest Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0026",
     "original": "Label Forest Port",
     "translation": "Label Forest Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0027",
     "original": "Loop Swamp Port",
     "translation": "Loop Swamp Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0028",
     "original": "Magnet Mine Port",
     "translation": "Magnet Mine Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0029",
     "original": "Pallet Amazon Port",
     "translation": "Pallet Amazon Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0030",
     "original": "Tamer Town Port",
     "translation": "Tamer Town Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0031",
     "original": "Register Jungle Port",
     "translation": "Register Jungle Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0032",
     "original": "Limit Valley Port",
     "translation": "Limit Valley Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0033",
     "original": "Pixel Desert Port",
     "translation": "Pixel Desert Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0034",
     "original": "Shadow Hell Port",
     "translation": "Shadow Hell Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0035",
     "original": "Task Canyon North Port",
     "translation": "Task Canyon North Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0036",
     "original": "Task Canyon South Port",
     "translation": "Task Canyon South Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0037",
     "original": "Thriller Ruins East Port",
     "translation": "Thriller Ruins East Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0038",
     "original": "Thriller Ruins West Port",
     "translation": "Thriller Ruins West Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0039",
     "original": "Access Glacier South Port",
     "translation": "Access Glacier South Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0040",
     "original": "Access Glacier North Port",
     "translation": "Access Glacier North Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0041",
     "original": "Proxy Island West Port",
     "translation": "Proxy Island West Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0042",
     "original": "Proxy Island East Port",
     "translation": "Proxy Island East Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0043",
     "original": "Angler Tunnel Port",
     "translation": "Angler Tunnel Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0044",
     "original": "Wizard Temple Port",
     "translation": "Wizard Temple Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0045",
     "original": "Graphics Board Central Port",
     "translation": "Graphics Board Central Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0046",
     "original": "Risk Factory Port",
     "translation": "Risk Factory Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0047",
     "original": "Chrome Mine Port",
     "translation": "Chrome Mine Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0048",
     "original": "Class Desert Port",
     "translation": "Class Desert Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0049",
     "original": "East City Port",
     "translation": "East City Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0050",
     "original": "West City Port",
     "translation": "West City Port",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0051",
     "original": "???",
     "translation": "???",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0052",
     "original": "Residing Species",
     "translation": "Residing Species",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0053",
     "original": "Go to this Port?",
     "translation": "Go to this Port?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0054",
     "original": "Let's go",
     "translation": "Let's go",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0055",
     "original": "I changed my mind",
     "translation": "I changed my mind",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0000_0056",
     "original": "Where will you go?",
     "translation": "Where will you go?",
-    "stage": 1,
     "context": ""
   }
 ]

@@ -3,1085 +3,930 @@
     "key": "MESPAK01_0010_0000",
     "original": "Play using wireless communications.",
     "translation": "Play using wireless communications.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0001",
     "original": "Play using Nintendo WFC.",
     "translation": "Play using Nintendo WFC.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0002",
     "original": "Battle against a player's Digimon.",
     "translation": "Battle against a player's Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0003",
     "original": "Create DigiEgg by matching Digimon.",
     "translation": "Create DigiEgg by matching Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0004",
     "original": "Trade Digimon with another player.",
     "translation": "Trade Digimon with another player.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0005",
     "original": "Send Digimon to connected player for training.",
     "translation": "Send Digimon to connected player for training.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0006",
     "original": "Call back a Digimon that is away training.",
     "translation": "Call back a Digimon that is away training.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0007",
     "original": "Face off against friends Digimon.",
     "translation": "Face off against friends Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0008",
     "original": "Face off against a strangers \nDigimon.",
     "translation": "Face off against a strangers \nDigimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0009",
     "original": "Meet with a friends Digimon and \ncreate a DigiEgg.",
     "translation": "Meet with a friends Digimon and \ncreate a DigiEgg.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0010",
     "original": "Meet with a strangers Digimon and \ncreate a DigiEgg.",
     "translation": "Meet with a strangers Digimon and \ncreate a DigiEgg.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0011",
     "original": "Leave the Connection Lobby?",
     "translation": "Leave the Connection Lobby?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0012",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0013",
     "original": "Not yet",
     "translation": "Not yet",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0014",
     "original": "Are you OK with these settings?",
     "translation": "Are you OK with these settings?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0015",
     "original": "Yes, they're good.",
     "translation": "Yes, they're good.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0016",
     "original": "No, let me re-enter.",
     "translation": "No, let me re-enter.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0017",
     "original": "In order to use the Connection Lobby,\nyou need to save first. Save the game?",
     "translation": "In order to use the Connection Lobby,\nyou need to save first. Save the game?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0018",
     "original": "Save",
     "translation": "Save",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0019",
     "original": "I changed my mind",
     "translation": "I changed my mind",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0020",
     "original": "DS Wireless Communication is \nunable to occur.",
     "translation": "DS Wireless Communication is \nunable to occur.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0021",
     "original": "An error has occurred. Please turn \noff the power and retry.",
     "translation": "An error has occurred. Please turn \noff the power and retry.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0022",
     "original": "Searching for a link partner...",
     "translation": "Searching for a link partner...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0023",
     "original": "Waiting for a link partner...",
     "translation": "Waiting for a link partner...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0024",
     "original": "'^0' has been found! Will you begin \nthe connection?",
     "translation": "'^0' has been found! Will you begin \nthe connection?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0025",
     "original": "Yes, connect.",
     "translation": "Yes, connect.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0026",
     "original": "No, let me re-try.",
     "translation": "No, let me re-try.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0027",
     "original": "Awaiting partners reply, \nplease wait.",
     "translation": "Awaiting partners reply, \nplease wait.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0028",
     "original": "Awaiting partners decision, \nplease wait.",
     "translation": "Awaiting partners decision, \nplease wait.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0029",
     "original": "Please wait.",
     "translation": "Please wait.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0030",
     "original": "Connection Error!\nConnection has been terminated.",
     "translation": "Connection Error!\nConnection has been terminated.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0031",
     "original": "Connection Error!\nConnection with partner has failed.",
     "translation": "Connection Error!\nConnection with partner has failed.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0032",
     "original": "The partner has disconnected, \nconnection will now end.",
     "translation": "The partner has disconnected, \nconnection will now end.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0033",
     "original": "End DS Wireless Communications?",
     "translation": "End DS Wireless Communications?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0034",
     "original": "Yes, finish.",
     "translation": "Yes, finish.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0035",
     "original": "No, not yet.",
     "translation": "No, not yet.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0036",
     "original": "^0「s Information.\n\nTamer Rank: ^1\nPlay Time: ^2:^3:^4\nTamer Points: ^5\nMatching No: ^6\nBattles Won: ^7\nBattles Lost: ^8",
     "translation": "^0「s Information.\n\nTamer Rank: ^1\nPlay Time: ^2:^3:^4\nTamer Points: ^5\nMatching No: ^6\nBattles Won: ^7\nBattles Lost: ^8",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0037",
     "original": "Wi-Fi Connection Settings\nFriend Settings\nChange Tamer Name\nReturn to Title",
     "translation": "Wi-Fi Connection Settings\nFriend Settings\nChange Tamer Name\nReturn to Title",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0038",
     "original": "This game has no save data.",
     "translation": "This game has no save data.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0039",
     "original": "Return to title screen?",
     "translation": "Return to title screen?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0040",
     "original": "Yes, return.",
     "translation": "Yes, return.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0041",
     "original": "No, not yet.",
     "translation": "No, not yet.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0042",
     "original": "Confirm Friend Code\nCheck Friend List\nAdd Friend\nReturn",
     "translation": "Confirm Friend Code\nCheck Friend List\nAdd Friend\nReturn",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0043",
     "original": "Trade via Wireless Communication\nEnter Friend Code\nReturn",
     "translation": "Trade via Wireless Communication\nEnter Friend Code\nReturn",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0044",
     "original": "'^0'\nChange Tamer name?",
     "translation": "'^0'\nChange Tamer name?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0045",
     "original": "Tamer name will be '^0', is that OK?",
     "translation": "Tamer name will be '^0', is that OK?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0046",
     "original": "You did not change Tamer name.",
     "translation": "You did not change Tamer name.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0047",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0048",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0049",
     "original": "Without a Wi-Fi connection, your \nFriend Code will not be visible.\n\nWould you like to set up a Wi-Fi \nConnection?",
     "translation": "Without a Wi-Fi connection, your \nFriend Code will not be visible.\n\nWould you like to set up a Wi-Fi \nConnection?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0050",
     "original": "Your Friend Code.\n'^0'",
     "translation": "Your Friend Code.\n'^0'",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0051",
     "original": "'^0'",
     "translation": "'^0'",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0052",
     "original": "Delete friend",
     "translation": "Delete friend",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0053",
     "original": "Close menu",
     "translation": "Close menu",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0054",
     "original": "Add '^0' to Friend List?",
     "translation": "Add '^0' to Friend List?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0055",
     "original": "Yes, add friend.",
     "translation": "Yes, add friend.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0056",
     "original": "No, don't add.",
     "translation": "No, don't add.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0057",
     "original": "Did not add friend.",
     "translation": "Did not add friend.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0058",
     "original": "Sending your friend information to \n'^0'...",
     "translation": "Sending your friend information to \n'^0'...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0059",
     "original": "'^0' was successfully added to \nyour Friend List!",
     "translation": "'^0' was successfully added to \nyour Friend List!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0060",
     "original": "'^0' has already been registered.",
     "translation": "'^0' has already been registered.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0061",
     "original": "Failed to add friend.",
     "translation": "Failed to add friend.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0062",
     "original": "No friends registered.",
     "translation": "No friends registered.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0063",
     "original": "'^0' will be erased! \nOnce erased, it will be gone forever! \nAre you absolutely sure?",
     "translation": "'^0' will be erased! \nOnce erased, it will be gone forever! \nAre you absolutely sure?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0064",
     "original": "Yes, erase it.",
     "translation": "Yes, erase it.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0065",
     "original": "No, let me reconsider.",
     "translation": "No, let me reconsider.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0066",
     "original": "'^0' was erased!",
     "translation": "'^0' was erased!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0067",
     "original": "That is your Friend Code.",
     "translation": "That is your Friend Code.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0068",
     "original": "Friend Code incorrect.",
     "translation": "Friend Code incorrect.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0069",
     "original": "Friend Code is already registered.",
     "translation": "Friend Code is already registered.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0070",
     "original": "Please enter friend's name.",
     "translation": "Please enter friend's name.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0071",
     "original": "A new Friend was added to the \nFriend List!",
     "translation": "A new Friend was added to the \nFriend List!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0072",
     "original": "You cannot add any more friends! \nIn order to add a new friend, \nyou must first delete one.",
     "translation": "You cannot add any more friends! \nIn order to add a new friend, \nyou must first delete one.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0073",
     "original": "Give up adding a new Friend Code?",
     "translation": "Give up adding a new Friend Code?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0074",
     "original": "Yes, give up.",
     "translation": "Yes, give up.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0075",
     "original": "No, don't give up.",
     "translation": "No, don't give up.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0076",
     "original": "Challenge this member to a battle?",
     "translation": "Challenge this member to a battle?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0077",
     "original": "Yes, challenge.",
     "translation": "Yes, challenge.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0078",
     "original": "No, find another.",
     "translation": "No, find another.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0079",
     "original": "Sending Entry Data。。。\nPlease wait。。。",
     "translation": "Sending Entry Data。。。\nPlease wait。。。",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0080",
     "original": "No holding back！ \nFight on at full power！",
     "translation": "No holding back！ \nFight on at full power！",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0081",
     "original": "Only hold back a little。。。\nWill it be enough, I wonder。。。",
     "translation": "Only hold back a little。。。\nWill it be enough, I wonder。。。",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0082",
     "original": "Hold back quite a lot。。。\nI won「t lose easily！",
     "translation": "Hold back quite a lot。。。\nI won「t lose easily！",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0083",
     "original": "Completely hold back strength。。。\nThis is also part of training！",
     "translation": "Completely hold back strength。。。\nThis is also part of training！",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0084",
     "original": "Fight with this handicap?",
     "translation": "Fight with this handicap?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0085",
     "original": "Yes, thats fine.",
     "translation": "Yes, thats fine.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0086",
     "original": "No, let me re-choose.",
     "translation": "No, let me re-choose.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0087",
     "original": "^0",
     "translation": "^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0088",
     "original": "ＷＩＮ　　^1",
     "translation": "ＷＩＮ　　^1",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0089",
     "original": "ＬＯＳＥ　^2",
     "translation": "ＬＯＳＥ　^2",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0090",
     "original": "Challenge '^0' to another match?",
     "translation": "Challenge '^0' to another match?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0091",
     "original": "Yes, challenge again.",
     "translation": "Yes, challenge again.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0092",
     "original": "No, end communications.",
     "translation": "No, end communications.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0093",
     "original": "A match has been found!",
     "translation": "A match has been found!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0094",
     "original": "A match was unable to be found. \nEnding communications.",
     "translation": "A match was unable to be found. \nEnding communications.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0095",
     "original": "Moving to ^0「s \nFarm Island.",
     "translation": "Moving to ^0「s \nFarm Island.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0096",
     "original": "Arrived at ^0「s Farm Island!",
     "translation": "Arrived at ^0「s Farm Island!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0097",
     "original": "You cannot choose yet.",
     "translation": "You cannot choose yet.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0098",
     "original": "Friend has not been registered in \nFriend List.",
     "translation": "Friend has not been registered in \nFriend List.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0099",
     "original": "There is no Farm, Digimon \nMatching cannot occur.",
     "translation": "There is no Farm, Digimon \nMatching cannot occur.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0100",
     "original": "There are no Digimon in the Farm, \nDigimon Matching cannot occur.",
     "translation": "There are no Digimon in the Farm, \nDigimon Matching cannot occur.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0101",
     "original": "There are no Digimon in the Farm \nthat can be Matched, Digimon \nMatching cannot occur.",
     "translation": "There are no Digimon in the Farm \nthat can be Matched, Digimon \nMatching cannot occur.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0102",
     "original": "There are no Digimon that can \nbe traded.",
     "translation": "There are no Digimon that can \nbe traded.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0103",
     "original": "There are no Digimon that can \nbe trained.",
     "translation": "There are no Digimon that can \nbe trained.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0104",
     "original": "There are too many Digimon, \nyou cannot receive partners \nDigimon.",
     "translation": "There are too many Digimon, \nyou cannot receive partners \nDigimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0105",
     "original": "There is a chance the main Wi-Fi \nuser's information will disappear. \nPlease confirm settings in the \nWi-Fi Connection settings before \nattempting to connect.",
     "translation": "There is a chance the main Wi-Fi \nuser's information will disappear. \nPlease confirm settings in the \nWi-Fi Connection settings before \nattempting to connect.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0106",
     "original": "Connect to Wi-Fi Connection?",
     "translation": "Connect to Wi-Fi Connection?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0107",
     "original": "Wi-Fi Connection will use the \nsystem's pre-set Wi-Fi settings. \nKeep system Wi-Fi settings and \nproceed to Wi-Fi Connection?",
     "translation": "Wi-Fi Connection will use the \nsystem's pre-set Wi-Fi settings. \nKeep system Wi-Fi settings and \nproceed to Wi-Fi Connection?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0108",
     "original": "System User's Wi-Fi settings \nhave been saved to the DS Card. \nPlease use these Wi-Fi connection \nsettings from now own.",
     "translation": "System User's Wi-Fi settings \nhave been saved to the DS Card. \nPlease use these Wi-Fi connection \nsettings from now own.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0109",
     "original": "The Wi-Fi system user data does \nnot match the DS Cart, Wi-Fi \nconnection cannot occur.",
     "translation": "The Wi-Fi system user data does \nnot match the DS Cart, Wi-Fi \nconnection cannot occur.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0110",
     "original": "Update the Wi-Fi user settings \nsaved to the DS cart?\n\nIf you update the Wi-Fi user \nsettings, the Connection data \nyou have used until this point \nwill be lost.",
     "translation": "Update the Wi-Fi user settings \nsaved to the DS cart?\n\nIf you update the Wi-Fi user \nsettings, the Connection data \nyou have used until this point \nwill be lost.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0111",
     "original": "Connected to Wi-Fi Connection, \nUser Information will be updated.\n\nAre you sure about this?",
     "translation": "Connected to Wi-Fi Connection, \nUser Information will be updated.\n\nAre you sure about this?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0112",
     "original": "Connecting to Wi-Fi, please wait.",
     "translation": "Connecting to Wi-Fi, please wait.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0113",
     "original": "You cannot use your current \nTamer Name during Wi-Fi \nConnection. Please change your \nTamer Name.",
     "translation": "You cannot use your current \nTamer Name during Wi-Fi \nConnection. Please change your \nTamer Name.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0114",
     "original": "You will be disconnected from \nWi-Fi, is that OK?",
     "translation": "You will be disconnected from \nWi-Fi, is that OK?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0115",
     "original": "Disconnecting from Wi-Fi.",
     "translation": "Disconnecting from Wi-Fi.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0116",
     "original": "Disconnected from Wi-Fi.",
     "translation": "Disconnected from Wi-Fi.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0117",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0118",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0119",
     "original": "Unable to connect to Wi-Fi. \nPlease view the guidebook for \nmore details.\n\nError code: ^0",
     "translation": "Unable to connect to Wi-Fi. \nPlease view the guidebook for \nmore details.\n\nError code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0120",
     "original": "Wi-Fi connection is currently full, \nservice will be disconnected.\nPlease wait a while and try again.\n\nError Code: ^0",
     "translation": "Wi-Fi connection is currently full, \nservice will be disconnected.\nPlease wait a while and try again.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0121",
     "original": "Due to being unused for a long \nperiod of time, your Wi-Fi \nconnection ID was deleted. \nPlease view the guidebook for \nmore details.\n\nError Code: ^0",
     "translation": "Due to being unused for a long \nperiod of time, your Wi-Fi \nconnection ID was deleted. \nPlease view the guidebook for \nmore details.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0122",
     "original": "This softwares Wi-Fi connection \nservice has come to an end.\nThank you for playing.\n\nError Code: ^0",
     "translation": "This softwares Wi-Fi connection \nservice has come to an end.\nThank you for playing.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0123",
     "original": "Unable to find access point. \nPlease move closer to access \npoint and try again.\n\nError Code: ^0",
     "translation": "Unable to find access point. \nPlease move closer to access \npoint and try again.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0124",
     "original": "Unable to find a connectable \naccess point.\nPlease check Wi-Fi settings \nbefore re-trying.\n\nError Code: ^0",
     "translation": "Unable to find a connectable \naccess point.\nPlease check Wi-Fi settings \nbefore re-trying.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0125",
     "original": "Unable to connect to the access \npoint as it is currently full. \nPlease wait a while and try again.\n\nError Code: ^0",
     "translation": "Unable to connect to the access \npoint as it is currently full. \nPlease wait a while and try again.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0126",
     "original": "Unable to connect to Wi-Fi. \nPlease check your Wi-Fi settings \nbefore re-trying.\n\nError Code: ^0",
     "translation": "Unable to connect to Wi-Fi. \nPlease check your Wi-Fi settings \nbefore re-trying.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0127",
     "original": "No reply received from Player. \nPlayer may have disconnected from\nWi-Fi, or may not be registered \nto Friend List.\n\nError Code: ^0",
     "translation": "No reply received from Player. \nPlayer may have disconnected from\nWi-Fi, or may not be registered \nto Friend List.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0128",
     "original": "No reply received from Player.\n\nError Code: ^0",
     "translation": "No reply received from Player.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0129",
     "original": "No reply from Player.\n\nError Code: ^0",
     "translation": "No reply from Player.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0130",
     "original": "A communication error has \noccurred.\n\nError Code: ^0",
     "translation": "A communication error has \noccurred.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0131",
     "original": "Download failed.\n\nError Code: ^0",
     "translation": "Download failed.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0132",
     "original": "An error has occurred. Unable \nto use Wi-Fi connection. \nPlease turn off the power and \ntry again.\n\nError Code: ^0",
     "translation": "An error has occurred. Unable \nto use Wi-Fi connection. \nPlease turn off the power and \ntry again.\n\nError Code: ^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0133",
     "original": "A connection error has occurred.",
     "translation": "A connection error has occurred.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0134",
     "original": "Connection partner has been lost.",
     "translation": "Connection partner has been lost.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0135",
     "original": "Friend has not been registered in \nFriend List.",
     "translation": "Friend has not been registered in \nFriend List.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0136",
     "original": "Unable to find a Matching partner.",
     "translation": "Unable to find a Matching partner.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0137",
     "original": "Friend list was recorded.\n\nYou must provide friends with \nyour new Friend Code.",
     "translation": "Friend list was recorded.\n\nYou must provide friends with \nyour new Friend Code.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0138",
     "original": "Searching for Partner...",
     "translation": "Searching for Partner...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0139",
     "original": "Searching for Partner...",
     "translation": "Searching for Partner...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0140",
     "original": "Partner found!",
     "translation": "Partner found!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0141",
     "original": "Please wait.",
     "translation": "Please wait.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0142",
     "original": "Waiting for reply from partner.",
     "translation": "Waiting for reply from partner.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0143",
     "original": "Digimon trading has been cancelled.",
     "translation": "Digimon trading has been cancelled.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0144",
     "original": "Trading Digimon.",
     "translation": "Trading Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0145",
     "original": "Sent ^0 to ^1's for training.",
     "translation": "Sent ^0 to ^1's for training.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0146",
     "original": "Cannot remove Digimon from \ntraining at ^0's.",
     "translation": "Cannot remove Digimon from \ntraining at ^0's.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0147",
     "original": "Digimon has returned from training \nat ^0's.",
     "translation": "Digimon has returned from training \nat ^0's.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0148",
     "original": "Trading complete.",
     "translation": "Trading complete.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0149",
     "original": "Digimon training has been cancelled.",
     "translation": "Digimon training has been cancelled.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0150",
     "original": "Return from training has been \ncancelled.",
     "translation": "Return from training has been \ncancelled.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0151",
     "original": "Connection ended.",
     "translation": "Connection ended.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0152",
     "original": "Connection ended.",
     "translation": "Connection ended.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0153",
     "original": "Connection ended.",
     "translation": "Connection ended.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0010_0154",
     "original": "Digimon trading had ended.",
     "translation": "Digimon trading had ended.",
-    "stage": 1,
     "context": ""
   }
 ]

@@ -3,350 +3,300 @@
     "key": "MESPAK04_0025_0000",
     "original": "Attack +144\nSpeed +150\nSleep Resist +12%",
     "translation": "Attack +144\nSpeed +150\nSleep Resist +12%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0001",
     "original": "Attack +184\nSpeed +170\nSleep Resist +12%",
     "translation": "Attack +184\nSpeed +170\nSleep Resist +12%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0002",
     "original": "Attack +224\nSpeed +180\nSleep Resist +12%",
     "translation": "Attack +224\nSpeed +180\nSleep Resist +12%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0003",
     "original": "Attack +254\nSpeed +200\nSleep Resist +15%",
     "translation": "Attack +254\nSpeed +200\nSleep Resist +15%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0004",
     "original": "Attack +274\nSpeed +220\nSleep Resist +15%",
     "translation": "Attack +274\nSpeed +220\nSleep Resist +15%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0005",
     "original": "Attack +314\nSpeed +240\nSleep Resist +15%",
     "translation": "Attack +314\nSpeed +240\nSleep Resist +15%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0006",
     "original": "Attack +344\nSpeed +250\nSleep Resist +17%",
     "translation": "Attack +344\nSpeed +250\nSleep Resist +17%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0007",
     "original": "Attack +374\nSpeed +270\nSleep Resist +17%",
     "translation": "Attack +374\nSpeed +270\nSleep Resist +17%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0008",
     "original": "Attack +414\nSpeed +300\nSleep Resist +17%",
     "translation": "Attack +414\nSpeed +300\nSleep Resist +17%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0009",
     "original": "Attack +444\nSpeed +350\nSleep Resist +20%",
     "translation": "Attack +444\nSpeed +350\nSleep Resist +20%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0010",
     "original": "Attack +544\nSpeed +380\nSleep Resist +20%",
     "translation": "Attack +544\nSpeed +380\nSleep Resist +20%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0011",
     "original": "Attack +644\nSpeed +400\nSleep Resist +20%",
     "translation": "Attack +644\nSpeed +400\nSleep Resist +20%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0012",
     "original": "Attack +844\nSpeed +500\nAccuracy +30%\nSleep Resist +25%",
     "translation": "Attack +844\nSpeed +500\nAccuracy +30%\nSleep Resist +25%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0013",
     "original": "Attack +34\nSpeed +500\nAccuracy +40%\nCritical +10%",
     "translation": "Attack +34\nSpeed +500\nAccuracy +40%\nCritical +10%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0014",
     "original": "Attack +244\nSpeed +360\nAccuracy +100%",
     "translation": "Attack +244\nSpeed +360\nAccuracy +100%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0015",
     "original": "Attack +77\nSpeed +60\nParalysis Resist +10%",
     "translation": "Attack +77\nSpeed +60\nParalysis Resist +10%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0016",
     "original": "Attack +97\nSpeed +80\nParalysis Resist +10%",
     "translation": "Attack +97\nSpeed +80\nParalysis Resist +10%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0017",
     "original": "Attack +127\nSpeed +100\nParalysis Resist +10%",
     "translation": "Attack +127\nSpeed +100\nParalysis Resist +10%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0018",
     "original": "Attack +157\nSpeed +110\nParalysis Resist +12%",
     "translation": "Attack +157\nSpeed +110\nParalysis Resist +12%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0019",
     "original": "Attack +187\nSpeed +130\nParalysis Resist +12%",
     "translation": "Attack +187\nSpeed +130\nParalysis Resist +12%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0020",
     "original": "Attack +237\nSpeed +150\nParalysis Resist +12%",
     "translation": "Attack +237\nSpeed +150\nParalysis Resist +12%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0021",
     "original": "Attack +277\nSpeed +160\nParalysis Resist +15%",
     "translation": "Attack +277\nSpeed +160\nParalysis Resist +15%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0022",
     "original": "Attack +297\nSpeed +180\nParalysis Resist +15%",
     "translation": "Attack +297\nSpeed +180\nParalysis Resist +15%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0023",
     "original": "Attack +337\nSpeed +200\nParalysis Resist +15%",
     "translation": "Attack +337\nSpeed +200\nParalysis Resist +15%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0024",
     "original": "Attack +357\nSpeed +220\nParalysis Resist +17%",
     "translation": "Attack +357\nSpeed +220\nParalysis Resist +17%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0025",
     "original": "Attack +397\nSpeed +250\nParalysis Resist +17%",
     "translation": "Attack +397\nSpeed +250\nParalysis Resist +17%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0026",
     "original": "Attack +437\nSpeed +270\nParalysis Resist +17%",
     "translation": "Attack +437\nSpeed +270\nParalysis Resist +17%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0027",
     "original": "Attack +477\nSpeed +300\nParalysis Resist +20%",
     "translation": "Attack +477\nSpeed +300\nParalysis Resist +20%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0028",
     "original": "Attack +577\nSpeed +320\nParalysis Resist +20%",
     "translation": "Attack +577\nSpeed +320\nParalysis Resist +20%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0029",
     "original": "Attack +677\nSpeed +350\nParalysis Resist +20%",
     "translation": "Attack +677\nSpeed +350\nParalysis Resist +20%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0030",
     "original": "Attack +877\nSpeed +350\nCritical +15%\nParalysis Resist +25%",
     "translation": "Attack +877\nSpeed +350\nCritical +15%\nParalysis Resist +25%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0031",
     "original": "Attack +307\nAccuracy +30%",
     "translation": "Attack +307\nAccuracy +30%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0032",
     "original": "Defense +20",
     "translation": "Defense +20",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0033",
     "original": "Defense +50",
     "translation": "Defense +50",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0034",
     "original": "Defense +120",
     "translation": "Defense +120",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0035",
     "original": "Defense +250",
     "translation": "Defense +250",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0036",
     "original": "Defense +1\n\nSparkling gold armor. \nCan be sold for a high price.",
     "translation": "Defense +1\n\nSparkling gold armor. \nCan be sold for a high price.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0037",
     "original": "Defense +800\nSpeed +200",
     "translation": "Defense +800\nSpeed +200",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0038",
     "original": "Defense +350",
     "translation": "Defense +350",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0039",
     "original": "Attack +50\nDefense +80\nPoison Resist +30%",
     "translation": "Attack +50\nDefense +80\nPoison Resist +30%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0040",
     "original": "Attack +70\nDefense +140\nPoison Resist +30%",
     "translation": "Attack +70\nDefense +140\nPoison Resist +30%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0041",
     "original": "Defense +180\nPoison Resist +40%\nParalysis Resist +30%",
     "translation": "Defense +180\nPoison Resist +40%\nParalysis Resist +30%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0042",
     "original": "Defense +260\nPoison Resist +40%\nParalysis Resist +40%",
     "translation": "Defense +260\nPoison Resist +40%\nParalysis Resist +40%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0043",
     "original": "Attack +110\nDefense +330\nConfusion Resist +40%\nSleep Resist +40%",
     "translation": "Attack +110\nDefense +330\nConfusion Resist +40%\nSleep Resist +40%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0044",
     "original": "Attack +140\nDefense +390\nConfusion Resist +50%\nSleep Resist +50%",
     "translation": "Attack +140\nDefense +390\nConfusion Resist +50%\nSleep Resist +50%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0045",
     "original": "Defense +460\nPoison Resist +50%",
     "translation": "Defense +460\nPoison Resist +50%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0046",
     "original": "Defense +520\nPoison Resist +50%",
     "translation": "Defense +520\nPoison Resist +50%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0047",
     "original": "Defense +600\nSpeed +220\nAccuracy +5%\nParalysis Resist +50%",
     "translation": "Defense +600\nSpeed +220\nAccuracy +5%\nParalysis Resist +50%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0048",
     "original": "Attack +190\nDefense +750\nAccuracy +10%\nParalysis Resist +80%",
     "translation": "Attack +190\nDefense +750\nAccuracy +10%\nParalysis Resist +80%",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0025_0049",
     "original": "Defense +88\nEscape Chance +10%\nPoison Resist +30%\nConfusion Resist +30%",
     "translation": "Defense +88\nEscape Chance +10%\nPoison Resist +30%\nConfusion Resist +30%",
-    "stage": 1,
     "context": ""
   }
 ]

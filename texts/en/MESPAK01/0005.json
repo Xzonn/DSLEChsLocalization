@@ -3,259 +3,222 @@
     "key": "MESPAK01_0005_0000",
     "original": "Check Quest PC?",
     "translation": "Check Quest PC?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0001",
     "original": "Check",
     "translation": "Check",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0002",
     "original": "Don't check",
     "translation": "Don't check",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0003",
     "original": "Turn off Quest PC?",
     "translation": "Turn off Quest PC?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0004",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0005",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0006",
     "original": "Accept Quest",
     "translation": "Accept Quest",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0007",
     "original": " Rewards",
     "translation": " Rewards",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0008",
     "original": "Conditions",
     "translation": "Conditions",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0009",
     "original": "Close",
     "translation": "Close",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0010",
     "original": "Abandon current quest \nto accept this quest?",
     "translation": "Abandon current quest \nto accept this quest?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0011",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0012",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0013",
     "original": "An abandoned quest has\nto be restarted, is that okay?",
     "translation": "An abandoned quest has\nto be restarted, is that okay?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0014",
     "original": "That's fine",
     "translation": "That's fine",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0015",
     "original": "I changed my mind",
     "translation": "I changed my mind",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0016",
     "original": "You accepted a new Quest.",
     "translation": "You accepted a new Quest.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0017",
     "original": "You accepted a new Quest.",
     "translation": "You accepted a new Quest.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0018",
     "original": "You have already accepted this \nQuest, will you quit?",
     "translation": "You have already accepted this \nQuest, will you quit?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0019",
     "original": "Quit",
     "translation": "Quit",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0020",
     "original": "Don't quit",
     "translation": "Don't quit",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0021",
     "original": "If you quit, you will have to restart \nfrom the beginning, is that okay?",
     "translation": "If you quit, you will have to restart \nfrom the beginning, is that okay?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0022",
     "original": "Quit",
     "translation": "Quit",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0023",
     "original": "Don't quit",
     "translation": "Don't quit",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0024",
     "original": "You quit this Quest.",
     "translation": "You quit this Quest.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0025",
     "original": "You have already completed this \nQuest.",
     "translation": "You have already completed this \nQuest.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0026",
     "original": "You have not accepted this \nQuest yet.",
     "translation": "You have not accepted this \nQuest yet.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0027",
     "original": "Bit",
     "translation": "Bit",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0028",
     "original": "Tamer Points",
     "translation": "Tamer Points",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0029",
     "original": "Consumable Items",
     "translation": "Consumable Items",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0030",
     "original": "Weapons",
     "translation": "Weapons",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0031",
     "original": "Armor",
     "translation": "Armor",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0032",
     "original": "Farm Goods",
     "translation": "Farm Goods",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0033",
     "original": "DigiPlates",
     "translation": "DigiPlates",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0034",
     "original": "Bug Plates",
     "translation": "Bug Plates",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0035",
     "original": "Key Items",
     "translation": "Key Items",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0005_0036",
     "original": "The client Digimon is currently \nbusy, you cannot accept this \nquest.",
     "translation": "The client Digimon is currently \nbusy, you cannot accept this \nquest.",
-    "stage": 1,
     "context": ""
   }
 ]

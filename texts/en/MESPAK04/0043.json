@@ -3,350 +3,300 @@
     "key": "MESPAK04_0043_0000",
     "original": "Any Digimon\nAt least (Level) 15\nx\nPlant Species Digimon\nAt least (Level) 15",
     "translation": "Any Digimon\nAt least (Level) 15\nx\nPlant Species Digimon\nAt least (Level) 15",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0001",
     "original": "Mythical Beast Species Digimon\nAt least (Level) 30\nx\nMythical Beast Species Digimon\nAt least (Level) 30",
     "translation": "Mythical Beast Species Digimon\nAt least (Level) 30\nx\nMythical Beast Species Digimon\nAt least (Level) 30",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0002",
     "original": "Beast Species Digimon\nAt least (Level) 30\nx\nBeast Species Digimon\nAt least (Level) 30",
     "translation": "Beast Species Digimon\nAt least (Level) 30\nx\nBeast Species Digimon\nAt least (Level) 30",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0003",
     "original": "Seraph Species Digimon\nAt least (Level) 30\nx\nSeraph Species Digimon\nAt least (Level) 30",
     "translation": "Seraph Species Digimon\nAt least (Level) 30\nx\nSeraph Species Digimon\nAt least (Level) 30",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0004",
     "original": "Demon Species Digimon\nAt least (Level) 30\nx\nDemon Species Digimon\nAt least (Level) 30",
     "translation": "Demon Species Digimon\nAt least (Level) 30\nx\nDemon Species Digimon\nAt least (Level) 30",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0005",
     "original": "Aquatic Species Digimon\nAt least (Level) 30\nx\nAquatic Species Digimon\nAt least (Level) 30",
     "translation": "Aquatic Species Digimon\nAt least (Level) 30\nx\nAquatic Species Digimon\nAt least (Level) 30",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0006",
     "original": "Machine Species Digimon\nAt least (Level) 30\nx\nMachine Species Digimon\nAt least (Level) 30",
     "translation": "Machine Species Digimon\nAt least (Level) 30\nx\nMachine Species Digimon\nAt least (Level) 30",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0007",
     "original": "Bird Species Digimon\nAt least (Level) 30\nx\nBird Species Digimon\nAt least (Level) 30",
     "translation": "Bird Species Digimon\nAt least (Level) 30\nx\nBird Species Digimon\nAt least (Level) 30",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0008",
     "original": "Bug Species Digimon\nAt least (Level) 30\nx\nBug Species Digimon\nAt least (Level) 30",
     "translation": "Bug Species Digimon\nAt least (Level) 30\nx\nBug Species Digimon\nAt least (Level) 30",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0009",
     "original": "Plant Species Digimon\nAt least (Level) 30\nx\nPlant Species Digimon\nAt least (Level) 30",
     "translation": "Plant Species Digimon\nAt least (Level) 30\nx\nPlant Species Digimon\nAt least (Level) 30",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0010",
     "original": "MetalGreymon\nx\nMythical Beast Species Digimon\nAt least (Level) 45",
     "translation": "MetalGreymon\nx\nMythical Beast Species Digimon\nAt least (Level) 45",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0011",
     "original": "WereGarurumon\nx\nBeast Species Digimon\nAt least 225 (Speed)",
     "translation": "WereGarurumon\nx\nBeast Species Digimon\nAt least 225 (Speed)",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0012",
     "original": "MagnaAngemon\nx\nSeraph Species Digimon\nAt least 4 (ability) ",
     "translation": "MagnaAngemon\nx\nSeraph Species Digimon\nAt least 4 (ability) ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0013",
     "original": "Myotismon\nx\nDemon Species Digimon\nAt least 215 (attack) ",
     "translation": "Myotismon\nx\nDemon Species Digimon\nAt least 215 (attack) ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0014",
     "original": "Mermaidmon\nx\nAquatic Species Digimon\nAt least 440 (Max HP) ",
     "translation": "Mermaidmon\nx\nAquatic Species Digimon\nAt least 440 (Max HP) ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0015",
     "original": "Andromon\nx\nMachine Species Digimon\nAt least 220 (Defense) ",
     "translation": "Andromon\nx\nMachine Species Digimon\nAt least 220 (Defense) ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0016",
     "original": "Garudamon\nx\nBird Species Digimon\nAt least 240 (Speed) ",
     "translation": "Garudamon\nx\nBird Species Digimon\nAt least 240 (Speed) ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0017",
     "original": "Dinobeemon\nx\nBug Species Digimon\nAt least 48 (Max Level) ",
     "translation": "Dinobeemon\nx\nBug Species Digimon\nAt least 48 (Max Level) ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0018",
     "original": "Lillymon\nx\nPlant Species Digimon\nAt least 450 (Max MP) ",
     "translation": "Lillymon\nx\nPlant Species Digimon\nAt least 450 (Max MP) ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0019",
     "original": "Examon\nAt least (Level) 60\nx\nExamon\nAt least 370 (Attack) ",
     "translation": "Examon\nAt least (Level) 60\nx\nExamon\nAt least 370 (Attack) ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0020",
     "original": "Beast Species Digimon\nAt least (Level) 70\nx\nSeraph Species Digimon\nAt least (Level) 70 ",
     "translation": "Beast Species Digimon\nAt least (Level) 70\nx\nSeraph Species Digimon\nAt least (Level) 70 ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0021",
     "original": "Ulforce Veedramon\nAt least 360 (Speed)\nx\nUlforce Veedramon\nAt least (Level) 60 ",
     "translation": "Ulforce Veedramon\nAt least 360 (Speed)\nx\nUlforce Veedramon\nAt least (Level) 60 ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0022",
     "original": "ExVeemon\nAt least 46 (Max Level)\nx\nStingmon\nAt least 3 (Ability) ",
     "translation": "ExVeemon\nAt least 46 (Max Level)\nx\nStingmon\nAt least 3 (Ability) ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0023",
     "original": "Beast Species Digimon\nAt least (Level) 90\nx\nBeast Species Digimon\nAt least 20 (Ability) ",
     "translation": "Beast Species Digimon\nAt least (Level) 90\nx\nBeast Species Digimon\nAt least 20 (Ability) ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0024",
     "original": "Apollomon\nAt least 350 (Attack)\nx\nDianamon\nAt least 350 (Speed)",
     "translation": "Apollomon\nAt least 350 (Attack)\nx\nDianamon\nAt least 350 (Speed)",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0025",
     "original": "(Scared) Digimon\nAt least (Level) 60\nx\nSeraph Species Digimon\nAt least (Level) 60",
     "translation": "(Scared) Digimon\nAt least (Level) 60\nx\nSeraph Species Digimon\nAt least (Level) 60",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0026",
     "original": "Seraphimon\nAt least (Level) 70\nx\nOphanimon\nAt least (Level) 70",
     "translation": "Seraphimon\nAt least (Level) 70\nx\nOphanimon\nAt least (Level) 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0027",
     "original": "(Cool) Digimon\nAt least (Level) 70\nx\nDemon Species Digimon\nAt least 400 (Attack)",
     "translation": "(Cool) Digimon\nAt least (Level) 70\nx\nDemon Species Digimon\nAt least 400 (Attack)",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0028",
     "original": "Demon Species Digimon\nAt least 3000 (Max HP)\nx\nDemon Species Digimon\nAt least (Level) 70",
     "translation": "Demon Species Digimon\nAt least 3000 (Max HP)\nx\nDemon Species Digimon\nAt least (Level) 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0029",
     "original": "Mummymon\nAt least 1500 (Max MP)\nx\nDemon Species Digimon\nAt least (Level) 50",
     "translation": "Mummymon\nAt least 1500 (Max MP)\nx\nDemon Species Digimon\nAt least (Level) 50",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0030",
     "original": "Aquatic Species Digimon\nAt least 1500 (Max HP)\nx\nAquatic Species Digimon\nAt least (Level) 50",
     "translation": "Aquatic Species Digimon\nAt least 1500 (Max HP)\nx\nAquatic Species Digimon\nAt least (Level) 50",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0031",
     "original": "Craniamon\nAt least 350 (Defense)\nx\nCraniamon\nAt least (Level) 50",
     "translation": "Craniamon\nAt least 350 (Defense)\nx\nCraniamon\nAt least (Level) 50",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0032",
     "original": "Machine Species Digimon\nAt least (Level) 60\nx\nDemon Species Digimon\nAt least 66 (Max Level)",
     "translation": "Machine Species Digimon\nAt least (Level) 60\nx\nDemon Species Digimon\nAt least 66 (Max Level)",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0033",
     "original": "Bird Species Digimon\nAt least 3000 (Max MP)\nx\nBird Species Digimon\nAt least (Level) 60",
     "translation": "Bird Species Digimon\nAt least 3000 (Max MP)\nx\nBird Species Digimon\nAt least (Level) 60",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0034",
     "original": "Chronomon Holy Mode\nAt least (Level) 60\nx\nBird Species Digimon\nAt least 350 (Speed)",
     "translation": "Chronomon Holy Mode\nAt least (Level) 60\nx\nBird Species Digimon\nAt least 350 (Speed)",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0035",
     "original": "MegaKabuterimon (Red)\nAt least 250 (Defense)\nx\nOkuwamon\nAt least 250 (Attack)",
     "translation": "MegaKabuterimon (Red)\nAt least 250 (Defense)\nx\nOkuwamon\nAt least 250 (Attack)",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0036",
     "original": "(Prissy) Digimon\nAt least (Level) 50\nx\nPlant Species Digimon\nAt least (Level) 50",
     "translation": "(Prissy) Digimon\nAt least (Level) 50\nx\nPlant Species Digimon\nAt least (Level) 50",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0037",
     "original": "At least (Level) 7",
     "translation": "At least (Level) 7",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0038",
     "original": "At least (Level) 7\n",
     "translation": "At least (Level) 7\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0039",
     "original": "At least (Level) 7\n",
     "translation": "At least (Level) 7\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0040",
     "original": "At least (Level) 7\n",
     "translation": "At least (Level) 7\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0041",
     "original": "At least (Level) 7\n",
     "translation": "At least (Level) 7\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0042",
     "original": "At least (Level) 7\n",
     "translation": "At least (Level) 7\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0043",
     "original": "At least (Level) 7\n",
     "translation": "At least (Level) 7\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0044",
     "original": "At least (Level) 7\n",
     "translation": "At least (Level) 7\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0045",
     "original": "At least (Level) 7\n",
     "translation": "At least (Level) 7\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0046",
     "original": "At least (Level) 12",
     "translation": "At least (Level) 12",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0047",
     "original": "At least (Level) 12\n",
     "translation": "At least (Level) 12\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0048",
     "original": "At least (Level) 12\n",
     "translation": "At least (Level) 12\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0043_0049",
     "original": "At least (Level) 12\n",
     "translation": "At least (Level) 12\n",
-    "stage": 1,
     "context": ""
   }
 ]

@@ -3,119 +3,102 @@
     "key": "MESPAK03_0024_0000",
     "original": "I don't have any skills, but I'm sure\nI'll be useful for something else.",
     "translation": "I don't have any skills, but I'm sure\nI'll be useful for something else.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0001",
     "original": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our HP and MP.\nI'm interested to see what kind of\neffect they'll have.",
     "translation": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our HP and MP.\nI'm interested to see what kind of\neffect they'll have.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0002",
     "original": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our EXP.\nI'm interested to see what kind of\neffect they'll have.\n",
     "translation": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our EXP.\nI'm interested to see what kind of\neffect they'll have.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0003",
     "original": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our Attack.\nI'm interested to see what kind of\neffect they'll have.\n",
     "translation": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our Attack.\nI'm interested to see what kind of\neffect they'll have.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0004",
     "original": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our Defense.\nI'm interested to see what kind of\neffect they'll have.\n",
     "translation": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our Defense.\nI'm interested to see what kind of\neffect they'll have.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0005",
     "original": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our Speed.\nI'm interested to see what kind of\neffect they'll have.\n\n",
     "translation": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our Speed.\nI'm interested to see what kind of\neffect they'll have.\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0006",
     "original": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our Friendship.\nI'm interested to see what kind of\neffect they'll have.\n\n",
     "translation": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with our Friendship.\nI'm interested to see what kind of\neffect they'll have.\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0007",
     "original": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with Weapon production.\nI'm interested to see what kind of\nweapons they'll produce.\n\n",
     "translation": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with Weapon production.\nI'm interested to see what kind of\nweapons they'll produce.\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0008",
     "original": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with Armor production.\nI'm interested to see what kind of\narmor they'll produce.\n\n\n",
     "translation": "The new Farm Goods you've left\nhere...\nIt appears they have something to\ndo with Armor production.\nI'm interested to see what kind of\narmor they'll produce.\n\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0009",
     "original": "Shall I stop this job?",
     "translation": "Shall I stop this job?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0010",
     "original": "I understand. I'll stop.",
     "translation": "I understand. I'll stop.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0011",
     "original": "Understood. I'll keep working hard.",
     "translation": "Understood. I'll keep working hard.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0012",
     "original": "Shall I begin this job?",
     "translation": "Shall I begin this job?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0013",
     "original": "Thanks for the DigiMeal\nIt was delicious♪",
     "translation": "Thanks for the DigiMeal\nIt was delicious♪",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0014",
     "original": "Thanks for the DigiMeal.\nI feel a little better now...",
     "translation": "Thanks for the DigiMeal.\nI feel a little better now...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0015",
     "original": "S...sorry...\nThis is... weirdly bitter...",
     "translation": "S...sorry...\nThis is... weirdly bitter...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK03_0024_0016",
     "original": "I apologize, but I'm not hungry\nat the moment.",
     "translation": "I apologize, but I'm not hungry\nat the moment.",
-    "stage": 1,
     "context": ""
   }
 ]

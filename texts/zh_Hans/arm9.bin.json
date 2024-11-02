@@ -3,147 +3,126 @@
     "key": "offset_001595b4",
     "original": "こうげきりょく",
     "translation": "攻击力",
-    "stage": 0,
     "context": "机翻辅助：\n\n攻击力"
   },
   {
     "key": "offset_001595c4",
     "original": "ぼうぎょりょく",
     "translation": "防御力",
-    "stage": 0,
     "context": "机翻辅助：\n\n防御力"
   },
   {
     "key": "offset_001595d4",
     "original": "すばやさ",
     "translation": "敏捷",
-    "stage": 0,
     "context": "机翻辅助：\n\n速度"
   },
   {
     "key": "offset_001595e0",
     "original": "ゆうじょう",
     "translation": "友情",
-    "stage": 0,
     "context": "机翻辅助：\n\n友情"
   },
   {
     "key": "offset_001595ec",
     "original": "あたらしいワザをおぼえた！",
     "translation": "学会了新的技能！",
-    "stage": 0,
     "context": "机翻辅助：\n\n学会了新的技能！"
   },
   {
     "key": "offset_0015aadc",
     "original": "すべてのデジモン",
     "translation": "所有数码宝贝",
-    "stage": 0,
     "context": "机翻辅助：\n\n所有数码宝贝\n\n所有的数码宝贝"
   },
   {
     "key": "offset_0015aaf0",
     "original": "？",
     "translation": "？",
-    "stage": 0,
     "context": ""
   },
   {
     "key": "offset_0015aaf4",
     "original": "エラー",
     "translation": "错误",
-    "stage": 0,
     "context": "机翻辅助：\n\n错误"
   },
   {
     "key": "offset_0015aafb",
     "original": "みとうろく",
     "translation": "未登录",
-    "stage": 0,
     "context": "机翻辅助：\n\n未登录"
   },
   {
     "key": "offset_0015af78",
     "original": "だい%dファイル",
     "translation": "第%d个文件",
-    "stage": 0,
     "context": "机翻辅助：\n\n第%d个文件"
   },
   {
     "key": "offset_0015b124",
     "original": "こうげきりょく",
     "translation": "攻击力",
-    "stage": 0,
     "context": "机翻辅助：\n\n攻击力"
   },
   {
     "key": "offset_0015b134",
     "original": "ぼうぎょりょく",
     "translation": "防御力",
-    "stage": 0,
     "context": "机翻辅助：\n\n防御力"
   },
   {
     "key": "offset_0015b144",
     "original": "すばやさ",
     "translation": "敏捷",
-    "stage": 0,
     "context": "机翻辅助：\n\n速度"
   },
   {
     "key": "offset_0015b150",
     "original": "さいのう",
     "translation": "才能",
-    "stage": 0,
     "context": "机翻辅助：\n\n才能"
   },
   {
     "key": "offset_0015b15c",
     "original": "さいだいレベル",
     "translation": "最大等级",
-    "stage": 0,
     "context": "机翻辅助：\n\n最大等级"
   },
   {
     "key": "offset_0015b16c",
     "original": "%s／%s",
     "translation": "%s／%s",
-    "stage": 0,
     "context": ""
   },
   {
     "key": "offset_0015b174",
     "original": "こうげきりょく",
     "translation": "攻击力",
-    "stage": 0,
     "context": "机翻辅助：\n\n攻击力"
   },
   {
     "key": "offset_0015b184",
     "original": "ぼうぎょりょく",
     "translation": "防御力",
-    "stage": 0,
     "context": "机翻辅助：\n\n防御力"
   },
   {
     "key": "offset_0015b194",
     "original": "すばやさ",
     "translation": "敏捷",
-    "stage": 0,
     "context": "机翻辅助：\n\n速度"
   },
   {
     "key": "offset_0015b1a0",
     "original": "ゆうじょう",
     "translation": "友情",
-    "stage": 0,
     "context": "机翻辅助：\n\n友情"
   },
   {
     "key": "offset_0015b1ac",
     "original": "タイプ",
     "translation": "类型",
-    "stage": 0,
     "context": "机翻辅助：\n\n类型"
   }
 ]

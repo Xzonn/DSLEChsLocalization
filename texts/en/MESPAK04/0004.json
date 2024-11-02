@@ -3,350 +3,300 @@
     "key": "MESPAK04_0004_0000",
     "original": "Required Digivolution Level: 35\nRevived Paildramon\nRevived ExVeemon\nRevived Stingmon\nAttack: 120",
     "translation": "Required Digivolution Level: 35\nRevived Paildramon\nRevived ExVeemon\nRevived Stingmon\nAttack: 120",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0001",
     "original": "Required Digivolution Level: 29\nRevived Dinobeemon\nRevived ExVeemon\nRevived Stingmon\nSpeed: 100",
     "translation": "Required Digivolution Level: 29\nRevived Dinobeemon\nRevived ExVeemon\nRevived Stingmon\nSpeed: 100",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0002",
     "original": "Required Digivolution Level: 31\nRevived Antylamon\nSpeed: 105\nFriendship: 70",
     "translation": "Required Digivolution Level: 31\nRevived Antylamon\nSpeed: 105\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0003",
     "original": "Required Digivolution Level: 28\nRevived Arukenimon\nAttack: 130\nSpeed: 130",
     "translation": "Required Digivolution Level: 28\nRevived Arukenimon\nAttack: 130\nSpeed: 130",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0004",
     "original": "Required Digivolution Level: 28\nAttack: 110\nDefense: 100",
     "translation": "Required Digivolution Level: 28\nAttack: 110\nDefense: 100",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0005",
     "original": "Required Digivolution Level: 28\nRevived WarGrowlmon\nDefense: 100\nFriendship: 70",
     "translation": "Required Digivolution Level: 28\nRevived WarGrowlmon\nDefense: 100\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0006",
     "original": "Required Digivolution Level: 27\nRevived Rapidmon\nSpeed: 110\nFriendship: 70",
     "translation": "Required Digivolution Level: 27\nRevived Rapidmon\nSpeed: 110\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0007",
     "original": "Required Digivolution Level: 29\nAttack: 120\nSpeed: 130\nFriendship: 70",
     "translation": "Required Digivolution Level: 29\nAttack: 120\nSpeed: 130\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0008",
     "original": "Required Digivolution Level: 30\nSpeed: 150\nMax Level: 45",
     "translation": "Required Digivolution Level: 30\nSpeed: 150\nMax Level: 45",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0009",
     "original": "Required Digivolution Level: 26\nRevived Infermon\nBefriended Kuramon\nDefense: 105\nSpeed: 100",
     "translation": "Required Digivolution Level: 26\nRevived Infermon\nBefriended Kuramon\nDefense: 105\nSpeed: 100",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0010",
     "original": "Required Digivolution Level: 34\nAttack: 125\nSpeed: 105\nAbility: 3",
     "translation": "Required Digivolution Level: 34\nAttack: 125\nSpeed: 105\nAbility: 3",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0011",
     "original": "Required Digivolution Level: 27\nSpeed: 145\nMax Level: 36",
     "translation": "Required Digivolution Level: 27\nSpeed: 145\nMax Level: 36",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0012",
     "original": "Required Digivolution Level: 28\nRevived DoruGreymon\nAttack: 125\nDefense: 90\nFriendship: 70",
     "translation": "Required Digivolution Level: 28\nRevived DoruGreymon\nAttack: 125\nDefense: 90\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0013",
     "original": "Required Digivolution Level: 35\nRevived Kimeramon\nRevived Devimon\nRevived Kabuterimon\nAttack: 120",
     "translation": "Required Digivolution Level: 35\nRevived Kimeramon\nRevived Devimon\nRevived Kabuterimon\nAttack: 120",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0014",
     "original": "Required Digivolution Level: 35\nRevived Silphymon\nRevived Aquillamon\nRevived Gatomon\nSpeed: 120",
     "translation": "Required Digivolution Level: 35\nRevived Silphymon\nRevived Aquillamon\nRevived Gatomon\nSpeed: 120",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0015",
     "original": "Required Digivolution Level: 32\nRevived Superstarmon\nAttack: 125\nDefense: 110\nFriendship: 70",
     "translation": "Required Digivolution Level: 32\nRevived Superstarmon\nAttack: 125\nDefense: 110\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0016",
     "original": "Required Digivolution Level: 27\nRevived Zudomon\nAttack: 110\nDefense: 100\nFriendship: 70",
     "translation": "Required Digivolution Level: 27\nRevived Zudomon\nAttack: 110\nDefense: 100\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0017",
     "original": "Required Digivolution Level: 29\nRevived Mamemon\nAttack: 110\nDefense: 100",
     "translation": "Required Digivolution Level: 29\nRevived Mamemon\nAttack: 110\nDefense: 100",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0018",
     "original": "Required Digivolution Level: 30\nAttack: 170\nSpeed: 120",
     "translation": "Required Digivolution Level: 30\nAttack: 170\nSpeed: 120",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0019",
     "original": "Required Digivolution Level: 31\nRevived RizeGreymon\nSpeed: 100\nFriendship: 70",
     "translation": "Required Digivolution Level: 31\nRevived RizeGreymon\nSpeed: 100\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0020",
     "original": "Required Digivolution Level: 29\nRevived MachGaogamon\nSpeed: 125\nFriendship: 70",
     "translation": "Required Digivolution Level: 29\nRevived MachGaogamon\nSpeed: 125\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0021",
     "original": "Required Digivolution Level: 33\nAttack: 125\nSpeed: 130\nFriendship: 70",
     "translation": "Required Digivolution Level: 33\nAttack: 125\nSpeed: 130\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0022",
     "original": "Required Digivolution Level: 28\nRevived Lilamon\nSpeed: 90\nFriendship: 70",
     "translation": "Required Digivolution Level: 28\nRevived Lilamon\nSpeed: 90\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0023",
     "original": "Required Digivolution Level: 24\nDigiEgg of Courage 1 in Tree\nAttack: 80\nFriendship: 100",
     "translation": "Required Digivolution Level: 24\nDigiEgg of Courage 1 in Tree\nAttack: 80\nFriendship: 100",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0024",
     "original": "Required Digivolution Level: 30\nAttack: 110\nSpeed: 130",
     "translation": "Required Digivolution Level: 30\nAttack: 110\nSpeed: 130",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0025",
     "original": "Required Digivolution Level: 34\nBefriended Woodmon\nDefense: 150",
     "translation": "Required Digivolution Level: 34\nBefriended Woodmon\nDefense: 150",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0026",
     "original": "Required Digivolution Level: 36\nRevived Lucemon FM\nRevived Devimon\nRevived Angemon\nMax Level: 60",
     "translation": "Required Digivolution Level: 36\nRevived Lucemon FM\nRevived Devimon\nRevived Angemon\nMax Level: 60",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0027",
     "original": "Required Digivolution Level: 33\nDefense: 105\nSpeed: 90",
     "translation": "Required Digivolution Level: 33\nDefense: 105\nSpeed: 90",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0028",
     "original": "Required Digivolution Level: 34\nAttack: 170\nMax Level: 44",
     "translation": "Required Digivolution Level: 34\nAttack: 170\nMax Level: 44",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0029",
     "original": "Required Digivolution Level: 29\nRevived MetalTyrannomon\nDefense: 110\nMax Level: 40",
     "translation": "Required Digivolution Level: 29\nRevived MetalTyrannomon\nDefense: 110\nMax Level: 40",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0030",
     "original": "Required Digivolution Level: 32\nRevived ExTyrannomon\nDefense: 130\nMax Level: 46",
     "translation": "Required Digivolution Level: 32\nRevived ExTyrannomon\nDefense: 130\nMax Level: 46",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0031",
     "original": "Required Digivolution Level: 30\nAttack: 130\nSpeed: 120",
     "translation": "Required Digivolution Level: 30\nAttack: 130\nSpeed: 120",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0032",
     "original": "Required Digivolution Level: 31\nRevived AeroVeedramon\nAttack: 150\nFriendship: 70",
     "translation": "Required Digivolution Level: 31\nRevived AeroVeedramon\nAttack: 150\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0033",
     "original": "Required Digivolution Level: 30\nAttack: 120\nDefense: 120",
     "translation": "Required Digivolution Level: 30\nAttack: 120\nDefense: 120",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0034",
     "original": "Required Digivolution Level: 28\nAttack: 130\nDefense: 130",
     "translation": "Required Digivolution Level: 28\nAttack: 130\nDefense: 130",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0035",
     "original": "Required Digivolution Level: 30\nDefense: 115\nSpeed: 95",
     "translation": "Required Digivolution Level: 30\nDefense: 115\nSpeed: 95",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0036",
     "original": "Required Digivolution Level: 24\nDigiEgg of Courage 2 in Tree\nAttack: 120\nFriendship: 100",
     "translation": "Required Digivolution Level: 24\nDigiEgg of Courage 2 in Tree\nAttack: 120\nFriendship: 100",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0037",
     "original": "Required Digivolution Level: 30\nRevived Shawjamon\nSpeed: 90\nFriendship: 70",
     "translation": "Required Digivolution Level: 30\nRevived Shawjamon\nSpeed: 90\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0038",
     "original": "Required Digivolution Level: 29\nRevived Yatagaramon\nAttack: 110\nFriendship: 70",
     "translation": "Required Digivolution Level: 29\nRevived Yatagaramon\nAttack: 110\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0039",
     "original": "Required Digivolution Level: 30\nRevived Flaremon\nAttack: 135\nFriendship: 70",
     "translation": "Required Digivolution Level: 30\nRevived Flaremon\nAttack: 135\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0040",
     "original": "Required Digivolution Level: 30\nRevived Crescemon\nSpeed: 130\nFriendship: 70",
     "translation": "Required Digivolution Level: 30\nRevived Crescemon\nSpeed: 130\nFriendship: 70",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0041",
     "original": "Required Digivolution Level: 24\nDigiEgg of Miracles in Tree\nDefense: 75\nFriendship: 100",
     "translation": "Required Digivolution Level: 24\nDigiEgg of Miracles in Tree\nDefense: 75\nFriendship: 100",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0042",
     "original": "Required Digivolution Level: 24\nDigiEgg of Kindness in Tree\nSpeed: 95\nFriendship: 100",
     "translation": "Required Digivolution Level: 24\nDigiEgg of Kindness in Tree\nSpeed: 95\nFriendship: 100",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0043",
     "original": "Required Digivolution Level: 24\nDigiEgg of Sincerity in Tree\nSpeed: 90\nFriendship: 100",
     "translation": "Required Digivolution Level: 24\nDigiEgg of Sincerity in Tree\nSpeed: 90\nFriendship: 100",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0044",
     "original": "Required Digivolution Level: 24\nDigiEgg of Friendship in Tree\nDefense: 85\nFriendship: 100",
     "translation": "Required Digivolution Level: 24\nDigiEgg of Friendship in Tree\nDefense: 85\nFriendship: 100",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0045",
     "original": "Required Digivolution Level: 32\nRevived Argomon Ultimate\nSpeed: 140\nMax Level: 45",
     "translation": "Required Digivolution Level: 32\nRevived Argomon Ultimate\nSpeed: 140\nMax Level: 45",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0046",
     "original": "Required Digivolution Level: 35\nRevived Shakkoumon\nRevived Ankylomon\nRevived Angemon\nDefense: 120",
     "translation": "Required Digivolution Level: 35\nRevived Shakkoumon\nRevived Ankylomon\nRevived Angemon\nDefense: 120",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0047",
     "original": "Required Digivolution Level: 33\nRevived WaruSeadramon\nDefense: 130\nMax Level: 50",
     "translation": "Required Digivolution Level: 33\nRevived WaruSeadramon\nDefense: 130\nMax Level: 50",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0048",
     "original": "Required Digivolution Level: 32\nRevived SkullBaluchimon\nAttack: 160\nSpeed: 120",
     "translation": "Required Digivolution Level: 32\nRevived SkullBaluchimon\nAttack: 160\nSpeed: 120",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0004_0049",
     "original": "Required Digivolution Level: 33\nRevived Grademon\nAttack: 170\nSpeed: 140",
     "translation": "Required Digivolution Level: 33\nRevived Grademon\nAttack: 170\nSpeed: 140",
-    "stage": 1,
     "context": ""
   }
 ]

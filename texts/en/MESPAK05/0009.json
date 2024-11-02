@@ -3,42 +3,36 @@
     "key": "MESPAK05_0009_0000",
     "original": "Max HP went up!\n^6 → ^7",
     "translation": "Max HP went up!\n^6 → ^7",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK05_0009_0001",
     "original": "Max MP went up!\n^6 → ^7",
     "translation": "Max MP went up!\n^6 → ^7",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK05_0009_0002",
     "original": "Attack went up!\n^6 → ^7",
     "translation": "Attack went up!\n^6 → ^7",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK05_0009_0003",
     "original": "Defense went up!\n^6 → ^7",
     "translation": "Defense went up!\n^6 → ^7",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK05_0009_0004",
     "original": "Speed went up!\n^6 → ^7",
     "translation": "Speed went up!\n^6 → ^7",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK05_0009_0005",
     "original": "Friendship went up!\n^6 → ^7",
     "translation": "Friendship went up!\n^6 → ^7",
-    "stage": 1,
     "context": ""
   }
 ]

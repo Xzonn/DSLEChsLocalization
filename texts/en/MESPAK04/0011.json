@@ -3,350 +3,300 @@
     "key": "MESPAK04_0011_0000",
     "original": "Controls light particles and increases an\nally's Defense considerably.",
     "translation": "Controls light particles and increases an\nally's Defense considerably.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0001",
     "original": "Takes control over time and increases an\nally's Speed considerably.",
     "translation": "Takes control over time and increases an\nally's Speed considerably.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0002",
     "original": "Shoots a rainbow ball of energy.",
     "translation": "Shoots a rainbow ball of energy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0003",
     "original": "Shoots a powerful rainbow ball of energy.",
     "translation": "Shoots a powerful rainbow ball of energy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0004",
     "original": "Shoots tiny metal balls at the enemy.",
     "translation": "Shoots tiny metal balls at the enemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0005",
     "original": "Whips prey into submission with a red whip.\n★MP drain ★Sleep",
     "translation": "Whips prey into submission with a red whip.\n★MP drain ★Sleep",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0006",
     "original": "Shoots a ball of light energy at the enemy.",
     "translation": "Shoots a ball of light energy at the enemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0007",
     "original": "Glares at the opponent with eyes engulfed in\ndark energy. \n★Sleep",
     "translation": "Glares at the opponent with eyes engulfed in\ndark energy. \n★Sleep",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0008",
     "original": "Throws razor sharp ninja stars at the\nenemy.",
     "translation": "Throws razor sharp ninja stars at the\nenemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0009",
     "original": "Slashes at the opponent with an electrified\nscythe. \n★Death",
     "translation": "Slashes at the opponent with an electrified\nscythe. \n★Death",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0010",
     "original": "Summons lightning bolts to attack.",
     "translation": "Summons lightning bolts to attack.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0011",
     "original": "Takes control of the atmosphere to hurl\ndown bolts of lightning. \n★Paralysis",
     "translation": "Takes control of the atmosphere to hurl\ndown bolts of lightning. \n★Paralysis",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0012",
     "original": "Brings down judgement by raining lightning \non the opponent. \n★Stun ★Paralysis",
     "translation": "Brings down judgement by raining lightning \non the opponent. \n★Stun ★Paralysis",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0013",
     "original": "Shoots a tiny ball of electricity at the\nopponent.",
     "translation": "Shoots a tiny ball of electricity at the\nopponent.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0014",
     "original": "Shoots two tiny balls of electricity at the\nopponent.",
     "translation": "Shoots two tiny balls of electricity at the\nopponent.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0015",
     "original": "Shoots a powerful ball of electricity at the\nopponent.",
     "translation": "Shoots a powerful ball of electricity at the\nopponent.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0016",
     "original": "Shoots a ball packed full of ferocious\nelectrical energy at the opponent.",
     "translation": "Shoots a ball packed full of ferocious\nelectrical energy at the opponent.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0017",
     "original": "Gathers electrical energy into the claws and\nslashes the opponent. \n★Paralysis",
     "translation": "Gathers electrical energy into the claws and\nslashes the opponent. \n★Paralysis",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0018",
     "original": "Gathers powerful electrical energy into the\nclaws and slashes the opponent. \n★Paralysis",
     "translation": "Gathers powerful electrical energy into the\nclaws and slashes the opponent. \n★Paralysis",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0019",
     "original": "Bewilders the opponent by attacking with a\ncaptivating whip. \n★HP Drain ★Confusion",
     "translation": "Bewilders the opponent by attacking with a\ncaptivating whip. \n★HP Drain ★Confusion",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0020",
     "original": "Continuously attacks the opponent with a\ndangerous HP draining whip. \n★HP Drain",
     "translation": "Continuously attacks the opponent with a\ndangerous HP draining whip. \n★HP Drain",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0021",
     "original": "Attacks the opponent with a whip infused\nwith powerful electrical energy. \n★HP Drain ★Paralysis",
     "translation": "Attacks the opponent with a whip infused\nwith powerful electrical energy. \n★HP Drain ★Paralysis",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0022",
     "original": "Shoots numerous electric balls that explode.\n★Paralysis",
     "translation": "Shoots numerous electric balls that explode.\n★Paralysis",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0023",
     "original": "Shoots fireballs made from fierce blue fire.",
     "translation": "Shoots fireballs made from fierce blue fire.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0024",
     "original": "Shoots a scorching hot laser that burns\neverything to ash.",
     "translation": "Shoots a scorching hot laser that burns\neverything to ash.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0025",
     "original": "Slices diagonally at the enemy with a small but\nsharp weapon.",
     "translation": "Slices diagonally at the enemy with a small but\nsharp weapon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0026",
     "original": "Slashes at the oppenent in a cross shape.",
     "translation": "Slashes at the oppenent in a cross shape.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0027",
     "original": "Slashes at the opponent with powerful razor\nsharp weapons.",
     "translation": "Slashes at the opponent with powerful razor\nsharp weapons.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0028",
     "original": "Bites the enemy with sharp, fearsome fangs.",
     "translation": "Bites the enemy with sharp, fearsome fangs.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0029",
     "original": "Ruthlessly mauls the enemy with sharp,\npowerful fangs.",
     "translation": "Ruthlessly mauls the enemy with sharp,\npowerful fangs.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0030",
     "original": "Slashes at the enemy with long, sharp,\nfang-like claws.",
     "translation": "Slashes at the enemy with long, sharp,\nfang-like claws.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0031",
     "original": "Slashes at the enemy with sharp claws.",
     "translation": "Slashes at the enemy with sharp claws.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0032",
     "original": "Slashes at the enemy with claws sharp\nenough to cut through the wind.",
     "translation": "Slashes at the enemy with claws sharp\nenough to cut through the wind.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0033",
     "original": "Slashes at the enemy with extremely sharp\nand powerful claws.",
     "translation": "Slashes at the enemy with extremely sharp\nand powerful claws.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0034",
     "original": "A special technique that wrecks the opponent\nwith fists embued with the power of beasts.",
     "translation": "A special technique that wrecks the opponent\nwith fists embued with the power of beasts.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0035",
     "original": "A special technique that wrecks the opponent\nwith fists embued with the power of guardian\nlions.",
     "translation": "A special technique that wrecks the opponent\nwith fists embued with the power of guardian\nlions.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0036",
     "original": "A special technique that gathers the energy\nof lions and beasts and shoots it at the\nopponent.",
     "translation": "A special technique that gathers the energy\nof lions and beasts and shoots it at the\nopponent.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0037",
     "original": "Rains down numerous rock-hard \npunches upon the enemy.",
     "translation": "Rains down numerous rock-hard \npunches upon the enemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0038",
     "original": "Rains down punches powerful enough to\npierce the wind.",
     "translation": "Rains down punches powerful enough to\npierce the wind.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0039",
     "original": "Rains down punches engulfed in the power to\ndestroy everything.",
     "translation": "Rains down punches engulfed in the power to\ndestroy everything.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0040",
     "original": "Tackles the opponent with determination.",
     "translation": "Tackles the opponent with determination.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0041",
     "original": "Fiercely tackles the opponent.",
     "translation": "Fiercely tackles the opponent.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0042",
     "original": "Tackles the opponent with all its might.",
     "translation": "Tackles the opponent with all its might.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0043",
     "original": "Shoots a ball of dark energy.",
     "translation": "Shoots a ball of dark energy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0044",
     "original": "Shoots a ball of condensed dark energy.",
     "translation": "Shoots a ball of condensed dark energy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0045",
     "original": "Shoots a ball of dark energy and chaos.",
     "translation": "Shoots a ball of dark energy and chaos.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0046",
     "original": "Shoots a ball of pitch black dark energy that\ndestroys all in its path. \n★Stun",
     "translation": "Shoots a ball of pitch black dark energy that\ndestroys all in its path. \n★Stun",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0047",
     "original": "Shoots a data-destroying dark arrow.\n★Poison",
     "translation": "Shoots a data-destroying dark arrow.\n★Poison",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0048",
     "original": "Shoots two data-destroying dark arrows.\n★Poison",
     "translation": "Shoots two data-destroying dark arrows.\n★Poison",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0011_0049",
     "original": "Shoots a powerful data-wrecking dark arrow.\n★Poison",
     "translation": "Shoots a powerful data-wrecking dark arrow.\n★Poison",
-    "stage": 1,
     "context": ""
   }
 ]

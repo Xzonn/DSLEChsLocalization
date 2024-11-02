@@ -3,350 +3,300 @@
     "key": "MESPAK04_0009_0000",
     "original": "A moderate increase to health \nrecovery techniques.",
     "translation": "A moderate increase to health \nrecovery techniques.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0001",
     "original": "Partially increases Scan amount\n from battle.",
     "translation": "Partially increases Scan amount\n from battle.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0002",
     "original": "Moderately increases Scan amount \nfrom battle.",
     "translation": "Moderately increases Scan amount \nfrom battle.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0003",
     "original": "Partially increases success rate \nduring Farm Training.",
     "translation": "Partially increases success rate \nduring Farm Training.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0004",
     "original": "Moderately increases success rate \nduring Farm Training.",
     "translation": "Moderately increases success rate \nduring Farm Training.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0005",
     "original": "A complete resistance to 'Poison', \n'Death', 'Paralysis', 'Confusion' \nand 'Sleep'.",
     "translation": "A complete resistance to 'Poison', \n'Death', 'Paralysis', 'Confusion' \nand 'Sleep'.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0006",
     "original": "A tiny increase to neighbouring \nally's attack. (Only in battle)",
     "translation": "A tiny increase to neighbouring \nally's attack. (Only in battle)",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0007",
     "original": "A small increase to neighbouring \nally's attack. (Only in battle)\n",
     "translation": "A small increase to neighbouring \nally's attack. (Only in battle)\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0008",
     "original": "A moderate increase to \nneighbouring ally's attack. \n(Only in battle)\n",
     "translation": "A moderate increase to \nneighbouring ally's attack. \n(Only in battle)\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0009",
     "original": "A large increase to neighbouring \nally's attack. (Only in battle)\n",
     "translation": "A large increase to neighbouring \nally's attack. (Only in battle)\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0010",
     "original": "A huge increase to neighbouring \nally's attack. (Only in battle)\n",
     "translation": "A huge increase to neighbouring \nally's attack. (Only in battle)\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0011",
     "original": "A massive increase to neighbouring \nally's attack. (Only in battle)\n",
     "translation": "A massive increase to neighbouring \nally's attack. (Only in battle)\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0012",
     "original": "A tiny increase to neighbouring \nally's defence. (Only in battle)\n",
     "translation": "A tiny increase to neighbouring \nally's defence. (Only in battle)\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0013",
     "original": "A small increase to neighbouring \nally's defence. (Only in battle)",
     "translation": "A small increase to neighbouring \nally's defence. (Only in battle)",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0014",
     "original": "A moderate increase to \nneighbouring ally's defence. \n(Only in battle)\n\n",
     "translation": "A moderate increase to \nneighbouring ally's defence. \n(Only in battle)\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0015",
     "original": "A large increase to neighbouring \nally's defence. (Only in battle)\n\n",
     "translation": "A large increase to neighbouring \nally's defence. (Only in battle)\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0016",
     "original": "A huge increase to neighbouring \nally's defence. (Only in battle)\n\n",
     "translation": "A huge increase to neighbouring \nally's defence. (Only in battle)\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0017",
     "original": "A massive increase to neighbouring \nally's defence. (Only in battle)\n\n",
     "translation": "A massive increase to neighbouring \nally's defence. (Only in battle)\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0018",
     "original": "A tiny increase to neighbouring \nally's Speed. (Only in battle)\n\n",
     "translation": "A tiny increase to neighbouring \nally's Speed. (Only in battle)\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0019",
     "original": "A small increase to neighbouring \nally's Speed. (Only in battle)\n",
     "translation": "A small increase to neighbouring \nally's Speed. (Only in battle)\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0020",
     "original": "A moderate increase to \nneighbouring ally's Speed. \n(Only in battle)\n\n\n",
     "translation": "A moderate increase to \nneighbouring ally's Speed. \n(Only in battle)\n\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0021",
     "original": "A large increase to neighbouring \nally's Speed. (Only in battle)\n\n\n",
     "translation": "A large increase to neighbouring \nally's Speed. (Only in battle)\n\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0022",
     "original": "A huge increase to neighbouring \nally's Speed. (Only in battle)\n\n\n",
     "translation": "A huge increase to neighbouring \nally's Speed. (Only in battle)\n\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0023",
     "original": "A massive increase to neighbouring \nally's Speed. (Only in battle)\n\n\n",
     "translation": "A massive increase to neighbouring \nally's Speed. (Only in battle)\n\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0024",
     "original": "An extrodinary increase to \nneighbouring ally's attack. \n(Only in battle)\n\n",
     "translation": "An extrodinary increase to \nneighbouring ally's attack. \n(Only in battle)\n\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0025",
     "original": "No Support Effects",
     "translation": "No Support Effects",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0026",
     "original": "Slams into the enemy with all its \nmight.",
     "translation": "Slams into the enemy with all its \nmight.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0027",
     "original": "Releases frothy, acidic spit from its \nmouth at the enemy.",
     "translation": "Releases frothy, acidic spit from its \nmouth at the enemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0028",
     "original": "Shoots arrows made from ice at \nthe enemy.",
     "translation": "Shoots arrows made from ice at \nthe enemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0029",
     "original": "Shoots large arrows made from ice\nat the enemy.",
     "translation": "Shoots large arrows made from ice\nat the enemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0030",
     "original": "Shoots countless arrows made\nfrom ice at the enemy.\n★Freeze",
     "translation": "Shoots countless arrows made\nfrom ice at the enemy.\n★Freeze",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0031",
     "original": "Freezes the enemy using a mild \nblizzard attack.",
     "translation": "Freezes the enemy using a mild \nblizzard attack.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0032",
     "original": "Freezes the enemy using a \npowerful blizzard attack.",
     "translation": "Freezes the enemy using a \npowerful blizzard attack.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0033",
     "original": "Freezes the enemy using an \nabsoute-zero blizzard attack.",
     "translation": "Freezes the enemy using an \nabsoute-zero blizzard attack.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0034",
     "original": "Shoots extremely beautiful but \nvery cold bubbles at the \nenemy.",
     "translation": "Shoots extremely beautiful but \nvery cold bubbles at the \nenemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0035",
     "original": "Shoots countless large, frothy, \nacidic bubbles from its mouth.",
     "translation": "Shoots countless large, frothy, \nacidic bubbles from its mouth.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0036",
     "original": "Shoots mysterious bubbles filled\nwith evolution energy at the enemy.",
     "translation": "Shoots mysterious bubbles filled\nwith evolution energy at the enemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0037",
     "original": "Shoots a jet of water at the\nenemy.",
     "translation": "Shoots a jet of water at the\nenemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0038",
     "original": "Shoots a massive jet of\nwater at the enemy.",
     "translation": "Shoots a massive jet of\nwater at the enemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0039",
     "original": "Shoots a fearsome jet of water \nat the enemy, powerful enough to \nsmash boulders.",
     "translation": "Shoots a fearsome jet of water \nat the enemy, powerful enough to \nsmash boulders.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0040",
     "original": "An attack that summons a\ntsunami.",
     "translation": "An attack that summons a\ntsunami.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0041",
     "original": "An attack that summons a large\ntsunami.",
     "translation": "An attack that summons a large\ntsunami.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0042",
     "original": "Calls upon the legendary\n 'Big Wave' to attack the enemy.\n★Freeze",
     "translation": "Calls upon the legendary\n 'Big Wave' to attack the enemy.\n★Freeze",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0043",
     "original": "Creates a vortex that slashes\nenemies to ribbons.",
     "translation": "Creates a vortex that slashes\nenemies to ribbons.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0044",
     "original": "Creates a powerful vortex that \nslashes enemies to ribbons.",
     "translation": "Creates a powerful vortex that \nslashes enemies to ribbons.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0045",
     "original": "Releases a sonic pulse that\ncreates a shockwave.",
     "translation": "Releases a sonic pulse that\ncreates a shockwave.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0046",
     "original": "Releases a sonic pulse that\ncreates a powerful shockwave.",
     "translation": "Releases a sonic pulse that\ncreates a powerful shockwave.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0047",
     "original": "Sends a weak typhoon at the enemy.",
     "translation": "Sends a weak typhoon at the enemy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0048",
     "original": "Sends a large typhoon at the\nenemy.\n★Freeze",
     "translation": "Sends a large typhoon at the\nenemy.\n★Freeze",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK04_0009_0049",
     "original": "Blows the opponent away in an\ninstant with a powerful typhoon.",
     "translation": "Blows the opponent away in an\ninstant with a powerful typhoon.",
-    "stage": 1,
     "context": ""
   }
 ]

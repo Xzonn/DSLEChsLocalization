@@ -3,553 +3,474 @@
     "key": "MESPAK01_0008_0000",
     "original": "Using Repairing Tools, you can restore a DigiPlate.",
     "translation": "Using Repairing Tools, you can restore a DigiPlate.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0001",
     "original": "Set a DigiPlate in the Evolution Tree.",
     "translation": "Set a DigiPlate in the Evolution Tree.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0002",
     "original": "View a Digimon's Evolution Tree.",
     "translation": "View a Digimon's Evolution Tree.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0003",
     "original": "Digimon will be created using the accumulated scan data.",
     "translation": "Digimon will be created using the accumulated scan data.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0004",
     "original": "Digivolve or Degenerate a Digimon. ",
     "translation": "Digivolve or Degenerate a Digimon. ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0005",
     "original": "Select two Digimon, one will be used\nto power up the other one.\n",
     "translation": "Select two Digimon, one will be used\nto power up the other one.\n",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0006",
     "original": "Return to the Entrance?",
     "translation": "Return to the Entrance?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0007",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0008",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0009",
     "original": "Choose a Digimon to DigiConvert.",
     "translation": "Choose a Digimon to DigiConvert.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0010",
     "original": "    No.",
     "translation": "    No.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0011",
     "original": "Scan Rate",
     "translation": "Scan Rate",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0012",
     "original": "List Order",
     "translation": "List Order",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0013",
     "original": "Sort by Scan Rate",
     "translation": "Sort by Scan Rate",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0014",
     "original": "Sort by Digimon Number",
     "translation": "Sort by Digimon Number",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0015",
     "original": "Sort by Name",
     "translation": "Sort by Name",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0016",
     "original": "Sort by Attribute",
     "translation": "Sort by Attribute",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0017",
     "original": "Close",
     "translation": "Close",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0018",
     "original": "Cannot befriend any more Digimon.",
     "translation": "Cannot befriend any more Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0019",
     "original": "Cannot set the DigiPlate into \nthe Evolution Tree.",
     "translation": "Cannot set the DigiPlate into \nthe Evolution Tree.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0020",
     "original": "Need at least 100% Scan Data \nto convert a Digimon.",
     "translation": "Need at least 100% Scan Data \nto convert a Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0021",
     "original": "Perform DigiConvert?",
     "translation": "Perform DigiConvert?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0022",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0023",
     "original": "Let me reconsider",
     "translation": "Let me reconsider",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0024",
     "original": "^0's nickname will be ^1, is that OK?",
     "translation": "^0's nickname will be ^1, is that OK?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0025",
     "original": "That's good",
     "translation": "That's good",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0026",
     "original": "Let me reconsider",
     "translation": "Let me reconsider",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0027",
     "original": "Please select a Digimon to digivolve or degenerate.",
     "translation": "Please select a Digimon to digivolve or degenerate.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0028",
     "original": "A DigiEgg cannot Digivolve.",
     "translation": "A DigiEgg cannot Digivolve.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0029",
     "original": "A Digimon currently involved in a \nQuest cannot be Digivolved.",
     "translation": "A Digimon currently involved in a \nQuest cannot be Digivolved.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0030",
     "original": "A Digimon that is currently \ntraining cannot be Digivolved.",
     "translation": "A Digimon that is currently \ntraining cannot be Digivolved.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0031",
     "original": "A Digimon that is currently training \ncannot be Digivolved.",
     "translation": "A Digimon that is currently training \ncannot be Digivolved.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0032",
     "original": "A Digimon currently assigned a \nTask cannot be Digivolved.",
     "translation": "A Digimon currently assigned a \nTask cannot be Digivolved.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0033",
     "original": "A Digimon that is currently on an \nExpedition cannot be Digivolved.",
     "translation": "A Digimon that is currently on an \nExpedition cannot be Digivolved.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0034",
     "original": "Digivolution Conditions",
     "translation": "Digivolution Conditions",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0035",
     "original": "????????",
     "translation": "????????",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0036",
     "original": "Check Digimon Information",
     "translation": "Check Digimon Information",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0037",
     "original": "Digivolve selected Digimon",
     "translation": "Digivolve selected Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0038",
     "original": "Degenerate selected Digimon",
     "translation": "Degenerate selected Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0039",
     "original": "Digivolve this Digimon?",
     "translation": "Digivolve this Digimon?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0040",
     "original": "Digivolve",
     "translation": "Digivolve",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0041",
     "original": "Let me reconsider",
     "translation": "Let me reconsider",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0042",
     "original": "Degenerate this Digimon?",
     "translation": "Degenerate this Digimon?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0043",
     "original": "Degenerate",
     "translation": "Degenerate",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0044",
     "original": "Let me reconsider",
     "translation": "Let me reconsider",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0045",
     "original": "If you Digivolve this Digimon, its \nequipment will be removed, is that OK?",
     "translation": "If you Digivolve this Digimon, its \nequipment will be removed, is that OK?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0046",
     "original": "That's fine",
     "translation": "That's fine",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0047",
     "original": "Wait",
     "translation": "Wait",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0048",
     "original": "If you degenerate this Digimon, its \nequipment will be removed, is that OK?",
     "translation": "If you degenerate this Digimon, its \nequipment will be removed, is that OK?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0049",
     "original": "That's fine",
     "translation": "That's fine",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0050",
     "original": "Wait",
     "translation": "Wait",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0051",
     "original": "Select a Bug Plate",
     "translation": "Select a Bug Plate",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0052",
     "original": "Manual Repairing",
     "translation": "Manual Repairing",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0053",
     "original": "Auto Repairing",
     "translation": "Auto Repairing",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0054",
     "original": "Currently carrying none.",
     "translation": "Currently carrying none.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0055",
     "original": "In order to Load a Digimon, you need at \nleast 2 Digimon.",
     "translation": "In order to Load a Digimon, you need at \nleast 2 Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0056",
     "original": "Select the Main Digimon to power up \nwith Digimon Load.",
     "translation": "Select the Main Digimon to power up \nwith Digimon Load.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0057",
     "original": "Select the Sub Digimon to use to power up with \nDigimon Load.",
     "translation": "Select the Sub Digimon to use to power up with \nDigimon Load.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0058",
     "original": "You have selected this Digimon \nas the Main Digimon.",
     "translation": "You have selected this Digimon \nas the Main Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0059",
     "original": "You cannot choose a Party Digimon \nto be a Sub Digimon.",
     "translation": "You cannot choose a Party Digimon \nto be a Sub Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0060",
     "original": "Activate Digimon Load?\n^0 x ^1",
     "translation": "Activate Digimon Load?\n^0 x ^1",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0061",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0062",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0063",
     "original": "You will lose the Sub Digimon if \nyou proceed, is that OK?",
     "translation": "You will lose the Sub Digimon if \nyou proceed, is that OK?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0064",
     "original": "That's fine",
     "translation": "That's fine",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0065",
     "original": "Wait",
     "translation": "Wait",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0066",
     "original": "Performed Digimon Load.\n^0 x ^1",
     "translation": "Performed Digimon Load.\n^0 x ^1",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0067",
     "original": "You cannot Digimon Load a \nDigimon without 100% Friendship.",
     "translation": "You cannot Digimon Load a \nDigimon without 100% Friendship.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0068",
     "original": "You cannot Digimon Load a \nDigiEgg.",
     "translation": "You cannot Digimon Load a \nDigiEgg.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0069",
     "original": "You cannot Digimon Load a Quest \nClient Digimon.",
     "translation": "You cannot Digimon Load a Quest \nClient Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0070",
     "original": "You cannot Digimon Load a \nDigimon currently training.",
     "translation": "You cannot Digimon Load a \nDigimon currently training.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0071",
     "original": "You cannot Digimon Load a \nDigimon currently assigned a Task.",
     "translation": "You cannot Digimon Load a \nDigimon currently assigned a Task.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0072",
     "original": "Main Digimon",
     "translation": "Main Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0073",
     "original": "Sub Digimon",
     "translation": "Sub Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0074",
     "original": "Select a DigiPlate.",
     "translation": "Select a DigiPlate.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0075",
     "original": "Select an Evolution Tree.",
     "translation": "Select an Evolution Tree.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0076",
     "original": "^0 was revived!",
     "translation": "^0 was revived!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0077",
     "original": "~F3~C1^0~F-~C- was revived!",
     "translation": "~F3~C1^0~F-~C- was revived!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0008_0078",
     "original": "^0 was set!",
     "translation": "^0 was set!",
-    "stage": 1,
     "context": ""
   }
 ]

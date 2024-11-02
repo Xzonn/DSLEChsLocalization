@@ -3,70 +3,60 @@
     "key": "MESPAK01_0014_0000",
     "original": "ブキみならい",
     "translation": "武器见习生",
-    "stage": 0,
     "context": "机翻辅助：\n\n武器搜寻\n\n学习武器\n\n浮标港"
   },
   {
     "key": "MESPAK01_0014_0001",
     "original": "ブキもんかせい",
     "translation": "武器门徒",
-    "stage": 0,
     "context": "机翻辅助：\n\n武器强化\n\n武器盲目性\n\n布基氧化性"
   },
   {
     "key": "MESPAK01_0014_0002",
     "original": "ブキじゅくれん",
     "translation": "武器熟手",
-    "stage": 0,
     "context": "机翻辅助：\n\n武器进化\n\n熟练掌握武器\n\n布基熔炼"
   },
   {
     "key": "MESPAK01_0014_0003",
     "original": "ブキかいでん",
     "translation": "武器皆传",
-    "stage": 0,
     "context": "机翻辅助：\n\n武器分解\n\n布基放电\n\n武器自燃"
   },
   {
     "key": "MESPAK01_0014_0004",
     "original": "ブキたくみワザ",
     "translation": "武具匠技",
-    "stage": 0,
     "context": "机翻辅助：\n\n武具强化\n\n浮雕\n\n武器技巧"
   },
   {
     "key": "MESPAK01_0014_0005",
     "original": "ボウグみならい",
     "translation": "防具见习生",
-    "stage": 0,
     "context": "机翻辅助：\n\n武具改造\n\n道具学习\n\n弓形港"
   },
   {
     "key": "MESPAK01_0014_0006",
     "original": "ボウグもんかせい",
     "translation": "防具门徒",
-    "stage": 0,
     "context": "机翻辅助：\n\n武具合成\n\n防御蒙家制\n\n卷边损失性"
   },
   {
     "key": "MESPAK01_0014_0007",
     "original": "ボウグじゅくれん",
     "translation": "防具熟手",
-    "stage": 0,
     "context": "机翻辅助：\n\n武具进化\n\n？\n\n弓形熔炼"
   },
   {
     "key": "MESPAK01_0014_0008",
     "original": "ボウグかいでん",
     "translation": "防具皆传",
-    "stage": 0,
     "context": "机翻辅助：\n\n武具鉴定\n\n防御装置断电\n\n博格放电"
   },
   {
     "key": "MESPAK01_0014_0009",
     "original": "ボウグたくみワザ",
     "translation": "防具匠技",
-    "stage": 0,
     "context": "机翻辅助：\n\n武具强化\n\n卷边机\n\n防御技巧"
   }
 ]

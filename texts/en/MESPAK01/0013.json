@@ -3,1701 +3,1458 @@
     "key": "MESPAK01_0013_0000",
     "original": "Name",
     "translation": "Name",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0001",
     "original": "Gender",
     "translation": "Gender",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0002",
     "original": "Location",
     "translation": "Location",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0003",
     "original": "￡",
     "translation": "￡",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0004",
     "original": "Tamer Points",
     "translation": "Tamer Points",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0005",
     "original": "Tamer Rank",
     "translation": "Tamer Rank",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0006",
     "original": "Quests Completed",
     "translation": "Quests Completed",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0007",
     "original": "Total Tamer Points",
     "translation": "Total Tamer Points",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0008",
     "original": "Digimon Collected",
     "translation": "Digimon Collected",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0009",
     "original": "Quests Completed",
     "translation": "Quests Completed",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0010",
     "original": "Digivolution Tree",
     "translation": "Digivolution Tree",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0011",
     "original": "Repairing used",
     "translation": "Repairing used",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0012",
     "original": "Entered DigiLab",
     "translation": "Entered DigiLab",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0013",
     "original": "Performed Matching",
     "translation": "Performed Matching",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0014",
     "original": "Times saved",
     "translation": "Times saved",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0015",
     "original": "Times ran away",
     "translation": "Times ran away",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0016",
     "original": "ATK",
     "translation": "ATK",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0017",
     "original": "DEF",
     "translation": "DEF",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0018",
     "original": "SPD",
     "translation": "SPD",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0019",
     "original": "ABI",
     "translation": "ABI",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0020",
     "original": "MAX LVL",
     "translation": "MAX LVL",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0021",
     "original": "FND",
     "translation": "FND",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0022",
     "original": "Target",
     "translation": "Target",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0023",
     "original": "Personality",
     "translation": "Personality",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0024",
     "original": "Type",
     "translation": "Type",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0025",
     "original": "Attribute",
     "translation": "Attribute",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0026",
     "original": "Weakness",
     "translation": "Weakness",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0027",
     "original": "Level",
     "translation": "Level",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0028",
     "original": "Stage",
     "translation": "Stage",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0029",
     "original": "Species",
     "translation": "Species",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0030",
     "original": "Family",
     "translation": "Family",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0031",
     "original": "Skill",
     "translation": "Skill",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0032",
     "original": "EXP Points",
     "translation": "EXP Points",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0033",
     "original": "Next level",
     "translation": "Next level",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0034",
     "original": "ＥＸＰ",
     "translation": "ＥＸＰ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0035",
     "original": "Trait 1",
     "translation": "Trait 1",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0036",
     "original": "Trait 2",
     "translation": "Trait 2",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0037",
     "original": "Trait 3",
     "translation": "Trait 3",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0038",
     "original": "Trait 4",
     "translation": "Trait 4",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0039",
     "original": "Support Skill",
     "translation": "Support Skill",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0040",
     "original": "Skill",
     "translation": "Skill",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0041",
     "original": "ＨＰ",
     "translation": "ＨＰ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0042",
     "original": "ＭＰ",
     "translation": "ＭＰ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0043",
     "original": "^0",
     "translation": "^0",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0044",
     "original": "Selected Skill",
     "translation": "Selected Skill",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0045",
     "original": "Selected weapon",
     "translation": "Selected weapon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0046",
     "original": "Selected armor",
     "translation": "Selected armor",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0047",
     "original": "Selected ability",
     "translation": "Selected ability",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0048",
     "original": "Selected Item",
     "translation": "Selected Item",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0049",
     "original": "Selected Farm Goods",
     "translation": "Selected Farm Goods",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0050",
     "original": "Selected Bug Plate",
     "translation": "Selected Bug Plate",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0051",
     "original": "Selected DigiPlate",
     "translation": "Selected DigiPlate",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0052",
     "original": "Selected Key Item",
     "translation": "Selected Key Item",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0053",
     "original": "Current Equipment",
     "translation": "Current Equipment",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0054",
     "original": "Skill Name",
     "translation": "Skill Name",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0055",
     "original": "Bag",
     "translation": "Bag",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0056",
     "original": "Remaining",
     "translation": "Remaining",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0057",
     "original": "Amount",
     "translation": "Amount",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0058",
     "original": "Current stats",
     "translation": "Current stats",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0059",
     "original": "Equipment",
     "translation": "Equipment",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0060",
     "original": "Attribute",
     "translation": "Attribute",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0061",
     "original": "Range",
     "translation": "Range",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0062",
     "original": "Power",
     "translation": "Power",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0063",
     "original": "ＭＰ",
     "translation": "ＭＰ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0064",
     "original": "Type",
     "translation": "Type",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0065",
     "original": "Level attained",
     "translation": "Level attained",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0066",
     "original": "Rank",
     "translation": "Rank",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0067",
     "original": "Purchase Price",
     "translation": "Purchase Price",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0068",
     "original": "Max Points",
     "translation": "Max Points",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0069",
     "original": "Top Score",
     "translation": "Top Score",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0070",
     "original": "Evolution Tree",
     "translation": "Evolution Tree",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0071",
     "original": "Currently carrying none.",
     "translation": "Currently carrying none.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0072",
     "original": "Ongoing Effect",
     "translation": "Ongoing Effect",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0073",
     "original": "You cannot complete this \nDigimon's DigiPlate yet.",
     "translation": "You cannot complete this \nDigimon's DigiPlate yet.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0074",
     "original": "You have not accepted any Quests.",
     "translation": "You have not accepted any Quests.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0075",
     "original": "^0 Points",
     "translation": "^0 Points",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0076",
     "original": "Completion Rate",
     "translation": "Completion Rate",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0077",
     "original": "Check Bug Plate",
     "translation": "Check Bug Plate",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0078",
     "original": "Check DigiPlate",
     "translation": "Check DigiPlate",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0079",
     "original": "Check Reward",
     "translation": "Check Reward",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0080",
     "original": "Re-sort",
     "translation": "Re-sort",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0081",
     "original": "DigiEgg Ranking",
     "translation": "DigiEgg Ranking",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0082",
     "original": "     Made",
     "translation": "     Made",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0083",
     "original": "    Max Size",
     "translation": "    Max Size",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0084",
     "original": "List Order",
     "translation": "List Order",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0085",
     "original": "Matching criteria",
     "translation": "Matching criteria",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0086",
     "original": "Digimon Born",
     "translation": "Digimon Born",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0087",
     "original": "Digimon Encountered",
     "translation": "Digimon Encountered",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0088",
     "original": "Ally Digimon",
     "translation": "Ally Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0089",
     "original": "    No",
     "translation": "    No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0090",
     "original": "Scan Rate ",
     "translation": "Scan Rate ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0091",
     "original": "Save Information",
     "translation": "Save Information",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0092",
     "original": "           Save time",
     "translation": "           Save time",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0093",
     "original": "    Play time",
     "translation": "    Play time",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0094",
     "original": "Would you like to save your \ncurrent game?",
     "translation": "Would you like to save your \ncurrent game?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0095",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0096",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0097",
     "original": "Saving。。。\nPlease  do  not  turn  off  the  power。。。",
     "translation": "Saving。。。\nPlease  do  not  turn  off  the  power。。。",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0098",
     "original": "You saved your game！",
     "translation": "You saved your game！",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0099",
     "original": "Unable to save.",
     "translation": "Unable to save.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0100",
     "original": "Menu",
     "translation": "Menu",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0101",
     "original": "Digimon",
     "translation": "Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0102",
     "original": "Item",
     "translation": "Item",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0103",
     "original": "Quest",
     "translation": "Quest",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0104",
     "original": "Digifarm",
     "translation": "Digifarm",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0105",
     "original": "Tamer Info",
     "translation": "Tamer Info",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0106",
     "original": "DigiEgg Gallery",
     "translation": "DigiEgg Gallery",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0107",
     "original": "Digimon Gallery",
     "translation": "Digimon Gallery",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0108",
     "original": "Save",
     "translation": "Save",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0109",
     "original": "Select a menu option.",
     "translation": "Select a menu option.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0110",
     "original": "View information and edit the \narrangement of your Digimon",
     "translation": "View information and edit the \narrangement of your Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0111",
     "original": "Select an entry.",
     "translation": "Select an entry.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0112",
     "original": "Select a skill you'd like to view or move.",
     "translation": "Select a skill you'd like to view or move.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0113",
     "original": "Swaps the skill order.",
     "translation": "Swaps the skill order.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0114",
     "original": "Please select an equipment category. The strongest \nequipment can be auto-equipped.",
     "translation": "Please select an equipment category. The strongest \nequipment can be auto-equipped.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0115",
     "original": "Select the Weapon you'd like to equip.",
     "translation": "Select the Weapon you'd like to equip.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0116",
     "original": "Select the Armor you'd like to equip.",
     "translation": "Select the Armor you'd like to equip.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0117",
     "original": "Select the Trait, Skill or Support Skill \nyou'd like to check.",
     "translation": "Select the Trait, Skill or Support Skill \nyou'd like to check.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0118",
     "original": "Select the item category you'd like to use.",
     "translation": "Select the item category you'd like to use.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0119",
     "original": "Select the item you'd like to use.",
     "translation": "Select the item you'd like to use.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0120",
     "original": "Select the Digimon you'd like to use it on.",
     "translation": "Select the Digimon you'd like to use it on.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0121",
     "original": "View all weapons currently held.",
     "translation": "View all weapons currently held.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0122",
     "original": "View all Armor currently held.",
     "translation": "View all Armor currently held.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0123",
     "original": "View all Farm Goods currently held.",
     "translation": "View all Farm Goods currently held.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0124",
     "original": "View all Bug Plates currently held.",
     "translation": "View all Bug Plates currently held.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0125",
     "original": "View all DigiPlates currently held.",
     "translation": "View all DigiPlates currently held.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0126",
     "original": "View all Key Items currently held.",
     "translation": "View all Key Items currently held.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0127",
     "original": "Current Quest information.",
     "translation": "Current Quest information.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0128",
     "original": "Select an option to check.",
     "translation": "Select an option to check.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0129",
     "original": "Select a DigiEgg.",
     "translation": "Select a DigiEgg.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0130",
     "original": "Select a Digimon.",
     "translation": "Select a Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0131",
     "original": "Select where to move this Digimon.",
     "translation": "Select where to move this Digimon.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0132",
     "original": "Select a skill to check.",
     "translation": "Select a skill to check.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0133",
     "original": "Close Menu",
     "translation": "Close Menu",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0134",
     "original": "View Digimon information",
     "translation": "View Digimon information",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0135",
     "original": "Move Digimon",
     "translation": "Move Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0136",
     "original": "Change attack order",
     "translation": "Change attack order",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0137",
     "original": "Equip Weapons",
     "translation": "Equip Weapons",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0138",
     "original": "Equip Armor",
     "translation": "Equip Armor",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0139",
     "original": "Auto equip",
     "translation": "Auto equip",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0140",
     "original": "Remove all equipment",
     "translation": "Remove all equipment",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0141",
     "original": "Change weapons",
     "translation": "Change weapons",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0142",
     "original": "Change armor",
     "translation": "Change armor",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0143",
     "original": "Use Item",
     "translation": "Use Item",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0144",
     "original": "Sort by Digimon Number",
     "translation": "Sort by Digimon Number",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0145",
     "original": "Sort by Name",
     "translation": "Sort by Name",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0146",
     "original": "Sort by Species",
     "translation": "Sort by Species",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0147",
     "original": "Sort by Scan Rate",
     "translation": "Sort by Scan Rate",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0148",
     "original": "Check move order",
     "translation": "Check move order",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0149",
     "original": "Strength",
     "translation": "Strength",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0150",
     "original": "Skills",
     "translation": "Skills",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0151",
     "original": "Equipment",
     "translation": "Equipment",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0152",
     "original": "Traits",
     "translation": "Traits",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0153",
     "original": "Digivolution/Degeneration",
     "translation": "Digivolution/Degeneration",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0154",
     "original": "Consumable Items",
     "translation": "Consumable Items",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0155",
     "original": "Weapons",
     "translation": "Weapons",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0156",
     "original": "Armor",
     "translation": "Armor",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0157",
     "original": "Farm Goods",
     "translation": "Farm Goods",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0158",
     "original": "Bug Plates",
     "translation": "Bug Plates",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0159",
     "original": "DigiPlates",
     "translation": "DigiPlates",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0160",
     "original": "Key Items",
     "translation": "Key Items",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0161",
     "original": "Tamer Information",
     "translation": "Tamer Information",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0162",
     "original": "DigiEgg Gallery",
     "translation": "DigiEgg Gallery",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0163",
     "original": "Digimon Gallery",
     "translation": "Digimon Gallery",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0164",
     "original": "Owned Digimon",
     "translation": "Owned Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0165",
     "original": "Boy",
     "translation": "Boy",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0166",
     "original": "Girl",
     "translation": "Girl",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0167",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0168",
     "original": "All Digimon",
     "translation": "All Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0169",
     "original": "ｂｉｔ",
     "translation": "ｂｉｔ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0170",
     "original": "Profile",
     "translation": "Profile",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0171",
     "original": "Scan information",
     "translation": "Scan information",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0172",
     "original": "DigiPlate information",
     "translation": "DigiPlate information",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0173",
     "original": "View stats",
     "translation": "View stats",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0174",
     "original": "Scan Data",
     "translation": "Scan Data",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0175",
     "original": "Habitat",
     "translation": "Habitat",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0176",
     "original": "Befriended Tamers",
     "translation": "Befriended Tamers",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0177",
     "original": "Encountered",
     "translation": "Encountered",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0178",
     "original": "Wins",
     "translation": "Wins",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0179",
     "original": "Unknown",
     "translation": "Unknown",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0180",
     "original": "When the path is blocked by rock, \nuse this skill to crush it.",
     "translation": "When the path is blocked by rock, \nuse this skill to crush it.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0181",
     "original": "When the path is blocked by a tree, \nuse this skill to cut it.",
     "translation": "When the path is blocked by a tree, \nuse this skill to cut it.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0182",
     "original": "When the path is blocked by ice, \nuse this skill to melt it.",
     "translation": "When the path is blocked by ice, \nuse this skill to melt it.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0183",
     "original": "Use this skill to dig a hole, \nyou can then go underground.",
     "translation": "Use this skill to dig a hole, \nyou can then go underground.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0184",
     "original": "Use this skill to dive into the water, \nyou can then travel underwater.",
     "translation": "Use this skill to dive into the water, \nyou can then travel underwater.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0185",
     "original": "Digimon",
     "translation": "Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0186",
     "original": "Farm Goods",
     "translation": "Farm Goods",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0187",
     "original": "Terrain Board",
     "translation": "Terrain Board",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0188",
     "original": "BGM Board",
     "translation": "BGM Board",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0189",
     "original": "Recommended",
     "translation": "Recommended",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0190",
     "original": "Board level",
     "translation": "Board level",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0191",
     "original": "ＭＡＸ",
     "translation": "ＭＡＸ",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0192",
     "original": "There are Digimon on this Farm \nIsland.",
     "translation": "There are Digimon on this Farm \nIsland.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0193",
     "original": "Summary of Farm Goods set on \nthis Farm Island.",
     "translation": "Summary of Farm Goods set on \nthis Farm Island.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0194",
     "original": "Terrain Board ^0's performance.",
     "translation": "Terrain Board ^0's performance.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0195",
     "original": "BGM Board ^0's performance.",
     "translation": "BGM Board ^0's performance.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0196",
     "original": "Amount of EXP gained from this \nFarm Island per day.",
     "translation": "Amount of EXP gained from this \nFarm Island per day.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0197",
     "original": "Unable to read data, please turn \noff the power and re-insert the \ngame cart.",
     "translation": "Unable to read data, please turn \noff the power and re-insert the \ngame cart.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0198",
     "original": "Unable to write data, please turn \noff the power and re-insert the \ngame cart.",
     "translation": "Unable to write data, please turn \noff the power and re-insert the \ngame cart.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0199",
     "original": "Unable to read data, please turn \noff the power and re-insert the \ngame cart.",
     "translation": "Unable to read data, please turn \noff the power and re-insert the \ngame cart.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0200",
     "original": "Cannot trade a Digimon currently \nin the party.",
     "translation": "Cannot trade a Digimon currently \nin the party.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0201",
     "original": "Cannot trade a DigiEgg.",
     "translation": "Cannot trade a DigiEgg.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0202",
     "original": "Cannot trade a Digimon currently \ntraining.",
     "translation": "Cannot trade a Digimon currently \ntraining.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0203",
     "original": "Cannot trade a Digimon currently \npart of a Quest.",
     "translation": "Cannot trade a Digimon currently \npart of a Quest.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0204",
     "original": "Cannot trade a Digimon currently \nassigned a Task.",
     "translation": "Cannot trade a Digimon currently \nassigned a Task.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0205",
     "original": "Cannot send a party Digimon \ninto training.",
     "translation": "Cannot send a party Digimon \ninto training.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0206",
     "original": "Cannot send a DigiEgg into training.",
     "translation": "Cannot send a DigiEgg into training.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0207",
     "original": "You cannot send a currently \ntraining Digimon into training.",
     "translation": "You cannot send a currently \ntraining Digimon into training.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0208",
     "original": "You cannot send a Digimon \ncurrently part of a Quest into \ntraining.",
     "translation": "You cannot send a Digimon \ncurrently part of a Quest into \ntraining.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0209",
     "original": "You cannot send a Digimon \ncurrently assigned a Task into \ntraining.",
     "translation": "You cannot send a Digimon \ncurrently assigned a Task into \ntraining.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0210",
     "original": "Select the Digimon you'd like to lead in battle.\nOnly the first 3 Digimon in the party can participate.",
     "translation": "Select the Digimon you'd like to lead in battle.\nOnly the first 3 Digimon in the party can participate.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0211",
     "original": "Send to train.",
     "translation": "Send to train.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0212",
     "original": "Offer to trade.",
     "translation": "Offer to trade.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0213",
     "original": "Trade",
     "translation": "Trade",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0214",
     "original": "Your Digimon",
     "translation": "Your Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0215",
     "original": "Partners Digimon",
     "translation": "Partners Digimon",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0216",
     "original": "Please wait a moment.",
     "translation": "Please wait a moment.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0217",
     "original": "Awaiting connection partners reply.",
     "translation": "Awaiting connection partners reply.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0218",
     "original": "Digimon trade cancelled.",
     "translation": "Digimon trade cancelled.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0219",
     "original": "Digimon trade beginning.",
     "translation": "Digimon trade beginning.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0220",
     "original": "Digimon sent to train.",
     "translation": "Digimon sent to train.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0221",
     "original": "Currently saving, please do not \nturn off the power.",
     "translation": "Currently saving, please do not \nturn off the power.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0222",
     "original": "Game saved.",
     "translation": "Game saved.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0223",
     "original": "Unable to send a Digimon to train.",
     "translation": "Unable to send a Digimon to train.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0224",
     "original": "Digimon returned from training.",
     "translation": "Digimon returned from training.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0225",
     "original": "Trade complete.",
     "translation": "Trade complete.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0226",
     "original": "Training cancelled.",
     "translation": "Training cancelled.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0227",
     "original": "Return from training was cancelled.",
     "translation": "Return from training was cancelled.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0228",
     "original": "Trade ^0 for ^1, is that OK?",
     "translation": "Trade ^0 for ^1, is that OK?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0229",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0230",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0231",
     "original": "Continue the trade?",
     "translation": "Continue the trade?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0232",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0233",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0234",
     "original": "Send ^0 out to train?",
     "translation": "Send ^0 out to train?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0235",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0236",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0237",
     "original": "^0 will return from ^1, is that OK?",
     "translation": "^0 will return from ^1, is that OK?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0238",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0239",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0240",
     "original": "Communications will now end, \nis that OK?",
     "translation": "Communications will now end, \nis that OK?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0241",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0013_0242",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   }
 ]

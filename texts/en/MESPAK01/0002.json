@@ -3,693 +3,594 @@
     "key": "MESPAK01_0002_0000",
     "original": "Buy Items",
     "translation": "Buy Items",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0001",
     "original": "  Buy Equipment",
     "translation": "  Buy Equipment",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0002",
     "original": "Buy Consumable Items",
     "translation": "Buy Consumable Items",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0003",
     "original": "Close Menu",
     "translation": "Close Menu",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0004",
     "original": "Sell Items",
     "translation": "Sell Items",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0005",
     "original": "  Sell Equipment",
     "translation": "  Sell Equipment",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0006",
     "original": "Sell Consumable Items",
     "translation": "Sell Consumable Items",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0007",
     "original": "Sell Farm Goods",
     "translation": "Sell Farm Goods",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0008",
     "original": "Sell Bug Plates",
     "translation": "Sell Bug Plates",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0009",
     "original": "Buy this Farm Island for 30000 Bit?",
     "translation": "Buy this Farm Island for 30000 Bit?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0010",
     "original": "Buy",
     "translation": "Buy",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0011",
     "original": "Don't buy",
     "translation": "Don't buy",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0012",
     "original": "You bought 1 Farm Island.\nPlease give the Island a name.",
     "translation": "You bought 1 Farm Island.\nPlease give the Island a name.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0013",
     "original": "You don't have enough Bits.",
     "translation": "You don't have enough Bits.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0014",
     "original": "You already have 4 Farm Islands, \nyou cannot buy more.",
     "translation": "You already have 4 Farm Islands, \nyou cannot buy more.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0015",
     "original": "Install ^0 Terrain?",
     "translation": "Install ^0 Terrain?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0016",
     "original": "Yes, it's good.",
     "translation": "Yes, it's good.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0017",
     "original": "No, choose again.",
     "translation": "No, choose again.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0018",
     "original": "^0 has been installed.",
     "translation": "^0 has been installed.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0019",
     "original": "Install ^0 Farm Island BGM Board?",
     "translation": "Install ^0 Farm Island BGM Board?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0020",
     "original": "Are you done shopping?",
     "translation": "Are you done shopping?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0021",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0022",
     "original": "Not yet",
     "translation": "Not yet",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0023",
     "original": "Select the category",
     "translation": "Select the category",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0024",
     "original": "Select the category",
     "translation": "Select the category",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0025",
     "original": "Select the category",
     "translation": "Select the category",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0026",
     "original": "Select the Equipment you'd like to buy.",
     "translation": "Select the Equipment you'd like to buy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0027",
     "original": "Select the Consumable Item you'd like to buy.",
     "translation": "Select the Consumable Item you'd like to buy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0028",
     "original": "Select the Farm Goods you'd like to buy.",
     "translation": "Select the Farm Goods you'd like to buy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0029",
     "original": "Select the Repairing Tool you'd like to buy.",
     "translation": "Select the Repairing Tool you'd like to buy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0030",
     "original": "Select the Equipment you'd like to sell.",
     "translation": "Select the Equipment you'd like to sell.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0031",
     "original": "Select the Consumable item you'd like to sell.",
     "translation": "Select the Consumable item you'd like to sell.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0032",
     "original": "Select the Farm Goods you'd like \nto sell.",
     "translation": "Select the Farm Goods you'd like \nto sell.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0033",
     "original": "Select the Bug Plate you'd like \nto sell.",
     "translation": "Select the Bug Plate you'd like \nto sell.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0034",
     "original": ", how many will you buy?",
     "translation": ", how many will you buy?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0035",
     "original": "Is there anything else?",
     "translation": "Is there anything else?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0036",
     "original": "Will you buy^1x ^0?",
     "translation": "Will you buy^1x ^0?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0037",
     "original": "You bought ^1x ^0.",
     "translation": "You bought ^1x ^0.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0038",
     "original": "You don't have enough Bits, \nyou cannot buy this.",
     "translation": "You don't have enough Bits, \nyou cannot buy this.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0039",
     "original": "You already have 99 of that item, \nyou cannot buy more.",
     "translation": "You already have 99 of that item, \nyou cannot buy more.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0040",
     "original": "You already have 99 of that, \nyou cannot buy more.",
     "translation": "You already have 99 of that, \nyou cannot buy more.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0041",
     "original": "You already have 9 of that Farm \nGoods, you cannot buy more.",
     "translation": "You already have 9 of that Farm \nGoods, you cannot buy more.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0042",
     "original": "You already own that Repairing\nTool, you can't buy it again.",
     "translation": "You already own that Repairing\nTool, you can't buy it again.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0043",
     "original": ", how many will you sell?",
     "translation": ", how many will you sell?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0044",
     "original": "Sell ^1x ^0?",
     "translation": "Sell ^1x ^0?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0045",
     "original": "Sell",
     "translation": "Sell",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0046",
     "original": "Don't sell",
     "translation": "Don't sell",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0047",
     "original": "You sold ^1x ^0.",
     "translation": "You sold ^1x ^0.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0048",
     "original": "You do not have enough to sell.",
     "translation": "You do not have enough to sell.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0049",
     "original": "Choose a Terrain Board to install.",
     "translation": "Choose a Terrain Board to install.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0050",
     "original": "Choose a BGM Board to install.",
     "translation": "Choose a BGM Board to install.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0051",
     "original": "Select the Terrain Board you'd \nlike to buy.",
     "translation": "Select the Terrain Board you'd \nlike to buy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0052",
     "original": "Select the BGM Board you'd like \nto buy.",
     "translation": "Select the BGM Board you'd like \nto buy.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0053",
     "original": "Select the category.",
     "translation": "Select the category.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0054",
     "original": "Buy a Terrain Board",
     "translation": "Buy a Terrain Board",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0055",
     "original": "Buy a BGM Board",
     "translation": "Buy a BGM Board",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0056",
     "original": "Ｌｖ０",
     "translation": "Ｌｖ０",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0057",
     "original": "Ｌｖ１",
     "translation": "Ｌｖ１",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0058",
     "original": "Ｌｖ２",
     "translation": "Ｌｖ２",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0059",
     "original": "Ｌｖ３",
     "translation": "Ｌｖ３",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0060",
     "original": "Ｌｖ４",
     "translation": "Ｌｖ４",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0061",
     "original": "Ｌｖ５",
     "translation": "Ｌｖ５",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0062",
     "original": "Ｌｖ６",
     "translation": "Ｌｖ６",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0063",
     "original": "Ｌｖ７",
     "translation": "Ｌｖ７",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0064",
     "original": "Ｌｖ８",
     "translation": "Ｌｖ８",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0065",
     "original": "Ｌｖ９",
     "translation": "Ｌｖ９",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0066",
     "original": "MAX",
     "translation": "MAX",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0067",
     "original": "Will you buy ^0 ^1?",
     "translation": "Will you buy ^0 ^1?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0068",
     "original": "You bought ^0 ^1.",
     "translation": "You bought ^0 ^1.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0069",
     "original": "This Terrain Board is at max level, \nyou cannot buy any more.",
     "translation": "This Terrain Board is at max level, \nyou cannot buy any more.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0070",
     "original": "This BGM Board is at max level, \nyou cannot buy any more.",
     "translation": "This BGM Board is at max level, \nyou cannot buy any more.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0071",
     "original": "Sell an item.",
     "translation": "Sell an item.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0072",
     "original": "Buy an item.",
     "translation": "Buy an item.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0073",
     "original": "     Buy Goods",
     "translation": "     Buy Goods",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0074",
     "original": "  Buy Island",
     "translation": "  Buy Island",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0075",
     "original": "  Renovate Island",
     "translation": "  Renovate Island",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0076",
     "original": "       Buy Tools",
     "translation": "       Buy Tools",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0077",
     "original": "Currently carrying none.",
     "translation": "Currently carrying none.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0078",
     "original": "Bought ^0.",
     "translation": "Bought ^0.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0079",
     "original": "Added ^0 to Key Items.",
     "translation": "Added ^0 to Key Items.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0080",
     "original": "None",
     "translation": "None",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0081",
     "original": "Max HP",
     "translation": "Max HP",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0082",
     "original": "Max MP",
     "translation": "Max MP",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0083",
     "original": "ATK",
     "translation": "ATK",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0084",
     "original": "DEF",
     "translation": "DEF",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0085",
     "original": "SPD",
     "translation": "SPD",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0086",
     "original": "Mythical EXP",
     "translation": "Mythical EXP",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0087",
     "original": "Beast EXP",
     "translation": "Beast EXP",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0088",
     "original": "Angel EXP",
     "translation": "Angel EXP",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0089",
     "original": "Demon EXP",
     "translation": "Demon EXP",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0090",
     "original": "Aquatic EXP",
     "translation": "Aquatic EXP",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0091",
     "original": "Machine EXP",
     "translation": "Machine EXP",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0092",
     "original": "Bird EXP",
     "translation": "Bird EXP",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0093",
     "original": "Insect EXP",
     "translation": "Insect EXP",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0094",
     "original": "Plant EXP",
     "translation": "Plant EXP",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0095",
     "original": "FND",
     "translation": "FND",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0096",
     "original": "Bit",
     "translation": "Bit",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0097",
     "original": "Weapon Creation",
     "translation": "Weapon Creation",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0002_0098",
     "original": "Armor Creation",
     "translation": "Armor Creation",
-    "stage": 1,
     "context": ""
   }
 ]

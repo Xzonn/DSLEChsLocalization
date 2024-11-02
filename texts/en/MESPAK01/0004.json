@@ -3,259 +3,222 @@
     "key": "MESPAK01_0004_0000",
     "original": "^0 is\nhunkering down!",
     "translation": "^0 is\nhunkering down!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0001",
     "original": "^0 is confused!",
     "translation": "^0 is confused!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0002",
     "original": "^0 has fallen asleep!",
     "translation": "^0 has fallen asleep!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0003",
     "original": "^0 has become nonsensical!",
     "translation": "^0 has become nonsensical!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0004",
     "original": " Attempting to escape...",
     "translation": " Attempting to escape...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0005",
     "original": "...",
     "translation": "...",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0006",
     "original": "....",
     "translation": "....",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0007",
     "original": ".....",
     "translation": ".....",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0008",
     "original": " Escape failed!",
     "translation": " Escape failed!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0009",
     "original": " Escape successful!",
     "translation": " Escape successful!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0010",
     "original": "Attack",
     "translation": "Attack",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0011",
     "original": "Guard",
     "translation": "Guard",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0012",
     "original": "Item",
     "translation": "Item",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0013",
     "original": "Move",
     "translation": "Move",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0014",
     "original": "Auto",
     "translation": "Auto",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0015",
     "original": "Escape",
     "translation": "Escape",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0016",
     "original": "Change",
     "translation": "Change",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0017",
     "original": "^0 is shivering \nand can't move!",
     "translation": "^0 is shivering \nand can't move!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0018",
     "original": "^0 can't hear your order!",
     "translation": "^0 can't hear your order!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0019",
     "original": "Switch to a Digimon \nthat can fight.",
     "translation": "Switch to a Digimon \nthat can fight.",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0020",
     "original": "^0's Offense has\nreturned to normal!",
     "translation": "^0's Offense has\nreturned to normal!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0021",
     "original": "^0's Defense has\nreturned to normal!",
     "translation": "^0's Defense has\nreturned to normal!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0022",
     "original": "^0's Speed has\nreturned to normal!",
     "translation": "^0's Speed has\nreturned to normal!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0023",
     "original": "^0 stopped shivering!",
     "translation": "^0 stopped shivering!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0024",
     "original": "^0 returned to its senses!",
     "translation": "^0 returned to its senses!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0025",
     "original": "^0 woke up!",
     "translation": "^0 woke up!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0026",
     "original": "^0 shook off the poison!",
     "translation": "^0 shook off the poison!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0027",
     "original": "^0 ran away!",
     "translation": "^0 ran away!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0028",
     "original": "^0's counter disappeared!",
     "translation": "^0's counter disappeared!",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0029",
     "original": "No space for the new skill,\nreplace an old one?",
     "translation": "No space for the new skill,\nreplace an old one?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0030",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0031",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0032",
     "original": "Are you finished?",
     "translation": "Are you finished?",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0033",
     "original": "Yes",
     "translation": "Yes",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0034",
     "original": "No",
     "translation": "No",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0035",
     "original": "Give up",
     "translation": "Give up",
-    "stage": 1,
     "context": ""
   },
   {
     "key": "MESPAK01_0004_0036",
     "original": "^0 has \nbecome stunned!",
     "translation": "^0 has \nbecome stunned!",
-    "stage": 1,
     "context": ""
   }
 ]
