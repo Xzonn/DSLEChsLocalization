@@ -38,7 +38,7 @@
   {
     "key": "MESPAK04_0044_0006",
     "original": "『ＬＶ』１７以上\n『すばやさ』\n１７０以上",
-    "translation": "“LV”17以上\n“速度”\n170以上",
+    "translation": "“LV”17以上\n“敏捷”\n170以上",
     "context": "机翻辅助：\n\n“LV”17以上\n“速度”\n170以上\n\n“LV”17以上\n“速度”170以上"
   },
   {
@@ -68,7 +68,7 @@
   {
     "key": "MESPAK04_0044_0011",
     "original": "『ＬＶ』１７以上\n『すばやさ』\n１９０以上",
-    "translation": "“LV”17以上\n“速度”\n190以上",
+    "translation": "“LV”17以上\n“敏捷”\n190以上",
     "context": "机翻辅助：\n\n“LV”17以上\n“速度”\n190以上\n\n“LV”17以上\n“速度”190以上"
   },
   {
@@ -98,7 +98,7 @@
   {
     "key": "MESPAK04_0044_0016",
     "original": "『ＬＶ』２２以上\n『すばやさ』\n２５０以上",
-    "translation": "“LV”22以上\n“速度”\n250以上",
+    "translation": "“LV”22以上\n“敏捷”\n250以上",
     "context": "机翻辅助：\n\n“LV”22以上\n“速度”\n250以上\n\n“LV”22以上\n“速度”250以上"
   },
   {
@@ -146,13 +146,13 @@
   {
     "key": "MESPAK04_0044_0024",
     "original": "『ＬＶ』３０以上\n『すばやさ』\n２１０以上",
-    "translation": "“LV”30以上\n“速度”\n210以上",
+    "translation": "“LV”30以上\n“敏捷”\n210以上",
     "context": "机翻辅助：\n\n“LV”30以上\n“速度”\n210以上\n\n“LV”30以上\n“速度”210以上"
   },
   {
     "key": "MESPAK04_0044_0025",
     "original": "『ＬＶ』３３以上\n『すばやさ』\n３００以上",
-    "translation": "“LV”33以上\n“速度”\n300以上",
+    "translation": "“LV”33以上\n“敏捷”\n300以上",
     "context": "机翻辅助：\n\n“LV”33以上\n“速度”\n300以上\n\n“LV”33以上\n“速度”300以上"
   },
   {
@@ -224,13 +224,13 @@
   {
     "key": "MESPAK04_0044_0037",
     "original": "『ＬＶ』３０以上\n『すばやさ』\n３００以上",
-    "translation": "“LV”30以上\n“速度”\n300以上",
+    "translation": "“LV”30以上\n“敏捷”\n300以上",
     "context": "机翻辅助：\n\n“LV”30以上\n“速度”\n300以上\n\n“LV”30以上\n“速度”300以上"
   },
   {
     "key": "MESPAK04_0044_0038",
     "original": "『ＬＶ』２５以上\n『すばやさ』\n３２０以上",
-    "translation": "“LV”25以上\n“速度”\n320以上",
+    "translation": "“LV”25以上\n“敏捷”\n320以上",
     "context": "机翻辅助：\n\n“LV”25以上\n“速度”\n320以上\n\n“LV”25以上\n“极速”320以上"
   },
   {
