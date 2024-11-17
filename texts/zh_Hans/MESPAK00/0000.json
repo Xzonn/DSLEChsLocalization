@@ -6740,19 +6740,19 @@
   {
     "key": "MESPAK00_0000_1123",
     "original": "ゲインアタック",
-    "translation": "攻击增益",
+    "translation": "攻击填充",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1124",
     "original": "メガゲインアタック",
-    "translation": "百万攻击增益",
+    "translation": "百万攻击填充",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1125",
     "original": "ギガゲインアタック",
-    "translation": "千兆攻击增益",
+    "translation": "千兆攻击填充",
     "context": ""
   },
   {
@@ -6764,19 +6764,19 @@
   {
     "key": "MESPAK00_0000_1127",
     "original": "ゲインガード",
-    "translation": "防守增益",
+    "translation": "防守填充",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1128",
     "original": "メガゲインガード",
-    "translation": "百万防守增益",
+    "translation": "百万防守填充",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1129",
     "original": "ギガゲインガード",
-    "translation": "千兆防守增益",
+    "translation": "千兆防守填充",
     "context": ""
   },
   {
@@ -6788,19 +6788,19 @@
   {
     "key": "MESPAK00_0000_1131",
     "original": "ゲインスピード",
-    "translation": "速度增益",
+    "translation": "速度填充",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1132",
     "original": "メガゲインスピード",
-    "translation": "百万速度增益",
+    "translation": "百万速度填充",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1133",
     "original": "ギガゲインスピード",
-    "translation": "千兆速度增益",
+    "translation": "千兆速度填充",
     "context": ""
   },
   {
