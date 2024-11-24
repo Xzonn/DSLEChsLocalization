@@ -20,16 +20,12 @@ os.makedirs(f"{DIR_TEMP_IMPORT}/{DIR_SPR_NCGR}", exist_ok=True)
 for i in range(SPR_COUNT):
   ncer_path = f"{DIR_IMAGES_SPR_FILES}/{i:04d}.ncer"
   ncgr_path = f"{DIR_IMAGES_SPR_FILES}/{i:04d}.ncgr"
-  png_path = f"{DIR_IMAGES_SPR_FILES}/{i:04d}.ncer_0.png"
 
   if os.path.exists(ncer_path):
     shutil.copy(ncer_path, f"{DIR_TEMP_IMPORT}/{DIR_SPR_NCER}/{i:04d}.bin")
 
   if os.path.exists(ncgr_path):
     shutil.copy(ncgr_path, f"{DIR_TEMP_IMPORT}/{DIR_SPR_NCGR}/{i:04d}.bin")
-
-  if not os.path.exists(png_path):
-    continue
 
   ncgr: NCGR = NCGR.load_from(f"{DIR_UNPACKED_FILES}/data/SPR_NCGR/{i:04d}.bin")
   nclr: NCLR = NCLR.load_from(f"{DIR_UNPACKED_FILES}/data/SPR_NCLR/{i:04d}.bin")
@@ -46,6 +42,7 @@ for i in range(SPR_COUNT):
     palette.putpalette(colors)
 
   cells: list[Cell] = ncer.cells
+  changed = False
   for j, cell in enumerate(cells):
     png_path = f"{DIR_IMAGES_SPR_FILES}/{i:04d}.ncer_{j}.png"
     if not os.path.exists(png_path):
@@ -80,7 +77,10 @@ for i in range(SPR_COUNT):
           tile = oam_image.crop((x, y, x + 8, y + 8))
           new_image.paste(tile, (0, Y))
           Y += 8
+    
+    changed = True
 
+  if changed:
     image_converted = new_image.quantize(palette=palette, dither=Image.NONE)
     new_ncgr = img_to_ncgr(image_converted, nclr.is8bpp)
     new_bytes = new_ncgr.pack()

@@ -1,3 +1,4 @@
 pypinyin>=0.53.0
 ndspy>=4.2.0
 pyxdelta>=0.2.0
+bin/ntrgfx-py
