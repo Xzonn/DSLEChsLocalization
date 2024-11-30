@@ -530,7 +530,7 @@
   {
     "key": "MESPAK00_0000_0088",
     "original": "キカイデジタマ",
-    "translation": "机械数码蛋",
+    "translation": "机器数码蛋",
     "context": ""
   },
   {
@@ -3266,7 +3266,7 @@
   {
     "key": "MESPAK00_0000_0544",
     "original": "キカイデジタマ",
-    "translation": "机械数码蛋",
+    "translation": "机器数码蛋",
     "context": ""
   },
   {
@@ -5960,19 +5960,19 @@
   {
     "key": "MESPAK00_0000_0993",
     "original": "エアカッター",
-    "translation": "空气弯刀",
+    "translation": "空气切割",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0994",
     "original": "クレセントカッター",
-    "translation": "新月弯刀",
+    "translation": "新月切割",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0995",
     "original": "ダブルクレセント",
-    "translation": "双重新月弯刀",
+    "translation": "双重新月切割",
     "context": ""
   },
   {
@@ -5996,13 +5996,13 @@
   {
     "key": "MESPAK00_0000_0999",
     "original": "トップガン",
-    "translation": "凌云壮志",
+    "translation": "风灵弹",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1000",
     "original": "トップガンボム",
-    "translation": "凌云壮志炸弹",
+    "translation": "风灵炸弹",
     "context": ""
   },
   {
@@ -6410,19 +6410,19 @@
   {
     "key": "MESPAK00_0000_1068",
     "original": "プチカッター",
-    "translation": "微小弯刀",
+    "translation": "微小切割",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1069",
     "original": "クロスカッター",
-    "translation": "十字弯刀",
+    "translation": "十字切割",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1070",
     "original": "パワーカッター",
-    "translation": "力量弯刀",
+    "translation": "强力切割",
     "context": ""
   },
   {
@@ -8066,7 +8066,7 @@
   {
     "key": "MESPAK00_0000_1344",
     "original": "ラブリーアタック",
-    "translation": "爱心一击",
+    "translation": "爱心攻击",
     "context": ""
   },
   {
@@ -8150,7 +8150,7 @@
   {
     "key": "MESPAK00_0000_1358",
     "original": "ルナティックダンス",
-    "translation": "月光狂舞",
+    "translation": "月夜飞踢",
     "context": ""
   },
   {
@@ -8510,7 +8510,7 @@
   {
     "key": "MESPAK00_0000_1418",
     "original": "ムーンナイトボム",
-    "translation": "月光炸弹",
+    "translation": "月夜水弹",
     "context": ""
   },
   {
@@ -10292,7 +10292,7 @@
   {
     "key": "MESPAK00_0000_1715",
     "original": "サイコブラスター",
-    "translation": "精神光线枪",
+    "translation": "精神爆风炮",
     "context": ""
   },
   {
@@ -10580,7 +10580,7 @@
   {
     "key": "MESPAK00_0000_1763",
     "original": "ムーングローブ",
-    "translation": "月亮手套",
+    "translation": "月之手套",
     "context": ""
   },
   {
@@ -15332,13 +15332,13 @@
   {
     "key": "MESPAK00_0000_2601",
     "original": "スイセイ",
-    "translation": "水生",
+    "translation": "水栖",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_2602",
     "original": "キカイ",
-    "translation": "机械",
+    "translation": "机器",
     "context": ""
   },
   {
@@ -15392,7 +15392,7 @@
   {
     "key": "MESPAK00_0000_2611",
     "original": "マシーン",
-    "translation": "机器",
+    "translation": "机械",
     "context": ""
   },
   {
@@ -15680,7 +15680,7 @@
   {
     "key": "MESPAK00_0000_2659",
     "original": "キカイのうた",
-    "translation": "机械之歌",
+    "translation": "机器之歌",
     "context": ""
   },
   {
