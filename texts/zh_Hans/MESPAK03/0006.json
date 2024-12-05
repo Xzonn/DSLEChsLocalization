@@ -488,7 +488,7 @@
   {
     "key": "MESPAK03_0006_0081",
     "original": "………　……　…\n\n……ヴん",
-    "translation": "………………\n\n……嗯。",
+    "translation": "……… …… …\n\n……嗯。",
     "context": "机翻辅助：\n\n………………\n\n……声\n\n……………………\n\n……请问你\n\n…………\n……嗯"
   },
   {
@@ -830,13 +830,13 @@
   {
     "key": "MESPAK03_0006_0138",
     "original": "はい　エントリーします",
-    "translation": "报名。",
+    "translation": "是，报名。",
     "context": "机翻辅助：\n\n是我要报名\n\n是的，我报名了\n\n好，我报名。"
   },
   {
     "key": "MESPAK03_0006_0139",
     "original": "いいえ　エントリーしません",
-    "translation": "不报名。",
+    "translation": "否，不报名。",
     "context": "机翻辅助：\n\n不是我不要报名\n\n不，我不报名。\n\n不，不报名"
   },
   {
@@ -848,13 +848,13 @@
   {
     "key": "MESPAK03_0006_0141",
     "original": "はい　エントリーします",
-    "translation": "报名。",
+    "translation": "是，报名。",
     "context": "机翻辅助：\n\n是我要报名\n\n好，我报名。\n\n是的，我报名了"
   },
   {
     "key": "MESPAK03_0006_0142",
     "original": "いいえ　エントリーしません",
-    "translation": "不报名。",
+    "translation": "否，不报名。",
     "context": "机翻辅助：\n\n不是我不要报名\n\n不，不报名\n\n不，我不报名。"
   },
   {
@@ -866,13 +866,13 @@
   {
     "key": "MESPAK03_0006_0144",
     "original": "はい　エントリーします",
-    "translation": "报名。",
+    "translation": "是，报名。",
     "context": "机翻辅助：\n\n是我要报名\n\n好，我报名。\n\n是的，我报名了"
   },
   {
     "key": "MESPAK03_0006_0145",
     "original": "いいえ　エントリーしません",
-    "translation": "不报名。",
+    "translation": "否，不报名。",
     "context": "机翻辅助：\n\n不是我不要报名\n\n不，我不报名。\n\n不，不报名"
   },
   {
@@ -884,13 +884,13 @@
   {
     "key": "MESPAK03_0006_0147",
     "original": "はい　エントリーします",
-    "translation": "报名。",
+    "translation": "是，报名。",
     "context": "机翻辅助：\n\n是我要报名\n\n是的，我报名了\n\n好，我报名。"
   },
   {
     "key": "MESPAK03_0006_0148",
     "original": "いいえ　エントリーしません",
-    "translation": "不报名。",
+    "translation": "否，不报名。",
     "context": "机翻辅助：\n\n不是我不要报名\n\n不，我不报名。\n\n不，不报名"
   },
   {
@@ -908,13 +908,13 @@
   {
     "key": "MESPAK03_0006_0151",
     "original": "はい　エントリーします",
-    "translation": "报名。",
+    "translation": "是，报名。",
     "context": "机翻辅助：\n\n是我要报名\n\n是的，我报名了\n\n好，我报名。"
   },
   {
     "key": "MESPAK03_0006_0152",
     "original": "いいえ　エントリーしません",
-    "translation": "不报名。",
+    "translation": "否，不报名。",
     "context": "机翻辅助：\n\n不是我不要报名\n\n不，不报名\n\n不，我不报名。"
   },
   {
@@ -986,13 +986,13 @@
   {
     "key": "MESPAK03_0006_0164",
     "original": "はい　キャンセルします",
-    "translation": "取消。",
+    "translation": "是，取消。",
     "context": "机翻辅助：\n\n好的，我要取消。\n\n是的，取消\n\n好的，取消。"
   },
   {
     "key": "MESPAK03_0006_0165",
     "original": "いいえ　キャンセルしません",
-    "translation": "不取消。",
+    "translation": "否，不取消。",
     "context": "机翻辅助：\n\n不，我不要取消\n\n不，我不取消。\n\n不，不取消"
   },
   {
@@ -1046,13 +1046,13 @@
   {
     "key": "MESPAK03_0006_0174",
     "original": "はい　いきます",
-    "translation": "要去。",
+    "translation": "是，要去。",
     "context": "机翻辅助：\n\n是的要去\n\n我走了\n\n是，是"
   },
   {
     "key": "MESPAK03_0006_0175",
     "original": "いいえ　いきません",
-    "translation": "先不去。",
+    "translation": "否，不去。",
     "context": "机翻辅助：\n\n不是不去\n\n不，我不去\n\n不，不"
   },
   {
