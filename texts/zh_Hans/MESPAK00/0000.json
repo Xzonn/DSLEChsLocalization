@@ -5420,19 +5420,19 @@
   {
     "key": "MESPAK00_0000_0903",
     "original": "デスよぼう",
-    "translation": "死亡预防",
+    "translation": "即死预防",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0904",
     "original": "デスガード",
-    "translation": "死亡防护",
+    "translation": "即死防护",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0905",
     "original": "デスバリア",
-    "translation": "死亡屏障",
+    "translation": "即死屏障",
     "context": ""
   },
   {
@@ -5504,19 +5504,19 @@
   {
     "key": "MESPAK00_0000_0917",
     "original": "かいひ",
-    "translation": "回避",
+    "translation": "闪避",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0918",
     "original": "こうそくかいひ",
-    "translation": "高速回避",
+    "translation": "高速闪避",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0919",
     "original": "みかわしのまい",
-    "translation": "对视之舞",
+    "translation": "闪避之舞",
     "context": ""
   },
   {
@@ -5636,13 +5636,13 @@
   {
     "key": "MESPAK00_0000_0939",
     "original": "スタンバリア",
-    "translation": "站立屏障",
+    "translation": "眩晕屏障",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0940",
     "original": "Ｄエンテレケイア",
-    "translation": "D完全现实",
+    "translation": "D隐德来希",
     "context": ""
   },
   {
@@ -14672,7 +14672,7 @@
   {
     "key": "MESPAK00_0000_2445",
     "original": "きょだいこおり",
-    "translation": "巨大的冰块",
+    "translation": "巨大冰块",
     "context": ""
   },
   {

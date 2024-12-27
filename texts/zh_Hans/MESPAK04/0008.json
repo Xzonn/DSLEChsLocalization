@@ -26,277 +26,277 @@
   {
     "key": "MESPAK04_0008_0004",
     "original": "「どく」に　たいする\nたいせいが　あがる",
-    "translation": "\n对“毒”的态度有所提高",
+    "translation": "对“中毒”的\n耐性提高。",
     "context": "机翻辅助：\n\n\n对“毒”的态度有所提高\n\n对“毒”的态度高涨"
   },
   {
     "key": "MESPAK04_0008_0005",
     "original": "「どく」に　たいする\nたいせいが　かなりあがる",
-    "translation": "\n对“毒”的态度大大提高",
+    "translation": "对“中毒”的\n耐性大幅提高。",
     "context": "机翻辅助：\n\n\n对“毒”的态度大大提高\n\n对“毒”的态度相当高涨"
   },
   {
     "key": "MESPAK04_0008_0006",
     "original": "「どく」に\nかからなくなる",
-    "translation": "\n不再染上“毒”",
+    "translation": "不会陷入\n“中毒”。",
     "context": "机翻辅助：\n\n\n不再染上“毒”\n\n变得不知道"
   },
   {
     "key": "MESPAK04_0008_0007",
     "original": "「こんらん」に　たいする\nたいせいが　あがる",
-    "translation": "\n对“混乱”的态度高涨",
+    "translation": "对“混乱”的\n耐性提高。",
     "context": "机翻辅助：\n\n\n对“混乱”的态度高涨\n\n大势高涨"
   },
   {
     "key": "MESPAK04_0008_0008",
     "original": "「こんらん」に　たいする\nたいせいが　かなりあがる",
-    "translation": "\n对“混乱”的态度有所提高",
+    "translation": "对“混乱”的\n耐性大幅提高。",
     "context": "机翻辅助：\n\n\n对“混乱”的态度有所提高\n\n对“こんらん”的态度相当强烈"
   },
   {
     "key": "MESPAK04_0008_0009",
     "original": "「こんらん」に\nかからなくなる",
-    "translation": "\n不再陷入“混乱”",
+    "translation": "不会陷入\n“混乱”。",
     "context": "机翻辅助：\n\n\n不再陷入“混乱”\n\n“こんらん”に\nかかけない"
   },
   {
     "key": "MESPAK04_0008_0010",
     "original": "「デス」に　たいする\nたいせいが　あがる",
-    "translation": "\n对“是”的态度提高",
+    "translation": "对“即死”的\n耐性提高。",
     "context": "机翻辅助：\n\n\n对“是”的态度提高\n\n对“死亡”情绪高涨"
   },
   {
     "key": "MESPAK04_0008_0011",
     "original": "「デス」に　たいする\nたいせいが　かなりあがる",
-    "translation": "\n对“是”的态度大大提高",
+    "translation": "对“即死”的\n耐性大幅提高。",
     "context": "机翻辅助：\n\n\n对“是”的态度大大提高\n\n对“死亡”的态度相当高涨"
   },
   {
     "key": "MESPAK04_0008_0012",
     "original": "「デス」に\nかからなくなる",
-    "translation": "“是”不需要\n",
+    "translation": "不会陷入\n“即死”。",
     "context": "机翻辅助：\n\n“是”不需要\n\n\n在“死亡”中消失"
   },
   {
     "key": "MESPAK04_0008_0013",
     "original": "「まひ」に　たいする\nたいせいが　あがる",
-    "translation": "\n对“麻痹”的态度有所提高",
+    "translation": "对“麻痹”的\n耐性提高。",
     "context": "机翻辅助：\n\n\n对“麻痹”的态度有所提高\n\n对麻痹有抵抗力"
   },
   {
     "key": "MESPAK04_0008_0014",
     "original": "「まひ」に　たいする\nたいせいが　かなりあがる",
-    "translation": "\n对“麻痹”的态度大幅提高",
+    "translation": "对“麻痹”的\n耐性大幅提高。",
     "context": "机翻辅助：\n\n\n对“麻痹”的态度大幅提高\n\n对“麻痹”的态度相当高涨"
   },
   {
     "key": "MESPAK04_0008_0015",
     "original": "「まひ」に\nかからなくなる",
-    "translation": "\n不再患上“麻痹症”",
+    "translation": "不会陷入\n“麻痹”。",
     "context": "机翻辅助：\n\n\n不再患上“麻痹症”\n\n因“麻痹”而消失"
   },
   {
     "key": "MESPAK04_0008_0016",
     "original": "「ねむり」に　たいする\nたいせいが　あがる",
-    "translation": "\n对“睡眠”的态度有所提高",
+    "translation": "对“睡眠”的\n耐性提高。",
     "context": "机翻辅助：\n\n\n对“睡眠”的态度有所提高\n\n睡意大增"
   },
   {
     "key": "MESPAK04_0008_0017",
     "original": "「ねむり」に　たいする\nたいせいが　かなりあがる",
-    "translation": "\n对“睡眠”的抵抗力大幅提高",
+    "translation": "对“睡眠”的\n耐性大幅提高。",
     "context": "机翻辅助：\n\n\n对“睡眠”的抵抗力大幅提高\n\n睡意大增"
   },
   {
     "key": "MESPAK04_0008_0018",
     "original": "「ねむり」に\nかからなくなる",
-    "translation": "\n不再“困”",
+    "translation": "不会陷入\n“睡眠”。",
     "context": "机翻辅助：\n\n\n不再“困”\n\n被“睡梦”弄得模糊不清"
   },
   {
     "key": "MESPAK04_0008_0019",
     "original": "「どく」「デス」「まひ」\n「こんらん」「ねむり」に\nたいする　たいせいが\nすべて　あがる",
-    "translation": "“毒”、“死”、“麻痹”、“混乱”、“睡眠”，对\n的体制\n全部提高\n",
+    "translation": "对“中毒”、“即死”、“麻痹”、\n“混乱”、“睡眠”\n的耐性\n全部提高。",
     "context": "机翻辅助：\n\n“毒”、“死”、“麻痹”、“混乱”、“睡眠”，对\n的体制\n全部提高\n\n\n“毒”、“死亡”、“麻痹”、“混乱”、“睡梦”"
   },
   {
     "key": "MESPAK04_0008_0020",
     "original": "「どく」「デス」「まひ」\n「こんらん」「ねむり」に\nたいする　たいせいが\nすべて　かなりあがる",
-    "translation": "对“毒”、“死”、“麻痹”、“混乱”、“睡眠”的态度都有很大提高\n\n\n",
+    "translation": "对“中毒”、“即死”、“麻痹”、\n“混乱”、“睡眠”\n的耐性\n全部大幅提高。",
     "context": "机翻辅助：\n\n对“毒”、“死”、“麻痹”、“混乱”、“睡眠”的态度都有很大提高\n\n\n\n\n“毒”、“死亡”、“麻痹”、“混乱”、“睡梦”"
   },
   {
     "key": "MESPAK04_0008_0021",
     "original": "ワザの\nめいちゅうりつが\nあがる",
-    "translation": "技能的成功率提高\n\n",
+    "translation": "技能的\n命中率\n提高。",
     "context": "机翻辅助：\n\n技能的成功率提高\n\n\n\n提高圈套的概率"
   },
   {
     "key": "MESPAK04_0008_0022",
     "original": "ワザの\nめいちゅうりつが\nかなり　あがる",
-    "translation": "技能的成功率提高了很多\n\n",
+    "translation": "技能的\n命中率\n大幅提高。",
     "context": "机翻辅助：\n\n技能的成功率提高了很多\n\n\n\n陷阱的概率大大提高"
   },
   {
     "key": "MESPAK04_0008_0023",
     "original": "ワザの\nめいちゅうりつが\nすごく　あがる",
-    "translation": "技能的成功率提高了很多\n\n",
+    "translation": "技能的\n命中率\n巨幅提高。",
     "context": "机翻辅助：\n\n技能的成功率提高了很多\n\n\n\n技巧\n提高了很多"
   },
   {
     "key": "MESPAK04_0008_0024",
     "original": "デジモンの\nかいひりつが\nあがる",
-    "translation": "数码宝贝的购买率提高\n\n",
+    "translation": "数码宝贝的\n闪避率\n提高。",
     "context": "机翻辅助：\n\n数码宝贝的购买率提高\n\n\n\n数码宝贝的回收率上升"
   },
   {
     "key": "MESPAK04_0008_0025",
     "original": "デジモンの\nかいひりつが\nかなり　あがる",
-    "translation": "数码宝贝的购买率大幅提高\n\n",
+    "translation": "数码宝贝的\n闪避率\n大幅提高。",
     "context": "机翻辅助：\n\n数码宝贝的购买率大幅提高\n\n\n\n数码宝贝的回收率上升了很多"
   },
   {
     "key": "MESPAK04_0008_0026",
     "original": "デジモンの\nかいひりつが\nすごく　あがる",
-    "translation": "数码宝贝的购买率大大提高\n\n",
+    "translation": "数码宝贝的\n闪避率\n巨幅提高。",
     "context": "机翻辅助：\n\n数码宝贝的购买率大大提高\n\n\n\n数码宝贝的几率\n上升"
   },
   {
     "key": "MESPAK04_0008_0027",
     "original": "ワザの\nクリティカルりつが\nあがる",
-    "translation": "技能的关键率提高\n\n",
+    "translation": "技能的\n暴击率\n提高。",
     "context": "机翻辅助：\n\n技能的关键率提高\n\n\n\n技巧的临界率上升"
   },
   {
     "key": "MESPAK04_0008_0028",
     "original": "ワザの\nクリティカルりつが\nかなり　あがる",
-    "translation": "技巧的临界率\n\n相当高",
+    "translation": "技能的\n暴击率\n大幅提高。",
     "context": "机翻辅助：\n\n技巧的临界率\n\n相当高\n\n技能的关键率大幅提高"
   },
   {
     "key": "MESPAK04_0008_0029",
     "original": "ワザの\nクリティカルりつが\nすごく　あがる",
-    "translation": "技巧\n关键率\n上升",
+    "translation": "技能的\n暴击率\n巨幅提高。",
     "context": "机翻辅助：\n\n技巧\n关键率\n上升\n\n技能的关键率大幅提高"
   },
   {
     "key": "MESPAK04_0008_0030",
     "original": "バトルから\nにげやすくなる",
-    "translation": "\n容易从战斗中逃脱",
+    "translation": "变得容易从\n战斗中逃脱。",
     "context": "机翻辅助：\n\n\n容易从战斗中逃脱\n\n从战斗中变得容易下降"
   },
   {
     "key": "MESPAK04_0008_0031",
     "original": "バトルから\nかなり　にげやすくなる",
-    "translation": "\n很容易从战斗中逃脱",
+    "translation": "变得很容易从\n战斗中逃脱。",
     "context": "机翻辅助：\n\n\n很容易从战斗中逃脱\n\n从战斗中变得相当容易下降"
   },
   {
     "key": "MESPAK04_0008_0032",
     "original": "バトルから\nすごく　にげやすくなる",
-    "translation": "\n很容易从战斗中逃脱",
+    "translation": "变得超容易从\n战斗中逃脱。",
     "context": "机翻辅助：\n\n\n很容易从战斗中逃脱\n\n从战斗中变得非常容易下降"
   },
   {
     "key": "MESPAK04_0008_0033",
     "original": "バトルで　てにはいる\nｂｉｔが　ふえる",
-    "translation": "在战斗中得到的\nbit增加",
+    "translation": "在战斗中获得的\nbit增加。",
     "context": "机翻辅助：\n\n在战斗中得到的\nbit增加\n\n战斗中增加了bit"
   },
   {
     "key": "MESPAK04_0008_0034",
     "original": "バトルで　てにはいる\nｂｉｔが　かなりふえる",
-    "translation": "在战斗中得到的\nbit增加了很多",
+    "translation": "在战斗中获得的\nbit大幅增加。",
     "context": "机翻辅助：\n\n在战斗中得到的\nbit增加了很多\n\n在战斗中进入\nbit增加了很多"
   },
   {
     "key": "MESPAK04_0008_0035",
     "original": "バトルで　てにはいる\nｂｉｔが　すごくふえる",
-    "translation": "在战斗中得到的\nbit增加了很多",
+    "translation": "在战斗中获得的\nbit巨幅增加。",
     "context": "机翻辅助：\n\n在战斗中得到的\nbit增加了很多\n\n在战斗中进入\nbit增加了很多"
   },
   {
     "key": "MESPAK04_0008_0036",
     "original": "バトルで　えられる\nＥＸＰが\nふえる",
-    "translation": "在战斗中获得\nEXP\n增加",
+    "translation": "在战斗中得到的\nEXP\n增加。",
     "context": "机翻辅助：\n\n在战斗中获得\nEXP\n增加\n\n战斗中得到的EXP\n增加"
   },
   {
     "key": "MESPAK04_0008_0037",
     "original": "バトルで　えられる\nＥＸＰが\nかなり　ふえる",
-    "translation": "战斗中得到的\nEXP\n相当多",
+    "translation": "在战斗中得到的\nEXP\n大幅增加。",
     "context": "机翻辅助：\n\n战斗中得到的\nEXP\n相当多\n\n在战斗中获得的EXP\n增加了很多"
   },
   {
     "key": "MESPAK04_0008_0038",
     "original": "バトルで　えられる\nＥＸＰが\nすごく　ふえる",
-    "translation": "在战斗中获得的\nEXP\n增加了很多",
+    "translation": "在战斗中得到的\nEXP\n巨幅增加。",
     "context": "机翻辅助：\n\n在战斗中获得的\nEXP\n增加了很多\n\n在战斗中得到的EXP增加了很多"
   },
   {
     "key": "MESPAK04_0008_0039",
     "original": "バトルで　アイテムが\nドロップされる　かくりつが\nふえる",
-    "translation": "战斗中的道具\n下降的概率\n增加",
+    "translation": "战斗中物品\n掉落的概率\n增加。",
     "context": "机翻辅助：\n\n战斗中的道具\n下降的概率\n增加\n\n战斗中物品掉落的概率增加"
   },
   {
     "key": "MESPAK04_0008_0040",
     "original": "バトルで　アイテムが\nドロップされる　かくりつが\nかなり　ふえる",
-    "translation": "战斗中道具掉落的概率\n相当增加\n",
+    "translation": "战斗中物品\n掉落的概率\n大幅增加。",
     "context": "机翻辅助：\n\n战斗中道具掉落的概率\n相当增加\n\n\n在战斗项目\n\n下降的概率相当增加"
   },
   {
     "key": "MESPAK04_0008_0041",
     "original": "バトルで　アイテムが\nドロップされる　かくりつが\nすごく　ふえる",
-    "translation": "战斗中物品掉落的概率大大增加\n\n",
+    "translation": "战斗中物品\n掉落的概率\n巨幅增加。",
     "context": "机翻辅助：\n\n战斗中物品掉落的概率大大增加\n\n\n\n战斗项目\n\n下降的概率增加了很多"
   },
   {
     "key": "MESPAK04_0008_0042",
     "original": "ワザで　つかう\nＭＰを\nせつやくする",
-    "translation": "节省专门使用的MP\n\n",
+    "translation": "节约\n使用技能时的\nMP。",
     "context": "机翻辅助：\n\n节省专门使用的MP\n\n\n\n用小技巧翻译MP"
   },
   {
     "key": "MESPAK04_0008_0043",
     "original": "ワザで　つかう\nＭＰを　かなり\nせつやくする",
-    "translation": "相当节省作为技能使用的MP\n\n",
+    "translation": "大幅节约\n使用技能时的\nMP。",
     "context": "机翻辅助：\n\n相当节省作为技能使用的MP\n\n\n\n用小技巧使用\n相当节约MP"
   },
   {
     "key": "MESPAK04_0008_0044",
     "original": "ワザで　てきにかけた\nじょうたいいじょうの\nこうかじかんが\nながくなる",
-    "translation": "故意设置的\n状态以上的\n效果时间\n变长",
+    "translation": "延长技能对\n敌方施加\n异常状态的\n效果时间。",
     "context": "机翻辅助：\n\n故意设置的\n状态以上的\n效果时间\n变长\n\n故意制造出来的\n状态异常\n硬化时间\n变长"
   },
   {
     "key": "MESPAK04_0008_0045",
     "original": "ワザで　てきにかけた\nじょうたいいじょうの\nこうかじかんが\nかなり　ながくなる",
-    "translation": "故意挂上的\n状态以上的\n效果时间\n相当长",
+    "translation": "大幅延长技能对\n敌方施加\n异常状态的\n效果时间。",
     "context": "机翻辅助：\n\n故意挂上的\n状态以上的\n效果时间\n相当长\n\n故意造成的\n状态异常\n效果时间\n变得相当长"
   },
   {
     "key": "MESPAK04_0008_0046",
     "original": "「スタン」に\nかからなくなる",
-    "translation": "对“斯坦”不感兴趣\n",
+    "translation": "不会陷入\n“眩晕”。",
     "context": "机翻辅助：\n\n对“斯坦”不感兴趣\n\n\n“斯坦”消失了"
   },
   {
     "key": "MESPAK04_0008_0047",
     "original": "バトルで　えられる\nＥＸＰが\nとてつもなく　ふえる",
-    "translation": "在战斗中得到的\nEXP\n大幅增加",
+    "translation": "在战斗中得到的\nEXP\n超幅增加。",
     "context": "机翻辅助：\n\n在战斗中得到的\nEXP\n大幅增加\n\n在战斗中获得的\nEXP\n增加了很多"
   },
   {
     "key": "MESPAK04_0008_0048",
     "original": "とくせい　なし",
-    "translation": "没有特性",
+    "translation": "没有特性。",
     "context": "机翻辅助：\n\n没有特性"
   },
   {
     "key": "MESPAK04_0008_0049",
     "original": "ＨＰかいふくワザの\nかいふくりょうが\nふえる",
-    "translation": "HP恢复技能\n恢复量\n增加",
+    "translation": "HP回复技能的\n恢复量\n增加。",
     "context": "机翻辅助：\n\nHP恢复技能\n恢复量\n增加\n\n惠普公司的重组增加"
   }
 ]

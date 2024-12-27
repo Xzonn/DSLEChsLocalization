@@ -62,7 +62,7 @@
   {
     "key": "MESPAK04_0020_0010",
     "original": "カコのじかんを　ハカイして\nしょうめつさせてしまう\n★デス",
-    "translation": "让Kako的时间突然消失\n\n死亡",
+    "translation": "让Kako的时间突然消失\n\n即死",
     "context": "机翻辅助：\n\n让Kako的时间突然消失\n\n死亡\n\n破坏过去的时间，让它消失。"
   },
   {
@@ -260,7 +260,7 @@
   {
     "key": "MESPAK04_0020_0043",
     "original": "くろくもを　よびよせて\nくろいイナズマを\nおとす　★デス",
-    "translation": "呼叫黑云\n黑色闪电\n死亡",
+    "translation": "呼叫黑云\n黑色闪电\n即死",
     "context": "机翻辅助：\n\n呼叫黑云\n黑色闪电\n死亡\n\n叫来黑毛，让黑蚂蚱掉下来。"
   },
   {
