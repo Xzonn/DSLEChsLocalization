@@ -2,43 +2,43 @@
   {
     "key": "MESPAK04_0022_0026",
     "original": "デジモン　１体の　ＨＰを\n３００　かいふくする",
-    "translation": "\n回复1只数码宝贝300 HP",
+    "translation": "回复1只数码宝贝\n300 HP。",
     "context": "机翻辅助：\n\n\n回复1只数码宝贝300 HP\n\n回复300只数码宝贝的HP"
   },
   {
     "key": "MESPAK04_0022_0027",
     "original": "デジモン　１体の　ＨＰを\n１０００　かいふくする",
-    "translation": "\n回复1000只数码宝贝的HP",
+    "translation": "回复1只数码宝贝\n1000 HP。",
     "context": "机翻辅助：\n\n\n回复1000只数码宝贝的HP\n\n回复1000只数码宝贝的HP"
   },
   {
     "key": "MESPAK04_0022_0028",
     "original": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n５００　かいふくする",
-    "translation": "横排的\n所有数码宝贝的HP回复500\n",
+    "translation": "回复横排一列内的\n数码宝贝全员\n500HP。",
     "context": "机翻辅助：\n\n横排的\n所有数码宝贝的HP回复500\n\n\n恢复500\n\n数码暴龙的HP"
   },
   {
     "key": "MESPAK04_0022_0029",
     "original": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n１０００　かいふくする",
-    "translation": "横排的\n所有数码宝贝的HP回复1000\n",
+    "translation": "回复横排一列内的\n数码宝贝全员\n1000HP。",
     "context": "机翻辅助：\n\n横排的\n所有数码宝贝的HP回复1000\n\n\n恢复1000\n\n数码暴龙的HP"
   },
   {
     "key": "MESPAK04_0022_0030",
     "original": "よこいちれつ　にいる\nデジモン　ぜんいんの　ＨＰを\n２０００　かいふくする",
-    "translation": "横排的\n所有数码宝贝的HP恢复2000\n",
+    "translation": "回复横排一列内的\n数码宝贝全员\n2000HP。",
     "context": "机翻辅助：\n\n横排的\n所有数码宝贝的HP恢复2000\n\n\n在横排\n\n恢复2000数码暴龙的HP"
   },
   {
     "key": "MESPAK04_0022_0031",
     "original": "デジモン　１体の　ＭＰを\n３００　かいふくする",
-    "translation": "回复一只数码宝贝的MP\n300",
+    "translation": "回复1只数码宝贝\n300 MP。",
     "context": "机翻辅助：\n\n回复一只数码宝贝的MP\n300\n\n恢复300只数码宝贝的MP"
   },
   {
     "key": "MESPAK04_0022_0032",
     "original": "デジモン　１体の　ＭＰを\n１０００　かいふくする",
-    "translation": "回复1只数码宝贝的MP\n1000",
+    "translation": "回复1只数码宝贝\n1000 MP。",
     "context": "机翻辅助：\n\n回复1只数码宝贝的MP\n1000\n\n回复1000只数码宝贝的MP"
   },
   {

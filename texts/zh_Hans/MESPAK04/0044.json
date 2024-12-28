@@ -74,7 +74,7 @@
   {
     "key": "MESPAK04_0044_0012",
     "original": "『ＬＶ』１７以上\n『ぼうぎょりょく』\n１６０以上",
-    "translation": "“LV”17以上\n“防御力”160以上\n",
+    "translation": "“LV”17以上\n“防御力”\n160以上",
     "context": "机翻辅助：\n\n“LV”17以上\n“防御力”160以上"
   },
   {
@@ -86,13 +86,13 @@
   {
     "key": "MESPAK04_0044_0014",
     "original": "『ＬＶ』２２以上\n『ぼうぎょりょく』\n１９０以上",
-    "translation": "“LV”22以上\n“防御力”190以上\n",
+    "translation": "“LV”22以上\n“防御力”\n190以上",
     "context": "机翻辅助：\n\n“LV”22以上\n“防御力”190以上"
   },
   {
     "key": "MESPAK04_0044_0015",
     "original": "『ＬＶ』２２以上\n『こうげきりょく』\n２３０以上",
-    "translation": "“LV”22以上\n“攻击力”230以上\n",
+    "translation": "“LV”22以上\n“攻击力”\n230以上",
     "context": "机翻辅助：\n\n“LV”22以上\n“攻击力”230以上"
   },
   {
@@ -116,7 +116,7 @@
   {
     "key": "MESPAK04_0044_0019",
     "original": "『ＬＶ』２２以上\n『さいだいＨＰ』\n７３０以上",
-    "translation": "“LV”22以上\n“最大HP”730以上\n",
+    "translation": "“LV”22以上\n“最大HP”\n730以上",
     "context": "机翻辅助：\n\n“LV”22以上\n“最大HP”730以上"
   },
   {
@@ -134,7 +134,7 @@
   {
     "key": "MESPAK04_0044_0022",
     "original": "『ＬＶ』２２以上\n『さいだいＨＰ』\n７１０以上",
-    "translation": "“LV”22以上\n“最大HP”710以上\n",
+    "translation": "“LV”22以上\n“最大HP”\n710以上",
     "context": "机翻辅助：\n\n“LV”22以上\n“最大HP”710以上"
   },
   {
@@ -164,7 +164,7 @@
   {
     "key": "MESPAK04_0044_0027",
     "original": "『ＬＶ』３６以上\n『ぼうぎょりょく』\n３３０以上",
-    "translation": "“LV”36以上\n“防御力”330以上\n",
+    "translation": "“LV”36以上\n“防御力”\n330以上",
     "context": "机翻辅助：\n\n“LV”36以上\n“防御力”330以上"
   },
   {
@@ -176,7 +176,7 @@
   {
     "key": "MESPAK04_0044_0029",
     "original": "『ＬＶ』２７以上\n『ぼうぎょりょく』\n２１０以上",
-    "translation": "“LV”27以上\n“防御力”210以上\n",
+    "translation": "“LV”27以上\n“防御力”\n210以上",
     "context": "机翻辅助：\n\n“LV”27以上\n“防御力”210以上"
   },
   {
@@ -236,7 +236,7 @@
   {
     "key": "MESPAK04_0044_0039",
     "original": "『ＬＶ』２５以上\n『ぼうぎょりょく』\n２７０以上",
-    "translation": "“LV”25以上\n“防御力”270以上\n",
+    "translation": "“LV”25以上\n“防御力”\n270以上",
     "context": "机翻辅助：\n\n“LV”25以上\n“防御力”270以上"
   },
   {
