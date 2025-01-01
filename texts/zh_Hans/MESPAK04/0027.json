@@ -2,283 +2,283 @@
   {
     "key": "MESPAK04_0027_0000",
     "original": "ぼうぎょりょく　＋１４３\nすばやさ　＋２００\nクリティカルりつ　＋２０％\nまひたいせい　＋８０％",
-    "translation": "防御力+ 143\n敏捷+ 200\n关键率+ 20%\n麻痹体制+ 80%",
+    "translation": "防御力+ 143\n敏捷+ 200\n暴击率+ 20%\n麻痹耐性+ 80%",
     "context": "机翻辅助：\n\n防御力+ 143\n速度+ 200\n关键率+ 20%\n麻痹体制+ 80%\n\n防御能力+143\n速度+200\n临界率+20%\n麻痹状态+80%"
   },
   {
     "key": "MESPAK04_0027_0001",
     "original": "ぼうぎょりょく　＋１３３\nすばやさ　＋２２０\nクリティカルりつ　＋２０％\nどくたいせい　＋８０％",
-    "translation": "防御力+ 133\n敏捷+ 220\n成功率+ 20%\n毒性+ 80%",
+    "translation": "防御力+ 133\n敏捷+ 220\n暴击率+ 20%\n中毒耐性+ 80%",
     "context": "机翻辅助：\n\n防御力+ 133\n速度+ 220\n成功率+ 20%\n毒性+ 80%\n\n防御能力+133\n速度+220\n临界率+20%\n毒性+80%"
   },
   {
     "key": "MESPAK04_0027_0002",
     "original": "さいだいＨＰが４アップ",
-    "translation": "最大生命值提高4",
+    "translation": "最大HP提升4。",
     "context": "机翻辅助：\n\n最大生命值提高4\n\n最大HP上升4"
   },
   {
     "key": "MESPAK04_0027_0003",
     "original": "さいだいＨＰが８アップ",
-    "translation": "最大生命值提高8",
+    "translation": "最大HP提升8。",
     "context": "机翻辅助：\n\n最大生命值提高8\n\n最大HP上升8"
   },
   {
     "key": "MESPAK04_0027_0004",
     "original": "さいだいＨＰが１６アップ",
-    "translation": "最大生命值提高16",
+    "translation": "最大HP提升16。",
     "context": "机翻辅助：\n\n最大生命值提高16\n\n最大HP上升16"
   },
   {
     "key": "MESPAK04_0027_0005",
     "original": "さいだいＭＰが４アップ",
-    "translation": "最大MP提高4",
+    "translation": "最大MP提升4。",
     "context": "机翻辅助：\n\n最大MP提高4"
   },
   {
     "key": "MESPAK04_0027_0006",
     "original": "さいだいＭＰが８アップ",
-    "translation": "最大MP提高8",
+    "translation": "最大MP提升8。",
     "context": "机翻辅助：\n\n最大MP提高8"
   },
   {
     "key": "MESPAK04_0027_0007",
     "original": "さいだいＭＰが１６アップ",
-    "translation": "最大MP提高16",
+    "translation": "最大MP提升16。",
     "context": "机翻辅助：\n\n最大MP提高16"
   },
   {
     "key": "MESPAK04_0027_0008",
     "original": "こうげきりょくが２アップ",
-    "translation": "攻击力提高2",
+    "translation": "攻击力提升2。",
     "context": "机翻辅助：\n\n攻击力提高2"
   },
   {
     "key": "MESPAK04_0027_0009",
     "original": "こうげきりょくが４アップ",
-    "translation": "攻击力提高4",
+    "translation": "攻击力提升4。",
     "context": "机翻辅助：\n\n攻击力提高4"
   },
   {
     "key": "MESPAK04_0027_0010",
     "original": "こうげきりょくが８アップ",
-    "translation": "攻击力提高8",
+    "translation": "攻击力提升8。",
     "context": "机翻辅助：\n\n攻击力提高8"
   },
   {
     "key": "MESPAK04_0027_0011",
     "original": "ぼうぎょりょくが２アップ",
-    "translation": "防御力提高2",
+    "translation": "防御力提升2。",
     "context": "机翻辅助：\n\n防御力提高2"
   },
   {
     "key": "MESPAK04_0027_0012",
     "original": "ぼうぎょりょくが４アップ",
-    "translation": "防御力提高4",
+    "translation": "防御力提升4。",
     "context": "机翻辅助：\n\n防御力提高4"
   },
   {
     "key": "MESPAK04_0027_0013",
     "original": "ぼうぎょりょくが８アップ",
-    "translation": "防御力提高8",
+    "translation": "防御力提升8。",
     "context": "机翻辅助：\n\n防御力提高8"
   },
   {
     "key": "MESPAK04_0027_0014",
     "original": "すばやさが２アップ",
-    "translation": "敏捷提高2",
+    "translation": "敏捷提升2。",
     "context": "机翻辅助：\n\n速度提高2"
   },
   {
     "key": "MESPAK04_0027_0015",
     "original": "すばやさが４アップ",
-    "translation": "敏捷提高4",
+    "translation": "敏捷提升4。",
     "context": "机翻辅助：\n\n速度提高4"
   },
   {
     "key": "MESPAK04_0027_0016",
     "original": "すばやさが８アップ",
-    "translation": "敏捷提高8",
+    "translation": "敏捷提升8。",
     "context": "机翻辅助：\n\n速度提高8"
   },
   {
     "key": "MESPAK04_0027_0017",
     "original": "ゆうじょうが１アップ",
-    "translation": "友情上升一倍",
+    "translation": "友情提升1。",
     "context": "机翻辅助：\n\n友情上升一倍\n\n上升1"
   },
   {
     "key": "MESPAK04_0027_0018",
     "original": "ゆうじょうが３アップ",
-    "translation": "友情上升三分",
+    "translation": "友情提升3。",
     "context": "机翻辅助：\n\n友情上升三分\n\n上升3"
   },
   {
     "key": "MESPAK04_0027_0019",
     "original": "ゆうじょうが５アップ",
-    "translation": "友情上升5分",
+    "translation": "友情提升5。",
     "context": "机翻辅助：\n\n友情上升5分\n\n上升5"
   },
   {
     "key": "MESPAK04_0027_0020",
     "original": "もらえるＥＸＰが１２アップ　ゲンジュウデジモンは２４",
-    "translation": "能得到的EXP提高12现在的数码宝贝是24",
+    "translation": "得到的EXP提升12，幻兽数码宝贝则是24。",
     "context": "机翻辅助：\n\n能得到的EXP提高12现在的数码宝贝是24\n\n能得到的EXP是12上升的数码宝贝是24"
   },
   {
     "key": "MESPAK04_0027_0021",
     "original": "もらえるＥＸＰが３０アップ　ゲンジュウデジモンは６０",
-    "translation": "能得到的EXP提高30现在的数码宝贝是60",
+    "translation": "得到的EXP提升30，幻兽数码宝贝则是60。",
     "context": "机翻辅助：\n\n能得到的EXP提高30现在的数码宝贝是60\n\n能得到的EXP是30"
   },
   {
     "key": "MESPAK04_0027_0022",
     "original": "もらえるＥＸＰが１２５アップ　ゲンジュウデジモンは２５０",
-    "translation": "得到的EXP提高125现在的数码宝贝是250",
+    "translation": "得到的EXP提升125，幻兽数码宝贝则是250。",
     "context": "机翻辅助：\n\n得到的EXP提高125现在的数码宝贝是250\n\n能得到的EXP 125上升的数码宝贝是250"
   },
   {
     "key": "MESPAK04_0027_0023",
     "original": "もらえるＥＸＰが１２アップ　ケモノデジモンは２４",
-    "translation": "能得到的EXP提高12兽数码宝贝是24",
+    "translation": "得到的EXP提升12，兽数码宝贝则是24。",
     "context": "机翻辅助：\n\n能得到的EXP提高12兽数码宝贝是24\n\n能得到的EXP是12升的数码宝贝是24"
   },
   {
     "key": "MESPAK04_0027_0024",
     "original": "もらえるＥＸＰが３０アップ　ケモノデジモンは６０",
-    "translation": "得到的EXP提高30兽数码宝贝是60",
+    "translation": "得到的EXP提升30，兽数码宝贝则是60。",
     "context": "机翻辅助：\n\n得到的EXP提高30兽数码宝贝是60\n\n能得到的EXP提高30的数码宝贝是60"
   },
   {
     "key": "MESPAK04_0027_0025",
     "original": "もらえるＥＸＰが１２５アップ　ケモノデジモンは２５０",
-    "translation": "得到的EXP提高125兽数码宝贝是250",
+    "translation": "得到的EXP提升125，兽数码宝贝则是250。",
     "context": "机翻辅助：\n\n得到的EXP提高125兽数码宝贝是250\n\n能得到的EXP 125上升的数码宝贝是250"
   },
   {
     "key": "MESPAK04_0027_0026",
     "original": "もらえるＥＸＰが１２アップ　テンシデジモンは２４",
-    "translation": "能得到的EXP提高12天使数码宝贝是24",
+    "translation": "得到的EXP提升12，天使数码宝贝则是24。",
     "context": "机翻辅助：\n\n能得到的EXP提高12天使数码宝贝是24\n\n能得到的EXP是12升的数码宝贝是24"
   },
   {
     "key": "MESPAK04_0027_0027",
     "original": "もらえるＥＸＰが３０アップ　テンシデジモンは６０",
-    "translation": "得到的EXP提高30天使数码宝贝是60",
+    "translation": "得到的EXP提升30，天使数码宝贝则是60。",
     "context": "机翻辅助：\n\n得到的EXP提高30天使数码宝贝是60\n\n能得到的EXP是30升的数码宝贝是60"
   },
   {
     "key": "MESPAK04_0027_0028",
     "original": "もらえるＥＸＰが１２５アップ　テンシデジモンは２５０",
-    "translation": "得到的EXP是125提高天使数码宝贝是250",
+    "translation": "得到的EXP提升125，天使数码宝贝则是250。",
     "context": "机翻辅助：\n\n得到的EXP是125提高天使数码宝贝是250\n\n能得到的EXP 125更新数码宝贝是250"
   },
   {
     "key": "MESPAK04_0027_0029",
     "original": "もらえるＥＸＰが１２アップ　アクマデジモンは２４",
-    "translation": "得到的EXP提高12，数码宝贝只有24",
+    "translation": "得到的EXP提升12，恶魔数码宝贝则是24。",
     "context": "机翻辅助：\n\n得到的EXP提高12，数码宝贝只有24\n\n能得到的EXP是12升的阿克玛数码宝贝是24"
   },
   {
     "key": "MESPAK04_0027_0030",
     "original": "もらえるＥＸＰが３０アップ　アクマデジモンは６０",
-    "translation": "得到的EXP提高30，数码宝贝只有60",
+    "translation": "得到的EXP提升30，恶魔数码宝贝则是60。",
     "context": "机翻辅助：\n\n得到的EXP提高30，数码宝贝只有60\n\n能得到的EXP是30升的阿克玛数码宝贝是60"
   },
   {
     "key": "MESPAK04_0027_0031",
     "original": "もらえるＥＸＰが１２５アップ　アクマデジモンは２５０",
-    "translation": "得到的EXP提高125，数码宝贝只有250",
+    "translation": "得到的EXP提升125，恶魔数码宝贝则是250。",
     "context": "机翻辅助：\n\n得到的EXP提高125，数码宝贝只有250\n\n能得到的EXP是125升的阿克玛数码宝贝是250"
   },
   {
     "key": "MESPAK04_0027_0032",
     "original": "もらえるＥＸＰが１２アップ　キカイデジモンは２４",
-    "translation": "能得到的EXP是12提高机器数码宝贝是24",
+    "translation": "得到的EXP提升12，机器数码宝贝则是24。",
     "context": "机翻辅助：\n\n能得到的EXP是12提高机器数码宝贝是24\n\n能得到的EXP是12上升的数码宝贝是24"
   },
   {
     "key": "MESPAK04_0027_0033",
     "original": "もらえるＥＸＰが３０アップ　キカイデジモンは６０",
-    "translation": "得到的EXP是30提升机会数码宝贝是60",
+    "translation": "得到的EXP提升30，机器数码宝贝则是60。",
     "context": "机翻辅助：\n\n得到的EXP是30提升机会数码宝贝是60\n\n能得到的EXP是30上升的数码宝贝是60"
   },
   {
     "key": "MESPAK04_0027_0034",
     "original": "もらえるＥＸＰが１２５アップ　キカイデジモンは２５０",
-    "translation": "得到的EXP是125提高机器数码宝贝是250",
+    "translation": "得到的EXP提升125，机器数码宝贝则是250。",
     "context": "机翻辅助：\n\n得到的EXP是125提高机器数码宝贝是250\n\n能得到的EXP 125上升的数码宝贝是250"
   },
   {
     "key": "MESPAK04_0027_0035",
     "original": "もらえるＥＸＰが１２アップ　スイセイデジモンは２４",
-    "translation": "能得到的EXP提高12水文数码宝贝是24",
+    "translation": "得到的EXP提升12，水栖数码宝贝则是24。",
     "context": "机翻辅助：\n\n能得到的EXP提高12水文数码宝贝是24\n\n能得到的EXP是12升的水星数码宝贝是24"
   },
   {
     "key": "MESPAK04_0027_0036",
     "original": "もらえるＥＸＰが３０アップ　スイセイデジモンは６０",
-    "translation": "得到的EXP提高30水文数码宝贝是60",
+    "translation": "得到的EXP提升30，水栖数码宝贝则是60。",
     "context": "机翻辅助：\n\n得到的EXP提高30水文数码宝贝是60\n\n能得到的EXP是30升的水星数码宝贝是60"
   },
   {
     "key": "MESPAK04_0027_0037",
     "original": "もらえるＥＸＰが１２５アップ　スイセイデジモンは２５０",
-    "translation": "能得到的EXP 125提高彗星数码宝贝是250",
+    "translation": "得到的EXP提升125，水栖数码宝贝则是250。",
     "context": "机翻辅助：\n\n能得到的EXP 125提高彗星数码宝贝是250\n\n能得到的EXP是125升的水星数码宝贝是250"
   },
   {
     "key": "MESPAK04_0027_0038",
     "original": "もらえるＥＸＰが１２アップ　トリデジモンは２４",
-    "translation": "得到的EXP提高12，数码宝贝提高24",
+    "translation": "得到的EXP提升12，鸟数码宝贝则是24。",
     "context": "机翻辅助：\n\n得到的EXP提高12，数码宝贝提高24\n\n能得到的EXP是12升的数码宝贝是24"
   },
   {
     "key": "MESPAK04_0027_0039",
     "original": "もらえるＥＸＰが３０アップ　トリデジモンは６０",
-    "translation": "得到的EXP提高30数码宝贝是60",
+    "translation": "得到的EXP提升30，鸟数码宝贝则是60。",
     "context": "机翻辅助：\n\n得到的EXP提高30数码宝贝是60\n\n能得到的EXP是30升的数码宝贝是60"
   },
   {
     "key": "MESPAK04_0027_0040",
     "original": "もらえるＥＸＰが１２５アップ　トリデジモンは２５０",
-    "translation": "得到的EXP提高125，数码宝贝是250",
+    "translation": "得到的EXP提升125，鸟数码宝贝则是250。",
     "context": "机翻辅助：\n\n得到的EXP提高125，数码宝贝是250\n\n能得到的EXP是125升的数码宝贝是250"
   },
   {
     "key": "MESPAK04_0027_0041",
     "original": "もらえるＥＸＰが１２アップ　コンチュウデジモンは２４",
-    "translation": "能得到的EXP提高12，昆虫数码宝贝是24",
+    "translation": "得到的EXP提升12，昆虫数码宝贝则是24。",
     "context": "机翻辅助：\n\n能得到的EXP提高12，昆虫数码宝贝是24\n\n能得到的EXP是12升的数码宝贝是24"
   },
   {
     "key": "MESPAK04_0027_0042",
     "original": "もらえるＥＸＰが３０アップ　コンチュウデジモンは６０",
-    "translation": "得到的EXP提高30，昆虫数码宝贝是60",
+    "translation": "得到的EXP提升30，昆虫数码宝贝则是60。",
     "context": "机翻辅助：\n\n得到的EXP提高30，昆虫数码宝贝是60\n\n能得到的EXP是30上升的数码宝贝是60"
   },
   {
     "key": "MESPAK04_0027_0043",
     "original": "もらえるＥＸＰが１２５アップ　コンチュウデジモンは２５０",
-    "translation": "得到的EXP提高125，昆虫数码宝贝是250",
+    "translation": "得到的EXP提升125，昆虫数码宝贝则是250。",
     "context": "机翻辅助：\n\n得到的EXP提高125，昆虫数码宝贝是250\n\n能得到的EXP是125上升的数码宝贝是250"
   },
   {
     "key": "MESPAK04_0027_0044",
     "original": "もらえるＥＸＰが１２アップ　ショクブツデジモンは２４",
-    "translation": "得到的EXP提高12植物数码宝贝24",
+    "translation": "得到的EXP提升12，植物数码宝贝则是24。",
     "context": "机翻辅助：\n\n得到的EXP提高12植物数码宝贝24\n\n能得到的EXP 12上升肖克布茨数码宝贝是24"
   },
   {
     "key": "MESPAK04_0027_0045",
     "original": "もらえるＥＸＰが３０アップ　ショクブツデジモンは６０",
-    "translation": "得到的EXP提高30植物数码宝贝提高60",
+    "translation": "得到的EXP提升30，植物数码宝贝则是60。",
     "context": "机翻辅助：\n\n得到的EXP提高30植物数码宝贝提高60\n\n能得到的EXP 30上升肖克布茨数码宝贝是60"
   },
   {
     "key": "MESPAK04_0027_0046",
     "original": "もらえるＥＸＰが１２５アップ　ショクブツデジモンは２５０",
-    "translation": "得到的EXP提高125植物数码宝贝是250",
+    "translation": "得到的EXP提升125，植物数码宝贝则是250。",
     "context": "机翻辅助：\n\n得到的EXP提高125植物数码宝贝是250\n\n能得到的EXP 125上升肖克布茨数码宝贝是250"
   },
   {
