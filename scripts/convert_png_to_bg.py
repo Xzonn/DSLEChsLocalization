@@ -49,24 +49,38 @@ with open(f"{DIR_TEMP_DECOMPRESSED}/arm9.bin", "rb") as reader:
       image = image.convert("RGB")
 
     colors = nclr_to_imgpal(nclr)
-    palette = Image.new("P", (16, 16))
-    if len(colors) == 48:
-      palette.putpalette(colors * 16)
+    if nscr_index in {59, 60, 96}:
+      ncgr: NCGR = NCGR.load_from(ncgr_input_path)
+      for y in range(nscr.height // 8):
+        for x in range(nscr.width // 8):
+          entry = nscr.get_entry(x, y)
+          palette = Image.new("P", (16, 16))
+          palette.putpalette(colors[entry.pal * 48 : entry.pal * 48 + 48] * 16)
+          tile_image = image.crop((x * 8, y * 8, x * 8 + 8, y * 8 + 8)).quantize(palette=palette)
+          pixels = tile_image.load()
+          tile = get_tile_data(pixels, 0, 0)
+          ncgr.tiles[entry.tile] = tile.flipped(entry.xflip, entry.yflip)
+
+      ncgr.save_as(ncgr_output_path)
     else:
-      palette.putpalette(colors)
+      palette = Image.new("P", (16, 16))
+      if len(colors) == 48:
+        palette.putpalette(colors * 16)
+      else:
+        palette.putpalette(colors)
 
-    image_converted = image.quantize(palette=palette)
-    tileset = TilesetBuilder()
-    tileset.add(Tile(b"\0" * 64))
+      image_converted = image.quantize(palette=palette)
+      tileset = TilesetBuilder()
+      tileset.add(Tile(b"\0" * 64))
 
-    pixels = image_converted.load()
-    for y in range(0, image_converted.height, 8):
-      for x in range(0, image_converted.width, 8):
-        tile = get_tile_data(pixels, x, y)
-        nscr.set_entry(x // 8, y // 8, tileset.get_map_entry(tile))
+      pixels = image_converted.load()
+      for y in range(0, image_converted.height, 8):
+        for x in range(0, image_converted.width, 8):
+          tile = get_tile_data(pixels, x, y)
+          nscr.set_entry(x // 8, y // 8, tileset.get_map_entry(tile))
 
-    nscr.save_as(nscr_output_path)
-    ncgr: NCGR = tileset.as_ncgr(8 if nscr.is8bpp else 4)
-    ncgr.save_as(ncgr_output_path)
+      nscr.save_as(nscr_output_path)
+      ncgr: NCGR = tileset.as_ncgr(8 if nscr.is8bpp else 4)
+      ncgr.save_as(ncgr_output_path)
 
     print(f"NSCR: {nscr_index} (8bpp: {nclr.is8bpp}), NCGR: {ncgr_index}, NCLR: {nclr_index}")

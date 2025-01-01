@@ -9,7 +9,8 @@ from helper import (
   DIR_TEMP_IMAGES_BG,
   DIR_UNPACKED_FILES,
 )
-from nitrogfx.convert import NCGR, NCLR, NSCR, nscr_to_img
+from nitrogfx.convert import NCGR, NCLR, NSCR, nclr_to_imgpal
+from PIL import Image
 
 BG_INFO_OFFSET = 0x00151BF4
 BG_COUNT = 0x00F0
@@ -25,5 +26,14 @@ with open(f"{DIR_TEMP_DECOMPRESSED}/arm9.bin", "rb") as reader:
     ncgr: NCGR = NCGR.load_from(f"{DIR_UNPACKED_FILES}/{DIR_BG_NCGR}/{ncgr_index:04d}.bin")
     nclr: NCLR = NCLR.load_from(f"{DIR_UNPACKED_FILES}/{DIR_BG_NCLR}/{nclr_index:04d}.bin")
 
-    image = nscr_to_img(ncgr, nscr, nclr)
+    pal = nclr_to_imgpal(nclr)
+    image = Image.new("RGB", (nscr.width, nscr.height))
+    for y in range(nscr.height // 8):
+      for x in range(nscr.width // 8):
+        entry = nscr.get_entry(x, y)
+        tile = ncgr.tiles[entry.tile].flipped(entry.xflip, entry.yflip)
+        tile_image = Image.frombytes("P", (8, 8), tile.get_data())
+        tile_image.putpalette(pal[48 * entry.pal :])
+        image.paste(tile_image, (x * 8, y * 8))
+
     image.save(f"{DIR_TEMP_IMAGES_BG}/{nscr_index:04d}.png")
