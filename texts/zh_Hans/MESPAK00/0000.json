@@ -5930,19 +5930,19 @@
   {
     "key": "MESPAK00_0000_0988",
     "original": "ソニックボイス",
-    "translation": "音速声波",
+    "translation": "声波弹",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0989",
     "original": "ハイソニックボイス",
-    "translation": "超音速声波",
+    "translation": "超声波弹",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_0990",
     "original": "プチトルネード",
-    "translation": "微小龙卷风",
+    "translation": "微型龙卷风",
     "context": ""
   },
   {
@@ -6008,13 +6008,13 @@
   {
     "key": "MESPAK00_0000_1001",
     "original": "プチフレイム",
-    "translation": "微小火焰",
+    "translation": "微型火焰",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1002",
     "original": "ギガフレイム",
-    "translation": "百万火焰",
+    "translation": "终极火焰",
     "context": ""
   },
   {
@@ -6152,7 +6152,7 @@
   {
     "key": "MESPAK00_0000_1025",
     "original": "プチホーリーフレア",
-    "translation": "微小神圣闪焰",
+    "translation": "微型神圣闪焰",
     "context": ""
   },
   {
@@ -6278,13 +6278,13 @@
   {
     "key": "MESPAK00_0000_1046",
     "original": "オメガＲフォース",
-    "translation": "奥米加R之力",
+    "translation": "奥米加彩虹之力",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1047",
     "original": "プチメタル",
-    "translation": "微小金属",
+    "translation": "微型金属",
     "context": ""
   },
   {
@@ -6338,7 +6338,7 @@
   {
     "key": "MESPAK00_0000_1056",
     "original": "プチブラスター",
-    "translation": "微小冲击波",
+    "translation": "微型冲击波",
     "context": ""
   },
   {
@@ -6410,7 +6410,7 @@
   {
     "key": "MESPAK00_0000_1068",
     "original": "プチカッター",
-    "translation": "微小切割",
+    "translation": "微型切割",
     "context": ""
   },
   {
@@ -6656,13 +6656,13 @@
   {
     "key": "MESPAK00_0000_1109",
     "original": "プチダーク",
-    "translation": "微小黑暗",
+    "translation": "微型黑暗",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1110",
     "original": "プチウォーター",
-    "translation": "微小水花",
+    "translation": "微型水花",
     "context": ""
   },
   {
@@ -8312,7 +8312,7 @@
   {
     "key": "MESPAK00_0000_1385",
     "original": "ウォーターブレス",
-    "translation": "水之呼吸",
+    "translation": "水之吐息",
     "context": ""
   },
   {
@@ -8948,7 +8948,7 @@
   {
     "key": "MESPAK00_0000_1491",
     "original": "プチシャイン",
-    "translation": "微小闪光",
+    "translation": "微型闪光",
     "context": ""
   },
   {
@@ -9416,7 +9416,7 @@
   {
     "key": "MESPAK00_0000_1569",
     "original": "メガソニックボイス",
-    "translation": "百万音速音波",
+    "translation": "百万声波弹",
     "context": ""
   },
   {
@@ -11156,7 +11156,7 @@
   {
     "key": "MESPAK00_0000_1859",
     "original": "まわしグルマ",
-    "translation": "旋转轮",
+    "translation": "滚轮",
     "context": ""
   },
   {
@@ -11186,7 +11186,7 @@
   {
     "key": "MESPAK00_0000_1864",
     "original": "ひのワ",
-    "translation": "火轮",
+    "translation": "火圈",
     "context": ""
   },
   {
@@ -11264,7 +11264,7 @@
   {
     "key": "MESPAK00_0000_1877",
     "original": "ピンボール",
-    "translation": "弹珠",
+    "translation": "弹珠台",
     "context": ""
   },
   {
@@ -11288,13 +11288,13 @@
   {
     "key": "MESPAK00_0000_1881",
     "original": "コトリのすばこ",
-    "translation": "小鸟的巢",
+    "translation": "小鸟巢箱",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_1882",
     "original": "はしりたかとび",
-    "translation": "跨栏",
+    "translation": "跳高杆",
     "context": ""
   },
   {
@@ -11318,7 +11318,7 @@
   {
     "key": "MESPAK00_0000_1886",
     "original": "おいしいじゅえき",
-    "translation": "美味的果树",
+    "translation": "美味的树汁",
     "context": ""
   },
   {
