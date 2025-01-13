@@ -872,25 +872,25 @@
   {
     "key": "MESPAK03_0020_0145",
     "original": "島せんたくに　もどる",
-    "translation": "回到孤岛上的生活",
+    "translation": "返回岛的选择",
     "context": "机翻辅助：\n\n回到孤岛上的生活\n\n回到岛上选择\n\n回到岛上"
   },
   {
     "key": "MESPAK03_0020_0146",
     "original": "デジベースに　もどる",
-    "translation": "回到数字基地",
+    "translation": "返回数码基地",
     "context": "机翻辅助：\n\n回到数字基地\n\n回到数码宝贝\n\n回到数码基地"
   },
   {
     "key": "MESPAK03_0020_0147",
     "original": "おしゃべり",
-    "translation": "闲聊",
+    "translation": "聊天",
     "context": "机翻辅助：\n\n闲聊\n\n闲谈"
   },
   {
     "key": "MESPAK03_0020_0148",
     "original": "とっくん",
-    "translation": "咚——",
+    "translation": "特训",
     "context": "机翻辅助：\n\n咚——\n\n突君\n\n特训"
   },
   {
@@ -902,211 +902,211 @@
   {
     "key": "MESPAK03_0020_0150",
     "original": "デジメシ",
-    "translation": "数字饭",
+    "translation": "数码饭",
     "context": "机翻辅助：\n\n数字饭\n\n数码相机\n\n数码目录"
   },
   {
     "key": "MESPAK03_0020_0151",
     "original": "ファームじょうほう",
-    "translation": "法姆状况",
+    "translation": "农场信息",
     "context": "机翻辅助：\n\n法姆状况\n\n农场信息"
   },
   {
     "key": "MESPAK03_0020_0152",
     "original": "グッズのかんり",
-    "translation": "商品的管理",
+    "translation": "道具的管理",
     "context": "机翻辅助：\n\n商品的管理"
   },
   {
     "key": "MESPAK03_0020_0153",
     "original": "ちけいボードのセット",
-    "translation": "廉价的布景",
+    "translation": "地形板的设置",
     "context": "机翻辅助：\n\n廉价的布景\n\n地形板的组合\n\n一组地形板"
   },
   {
     "key": "MESPAK03_0020_0154",
     "original": "ＢＧＭボードのセット",
-    "translation": "背景音乐板的设定",
+    "translation": "BGM板的设置",
     "context": "机翻辅助：\n\n背景音乐板的设定\n\n背景音乐板的组合\n\n一组背景音乐板"
   },
   {
     "key": "MESPAK03_0020_0155",
     "original": "デジタマから　デジモンがうまれます！",
-    "translation": "从数码相机诞生出数码宝贝！",
+    "translation": "从数码蛋中孵化出了数码宝贝！",
     "context": "机翻辅助：\n\n从数字相机诞生出数码宝贝！\n\n数码宝贝诞生数码宝贝！\n\n数码宝贝诞生于数码宝贝！"
   },
   {
     "key": "MESPAK03_0020_0156",
     "original": "このデジタマは　まだうまれないようです",
-    "translation": "这台数码相机好像还没出生",
+    "translation": "这颗数码蛋好像尚未孵化。",
     "context": "机翻辅助：\n\n这台数字相机好像还没出生\n\n这个数码相机好像还不会出生\n\n这个数字似乎还没有诞生。"
   },
   {
     "key": "MESPAK03_0020_0157",
     "original": "とっくんを　おこなうことができる\nファームグッズが　セットされていません",
-    "translation": "无法执行特勤任务\n尚未安装执行任务所需的软件",
+    "translation": "无法执行特训，\n未设置执行特训所需的农场道具。",
     "context": "机翻辅助：\n\n无法执行特勤任务\n尚未安装执行任务所需的软件\n\n\n没有任何农场用品。\n\n没有设置农场商品，可以进行特别检查"
   },
   {
     "key": "MESPAK03_0020_0158",
     "original": "スタミナがないので\nとっくんを　おこなえません",
-    "translation": "因为没有体力所以无法执行\n特攻",
+    "translation": "因为没有耐力\n所以无法执行特训。",
     "context": "机翻辅助：\n\n因为没有体力所以无法执行\n特攻\n\n因为没有耐力，所以无法进行特训。\n\n\n因为没有耐力所以不能马上进行"
   },
   {
     "key": "MESPAK03_0020_0159",
     "original": "おしごとを　おこなうことができる\nファームグッズが　セットされていません",
-    "translation": "无法执行工作\n尚未安装执行工作所需的软件",
+    "translation": "无法执行工作，\n未设置执行工作所需的农场道具。",
     "context": "机翻辅助：\n\n无法执行工作\n尚未安装执行工作所需的软件\n\n没有设置农场用品\n可以进行工作\n\n\n没有任何农场用品。"
   },
   {
     "key": "MESPAK03_0020_0160",
     "original": "デジタマは　おしごとできません",
-    "translation": "数码相机无法工作",
+    "translation": "数码蛋无法执行工作。",
     "context": "机翻辅助：\n\n数字相机无法工作\n\n数码相机不能工作。\n\n数码相机不能工作"
   },
   {
     "key": "MESPAK03_0020_0161",
     "original": "おねがいクエストちゅうのデジモンは\nおしごとできません",
-    "translation": "拜托任务啾的数码宝贝无法执行\n工作",
+    "translation": "正在进行委托任务的数码宝贝\n无法执行工作。",
     "context": "机翻辅助：\n\n拜托任务啾的数码宝贝无法执行\n工作\n\n请求任务中的数码宝贝\n不能工作\n\n拜托，任务中的数码宝贝不能工作。"
   },
   {
     "key": "MESPAK03_0020_0162",
     "original": "しゅぎょうちゅうのデジモンは\nおしごとできません",
-    "translation": "修行中的数码宝贝无法执行\n工作",
+    "translation": "正在修行的数码宝贝\n无法执行工作。",
     "context": "机翻辅助：\n\n修行中的数码宝贝无法执行\n工作\n\n学习中的数码门\n不能工作\n\n职业中的数码宝贝\n不能工作"
   },
   {
     "key": "MESPAK03_0020_0163",
     "original": "ぶきさくせいを　かいししました",
-    "translation": "我解除了诅咒",
+    "translation": "已开始制作武器。",
     "context": "机翻辅助：\n\n我解除了诅咒\n\n我做了一个项目\n\n我们开始制造武器。"
   },
   {
     "key": "MESPAK03_0020_0164",
     "original": "ぼうぐさくせいを　かいししました",
-    "translation": "我解除了诅咒",
+    "translation": "已开始制作防具。",
     "context": "机翻辅助：\n\n我解除了诅咒\n\n我们开始制作防护工具。\n\n我开始了防腐性"
   },
   {
     "key": "MESPAK03_0020_0165",
     "original": "そのデジモンには　すでにデジメシを\nあたえました",
-    "translation": "那只数码宝贝已经\n吃过数字饭了",
+    "translation": "那只数码宝贝已被\n给予过数码饭了。",
     "context": "机翻辅助：\n\n那只数码宝贝已经\n吃过数字饭了\n\n已经给了那个数码宝贝\n\n\n我们已经给了那个数码宝贝一张数码目录。"
   },
   {
     "key": "MESPAK03_0020_0166",
     "original": "ファームグッズを　もっていません",
-    "translation": "我身上没有官方商品",
+    "translation": "未持有任何农场道具。",
     "context": "机翻辅助：\n\n我身上没有官方商品\n\n没有农场商品\n\n没有农场用品。"
   },
   {
     "key": "MESPAK03_0020_0167",
     "original": "ファームグッズを　セットしました\n「^0」",
-    "translation": "安装了官方周边商品\n“^0”",
+    "translation": "农场道具已被设置：\n“^0”。",
     "context": "机翻辅助：\n\n安装了官方周边商品\n“^0”\n\n设置了农场商品\n“^0”"
   },
   {
     "key": "MESPAK03_0020_0168",
     "original": "そのファームグッズは　ほかのファーム島に\nセットされて　のこりがありません",
-    "translation": "那件周边商品已经在其他农场岛\n上架过了已经没有库存了",
+    "translation": "该农场道具已在其他农场岛上\n设置过了，没有剩余库存。",
     "context": "机翻辅助：\n\n那件周边商品已经在其他农场岛\n上架过了已经没有库存了\n\n那个农场商品在其他的农场岛上\n没有剩下的\n\n那个农场商品被安置在其他的农场岛上，没有剩余。"
   },
   {
     "key": "MESPAK03_0020_0169",
     "original": "ファームグッズを　はずしました\n「^0」",
-    "translation": "把周边商品拿掉了\n“^0”",
+    "translation": "农场道具已被移除：\n“^0”。",
     "context": "机翻辅助：\n\n把周边商品拿掉了\n“^0”\n\n脱掉了农场商品\n“^0”\n\n取下了农场商品\n“^0”"
   },
   {
     "key": "MESPAK03_0020_0170",
     "original": "そのファームグッズは\nすでに　セットされています",
-    "translation": "该Farm Goods \n已经被安装了",
+    "translation": "该农场道具\n已被设置了。",
     "context": "机翻辅助：\n\n该Farm Goods \n已经被安装了\n\n那个农场商品\n已经设置好了。\n\n那个农场商品\n已经设置好了"
   },
   {
     "key": "MESPAK03_0020_0171",
     "original": "ちけいボードを　へんこうしました\n「^0」",
-    "translation": "将显示板安装上去\n“^0”",
+    "translation": "地形板被变更为\n“^0”了。",
     "context": "机翻辅助：\n\n将显示板安装上去\n“^0”\n\n改变了地形板\n“^0”\n\n“^0”"
   },
   {
     "key": "MESPAK03_0020_0172",
     "original": "そのちけいボードは\nすでに　セットしてあります",
-    "translation": "该显示板 \n已经被安装了",
+    "translation": "该地形板\n已被设置了。",
     "context": "机翻辅助：\n\n该显示板 \n已经被安装了\n\n那个仪表板\n已经设置好了\n\n那个地形板\n已经设置好了。"
   },
   {
     "key": "MESPAK03_0020_0173",
     "original": "ＢＧＭボードを　へんこうしました\n「^0」",
-    "translation": "将背景音乐板安装上去\n“^0”",
+    "translation": "BGM板被变更为\n“^0”了。",
     "context": "机翻辅助：\n\n将背景音乐板安装上去\n“^0”\n\n改变了BGM板\n“^0”\n\n改变了背景音乐板\n“^0”"
   },
   {
     "key": "MESPAK03_0020_0174",
     "original": "そのＢＧＭボードは\nすでに　セットしてあります",
-    "translation": "该背景音乐板 \n已经被安装了",
+    "translation": "该BGM板 \n已被设置了。",
     "context": "机翻辅助：\n\n该背景音乐板 \n已经被安装了\n\n那个BGM板\n已经设置好了\n\n那个背景音乐板\n我已经设置好了。"
   },
   {
     "key": "MESPAK03_0020_0175",
     "original": "そのファームグッズは\nすでに　セットされています",
-    "translation": "该Farm Goods \n已经被安装了",
+    "translation": "该农场道具\n已被设置了。",
     "context": "机翻辅助：\n\n该Farm Goods \n已经被安装了\n\n那个农场商品\n已经设置好了\n\n那个农场商品\n已经设置好了。"
   },
   {
     "key": "MESPAK03_0020_0176",
     "original": "とっくん　だいせいこう！！\n\n「^5」　アップ！\n^6　→　^7",
-    "translation": "当当大成功！！\n\n“^5”升级！\n^6→^7",
+    "translation": "特训大成功！！\n\n“^5”提升了！\n^6→^7",
     "context": "机翻辅助：\n\n当当大成功！！\n\n“^5”升级！\n^6→^7\n\n来吧！！\n\n“^5”上传！\n^6→^7\n\n特训大成功！！\n\n“^5”特写！\n^6→^7"
   },
   {
     "key": "MESPAK03_0020_0177",
     "original": "とっくん　せいこう！！\n\n「^5」　アップ！\n^6　→　^7",
-    "translation": "当当成功！！\n\n“^5”升级！\n^6→^7",
+    "translation": "特训成功！！\n\n“^5”提升了！\n^6→^7",
     "context": "机翻辅助：\n\n当当成功！！\n\n“^5”升级！\n^6→^7\n\n特训成功！！\n\n“^5”特写！\n^6→^7\n\n来吧！！\n\n“^5”上传！\n^6→^7"
   },
   {
     "key": "MESPAK03_0020_0178",
     "original": "\nとっくんしっぱい…",
-    "translation": "\n当当失败……",
+    "translation": "\n特训失败……",
     "context": "机翻辅助：\n\n\n当当失败……\n\n\n特别失败……\n\n\n特训失败……"
   },
   {
     "key": "MESPAK03_0020_0179",
     "original": "とっくん　だいせいこう！！\n\nＥＸＰが　かなりアップ！！",
-    "translation": "当当大成功！！\n\nEXP大幅上升！！",
+    "translation": "特训大成功！！\n\nEXP大幅提升了！！",
     "context": "机翻辅助：\n\n当当大成功！！\n\nEXP大幅上升！！\n\n来吧！！\n\nEXP大幅提升！！\n\n特训大成功！！\n\nEXP相当高！！"
   },
   {
     "key": "MESPAK03_0020_0180",
     "original": "とっくん　せいこう！！\n\nＥＸＰが　すこしアップ！",
-    "translation": "当当成功！！\n\nEXP稍微上升！",
+    "translation": "特训成功！！\n\nEXP少许提升了！",
     "context": "机翻辅助：\n\n当当成功！！\n\nEXP稍微上升！\n\n来吧！！\n\nEXP稍微提高！\n\n特训成功！！\n\nEXP稍微提高！"
   },
   {
     "key": "MESPAK03_0020_0181",
     "original": "ファームグッズを　こうかんする",
-    "translation": "安装Farm Goods",
+    "translation": "交换农场道具",
     "context": "机翻辅助：\n\n安装Farm Goods\n\n交换农场商品\n\n更换固件商品"
   },
   {
     "key": "MESPAK03_0020_0182",
     "original": "ファームグッズを　はずす",
-    "translation": "移除Farm Goods",
+    "translation": "移除农场道具",
     "context": "机翻辅助：\n\n移除Farm Goods\n\n摘下农场用品\n\n卸下固件"
   },
   {
     "key": "MESPAK03_0020_0183",
     "original": "メニューを　とじる",
-    "translation": "关掉选单。",
+    "translation": "关闭菜单",
     "context": "机翻辅助：\n\n关掉选单。\n\n合上菜单\n\n关闭菜单"
   },
   {
     "key": "MESPAK03_0020_0184",
     "original": "ファームグッズを　セットする",
-    "translation": "安装Farm Goods",
+    "translation": "设置农场道具",
     "context": "机翻辅助：\n\n安装Farm Goods\n\n设置农场用品\n\n设置固件"
   },
   {
@@ -1118,19 +1118,19 @@
   {
     "key": "MESPAK03_0020_0186",
     "original": "グッズ",
-    "translation": "周边",
+    "translation": "道具",
     "context": "机翻辅助：\n\n周边\n\n商品"
   },
   {
     "key": "MESPAK03_0020_0187",
     "original": "ちけいボード",
-    "translation": "告示板",
+    "translation": "地形板",
     "context": "机翻辅助：\n\n告示板\n\n地形板"
   },
   {
     "key": "MESPAK03_0020_0188",
     "original": "ＢＧＭボード",
-    "translation": "背景音乐板",
+    "translation": "BGM板",
     "context": "机翻辅助：\n\n背景音乐板\n\nBGM板\n\n背景音乐"
   },
   {
@@ -1142,13 +1142,13 @@
   {
     "key": "MESPAK03_0020_0190",
     "original": "とっくんペン",
-    "translation": "当当笔",
+    "translation": "特训笔",
     "context": "机翻辅助：\n\n当当笔\n\n特种笔\n\n特训笔"
   },
   {
     "key": "MESPAK03_0020_0191",
     "original": "せいこうりつ",
-    "translation": "成功规律",
+    "translation": "成功率",
     "context": "机翻辅助：\n\n成功规律\n\n成功率\n\n正效率"
   },
   {
@@ -1160,7 +1160,7 @@
   {
     "key": "MESPAK03_0020_0193",
     "original": "ボードレベル",
-    "translation": "白板等级",
+    "translation": "板等级",
     "context": "机翻辅助：\n\n白板等级\n\n板级\n\n棋盘级"
   },
   {
