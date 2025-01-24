@@ -2888,7 +2888,7 @@
   {
     "key": "MESPAK00_0000_0481",
     "original": "おねえのヌメモン",
-    "translation": "姐姐的鼻涕兽",
+    "translation": "大姐鼻涕兽",
     "context": ""
   },
   {
@@ -2900,7 +2900,7 @@
   {
     "key": "MESPAK00_0000_0483",
     "original": "まもりのヌメモン",
-    "translation": "看守的鼻涕兽",
+    "translation": "警戒的鼻涕兽",
     "context": ""
   },
   {
@@ -2924,7 +2924,7 @@
   {
     "key": "MESPAK00_0000_0487",
     "original": "あにきのヌメモン",
-    "translation": "大哥的鼻涕兽",
+    "translation": "大哥鼻涕兽",
     "context": ""
   },
   {
@@ -14840,7 +14840,7 @@
   {
     "key": "MESPAK00_0000_2485",
     "original": "イーバポップ",
-    "translation": "外星汽水",
+    "translation": "外星泡泡",
     "context": ""
   },
   {
@@ -14888,7 +14888,7 @@
   {
     "key": "MESPAK00_0000_2508",
     "original": "やすり",
-    "translation": "锉刀",
+    "translation": "砂纸",
     "context": ""
   },
   {
@@ -14978,13 +14978,13 @@
   {
     "key": "MESPAK00_0000_2523",
     "original": "アクセスＳキー",
-    "translation": "访问南部钥匙",
+    "translation": "存取南部钥匙",
     "context": ""
   },
   {
     "key": "MESPAK00_0000_2524",
     "original": "アクセスＮキー",
-    "translation": "访问北部钥匙",
+    "translation": "存取北部钥匙",
     "context": ""
   },
   {

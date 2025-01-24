@@ -68,7 +68,7 @@
   {
     "key": "MESPAK01_0010_0011",
     "original": "アクセスカウンターを\nしゅうりょうしますか？",
-    "translation": "要结束\n访问计数器吗？",
+    "translation": "要结束\n存取计数器吗？",
     "context": "机翻辅助：\n\n存取计数器\n要清除吗？\n\n访问计数器\n结束吗？\n\n\n要结束访问柜台吗？"
   },
   {
@@ -80,7 +80,7 @@
   {
     "key": "MESPAK01_0010_0013",
     "original": "いいえ　しゅうりょうしません",
-    "translation": "否，不结束。",
+    "translation": "不，不结束。",
     "context": "机翻辅助：\n\n不我不会辞职\n\n不结束\n\n不，没有结束。"
   },
   {
@@ -98,13 +98,13 @@
   {
     "key": "MESPAK01_0010_0016",
     "original": "いいえ　よくありません",
-    "translation": "否，不可以。",
+    "translation": "不，不可以。",
     "context": "机翻辅助：\n\n不行不可以\n\n不，不好。\n\n不，不好"
   },
   {
     "key": "MESPAK01_0010_0017",
     "original": "アクセスカウンターを　りようするには\nセーブがひつようです\nセーブをしますか？",
-    "translation": "为了使用访问计数器，\n必须要进行保存。\n要保存吗？",
+    "translation": "为了使用存取计数器，\n必须要进行保存。\n要保存吗？",
     "context": "机翻辅助：\n\n要存档吗？\n\n\n\n您的位置：知道爆料馆＆；gt；生活＆；gt；娱乐休闲＆；gt；娱乐休闲＆；gt；娱乐休闲＆；gt；gt；娱乐休闲＆；gt；\n好像需要保存？\n\n\n如果你想使用访问计数器，你需要保存\n你要保存吗？"
   },
   {
@@ -116,13 +116,13 @@
   {
     "key": "MESPAK01_0010_0019",
     "original": "いいえ　セーブしません",
-    "translation": "否，不保存。",
+    "translation": "不，不保存。",
     "context": "机翻辅助：\n\n不我不存\n\n不，我不保留。\n\n不保存"
   },
   {
     "key": "MESPAK01_0010_0020",
     "original": "ＤＳワイヤレスつうしんを\nおこなうことが　できません",
-    "translation": "无法执行DS无限连接。",
+    "translation": "无法执行DS无线连接。",
     "context": "机翻辅助：\n\n\n无法执行DS无线通讯\n\n\nDS无线通信。\n\n无法进行DS无线通信"
   },
   {
@@ -158,7 +158,7 @@
   {
     "key": "MESPAK01_0010_0026",
     "original": "いいえ　かいししません",
-    "translation": "否，不开始。",
+    "translation": "不，不开始。",
     "context": "机翻辅助：\n\n不我不会死\n\n不，我们不会开始。\n\n不启动"
   },
   {
@@ -212,7 +212,7 @@
   {
     "key": "MESPAK01_0010_0035",
     "original": "いいえ　しゅうりょうしません",
-    "translation": "否，不结束。",
+    "translation": "不，不结束。",
     "context": "机翻辅助：\n\n不我不会辞职\n\n不，没有结束。\n\n不结束"
   },
   {
@@ -248,7 +248,7 @@
   {
     "key": "MESPAK01_0010_0041",
     "original": "いいえ　もどりません",
-    "translation": "否，不返回。",
+    "translation": "不，不返回。",
     "context": "机翻辅助：\n\n不要回去\n\n不，不\n\n不，我不回去。"
   },
   {
@@ -338,7 +338,7 @@
   {
     "key": "MESPAK01_0010_0056",
     "original": "いいえ　ついかしません",
-    "translation": "否，不添加。",
+    "translation": "不，不添加。",
     "context": "机翻辅助：\n\n不要我不加入\n\n不，没有追加。\n\n不，不，不"
   },
   {
@@ -392,7 +392,7 @@
   {
     "key": "MESPAK01_0010_0065",
     "original": "いいえ　さくじょしません",
-    "translation": "否，不删除。",
+    "translation": "不，不删除。",
     "context": "机翻辅助：\n\n不要我不删除\n\n不，不删除\n\n不作辅助"
   },
   {
@@ -452,7 +452,7 @@
   {
     "key": "MESPAK01_0010_0075",
     "original": "いいえ　ちゅうししません",
-    "translation": "否，不中止。",
+    "translation": "不，不中止。",
     "context": "机翻辅助：\n\n否不要\n\n不中心\n\n不，我不会停止。"
   },
   {
@@ -470,7 +470,7 @@
   {
     "key": "MESPAK01_0010_0078",
     "original": "いいえ　えらびなおします",
-    "translation": "否，重新选择。",
+    "translation": "不，重新选择。",
     "context": "机翻辅助：\n\n不我要重新选择\n\n不，我们重新选择。\n\n不，我会重新做的"
   },
   {
@@ -518,7 +518,7 @@
   {
     "key": "MESPAK01_0010_0086",
     "original": "いいえ　えらびなおします",
-    "translation": "否，重新选择。",
+    "translation": "不，重新选择。",
     "context": "机翻辅助：\n\n不我要重新选择\n\n不，我会重新做的\n\n不，我们重新选择。"
   },
   {
@@ -554,7 +554,7 @@
   {
     "key": "MESPAK01_0010_0092",
     "original": "いいえ　つうしんをしゅうりょうします",
-    "translation": "否，结束连接。",
+    "translation": "不，结束连接。",
     "context": "机翻辅助：\n\n否我要投降\n\n结束不通信\n\n不，我要结束通信。"
   },
   {

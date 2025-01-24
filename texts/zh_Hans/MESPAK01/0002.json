@@ -68,7 +68,7 @@
   {
     "key": "MESPAK01_0002_0011",
     "original": "いいえ　かいません",
-    "translation": "否，不买。",
+    "translation": "不，不买。",
     "context": "机翻辅助：\n\n不不会\n\n不，不\n\n不不不"
   },
   {
@@ -104,7 +104,7 @@
   {
     "key": "MESPAK01_0002_0017",
     "original": "いいえ　えらびなおします",
-    "translation": "否，重新选择。",
+    "translation": "不，重新选择。",
     "context": "机翻辅助：\n\n不我要重新选择\n\n不，我们重新选择。\n\n不，我会重新做的"
   },
   {
@@ -134,7 +134,7 @@
   {
     "key": "MESPAK01_0002_0022",
     "original": "いいえ　しゅうりょうしません",
-    "translation": "否，不结束。",
+    "translation": "不，不结束。",
     "context": "机翻辅助：\n\n不我不会辞职\n\n不，没有结束。\n\n不结束"
   },
   {
@@ -278,7 +278,7 @@
   {
     "key": "MESPAK01_0002_0046",
     "original": "いいえ　うりません",
-    "translation": "否，不卖。",
+    "translation": "不，不卖。",
     "context": "机翻辅助：\n\n不要买\n\n不，不卖\n\n不，不"
   },
   {

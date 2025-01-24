@@ -266,55 +266,55 @@
   {
     "key": "MESPAK01_0013_0044",
     "original": "えらんだワザ",
-    "translation": "可选技能",
+    "translation": "所选技能",
     "context": "机翻辅助：\n\n选择的技能\n\n凌乱的圈套\n\n选择的技巧"
   },
   {
     "key": "MESPAK01_0013_0045",
     "original": "えらんだぶき",
-    "translation": "可选武器",
+    "translation": "所选武器",
     "context": "机翻辅助：\n\n选择的武器\n\n所选的武器\n\n龙眼屋面"
   },
   {
     "key": "MESPAK01_0013_0046",
     "original": "えらんだぼうぐ",
-    "translation": "可选防具",
+    "translation": "所选防具",
     "context": "机翻辅助：\n\n选择的书\n\n选择的工具\n\n拖曳工具"
   },
   {
     "key": "MESPAK01_0013_0047",
     "original": "えらんだのうりょく",
-    "translation": "可选能力",
+    "translation": "所选能力",
     "context": "机翻辅助：\n\n选择的能力\n\n所选择的能力\n\n拖曳能力"
   },
   {
     "key": "MESPAK01_0013_0048",
     "original": "えらんだアイテム",
-    "translation": "可选物品",
+    "translation": "所选物品",
     "context": "机翻辅助：\n\n选择的道具\n\n选择的项目\n\n优秀的项目"
   },
   {
     "key": "MESPAK01_0013_0049",
     "original": "えらんだファームグッズ",
-    "translation": "可选农场道具",
+    "translation": "所选农场道具",
     "context": "机翻辅助：\n\n选择的周边商品\n\n选择的农场商品\n\n漂亮的农场商品"
   },
   {
     "key": "MESPAK01_0013_0050",
     "original": "えらんだバグプレート",
-    "translation": "可选故障板块",
+    "translation": "所选故障板块",
     "context": "机翻辅助：\n\n选择的BUG板\n\n选择的bug板\n\n龙骨板"
   },
   {
     "key": "MESPAK01_0013_0051",
     "original": "えらんだデジプレート",
-    "translation": "可选数码板块",
+    "translation": "所选数码板块",
     "context": "机翻辅助：\n\n选择的数字板\n\n龙眼数字板\n\n所选的数码牌"
   },
   {
     "key": "MESPAK01_0013_0052",
     "original": "えらんだだいじなもの",
-    "translation": "可选重要物品",
+    "translation": "所选重要物品",
     "context": "机翻辅助：\n\n选择的重要物品\n\n选择的重要的东西\n\n伟大的东西"
   },
   {
@@ -1154,13 +1154,13 @@
   {
     "key": "MESPAK01_0013_0192",
     "original": "このファーム島で　くらしている\nデジモンたちです",
-    "translation": "在这座农场岛上生息的\n数码宝贝们。",
+    "translation": "这是在这座农场岛上生活的\n数码宝贝们。",
     "context": "机翻辅助：\n\n在这座方舟岛上生活的\n数码宝贝们\n\n在这个农场岛上生活的\n数码宝贝。\n\n是在这个农场岛生活的数码宝贝们"
   },
   {
     "key": "MESPAK01_0013_0193",
     "original": "このファーム島に　セットした\nファームグッズのいちらんです",
-    "translation": "设置在这座农场岛上的\n农场道具一览。",
+    "translation": "这是设置在这座农场岛上的\n农场道具一览。",
     "context": "机翻辅助：\n\n设置在这座方舟岛上的\n方舟周边商品\n\n这是在这个农场岛设置的\n农场商品\n\n这是我在这个农场岛上的农场用品。"
   },
   {
@@ -1178,7 +1178,7 @@
   {
     "key": "MESPAK01_0013_0196",
     "original": "このファーム島で　１日にえられる\nけいけんちの　ごうけいりょうです",
-    "translation": "在这座农场岛上一天可以获得\n经验值的合计量。",
+    "translation": "这是在这座农场岛上一天可以获得的\n经验值的合计量。",
     "context": "机翻辅助：\n\n在这座方舟岛上一天可以获得\n经验值的公式\n\n在这个农场岛上一天能得到的\n经验地的总和。\n\n这是在这个农场岛一天能得到的"
   },
   {

@@ -50,7 +50,7 @@
   {
     "key": "MESPAK01_0008_0008",
     "original": "いいえ　もどりません",
-    "translation": "否，不回去。",
+    "translation": "不，不回去。",
     "context": "机翻辅助：\n\n不要回去\n\n不，不\n\n不，我不回去。"
   },
   {
@@ -140,7 +140,7 @@
   {
     "key": "MESPAK01_0008_0023",
     "original": "いいえ　おこないません",
-    "translation": "否，不要进行。",
+    "translation": "不，不要进行。",
     "context": "机翻辅助：\n\n不要执行\n\n不，我不做。\n\n不，不"
   },
   {
@@ -158,7 +158,7 @@
   {
     "key": "MESPAK01_0008_0026",
     "original": "いいえ　よくありません",
-    "translation": "否，不可以。",
+    "translation": "不，不可以。",
     "context": "机翻辅助：\n\n不行不可以\n\n不，不好\n\n不，不好。"
   },
   {
@@ -248,7 +248,7 @@
   {
     "key": "MESPAK01_0008_0041",
     "original": "いいえ　進化させません",
-    "translation": "否，不进化。",
+    "translation": "不，不进化。",
     "context": "机翻辅助：\n\n不要不进化\n\n不，我不会让它进化\n\n不，我们不会让它进化。"
   },
   {
@@ -266,7 +266,7 @@
   {
     "key": "MESPAK01_0008_0044",
     "original": "いいえ　退化させません",
-    "translation": "否，不退化。",
+    "translation": "不，不退化。",
     "context": "机翻辅助：\n\n不要不退化\n\n不，我们不会让它退化\n\n不，我们不会让它退化。"
   },
   {
@@ -284,7 +284,7 @@
   {
     "key": "MESPAK01_0008_0047",
     "original": "いいえ　よくありません",
-    "translation": "否，不可以。",
+    "translation": "不，不可以。",
     "context": "机翻辅助：\n\n不行不可以\n\n不，不好。\n\n不，不好"
   },
   {
@@ -302,7 +302,7 @@
   {
     "key": "MESPAK01_0008_0050",
     "original": "いいえ　よくありません",
-    "translation": "否，不可以。",
+    "translation": "不，不可以。",
     "context": "机翻辅助：\n\n不行不可以\n\n不，不好。\n\n不，不好"
   },
   {
@@ -374,7 +374,7 @@
   {
     "key": "MESPAK01_0008_0062",
     "original": "いいえ　おこないません",
-    "translation": "否，不进行。",
+    "translation": "不，不进行。",
     "context": "机翻辅助：\n\n不要执行\n\n不，我不做。\n\n不，不"
   },
   {
@@ -392,7 +392,7 @@
   {
     "key": "MESPAK01_0008_0065",
     "original": "いいえ　よくありません",
-    "translation": "否，不可以。",
+    "translation": "不，不可以。",
     "context": "机翻辅助：\n\n不行不可以\n\n不，不好。\n\n不，不好"
   },
   {

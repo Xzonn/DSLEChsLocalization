@@ -2,7 +2,7 @@
   {
     "key": "MESPAK01_0004_0000",
     "original": "^0は\nみをかためている！",
-    "translation": "^0\n身体变硬了！",
+    "translation": "^0\n做好了防御的准备！",
     "context": "机翻辅助：\n\n^0\n在发抖！\n\n^0\n身体僵硬！\n\n^0的眼睛变硬了！"
   },
   {
@@ -20,7 +20,7 @@
   {
     "key": "MESPAK01_0004_0003",
     "original": "^0は\nわけがわからない！",
-    "translation": "^0\n莫名其妙！",
+    "translation": "^0\n不明所以！",
     "context": "机翻辅助：\n\n^0\n在搞不懂！\n\n^0\n莫名其妙！"
   },
   {
@@ -104,13 +104,13 @@
   {
     "key": "MESPAK01_0004_0017",
     "original": "^0は\nしびれてうごけない！",
-    "translation": "^0\n麻痹了动不了！",
+    "translation": "^0\n因为麻痹动不了！",
     "context": "机翻辅助：\n\n^0\n麻痹了动不了！\n\n^0\n麻木不动！\n\n^0\n麻木得动不了！"
   },
   {
     "key": "MESPAK01_0004_0018",
     "original": "^0は\nいうことをきかない！",
-    "translation": "^0\n不听人说话！",
+    "translation": "^0\n不听从指挥！",
     "context": "机翻辅助：\n\n^0\n不听人说话！\n\n^0\n不听话！"
   },
   {
@@ -188,7 +188,7 @@
   {
     "key": "MESPAK01_0004_0031",
     "original": "いいえ　いれかえません",
-    "translation": "否，不替换。",
+    "translation": "不，不替换。",
     "context": "机翻辅助：\n\n不要不重置\n\n不，换不了\n\n不，不，不"
   },
   {
@@ -206,7 +206,7 @@
   {
     "key": "MESPAK01_0004_0034",
     "original": "いいえ　しゅうりょうしません",
-    "translation": "否，不结束。",
+    "translation": "不，不结束。",
     "context": "机翻辅助：\n\n不我不会辞职\n\n不结束\n\n不，没有结束。"
   },
   {

@@ -26,7 +26,7 @@
   {
     "key": "MESPAK03_0009_0004",
     "original": "いいえ　やすみません！",
-    "translation": "否，还不需要休息！",
+    "translation": "不，还不需要休息！",
     "context": "机翻辅助：\n\n不不用谢！\n\n不，对不起！\n\n不，不休息！"
   },
   {
@@ -56,7 +56,7 @@
   {
     "key": "MESPAK03_0009_0009",
     "original": "いいえ　やすみません！",
-    "translation": "否，还不需要休息！",
+    "translation": "不，还不需要休息！",
     "context": "机翻辅助：\n\n不不用谢！\n\n不，不休息！\n\n不，对不起！"
   },
   {
@@ -86,7 +86,7 @@
   {
     "key": "MESPAK03_0009_0014",
     "original": "いいえ　かいふくしません！",
-    "translation": "否，不恢复！",
+    "translation": "不，不恢复！",
     "context": "机翻辅助：\n\n不不恢复！\n\n不回复！\n\n不，不恢复！"
   },
   {
@@ -140,7 +140,7 @@
   {
     "key": "MESPAK03_0009_0023",
     "original": "いいえ　かいふくしません！",
-    "translation": "否，不恢复！",
+    "translation": "不，不恢复！",
     "context": "机翻辅助：\n\n不不恢复！\n\n不回复！\n\n不，不恢复！"
   },
   {
@@ -194,7 +194,7 @@
   {
     "key": "MESPAK03_0009_0032",
     "original": "いいえ　かいふくしません！",
-    "translation": "否，不恢复！",
+    "translation": "不，不恢复！",
     "context": "机翻辅助：\n\n不不恢复！\n\n不回复！\n\n不，不恢复！"
   },
   {
@@ -248,7 +248,7 @@
   {
     "key": "MESPAK03_0009_0041",
     "original": "いいえ　かいふくしません！",
-    "translation": "否，不恢复！",
+    "translation": "不，不恢复！",
     "context": "机翻辅助：\n\n不不恢复！\n\n不回复！\n\n不，不恢复！"
   },
   {
@@ -464,7 +464,7 @@
   {
     "key": "MESPAK03_0009_0077",
     "original": "いいえ　けっこうです！",
-    "translation": "否，不用了！",
+    "translation": "不，不用了！",
     "context": "机翻辅助：\n\n不不用了！\n\n不，不用了！\n\n不用了！"
   },
   {
@@ -824,7 +824,7 @@
   {
     "key": "MESPAK03_0009_0137",
     "original": "いいえ　スイッチを　いれません",
-    "translation": "否，不启动。",
+    "translation": "不，不启动。",
     "context": "机翻辅助：\n\n不是不要打开开关\n\n不，不打开开关\n\n不，我不开开关。"
   },
   {
@@ -860,7 +860,7 @@
   {
     "key": "MESPAK03_0009_0143",
     "original": "いいえ　おしえません",
-    "translation": "否，不告诉他。",
+    "translation": "不，不告诉他。",
     "context": "机翻辅助：\n\n不是不告诉你\n\n不，我不告诉你\n\n不，我不能告诉你"
   },
   {
@@ -992,7 +992,7 @@
   {
     "key": "MESPAK03_0009_0165",
     "original": "いいえ　はいりません",
-    "translation": "否，不进入。",
+    "translation": "不，不进入。",
     "context": "机翻辅助：\n\n不要我不进去\n\n不需要\n\n不，不需要"
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "key": "MESPAK03_0009_0168",
     "original": "いいえ　はいりません",
-    "translation": "否，不进入。",
+    "translation": "不，不进入。",
     "context": "机翻辅助：\n\n不要我不进去\n\n不需要\n\n不，不需要"
   },
   {
@@ -1028,7 +1028,7 @@
   {
     "key": "MESPAK03_0009_0171",
     "original": "いいえ　はいりません",
-    "translation": "否，不进入。",
+    "translation": "不，不进入。",
     "context": "机翻辅助：\n\n不要我不进去\n\n不，不需要\n\n不需要"
   },
   {
@@ -1046,7 +1046,7 @@
   {
     "key": "MESPAK03_0009_0174",
     "original": "いいえ　はいりません",
-    "translation": "否，不进入。",
+    "translation": "不，不进入。",
     "context": "机翻辅助：\n\n不要我不进去\n\n不，不需要\n\n不需要"
   },
   {
@@ -1064,7 +1064,7 @@
   {
     "key": "MESPAK03_0009_0177",
     "original": "いいえ　おこないません",
-    "translation": "否，不进行连接。",
+    "translation": "不，不进行连接。",
     "context": "机翻辅助：\n\n不要执行\n\n不，我不做。\n\n不，不"
   },
   {
