@@ -116,7 +116,7 @@
   {
     "key": "MESPAK01_0003_0019",
     "original": "アクセスひょうが",
-    "translation": "访问冰川",
+    "translation": "存取冰川",
     "context": "机翻辅助：\n\n连接速度\n\n存取表\n\n访问评价"
   },
   {
@@ -416,13 +416,13 @@
   {
     "key": "MESPAK01_0003_0069",
     "original": "アクセスポートＳ",
-    "translation": "访问港口南",
+    "translation": "存取港口南",
     "context": "机翻辅助：\n\n存取端口N\n\n访问端口S\n\n接入端口S"
   },
   {
     "key": "MESPAK01_0003_0070",
     "original": "アクセスポートＮ",
-    "translation": "访问港口北",
+    "translation": "存取港口北",
     "context": "机翻辅助：\n\n存取端口S\n\n接入端口N\n\n访问端口N"
   },
   {
@@ -452,7 +452,7 @@
   {
     "key": "MESPAK01_0003_0075",
     "original": "セントラルポート",
-    "translation": "中央港口",
+    "translation": "中心港口",
     "context": "机翻辅助：\n\n中央端口\n\n中央港口"
   },
   {
