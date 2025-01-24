@@ -54,6 +54,8 @@ with open(f"{DIR_TEMP_DECOMPRESSED}/arm9.bin", "rb") as reader:
       for y in range(nscr.height // 8):
         for x in range(nscr.width // 8):
           entry = nscr.get_entry(x, y)
+          if nscr_index == 59 and entry.tile == 3:
+            continue
           palette = Image.new("P", (16, 16))
           palette.putpalette(colors[entry.pal * 48 : entry.pal * 48 + 48] * 16)
           tile_image = image.crop((x * 8, y * 8, x * 8 + 8, y * 8 + 8)).quantize(palette=palette)
