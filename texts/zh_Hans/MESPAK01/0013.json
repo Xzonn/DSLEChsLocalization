@@ -38,7 +38,7 @@
   {
     "key": "MESPAK01_0013_0006",
     "original": "クエスト達成率",
-    "translation": "任务达成率",
+    "translation": "任务完成率",
     "context": "机翻辅助：\n\n任务达成率\n\n任务完成率"
   },
   {
@@ -50,7 +50,7 @@
   {
     "key": "MESPAK01_0013_0008",
     "original": "デジモンコンプリート率",
-    "translation": "数码宝贝完成率",
+    "translation": "数码宝贝收集率",
     "context": "机翻辅助：\n\n数码宝贝数量\n\n数码复制率\n\n数码宝贝完成率"
   },
   {
@@ -92,7 +92,7 @@
   {
     "key": "MESPAK01_0013_0015",
     "original": "せんとうからにげた回数",
-    "translation": "从战斗中逃跑次数",
+    "translation": "从战斗中逃跑的次数",
     "context": "机翻辅助：\n\n从战斗中逃跑次数\n\n从尖头倒退的次数\n\n从前线逃跑的次数"
   },
   {
@@ -122,7 +122,7 @@
   {
     "key": "MESPAK01_0013_0020",
     "original": "さいだいレベル",
-    "translation": "最大等级",
+    "translation": "最高等级",
     "context": "机翻辅助：\n\n最大等级"
   },
   {
@@ -266,55 +266,55 @@
   {
     "key": "MESPAK01_0013_0044",
     "original": "えらんだワザ",
-    "translation": "所选技能",
+    "translation": "可选技能",
     "context": "机翻辅助：\n\n选择的技能\n\n凌乱的圈套\n\n选择的技巧"
   },
   {
     "key": "MESPAK01_0013_0045",
     "original": "えらんだぶき",
-    "translation": "所选武器",
+    "translation": "可选武器",
     "context": "机翻辅助：\n\n选择的武器\n\n所选的武器\n\n龙眼屋面"
   },
   {
     "key": "MESPAK01_0013_0046",
     "original": "えらんだぼうぐ",
-    "translation": "所选防具",
+    "translation": "可选防具",
     "context": "机翻辅助：\n\n选择的书\n\n选择的工具\n\n拖曳工具"
   },
   {
     "key": "MESPAK01_0013_0047",
     "original": "えらんだのうりょく",
-    "translation": "所选能力",
+    "translation": "可选能力",
     "context": "机翻辅助：\n\n选择的能力\n\n所选择的能力\n\n拖曳能力"
   },
   {
     "key": "MESPAK01_0013_0048",
     "original": "えらんだアイテム",
-    "translation": "所选物品",
+    "translation": "可选物品",
     "context": "机翻辅助：\n\n选择的道具\n\n选择的项目\n\n优秀的项目"
   },
   {
     "key": "MESPAK01_0013_0049",
     "original": "えらんだファームグッズ",
-    "translation": "所选农场道具",
+    "translation": "可选农场道具",
     "context": "机翻辅助：\n\n选择的周边商品\n\n选择的农场商品\n\n漂亮的农场商品"
   },
   {
     "key": "MESPAK01_0013_0050",
     "original": "えらんだバグプレート",
-    "translation": "所选故障板块",
+    "translation": "可选故障板块",
     "context": "机翻辅助：\n\n选择的BUG板\n\n选择的bug板\n\n龙骨板"
   },
   {
     "key": "MESPAK01_0013_0051",
     "original": "えらんだデジプレート",
-    "translation": "所选数码板块",
+    "translation": "可选数码板块",
     "context": "机翻辅助：\n\n选择的数字板\n\n龙眼数字板\n\n所选的数码牌"
   },
   {
     "key": "MESPAK01_0013_0052",
     "original": "えらんだだいじなもの",
-    "translation": "所选重要物品",
+    "translation": "可选重要物品",
     "context": "机翻辅助：\n\n选择的重要物品\n\n选择的重要的东西\n\n伟大的东西"
   },
   {
@@ -416,7 +416,7 @@
   {
     "key": "MESPAK01_0013_0069",
     "original": "さいこうてんすう",
-    "translation": "最高点数",
+    "translation": "最高分数",
     "context": "机翻辅助：\n\n最高等级\n\n最高点数\n\n最高分数"
   },
   {
@@ -440,7 +440,7 @@
   {
     "key": "MESPAK01_0013_0073",
     "original": "そのデジモンの　デジプレートは\nまだ　かんせい　していません",
-    "translation": "这个数码宝贝的数码板块尚未完成。",
+    "translation": "这只数码宝贝的\n数码板块尚未完成。",
     "context": "机翻辅助：\n\n这只数码宝贝的数字板尚未完成\n\n\n那个数码宝贝的数码板还没有完成。\n\n\n那个数码宝贝的数码板还没有调整"
   },
   {
@@ -452,7 +452,7 @@
   {
     "key": "MESPAK01_0013_0075",
     "original": "^0てん",
-    "translation": "^0点",
+    "translation": "^0分",
     "context": "机翻辅助：\n\n^0天\n\n^0\n\n^0点"
   },
   {
@@ -494,7 +494,7 @@
   {
     "key": "MESPAK01_0013_0082",
     "original": "つくったかず",
-    "translation": "制造数量",
+    "translation": "生产数量",
     "context": "机翻辅助：\n\n制造数量\n\n制图\n\n制作的数量"
   },
   {
