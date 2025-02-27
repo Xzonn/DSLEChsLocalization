@@ -848,13 +848,13 @@
   {
     "key": "MESPAK01_0013_0141",
     "original": "ぶきを　こうかんする",
-    "translation": "交换武器",
+    "translation": "更换武器",
     "context": "机翻辅助：\n\n我来帮你拔罐。\n\n交换武器\n\n改装武器"
   },
   {
     "key": "MESPAK01_0013_0142",
     "original": "ぼうぐを　こうかんする",
-    "translation": "交换防具",
+    "translation": "更换防具",
     "context": "机翻辅助：\n\n我来帮您补课\n\n更换武器\n\n交换工具"
   },
   {
