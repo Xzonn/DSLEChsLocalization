@@ -60,37 +60,15 @@ def compile_arm9_patch(
     if file_name.startswith("repl_"):
       os.remove(f"{root}/{file_name}")
 
-  with open(f"{arm9_path}/arm9.bin", "rb") as reader:
+  symbols = []
+
+  input_path = f"{arm9_path}/arm9.bin"
+  if os.path.exists(f"{arm9_output_path}/arm9.bin"):
+    input_path = f"{arm9_output_path}/arm9.bin"
+  with open(input_path, "rb") as reader:
     arm9 = reader.read()
 
-  symbols = []
-  for folder in os.listdir(f"{root}/src"):
-    if not os.path.isdir(f"{root}/src/{folder}"):
-      continue
-
-    address = int(folder, 16)
-    p = subprocess.run(
-      [
-        "make",
-        f"TARGET=repl_{address:07X}",
-        f"SOURCES=src/{folder}",
-        f"CODEADDR=0x{address:07X}",
-      ],
-      cwd=root,
-    )
-    if p.returncode != 0:
-      raise Exception(f"Failed to compile {folder}")
-
-    with open(f"{root}/repl_{address:07X}.bin", "rb") as reader:
-      patch = reader.read()
-
-    arm9 = arm9[: address - 0x2000000] + patch + arm9[address - 0x2000000 + len(patch) :]
-
-    with open(f"{root}/repl_{address:07X}.sym", "r", -1, "utf8") as reader:
-      symbols_text = reader.read()
-
-    for result in SYMBOL_PATTERN.finditer(symbols_text):
-      symbols.append((result.group("name"), int(result.group("address"), 16)))
+  arm9 = compile_helper(root, "src", arm9, symbols)
 
   os.makedirs(arm9_output_path, exist_ok=True)
   with open(f"{arm9_output_path}/arm9.bin", "wb") as writer:
