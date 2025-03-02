@@ -2,7 +2,7 @@
   {
     "key": "MESPAK01_0002_0000",
     "original": "アイテムをかう",
-    "translation": "购买物品",
+    "translation": "　购买物品　",
     "context": "机翻辅助：\n\n购买道具\n\n购买物品"
   },
   {
@@ -26,7 +26,7 @@
   {
     "key": "MESPAK01_0002_0004",
     "original": "アイテムをうる",
-    "translation": "卖出物品",
+    "translation": "　卖出物品　",
     "context": "机翻辅助：\n\n道具栏里\n\n出售物品\n\n得到物品"
   },
   {
@@ -446,13 +446,13 @@
   {
     "key": "MESPAK01_0002_0074",
     "original": "ファーム島をかう",
-    "translation": "　　购买农场岛　",
+    "translation": "　购买农场岛　",
     "context": "机翻辅助：\n\n航越法尔姆岛\n\n购买农场岛\n\n访问农场岛"
   },
   {
     "key": "MESPAK01_0002_0075",
     "original": "ファーム島をかいぞうする",
-    "translation": "　　　　改造农场岛　　　",
+    "translation": "　　　改造农场岛　　　",
     "context": "机翻辅助：\n\n建造法姆岛\n\n改造农场岛\n\n建造农场岛"
   },
   {
