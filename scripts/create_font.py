@@ -154,11 +154,11 @@ FONT_CONFIG: dict[int, dict] = {
   },
   3: {
     "handle": expand_font_3,
-    "font": "files/fonts/Zfull-GB.ttf",
-    "size": 9,
+    "font": "files/fonts/GuanZhi.ttf",
+    "size": 8,
     "draw": draw_char_3,
-    "width": 10,
-    "length": 9,
+    "width":8,
+    "length": 8,
   },
   4: {
     "handle": convert_font_4,
