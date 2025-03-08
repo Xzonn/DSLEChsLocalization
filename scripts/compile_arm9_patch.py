@@ -14,6 +14,7 @@ from helper import (
 
 SYMBOL_PATTERN = re.compile(r"^(?P<address>[0-9a-f]{8}) .+\.text\t[0-9a-f]{8} (?P<name>[^\.].+)$", re.MULTILINE)
 
+
 def compile_helper(
   root: str, folder_name: str, binary: bytes, symbols: list[tuple[str, int]], ram_offset: int = 0x2000000
 ) -> bytes:
@@ -46,6 +47,7 @@ def compile_helper(
       symbols.append((result.group("name"), int(result.group("address"), 16)))
 
   return binary
+
 
 def compile_arm9_patch(
   root: str,

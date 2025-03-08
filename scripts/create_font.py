@@ -157,7 +157,7 @@ FONT_CONFIG: dict[int, dict] = {
     "font": "files/fonts/GuanZhi.ttf",
     "size": 8,
     "draw": draw_char_3,
-    "width":8,
+    "width": 8,
     "length": 8,
   },
   4: {

@@ -77,7 +77,7 @@ for i in range(SPR_COUNT):
           tile = oam_image.crop((x, y, x + 8, y + 8))
           new_image.paste(tile, (0, Y))
           Y += 8
-    
+
     changed = True
 
   if changed:
