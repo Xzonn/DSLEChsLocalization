@@ -49,7 +49,7 @@ def convert_messages_to_json(input_root: str, json_root: str, language: str):
         continue
 
       file_path = os.path.relpath(f"{root}/{file_name}", input_root)
-      output_path = f"{json_root}/{language}/{file_path.removesuffix(".bin")}.json"
+      output_path = f"{json_root}/{language}/{file_path.removesuffix('.bin')}.json"
       sheet_name = file_path.removesuffix(".bin").replace("\\", "/")
 
       with open(f"{input_root}/{file_path}", "rb") as reader:
