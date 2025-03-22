@@ -180,7 +180,7 @@ FONT_CONFIG: dict[int, dict] = {
     "width": 12,
   },
   7: {
-    "font": "files/fonts/HYZongYiTiJF.ttf",
+    "font": "files/fonts/HYLingXinSquare85W.ttf",
     "size": 15,
     "draw": draw_char_7,
     "width": 16,

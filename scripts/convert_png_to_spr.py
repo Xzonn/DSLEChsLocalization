@@ -56,6 +56,8 @@ for i in range(SPR_COUNT):
 
     oams: list[OAM] = cell.oam
     for k, oam in enumerate(oams):
+      if i == 79 and k in {0, 1}:
+        continue
       oam_width, oam_height = oam.get_size()
       x_offset = (oam.x + 0x100) % 0x200
       y_offset = (oam.y + 0x80) % 0x100
