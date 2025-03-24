@@ -25,6 +25,7 @@ python scripts\convert_png_to_bg.py
 python scripts\convert_png_to_spr.py
 
 Copy-Item -Path "files\images\SPR_NCGR\" -Destination "temp\import\data\" -Recurse -Force
+Copy-Item -Path "files\images\SPR_NCER\" -Destination "temp\import\data\" -Recurse -Force
 Copy-Item -Path "files\images\SPR_NCBR\" -Destination "temp\import\data\" -Recurse -Force
 Copy-Item -Path "files\images\BG_NCGR\" -Destination "temp\import\data\" -Recurse -Force
 Copy-Item -Path "files\images\BG_NSCR\" -Destination "temp\import\data\" -Recurse -Force
