@@ -18,15 +18,6 @@ os.makedirs(f"{DIR_TEMP_IMPORT}/{DIR_SPR_NCER}", exist_ok=True)
 os.makedirs(f"{DIR_TEMP_IMPORT}/{DIR_SPR_NCGR}", exist_ok=True)
 
 for i in range(SPR_COUNT):
-  ncer_path = f"{DIR_IMAGES_SPR_FILES}/{i:04d}.ncer"
-  ncgr_path = f"{DIR_IMAGES_SPR_FILES}/{i:04d}.ncgr"
-
-  if os.path.exists(ncer_path):
-    shutil.copy(ncer_path, f"{DIR_TEMP_IMPORT}/{DIR_SPR_NCER}/{i:04d}.bin")
-
-  if os.path.exists(ncgr_path):
-    shutil.copy(ncgr_path, f"{DIR_TEMP_IMPORT}/{DIR_SPR_NCGR}/{i:04d}.bin")
-
   ncgr: NCGR = NCGR.load_from(f"{DIR_UNPACKED_FILES}/data/SPR_NCGR/{i:04d}.bin")
   nclr: NCLR = NCLR.load_from(f"{DIR_UNPACKED_FILES}/data/SPR_NCLR/{i:04d}.bin")
   ncer: NCER = NCER.load_from(f"{DIR_UNPACKED_FILES}/data/SPR_NCER/{i:04d}.bin")
