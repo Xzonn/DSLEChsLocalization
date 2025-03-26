@@ -49,7 +49,7 @@ KANA_PATTERN = re.compile(r"[\u3040-\u309F\u30A0-\u30FF]+")
 
 CHINESE_TO_JAPANESE = {
   "·": "・",
-  "—": "ー",
+  "—": "一",
   " ": "　",
   "+": "＋",
   "-": "－",
