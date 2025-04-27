@@ -1,4 +1,6 @@
-pypinyin>=0.53.0
 ndspy>=4.2.0
+pillow>=11.1.0
+pypinyin>=0.53.0
 pyxdelta>=0.2.0
-bin/ntrgfx-py
+xzonn-mt-tools>=0.1.4
+git+https://github.com/Xzonn/nitrogfx-py.git

@@ -17,7 +17,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 def expand_font_0(old_font: NFTR) -> NFTR:
   old_font.finf.font_width = 12
-  old_font.cglp.depth = 1
+  old_font.cglp.bpp = 1
   old_font.cglp.tile_width = 12
   for tile in old_font.cglp.tiles:
     old_bitmap = tile.get_image()
@@ -27,7 +27,7 @@ def expand_font_0(old_font: NFTR) -> NFTR:
         if old_bitmap.getpixel((x, y)) == 0xAA:
           new_bitmap.putpixel((x, y), 0x00)
     tile.width = 12
-    tile.depth = 1
+    tile.bpp = 1
     tile.raw_bytes = tile.get_bytes(new_bitmap)
 
   return old_font
@@ -47,7 +47,7 @@ def expand_font_3(old_font: NFTR) -> NFTR:
 
 
 def convert_font_4(old_font: NFTR) -> NFTR:
-  old_font.cglp.depth = 1
+  old_font.cglp.bpp = 1
   for tile in old_font.cglp.tiles:
     old_bitmap = tile.get_image()
     new_bitmap = Image.new("L", (12, 16), 0xFF)
@@ -55,7 +55,7 @@ def convert_font_4(old_font: NFTR) -> NFTR:
       for x in range(12):
         if old_bitmap.getpixel((x, y)) == 0xAA:
           new_bitmap.putpixel((x, y), 0x00)
-    tile.depth = 1
+    tile.bpp = 1
     tile.raw_bytes = tile.get_bytes(new_bitmap)
 
   return old_font
@@ -285,7 +285,7 @@ def create_font():
       continue
 
     characters = get_used_characters(f"{DIR_TEXT_FILES}/zh_Hans", font_index)
-    nftr = NFTR(f"{DIR_UNPACKED_FILES}/{DIR_DATA_FONT}/{file_name}")
+    nftr = NFTR.from_file(f"{DIR_UNPACKED_FILES}/{DIR_DATA_FONT}/{file_name}")
     config = FONT_CONFIG[font_index]
 
     handle: Callable[[NFTR], NFTR] = config.get("handle")
@@ -298,7 +298,8 @@ def create_font():
     nftr.finf.default_width = config["width"]
     nftr.finf.default_length = config.get("length", config["width"])
 
-    new_char_map = {}
+    new_char_map: dict[int, int] = {}
+    code: int = 0
     for code in sorted(nftr.char_map.keys()):
       char = nftr.char_map[code]
       if char < 0x889F:
@@ -306,7 +307,8 @@ def create_font():
       else:
         break
 
-    nftr.cwdh.info = nftr.cwdh.info[:code]
+    nftr.cwdhs[0].info = nftr.cwdhs[0].info[:code]
+    nftr.cwdhs[0].last_index = code - 1
     tile = nftr.cglp.tiles[0]
     for shift_jis, chs in char_table.items():
       if not (chs in characters and 0x4E00 <= ord(chs) <= 0x9FFF):
@@ -317,7 +319,7 @@ def create_font():
       bitmap = Image.new("L", (tile.width, tile.height), 0xFF)
       draw = ImageDraw.Draw(bitmap)
       draw_char(bitmap, draw, font, chs)
-      new_tile = CGLPTile(tile.width, tile.height, tile.depth, tile.get_bytes(bitmap))
+      new_tile = CGLPTile(tile.width, tile.height, tile.bpp, tile.get_bytes(bitmap))
       if code < len(nftr.cglp.tiles):
         nftr.cglp.tiles[code] = new_tile
       else:
