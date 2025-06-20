@@ -22,7 +22,7 @@
 
 ## 使用方式
 
-请自行获取游戏日文版 ROM，然后下载修正补丁并解压，按照补丁应用工具“NitroPatcher”的说明进行操作。补丁压缩包中包含了 Microsoft Windows 平台的补丁应用工具，其他平台的工具可通过下方下载地址获取。
+请下载压缩包并解压，按照补丁应用工具“NitroPatcher”的说明进行操作。补丁压缩包中包含了 Microsoft Windows 平台的补丁应用工具，其他平台的工具可通过下方下载地址获取。
 
 日文版 ROM 校验码（[No-Intro](https://datomatic.no-intro.org/index.php?page=show_record&s=28&n=5056)）：
 
@@ -30,7 +30,7 @@
 - MD5：`d994ff42e80827fd4546bb64ffd8d2ea`
 - SHA-1：`f180146f517712c177d6497125a24f35b0d6102f`
 
-修正补丁下载地址：
+补丁压缩包下载地址：
 
 - GitHub：<https://github.com/Xzonn/DSLEChsLocalization/releases/download/v1.0.0/DSLEChsLocalization.v1.0.0.zip>
 - 百度网盘：<https://pan.baidu.com/s/1EcsaAOXJmZmLZlY9aEWdXQ?pwd=dsle>

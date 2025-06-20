@@ -22,10 +22,10 @@ def decompress_lz(input_data: bytes, decompressed_size: int) -> bytes:
         high = input_data[input_pos + 1]
         input_pos += 2
 
-        max_length = (high & 0x0F) + 2
+        max_length = (high & 0x0F) + 3
         start_pos = low | ((high & 0xF0) << 4)
 
-        for i in range(max_length + 1):
+        for i in range(max_length):
           b = temp[(start_pos + i + 0x12) % 0x1000]
           temp[output_pos % 0x1000] = b
           output[output_pos] = b
