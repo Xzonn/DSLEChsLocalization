@@ -61,9 +61,9 @@ for i in range(SPR_COUNT):
       oam_image = cell_image.crop((x_offset, y_offset, x_offset + oam_width, y_offset + oam_height))
       if oam.rot == 0:
         if (oam.rotsca >> 3) & 1:
-          oam_image = oam_image.transpose(Image.FLIP_LEFT_RIGHT)
+          oam_image = oam_image.transpose(Image.Transpose.FLIP_LEFT_RIGHT)
         if (oam.rotsca >> 4) & 1:
-          oam_image = oam_image.transpose(Image.FLIP_TOP_BOTTOM)
+          oam_image = oam_image.transpose(Image.Transpose.FLIP_TOP_BOTTOM)
 
       for y in range(0, oam_height, 8):
         for x in range(0, oam_width, 8):
@@ -74,7 +74,7 @@ for i in range(SPR_COUNT):
     changed = True
 
   if changed:
-    image_converted = new_image.quantize(palette=palette, dither=Image.NONE)
+    image_converted = new_image.quantize(palette=palette, dither=Image.Dither.NONE)
     new_ncgr = img_to_ncgr(image_converted, nclr.is8bpp)
     new_bytes = new_ncgr.pack()
     with open(f"{DIR_TEMP_IMPORT}/{DIR_SPR_NCGR}/{i:04d}.bin", "wb") as writer:

@@ -39,9 +39,9 @@ for i in range(SPR_COUNT):
 
       if oam.rot == 0:
         if (oam.rotsca >> 3) & 1:
-          oam_image = oam_image.transpose(Image.FLIP_LEFT_RIGHT)
+          oam_image = oam_image.transpose(Image.Transpose.FLIP_LEFT_RIGHT)
         if (oam.rotsca >> 4) & 1:
-          oam_image = oam_image.transpose(Image.FLIP_TOP_BOTTOM)
+          oam_image = oam_image.transpose(Image.Transpose.FLIP_TOP_BOTTOM)
       cell_image.paste(oam_image, (x_offset, y_offset))
 
     cell_image.save(f"temp/images/SPR/{i:04d}.ncer_{j}.png")
