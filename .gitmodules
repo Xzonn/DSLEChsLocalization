@@ -1,0 +1,3 @@
+[submodule "bin/ntrgfx-py"]
+	path = bin/ntrgfx-py
+	url = https://github.com/Xzonn/nitrogfx-py
