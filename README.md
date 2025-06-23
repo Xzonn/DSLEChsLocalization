@@ -3,7 +3,7 @@
 
 **遗失进化汉化组** 汉化
 
-- **破解**：Xzonn、卧看微尘、0xfadec
+- **破解**：Xzonn、卧看微尘、未名
 - **翻译**：无敌阿尔宙斯、遠い炎群、朝绯、新月、哒不溜、K40、宇宙パトロール
 - **美工**：翼宿一、小光、楽、奕羽、卧看微尘、Xzonn
 - **测试**：新月、无敌阿尔宙斯、喵提斯、darkwave
@@ -32,7 +32,7 @@
 
 补丁压缩包下载地址：
 
-- GitHub：<https://github.com/Xzonn/DSLEChsLocalization/releases/download/v1.0.0/DSLEChsLocalization.v1.0.0.zip>
+- GitHub：<https://github.com/Xzonn/DSLEChsLocalization/releases/download/v1.0.1/DSLEChsLocalization.v1.0.1.zip>
 - 百度网盘：<https://pan.baidu.com/s/1EcsaAOXJmZmLZlY9aEWdXQ?pwd=dsle>
 
 补丁应用工具下载地址：
